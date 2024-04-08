@@ -16671,7 +16671,13 @@
           "organisedBy": "Reverend Michael Johnson",
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares03.png",
-          "aboutCause": "Join us in a collective effort to build a new church for the St. Mary's Parish community. The current church has served as a spiritual haven for generations, but it is in need of expansion and renovation to accommodate the growing congregation and provide a welcoming space for worship and community activities.The funds raised will be utilized for the construction of the new church building, including materials, labor, and necessary permits. Our goal is to create a sacred space that not only meets the spiritual needs of the community but also serves as a center for various community programs and events."
+          "aboutCause": "Join us in a collective effort to build a new church for the St. Mary's Parish community. The current church has served as a spiritual haven for generations, but it is in need of expansion and renovation to accommodate the growing congregation and provide a welcoming space for worship and community activities.The funds raised will be utilized for the construction of the new church building, including materials, labor, and necessary permits. Our goal is to create a sacred space that not only meets the spiritual needs of the community but also serves as a center for various community programs and events.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Syrian Conflict: How to help",
@@ -16682,7 +16688,13 @@
           "organisedBy": "Daniel",
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares04.png",
-          "aboutCause": "Join us in providing essential aid and support to the victims of the Syrian conflict, a humanitarian crisis that has displaced millions of people. The situation is dire, with families facing displacement, hunger, and a lack of access to basic necessities.The funds raised will be directed towards emergency relief efforts, including providing food, shelter, medical assistance, and education for the affected Syrian refugees. Your contribution will make a tangible difference in alleviating the suffering of those impacted by this crisis."
+          "aboutCause": "Join us in providing essential aid and support to the victims of the Syrian conflict, a humanitarian crisis that has displaced millions of people. The situation is dire, with families facing displacement, hunger, and a lack of access to basic necessities.The funds raised will be directed towards emergency relief efforts, including providing food, shelter, medical assistance, and education for the affected Syrian refugees. Your contribution will make a tangible difference in alleviating the suffering of those impacted by this crisis.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Refugee Crisis in Afghanistan",
@@ -16693,7 +16705,13 @@
           "organisedBy": "Valentina",
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares05.png",
-          "aboutCause": "Join us in providing urgent assistance to the refugees fleeing Afghanistan due to the ongoing conflict and political instability. Thousands of families are in desperate need of food, shelter, and medical aid as they seek safety and refuge in neighboring countries. Your donation will help us provide life-saving support to those affected by this humanitarian crisis."
+          "aboutCause": "Join us in providing urgent assistance to the refugees fleeing Afghanistan due to the ongoing conflict and political instability. Thousands of families are in desperate need of food, shelter, and medical aid as they seek safety and refuge in neighboring countries. Your donation will help us provide life-saving support to those affected by this humanitarian crisis.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Local Artist needs support",
@@ -16704,7 +16722,13 @@
           "raisedfund": 2540,
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares02.png",
-          "aboutCause": "Join us in supporting Daniel, a talented local artist who has been a significant contributor to our art community. Daniel's passion for creating beautiful and meaningful artwork has enriched the lives of those around him. Recently, Daniel has faced unexpected financial challenges, hindering his ability to continue pursuing his art. We believe in the power of community support to help him overcome these obstacles and continue sharing his creativity with the world."
+          "aboutCause": "Join us in supporting Daniel, a talented local artist who has been a significant contributor to our art community. Daniel's passion for creating beautiful and meaningful artwork has enriched the lives of those around him. Recently, Daniel has faced unexpected financial challenges, hindering his ability to continue pursuing his art. We believe in the power of community support to help him overcome these obstacles and continue sharing his creativity with the world.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Support for Wildfire Victims",
@@ -16715,7 +16739,13 @@
           "organisedBy": "Alejandro",
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares06.png",
-          "aboutCause": "Join us in supporting the victims of the devastating wildfires that have ravaged our community. Many families have lost their homes, belongings, and livelihoods due to these catastrophic fires. Your donation will provide much-needed assistance to help these families rebuild their lives and communities."
+          "aboutCause": "Join us in supporting the victims of the devastating wildfires that have ravaged our community. Many families have lost their homes, belongings, and livelihoods due to these catastrophic fires. Your donation will provide much-needed assistance to help these families rebuild their lives and communities.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Flood Relief Efforts in Bangladesh",
@@ -16726,7 +16756,13 @@
           "organisedBy": "Gabriel",
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares01.png",
-          "aboutCause": "Join us in providing relief and support to the victims of the recent floods in Bangladesh, which have caused widespread devastation and displacement. Thousands of families are in urgent need of food, clean water, shelter, and medical assistance.Your donation will help us deliver critical aid to those affected by this natural disaster and assist in their recovery and rebuilding efforts."
+          "aboutCause": "Join us in providing relief and support to the victims of the recent floods in Bangladesh, which have caused widespread devastation and displacement. Thousands of families are in urgent need of food, clean water, shelter, and medical assistance.Your donation will help us deliver critical aid to those affected by this natural disaster and assist in their recovery and rebuilding efforts.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Lisa with Cancer: Aid Needed",
@@ -16737,7 +16773,13 @@
           "raisedfund": 2150,
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares01.png",
-          "aboutCause": "Join us in supporting Lisa, a courageous and beloved cat who has been diagnosed with cancer. Lisa has been a cherished member of her human family for over five years, bringing boundless joy, warmth, and unconditional love into their lives.Her playful antics, gentle purrs, and affectionate nature have touched the heartsof everyone who has had the pleasure of knowing her.Recently, Lisa's family received the heartbreaking news that she has been diagnosed with an aggressive form of cancer. "
+          "aboutCause": "Join us in supporting Lisa, a courageous and beloved cat who has been diagnosed with cancer. Lisa has been a cherished member of her human family for over five years, bringing boundless joy, warmth, and unconditional love into their lives.Her playful antics, gentle purrs, and affectionate nature have touched the heartsof everyone who has had the pleasure of knowing her.Recently, Lisa's family received the heartbreaking news that she has been diagnosed with an aggressive form of cancer. ",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         },
         {
           "conflictName": "Supporting Orphaned Children in Haiti",
@@ -16748,14 +16790,20 @@
           "organisedBy": "Antonio",
           "imgUrl": "/Images/Chart.png",
           "donarImg": "/Images/donares02.png",
-          "aboutCause": "Join us in supporting orphaned and vulnerable children in Haiti who are in need of love, care, and support. The Haiti Orphanage Foundation is dedicated to providing a safe and nurturing environment for these children, ensuring they have access to education, healthcare, and emotional support.Your donation will help us continue our mission of providing hope and opportunity to the children of Haiti."
+          "aboutCause": "Join us in supporting orphaned and vulnerable children in Haiti who are in need of love, care, and support. The Haiti Orphanage Foundation is dedicated to providing a safe and nurturing environment for these children, ensuring they have access to education, healthcare, and emotional support.Your donation will help us continue our mission of providing hope and opportunity to the children of Haiti.",
+          "chartData": {
+            "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+            "yAxisData": [0, 150, 300, 450, 600],
+            "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+            "yAxisInterval": 150
+          }
         }
       ]
     }
   ],
   "amplyfund_charity": [
     {
-      "id": 1,
+      "id": "1",
       "organiserId": 1,
       "media": [
         {
@@ -16878,10 +16926,16 @@
           "comment": "She looks so adorable. Wishing she gets well soon.",
           "likes": 4
         }
-      ]
+      ],
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     },
     {
-      "id": 2,
+      "id": "2",
       "organiserId": 1,
       "media": [
         {
@@ -17004,10 +17058,16 @@
           "comment": "She looks so adorable. Wishing she gets well soon.",
           "likes": 4
         }
-      ]
+      ],
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     },
     {
-      "id": 3,
+      "id": "3",
       "media": [
         {
           "image": "/Images/donateCarousel1.jpeg"
@@ -17130,10 +17190,16 @@
           "likes": 4
         }
       ],
-      "organiserId": 1
+      "organiserId": 1,
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     },
     {
-      "id": 4,
+      "id": "4",
       "media": [
         {
           "image": "/Images/donateCarousel1.jpeg"
@@ -17256,10 +17322,16 @@
           "likes": 4
         }
       ],
-      "organiserId": 1
+      "organiserId": 1,
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     },
     {
-      "id": 5,
+      "id": "5",
       "media": [
         {
           "image": "/Images/donateCarousel1.jpeg"
@@ -17382,10 +17454,16 @@
           "likes": 4
         }
       ],
-      "organiserId": 1
+      "organiserId": 1,
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     },
     {
-      "id": 6,
+      "id": "6",
       "media": [
         {
           "image": "/Images/donateCarousel1.jpeg"
@@ -17508,10 +17586,16 @@
           "likes": 4
         }
       ],
-      "organiserId": 1
+      "organiserId": 1,
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     },
     {
-      "id": 7,
+      "id": "7",
       "media": [
         {
           "image": "/Images/donateCarousel1.jpeg"
@@ -17634,7 +17718,13 @@
           "likes": 4
         }
       ],
-      "organiserId": 1
+      "organiserId": 1,
+      "chartData": {
+        "xAxisData": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "yAxisData": [0, 150, 300, 450, 600],
+        "seriesData": [150, 300, 450, 600, 150, 300, 450, 600, 150, 300],
+        "yAxisInterval": 150
+      }
     }
   ],
   "amplyfund_users": [

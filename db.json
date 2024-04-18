@@ -22376,32 +22376,46 @@
       "country": "USA",
       "phone": "(661) 634-0150",
       "hours": "Mon-Sun, 6:00 AM - 10:00 PM",
+      "comment": 112,
       "latitude": 35.45663,
       "longitude": -119.05043,
       "open": true,
       "timing": "Closes in 2hrs",
-      "ratings": 4.5,
+      "ratings": 2.7,
       "payment_mode": "Cash",
       "products": [
         {
-          "product_name": "Regular",
-          "price": 4.7,
-          "color": "#E70A5F"
+          "product_name": "Diesel",
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "D",
+          "color": "#5495C9"
         },
         {
           "product_name": "Midgrade",
-          "price": 4.9,
+          "cash_price": 4.9,
+          "credit_card_price": 5.0,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
+          "product_name": "Regular",
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90,
+          "color": "#E70A5F"
+        },
+        {
           "product_name": "Premium",
-          "price": 5.1,
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91,
           "color": "#2E57BA"
         }
       ]
     },
     {
-      "name": "Chevron Bakersfield",
+      "name": "Chevron",
       "street": "3360 Panama Ln",
       "city": "Bakersfield",
       "state": "California",
@@ -22409,6 +22423,7 @@
       "zip_code": "93313",
       "country": "USA",
       "phone": "(661) 396-7047",
+      "comment": 112,
       "hours": "Mon-Fri, 5:30 AM - 11:00 PM; Sat-Sun, 7:00 AM - 9:00 PM",
       "latitude": 35.4508,
       "longitude": -119.28481,
@@ -22419,22 +22434,30 @@
       "products": [
         {
           "product_name": "Regular",
-          "price": 5.2,
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 5.4,
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 5.5,
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 91,
           "color": "#2E57BA"
         },
         {
           "product_name": "Diesel",
-          "price": 6.2,
+          "cash_price": 6.2,
+          "credit_card_price": 6.3,
+          "grade": "D",
           "color": "#5495C9"
         }
       ]
@@ -22448,6 +22471,7 @@
       "zip_code": "93301",
       "country": "USA",
       "phone": "(661) 631-1049",
+      "comment": 118,
       "hours": "Mon-Sat, 7:00 AM - 10:00 PM; Sun, 9:00 AM - 8:00 PM",
       "latitude": 35.73886,
       "longitude": -119.79552,
@@ -22458,22 +22482,30 @@
       "products": [
         {
           "product_name": "Regular",
-          "price": 4.4,
+          "cash_price": 4.4,
+          "credit_card_price": 4.5,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 4.7,
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 4.8,
+          "cash_price": 4.8,
+          "credit_card_price": 4.9,
+          "grade": 92,
           "color": "#2E57BA"
         },
         {
           "product_name": "Diesel",
-          "price": 5.4,
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": "D",
           "color": "#5495C9"
         }
       ]
@@ -22487,32 +22519,41 @@
       "zip_code": "93307",
       "country": "USA",
       "phone": "(661) 832-6124",
+      "comment": 102,
       "hours": "Mon-Fri, 6:00 AM - 11:00 PM",
       "latitude": 35.87983,
       "longitude": -118.74893,
       "open": true,
       "timing": "Closes in 2hrs",
-      "ratings": 4.5,
+      "ratings": 2.5,
       "payment_mode": "Cash",
       "products": [
         {
           "product_name": "Midgrade",
-          "price": 4.1,
+          "cash_price": 4.1,
+          "credit_card_price": 4.2,
+          "grade": 87,
           "color": "#5495C9"
         },
         {
           "product_name": "Premium",
-          "price": 4.9,
+          "cash_price": 4.9,
+          "credit_card_price": 5.0,
+          "grade": 93,
           "color": "#8BCAE2"
         },
         {
           "product_name": "Diesel",
-          "price": 3.3,
+          "cash_price": 3.3,
+          "credit_card_price": 3.4,
+          "grade": "D",
           "color": "#ca6eca"
         },
         {
           "product_name": "Regular",
-          "price": 3.6,
+          "cash_price": 3.6,
+          "credit_card_price": 3.7,
+          "grade": 90,
           "color": "#E70A5F"
         }
       ]
@@ -22526,32 +22567,41 @@
       "zip_code": "93304",
       "country": "USA",
       "phone": "(661) 564-8100",
+      "comment": 132,
       "hours": "Mon-Fri, 6:00 AM - 11:00 PM; Sat-Sun, 7:00 AM - 9:00 PM",
       "latitude": 35.1645,
       "longitude": -119.63345,
       "open": false,
       "timing": "Opens in 45mins",
-      "ratings": 4.5,
+      "ratings": 4,
       "payment_mode": "Cash",
       "products": [
         {
           "product_name": "Regular",
-          "price": 5.5,
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 5.3,
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 5.5,
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 91,
           "color": "#2E57BA"
         },
         {
           "product_name": "Diesel",
-          "price": 6.4,
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "D",
           "color": "#5495C9"
         }
       ]
@@ -22565,33 +22615,40 @@
       "zip_code": "93304",
       "country": "USA",
       "phone": "(661) 634-0150",
+      "comment": 118,
       "hours": "Mon-Sun, 7:00 AM - 9:00 PM",
       "latitude": 34.05,
       "longitude": -118.26,
       "open": true,
       "timing": "Closes in 40mins",
-      "ratings": 4.5,
+      "ratings": 3,
       "payment_mode": "Cash",
       "products": [
         {
           "product_name": "Regular",
-          "price": 4.7,
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 4.9,
+          "cash_price": 4.9,
+          "credit_card_price": 5.0,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 5.1,
+          "cash_price": 5.1,
+          "credit_card_price": 5.2,
+          "grade": 91,
           "color": "#2E57BA"
         }
       ]
     },
     {
-      "name": "Chevron Bakersfield",
+      "name": "Chevron",
       "street": "3360 Panama Ln",
       "city": "Bakersfield",
       "state": "California",
@@ -22599,6 +22656,7 @@
       "zip_code": "93313",
       "country": "USA",
       "phone": "(661) 396-7047",
+      "comment": 142,
       "hours": "Mon-Fri, 6:30 AM - 10:30 PM; Sat-Sun, 8:00 AM - 8:00 PM",
       "latitude": 34.065,
       "longitude": -118.275,
@@ -22609,22 +22667,30 @@
       "products": [
         {
           "product_name": "Regular",
-          "price": 5.2,
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 5.4,
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 5.5,
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 91,
           "color": "#2E57BA"
         },
         {
           "product_name": "Diesel",
-          "price": 6.2,
+          "cash_price": 6.2,
+          "credit_card_price": 6.3,
+          "grade": "D",
           "color": "#5495C9"
         }
       ]
@@ -22638,32 +22704,41 @@
       "zip_code": "93301",
       "country": "USA",
       "phone": "(661) 631-1049",
+      "comment": 92,
       "hours": "Mon-Sun, 24 hours",
       "latitude": 34.03,
       "longitude": -118.27,
       "open": true,
       "timing": "Closes in 3hrs",
-      "ratings": 4.5,
+      "ratings": 5,
       "payment_mode": "Cash",
       "products": [
         {
           "product_name": "Regular",
-          "price": 4.4,
+          "cash_price": 4.4,
+          "credit_card_price": 4.5,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 4.7,
+          "cash_price": 4.7,
+          "credit_card_price": 4.8,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 4.8,
+          "cash_price": 4.8,
+          "credit_card_price": 4.9,
+          "grade": 91,
           "color": "#2E57BA"
         },
         {
           "product_name": "Diesel",
-          "price": 5.4,
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": "D",
           "color": "#5495C9"
         }
       ]
@@ -22677,32 +22752,41 @@
       "zip_code": "93307",
       "country": "USA",
       "phone": "(661) 832-6124",
+      "comment": 87,
       "hours": "Mon-Sat, 8:00 AM - 11:00 PM; Sun, 10:00 AM - 7:00 PM",
       "latitude": 34.08,
       "longitude": -118.29,
-      "ratings": 4.5,
+      "ratings": 4,
       "open": true,
       "timing": "closes in 4hrs",
       "payment_mode": "Cash",
       "products": [
         {
           "product_name": "Regular",
-          "price": 3.6,
+          "cash_price": 3.6,
+          "credit_card_price": 3.7,
+          "grade": 90,
           "color": "#E70A5F"
         },
         {
           "product_name": "Diesel",
-          "price": 3.3,
+          "cash_price": 3.3,
+          "credit_card_price": 3.4,
+          "grade": "D",
           "color": "#ca6eca"
         },
         {
           "product_name": "Midgrade",
-          "price": 4.1,
+          "cash_price": 4.1,
+          "credit_card_price": 4.2,
+          "grade": 87,
           "color": "#5495C9"
         },
         {
           "product_name": "Premium",
-          "price": 4.9,
+          "cash_price": 4.9,
+          "credit_card_price": 5.0,
+          "grade": 91,
           "color": "#8BCAE2"
         }
       ]
@@ -22716,32 +22800,40 @@
       "zip_code": "93304",
       "country": "USA",
       "phone": "(661) 564-8100",
+      "comment": 122,
       "hours": "Mon-Fri, 7:00 AM - 10:00 PM; Sat-Sun, 9:00 AM - 8:00 PM",
       "latitude": 34.04,
       "longitude": -118.28,
       "open": false,
       "timing": "Opens in 3hrs",
-      "ratings": 4.5,
+      "ratings": 3.5,
       "payment_mode": "Cash",
       "products": [
         {
           "product_name": "Regular",
-          "price": 5.5,
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
           "color": "#E70A5F"
         },
         {
           "product_name": "Midgrade",
-          "price": 5.3,
+          "cash_price": 5.3,
+          "credit_card_price": 5.4,
+          "grade": 87,
           "color": "#ca6eca"
         },
         {
           "product_name": "Premium",
-          "price": 5.5,
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 91,
           "color": "#2E57BA"
         },
         {
           "product_name": "Diesel",
-          "price": 6.4,
+          "cash_price": 6.4,
+          "credit_card_price": 6.5,
+          "grade": "D",
           "color": "#5495C9"
         }
       ]
@@ -23145,7 +23237,7 @@
       "country": "USA",
       "latitude": 35.385,
       "longitude": -118.965,
-      "earthquake_time": "2024-02-28T12:00:00Z",
+      "earthquake_time": "2024-02-20T12:00:00Z",
       "coordinates": "35.385°N 118.965°W",
       "depth": "Depth(km)-7.2",
       "count": "Count-23,456",
@@ -23161,7 +23253,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-27T10:00:00Z",
+      "earthquake_time": "2024-02-20T10:00:00Z",
       "depth": "Depth(km)-5.1",
       "count": "Count-12,345",
       "magnitude": 4.2
@@ -23176,7 +23268,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-29T11:00:00Z",
+      "earthquake_time": "2024-02-20T11:00:00Z",
       "depth": "Depth(km)-8.9",
       "count": "Count-34,567",
       "magnitude": 6.5
@@ -23191,7 +23283,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-28T11:00:00Z",
+      "earthquake_time": "2024-02-18T11:00:00Z",
       "depth": "Depth(km)-6.4",
       "count": "Count-18,765",
       "magnitude": 3.9
@@ -23206,7 +23298,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-29T14:00:00Z",
+      "earthquake_time": "2024-02-21T14:00:00Z",
       "depth": "Depth(km)-9.2",
       "count": "Count-45,678",
       "magnitude": 7.2
@@ -23221,7 +23313,7 @@
       "country": "USA",
       "latitude": 35.108,
       "longitude": -119.007,
-      "earthquake_time": "2024-02-28T15:00:00Z",
+      "earthquake_time": "2024-02-21T15:00:00Z",
       "depth": "Depth(km)-5.8",
       "count": "Count-21,234",
       "magnitude": 4.7
@@ -23236,7 +23328,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-29T23:00:00Z",
+      "earthquake_time": "2024-02-21T23:00:00Z",
       "depth": "Depth(km)-7.6",
       "count": "Count-32,109",
       "magnitude": 5.1
@@ -23251,7 +23343,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-28T12:00:00Z",
+      "earthquake_time": "2024-02-20T12:00:00Z",
       "depth": "Depth(km)-6.1",
       "count": "Count-28,543",
       "magnitude": 6.8
@@ -23266,7 +23358,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-29T12:00:00Z",
+      "earthquake_time": "2024-02-19T12:00:00Z",
       "depth": "Depth(km)-5.5",
       "count": "Count-14,567",
       "magnitude": 4.4
@@ -23281,7 +23373,7 @@
       "state": "California",
       "state_code": "CA",
       "country": "USA",
-      "earthquake_time": "2024-02-28T12:00:00Z",
+      "earthquake_time": "2024-02-21T12:00:00Z",
       "depth": "Depth(km)-6.9",
       "count": "Count-19,876",
       "magnitude": 5.5

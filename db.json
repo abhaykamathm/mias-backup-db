@@ -16917,7 +16917,7 @@
           "raisedAmount": "$4,504 Raised",
           "donations": "71 Donations",
           "donationway": "Donation of vehicles",
-          "bgImage": "/Images/volunteer.png"
+          "bgImage": "/Images/vehicledonation.png"
         },
         {
           "raisedAmount": "$4,504 Raised",
@@ -16935,7 +16935,7 @@
           "raisedAmount": "$4,504 Raised",
           "donations": "71 Donations",
           "donationway": "Real Estate",
-          "bgImage": "/Images/realEstate.png"
+          "bgImage": "/Images/realestatedonation.jpg"
         }
       ]
     },
@@ -17700,28 +17700,28 @@
       "organiserId": 1,
       "media": [
         {
-          "image": "/Images/donateCarousel1.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqfFPgHQcTiq9ZJ90jgj40iR_dWqlFZEcPg&s"
         },
         {
-          "image": "/Images/donateCarousel2.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4AoeX5L7deNNtxYl8mhrDBeR8W16T6FW4A&s"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAby513uNg4Ec0O0LCf5cVqbHfoO5oTcs2Q&s"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxkHu5uVJ-p0wBHyMd0RowPT9UrRL18Qcpg&s"
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwnxfpXJ1z5xPpFANfNjlzykBx00xqAEsNQ&s"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6K00VbhQCMcOb3ZTNCEagww0M9woGb0f-A&s"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://media.gettyimages.com/id/694017123/photo/caucasian-woman-painting-mural-on-wall.jpg?s=612x612&w=0&k=20&c=CicIl-Gm6RWPt169J_PHUmZdMowJL4tpnRbcAGuEXkc="
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_Eg-DazS0P9UU4luShKo9zS65vH_3uGtcg&s"
         }
       ],
       "title": "Local Artist needs your support",
@@ -17754,7 +17754,7 @@
           "name": "Sophie Anderson",
           "role": "Organiser",
           "message": "We're excited to share that your support has already made a significant impact on Daniel's art journey. We've reached 32% of our fundraising goal in just two weeks! Daniel is grateful for your contributions, and your belief in his talent is driving him to create even more incredible art. Let's continue supporting this local artist and nurturing the artistic spirit within our community.",
-          "image": "/Images/blackcat.png"
+          "image": "https://images.unsplash.com/photo-1625869736621-784a42674da4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9jYWxhcnRpc3QlMjBuZWVkJTIwaGVscHxlbnwwfHwwfHx8MA%3D%3D"
         }
       ],
       "donations": [
@@ -17859,28 +17859,28 @@
       "id": "3",
       "media": [
         {
-          "image": "/Images/donateCarousel1.jpeg"
+          "image": "https://plus.unsplash.com/premium_photo-1677797464101-9ff9bb0ae638?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8QnVpbGRpbmclMjBjaHVyY2h8ZW58MHx8MHx8fDA%3D"
         },
         {
-          "image": "/Images/donateCarousel2.png"
+          "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEJ1aWxkaW5nJTIwY2h1cmNofGVufDB8fDB8fHww"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://images.pexels.com/photos/19742815/pexels-photo-19742815/free-photo-of-colorful-pavement-and-church-in-iceland.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://images.pexels.com/photos/3638731/pexels-photo-3638731.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://images.unsplash.com/photo-1456409977730-84bb5dbf5503?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QnVpbGRpbmclMjBjaHVyY2h8ZW58MHx8MHx8fDA%3D"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://media.istockphoto.com/id/175171172/photo/church-stonemason.webp?b=1&s=170667a&w=0&k=20&c=xMGobzdJiJG85sFRl97fpviHwjqc0itx8HG1gmH2ePA="
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://media.istockphoto.com/id/125557500/photo/white-community-church-against-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=lte7tqDUWF_Igw-TVyrAjoUGowgFmkmu9Tmwgy5xGcQ="
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://image.shutterstock.com/image-photo/repair-reconstruction-old-roof-made-260nw-2087461828.jpg"
         }
       ],
       "title": "Fundraiser for building a church",
@@ -17913,7 +17913,7 @@
           "name": "Reverend Michael Johnson",
           "role": "Organiser",
           "message": "We are deeply grateful for the outpouring of support we've received since launching the church building fundraiser. In just a week, we've reached 24% of our fundraising goal! Your generosity is paving the way for a new chapter in our community's spiritual journey. Together, let's continue building a place of worship that will unite and inspire generations to come.",
-          "image": "/Images/blackcat.png"
+          "image": "https://images.unsplash.com/photo-1450558415837-1f5e21a17709?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8"
         }
       ],
       "donations": [
@@ -18019,28 +18019,28 @@
       "id": "4",
       "media": [
         {
-          "image": "/Images/donateCarousel1.jpeg"
+          "image": "https://images.unsplash.com/photo-1635366285892-d52cb2d73315?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U3lyaWFuJTIwY29uZmxpY3R8ZW58MHx8MHx8fDA%3D"
         },
         {
-          "image": "/Images/donateCarousel2.png"
+          "image": "https://media.istockphoto.com/id/892550496/photo/apocalyptic-sunset.webp?b=1&s=170667a&w=0&k=20&c=L22_-BrpMpsZlf8dBDr8vhHgP5XnBArrwLMICykP6-Y="
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBUHh8UUcFKYybNaMr5QfHB02RtL4esP0fA&s"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8ewonD7UZv6dBh1n5QRgkFfMa5bLmiBxow&s"
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://t3.ftcdn.net/jpg/03/30/52/70/240_F_330527083_uJGvl3DFijQ1EUmVbr4h7QIbIBw5yBZi.jpg"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://image.shutterstock.com/image-photo/middle-east-conflict-conceptual-photo-260nw-463648469.jpg"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAsxVc97q_FS8kDxuzUi0k7JBCuIIqBaibA&s"
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyrObTgUUKUZmh07mKO_lcnriDBxK71tJYA&s"
         }
       ],
       "title": "Syrian Conflict: How to help",
@@ -18072,8 +18072,8 @@
           "date": "15th Feb 2024",
           "name": "Global Aid Initiative",
           "role": "Organiser",
-          "message": "We want to express our heartfelt gratitude for the overwhelming response to the Syrian Conflict relief campaign. In just two weeks, we've achieved 29% of our fundraising goal! Your generosity is making a direct impact on the lives of those affected, providing them with the support and resources they desperately need. Let's continue working together to bring relief and hope to the Syrian people.",
-          "image": "/Images/blackcat.png"
+          "message": "We want to express our heartfelt gratitude for the overwhelming response to the Syrian Conflict relief campaign. In just two weeks, we've achieved 29% of our fundraising goal! Your generosity is making a direct impact on the lives of those affected, providing them with the support and resources they desperately need. Let's continue working together to bring relief and hope to the Syrian people.We want to express our heartfelt gratitude for the overwhelming response to the Syrian Conflict relief campaign. In just two weeks, we've achieved 29% of our fundraising goal! Your generosity is making a direct impact on the lives of those affected, providing them with the support and resources they desperately need. Let's continue working together to bring relief and hope to the Syrian people.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRQ92rOq1fC9-Dd-ylUlgvF8IACJT30JPRng&s"
         }
       ],
       "donations": [
@@ -18179,28 +18179,28 @@
       "id": "5",
       "media": [
         {
-          "image": "/Images/donateCarousel1.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqfFPgHQcTiq9ZJ90jgj40iR_dWqlFZEcPg&s"
         },
         {
-          "image": "/Images/donateCarousel2.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4AoeX5L7deNNtxYl8mhrDBeR8W16T6FW4A&s"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAby513uNg4Ec0O0LCf5cVqbHfoO5oTcs2Q&s"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxkHu5uVJ-p0wBHyMd0RowPT9UrRL18Qcpg&s"
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwnxfpXJ1z5xPpFANfNjlzykBx00xqAEsNQ&s"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6K00VbhQCMcOb3ZTNCEagww0M9woGb0f-A&s"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://media.gettyimages.com/id/694017123/photo/caucasian-woman-painting-mural-on-wall.jpg?s=612x612&w=0&k=20&c=CicIl-Gm6RWPt169J_PHUmZdMowJL4tpnRbcAGuEXkc="
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_Eg-DazS0P9UU4luShKo9zS65vH_3uGtcg&s"
         }
       ],
       "title": "Local Artist needs your support",
@@ -18233,7 +18233,7 @@
           "name": "Sophie Anderson",
           "role": "Organiser",
           "message": "We're excited to share that your support has already made a significant impact on Daniel's art journey. We've reached 32% of our fundraising goal in just two weeks! Daniel is grateful for your contributions, and your belief in his talent is driving him to create even more incredible art. Let's continue supporting this local artist and nurturing the artistic spirit within our community.",
-          "image": "/Images/blackcat.png"
+          "image": "https://images.unsplash.com/photo-1625869736621-784a42674da4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9jYWxhcnRpc3QlMjBuZWVkJTIwaGVscHxlbnwwfHwwfHx8MA%3D%3D"
         }
       ],
       "donations": [
@@ -18339,28 +18339,28 @@
       "id": "6",
       "media": [
         {
-          "image": "/Images/donateCarousel1.jpeg"
+          "image": "https://plus.unsplash.com/premium_photo-1677797464101-9ff9bb0ae638?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8QnVpbGRpbmclMjBjaHVyY2h8ZW58MHx8MHx8fDA%3D"
         },
         {
-          "image": "/Images/donateCarousel2.png"
+          "image": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEJ1aWxkaW5nJTIwY2h1cmNofGVufDB8fDB8fHww"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://images.pexels.com/photos/19742815/pexels-photo-19742815/free-photo-of-colorful-pavement-and-church-in-iceland.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://images.pexels.com/photos/3638731/pexels-photo-3638731.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://images.unsplash.com/photo-1456409977730-84bb5dbf5503?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QnVpbGRpbmclMjBjaHVyY2h8ZW58MHx8MHx8fDA%3D"
         },
         {
-          "image": "/Images/donateCarousel3.png"
+          "image": "https://media.istockphoto.com/id/175171172/photo/church-stonemason.webp?b=1&s=170667a&w=0&k=20&c=xMGobzdJiJG85sFRl97fpviHwjqc0itx8HG1gmH2ePA="
         },
         {
-          "image": "/Images/donateCarousel4.png"
+          "image": "https://media.istockphoto.com/id/125557500/photo/white-community-church-against-blue-sky.webp?b=1&s=170667a&w=0&k=20&c=lte7tqDUWF_Igw-TVyrAjoUGowgFmkmu9Tmwgy5xGcQ="
         },
         {
-          "image": "/Images/donateCarousel5.jpeg"
+          "image": "https://image.shutterstock.com/image-photo/repair-reconstruction-old-roof-made-260nw-2087461828.jpg"
         }
       ],
       "title": "Fundraiser for building a church",
@@ -18393,7 +18393,7 @@
           "name": "Reverend Michael Johnson",
           "role": "Organiser",
           "message": "We are deeply grateful for the outpouring of support we've received since launching the church building fundraiser. In just a week, we've reached 24% of our fundraising goal! Your generosity is paving the way for a new chapter in our community's spiritual journey. Together, let's continue building a place of worship that will unite and inspire generations to come.",
-          "image": "/Images/blackcat.png"
+          "image": "https://images.unsplash.com/photo-1450558415837-1f5e21a17709?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8"
         }
       ],
       "donations": [
@@ -18658,7 +18658,7 @@
   ],
   "amplyfund_users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Frank Willams",
       "level": "Ambassador",
       "joinedOn": "10/20/2023",
@@ -19012,7 +19012,7 @@
       }
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Sophia Turner",
       "level": "Champion",
       "joinedOn": "12/15/2023",
@@ -19363,6 +19363,175 @@
             "cardTier": "Gold"
           }
         ]
+      }
+    }
+  ],
+  "amplyfund_adoption": [
+    {
+      "id": "1",
+      "organiserId": 1,
+      "media": [
+        {
+          "image": "/Images/donateCarousel1.jpeg"
+        },
+        {
+          "image": "/Images/donateCarousel2.png"
+        },
+        {
+          "image": "/Images/donateCarousel3.png"
+        },
+        {
+          "image": "/Images/donateCarousel4.png"
+        },
+        {
+          "image": "/Images/donateCarousel5.jpeg"
+        },
+        {
+          "image": "/Images/donateCarousel3.png"
+        },
+        {
+          "image": "/Images/donateCarousel4.png"
+        },
+        {
+          "image": "/Images/donateCarousel5.jpeg"
+        }
+      ],
+      "title": "Adopt Lisa",
+      "tags": "First diagnosis",
+      "targetfund": 10000,
+      "raisedfund": 4504,
+      "raiserToday": 1000,
+      "viewsToday": 203,
+      "donors": 34,
+      "daysleft": 12,
+      "organisedBy": "Frank Willams",
+      "organisedFor": " Emma",
+      "contactsName": "Derek Jefferson",
+      "contactsMobile": "+1(263) 123-8203",
+      "animalName": "Lisa",
+      "animaldob": "20th January, 2022",
+      "animalGender": "Female",
+      "animalBreed": "American Shorthair",
+      "animalWeight": "3 Kgs",
+      "aboutTheCause": [
+        {
+          "cause": "Join us in supporting Lisa, a courageous and beloved cat who has been diagnosed with cancer. Lisa has been a cherished member of her human family for over five years, bringing boundless joy, warmth, and unconditional love into their lives.\n        Her playful antics, gentle purrs, and affectionate nature have touched the hearts\n        of everyone who has had the pleasure of knowing her.\n        \n        Recently, Lisa's family received the heartbreaking news that she has been diagnosed with an aggressive form of cancer. "
+        },
+        {
+          "cause": "Lisa's family is determined to do everything they can to help Lisa fight this disease and are seeking financial assistance to cover the costs of her treatment. The funds raised will be used to cover the costs of Lisa's surgery, chemotherapy, and other medical expenses."
+        },
+        {
+          "cause": "Please join us in supporting Lisa and her family during this difficult time. Any contribution you can make will be greatly appreciated."
+        },
+        {
+          "cause": "Thank you for your support and generosity."
+        }
+      ],
+      "updates": [
+        {
+          "date": "12th Feb 2024",
+          "name": "Frank Willams",
+          "role": "Organiser",
+          "message": "We are overwhelmed with gratitude for the incredible support we have received since launching Lisa's fundraiser. Thanks to your generosity, we have reached 40% of our fundraising goal in just one week! Your donations have already made a significant impact in ensuring Lisa receives the necessary treatments and care.",
+          "image": "/Images/blackcat.png"
+        }
+      ],
+      "donations": [
+        {
+          "pic": "/Images/donares01.png",
+          "title": "Well Wisher donated",
+          "price": "$30"
+        },
+        {
+          "pic": "/Images/donares02.png",
+          "title": "Well Wisher donated",
+          "price": "$28"
+        },
+        {
+          "pic": "/Images/donares03.png",
+          "title": "Well Wisher donated",
+          "price": "$40"
+        },
+        {
+          "pic": "/Images/donares04.png",
+          "title": "Well Wisher donated",
+          "price": "$40"
+        },
+        {
+          "pic": "/Images/donares05.png",
+          "title": "Well Wisher donated",
+          "price": "$28"
+        },
+        {
+          "pic": "/Images/donares06.png",
+          "title": "Well Wisher donated",
+          "price": "$22"
+        }
+      ],
+      "refunds": [],
+      "comments": [
+        {
+          "pic": "/Images/comments01.png",
+          "name": "Derek Jefferson",
+          "price": "$550",
+          "comment": "She looks so adorable. Wishing she gets well soon.",
+          "likes": 1
+        },
+        {
+          "pic": "/Images/comments02.png",
+          "name": "Derek Jefferson",
+          "price": "$550",
+          "comment": "She looks so adorable. Wishing she gets well soon.",
+          "likes": 0
+        },
+        {
+          "pic": "/Images/comments03.png",
+          "name": "Derek Jefferson",
+          "price": "$550",
+          "comment": "She looks so adorable. Wishing she gets well soon.",
+          "likes": 2
+        },
+        {
+          "pic": "/Images/comments04.png",
+          "name": "Derek Jefferson",
+          "price": "$550",
+          "comment": "She looks so adorable. Wishing she gets well soon.",
+          "likes": 4
+        }
+      ],
+      "chartData": {
+        "xAxisData": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "yAxisData": [
+          0,
+          150,
+          300,
+          450,
+          600
+        ],
+        "seriesData": [
+          150,
+          300,
+          450,
+          600,
+          150,
+          300,
+          450,
+          600,
+          150,
+          300
+        ],
+        "yAxisInterval": 150
       }
     }
   ],

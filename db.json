@@ -514,31 +514,7 @@
               "type": "context"
             },
             {
-              "name": "User is inactive",
-              "type": "context"
-            },
-            {
-              "name": "User is active",
-              "type": "context"
-            },
-            {
-              "name": "User is active",
-              "type": "context"
-            },
-            {
               "name": "User in NYC ",
-              "type": "cohort"
-            },
-            {
-              "name": "User is active",
-              "type": "cohort"
-            },
-            {
-              "name": "User is active",
-              "type": "cohort"
-            },
-            {
-              "name": "User is active",
               "type": "cohort"
             }
           ]

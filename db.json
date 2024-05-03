@@ -22536,474 +22536,422 @@
   ],
   "around_fuelData": [
     {
-      "name": "ARCO",
-      "street": "3125 California Ave",
-      "city": "Bakersfield",
+      "name": "Fastrip",
+      "address": "2200, Niles St Bakersfield, CA-93306",
       "state": "California",
-      "state_code": "CA",
-      "zip_code": "93304",
       "country": "USA",
-      "phone": "(661) 634-0150",
-      "hours": "Mon-Sun, 6:00 AM - 10:00 PM",
-      "comment": 112,
-      "latitude": 35.45663,
-      "longitude": -119.05043,
+      "phone": "(661) 872-6519",
+      "hours": "24",
+      "comment": 10,
+      "latitude": 35.37655,
+      "longitude": -118.96679,
       "open": true,
-      "timing": "Closes in 2hrs",
-      "ratings": 2.7,
+      "timing": "Open 24 hours",
+      "ratings": 4.9,
       "payment_mode": "Cash",
+      "logo_url": "/images/fastripLogo2.jpg",
       "products": [
         {
           "product_name": "Diesel",
           "cash_price": 6.4,
           "credit_card_price": 6.5,
-          "grade": "D",
-          "color": "#5495C9"
+          "grade": "D"
         },
         {
           "product_name": "Midgrade",
           "cash_price": 4.9,
           "credit_card_price": 5.0,
-          "grade": 87,
-          "color": "#ca6eca"
+          "grade": 87
         },
         {
           "product_name": "Regular",
           "cash_price": 4.7,
           "credit_card_price": 4.8,
-          "grade": 90,
-          "color": "#E70A5F"
+          "grade": 90
         },
         {
           "product_name": "Premium",
           "cash_price": 5.1,
           "credit_card_price": 5.2,
-          "grade": 91,
-          "color": "#2E57BA"
+          "grade": 91
         }
       ]
     },
     {
       "name": "Chevron",
-      "street": "3360 Panama Ln",
-      "city": "Bakersfield",
+      "address": "1131 Oak St, Bakersfield, CA-93304",
       "state": "California",
-      "state_code": "CA",
-      "zip_code": "93313",
       "country": "USA",
-      "phone": "(661) 396-7047",
-      "comment": 112,
-      "hours": "Mon-Fri, 5:30 AM - 11:00 PM; Sat-Sun, 7:00 AM - 9:00 PM",
-      "latitude": 35.4508,
-      "longitude": -119.28481,
+      "phone": "+1 661-324-7621",
+      "hours": "24",
+      "comment": 16,
+      "latitude": 35.368191,
+      "longitude": -119.039124,
       "open": true,
-      "timing": "Closes in 2hrs",
-      "ratings": 4.3,
+      "timing": "Open 24 hours",
+      "ratings": 3.2,
       "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/ba20/8129/38f7199c59934f8bd09e2cbe30fa9342?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nf79-uv54XLMrQJm-rQ8T0Uob6pSIzWdN5djwREoBgyLIyYu88hpynmlCm7WGQhlf34upX~RFqsNuWOYcClW7GVSzupTOoPxzLR5K5pur-zoPz7OpMB7cWFMJ0ZpmDy0aiILlwb49zYYqx7Qo1lYq~QX5zcc7uwwASBGtS3FpCWw-npjjEvRt3nF3X69dBRLVzEI4mhfQ1vUE0~Xwgm1z~bP2aXD6-dHjx4xzAcKq6SkZtQAi2PyQtm6bRGRFy6XYU0vr327VcRLtL~741rlXXqGxfgYWsIYAhCMpmeV6CxX6nQX2dE5L3Iz1nRJTrIyDo2jB0BUn96cNFbhbB3b9Q__",
       "products": [
-        {
-          "product_name": "Regular",
-          "cash_price": 5.2,
-          "credit_card_price": 5.3,
-          "grade": 90,
-          "color": "#E70A5F"
-        },
-        {
-          "product_name": "Midgrade",
-          "cash_price": 5.4,
-          "credit_card_price": 5.5,
-          "grade": 87,
-          "color": "#ca6eca"
-        },
-        {
-          "product_name": "Premium",
-          "cash_price": 5.5,
-          "credit_card_price": 5.6,
-          "grade": 91,
-          "color": "#2E57BA"
-        },
         {
           "product_name": "Diesel",
-          "cash_price": 6.2,
-          "credit_card_price": 6.3,
-          "grade": "D",
-          "color": "#5495C9"
-        }
-      ]
-    },
-    {
-      "name": "Mobil",
-      "street": "101 19th St",
-      "city": "Bakersfield",
-      "state": "California",
-      "state_code": "CA",
-      "zip_code": "93301",
-      "country": "USA",
-      "phone": "(661) 631-1049",
-      "comment": 118,
-      "hours": "Mon-Sat, 7:00 AM - 10:00 PM; Sun, 9:00 AM - 8:00 PM",
-      "latitude": 35.73886,
-      "longitude": -119.79552,
-      "ratings": 4.5,
-      "open": false,
-      "timing": "Opens in 50mins",
-      "payment_mode": "Cash",
-      "products": [
-        {
-          "product_name": "Regular",
-          "cash_price": 4.4,
-          "credit_card_price": 4.5,
-          "grade": 90,
-          "color": "#E70A5F"
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": "D"
         },
         {
           "product_name": "Midgrade",
-          "cash_price": 4.7,
-          "credit_card_price": 4.8,
-          "grade": 87,
-          "color": "#ca6eca"
-        },
-        {
-          "product_name": "Premium",
-          "cash_price": 4.8,
-          "credit_card_price": 4.9,
-          "grade": 92,
-          "color": "#2E57BA"
-        },
-        {
-          "product_name": "Diesel",
-          "cash_price": 5.4,
-          "credit_card_price": 5.5,
-          "grade": "D",
-          "color": "#5495C9"
-        }
-      ]
-    },
-    {
-      "name": "Fastrip Gasoline",
-      "street": "White Ln",
-      "city": "Bakersfield",
-      "state": "California",
-      "state_code": "CA",
-      "zip_code": "93307",
-      "country": "USA",
-      "phone": "(661) 832-6124",
-      "comment": 102,
-      "hours": "Mon-Fri, 6:00 AM - 11:00 PM",
-      "latitude": 35.87983,
-      "longitude": -118.74893,
-      "open": true,
-      "timing": "Closes in 2hrs",
-      "ratings": 2.5,
-      "payment_mode": "Cash",
-      "products": [
-        {
-          "product_name": "Midgrade",
-          "cash_price": 4.1,
-          "credit_card_price": 4.2,
-          "grade": 87,
-          "color": "#5495C9"
-        },
-        {
-          "product_name": "Premium",
-          "cash_price": 4.9,
-          "credit_card_price": 5.0,
-          "grade": 93,
-          "color": "#8BCAE2"
-        },
-        {
-          "product_name": "Diesel",
-          "cash_price": 3.3,
-          "credit_card_price": 3.4,
-          "grade": "D",
-          "color": "#ca6eca"
+          "cash_price": 5.7,
+          "credit_card_price": 5.8,
+          "grade": 87
         },
         {
           "product_name": "Regular",
-          "cash_price": 3.6,
-          "credit_card_price": 3.7,
-          "grade": 90,
-          "color": "#E70A5F"
-        }
-      ]
-    },
-    {
-      "name": "Shell",
-      "street": "2600 White Ln",
-      "city": "Bakersfield",
-      "state": "California",
-      "state_code": "CA",
-      "zip_code": "93304",
-      "country": "USA",
-      "phone": "(661) 564-8100",
-      "comment": 132,
-      "hours": "Mon-Fri, 6:00 AM - 11:00 PM; Sat-Sun, 7:00 AM - 9:00 PM",
-      "latitude": 35.1645,
-      "longitude": -119.63345,
-      "open": false,
-      "timing": "Opens in 45mins",
-      "ratings": 4,
-      "payment_mode": "Cash",
-      "products": [
-        {
-          "product_name": "Regular",
-          "cash_price": 5.5,
-          "credit_card_price": 5.6,
-          "grade": 90,
-          "color": "#E70A5F"
-        },
-        {
-          "product_name": "Midgrade",
           "cash_price": 5.3,
           "credit_card_price": 5.4,
-          "grade": 87,
-          "color": "#ca6eca"
+          "grade": 90
         },
         {
           "product_name": "Premium",
-          "cash_price": 5.5,
-          "credit_card_price": 5.6,
-          "grade": 91,
-          "color": "#2E57BA"
-        },
+          "cash_price": 5.9,
+          "credit_card_price": 6.0,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Chevron Bakersfield",
+      "address": "11101 CA-178, Bakersfield, CA 93306",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-366-4886",
+      "hours": "24",
+      "comment": 225,
+      "latitude": 35.39804,
+      "longitude": -118.87999,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.1,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/ba20/8129/38f7199c59934f8bd09e2cbe30fa9342?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Nf79-uv54XLMrQJm-rQ8T0Uob6pSIzWdN5djwREoBgyLIyYu88hpynmlCm7WGQhlf34upX~RFqsNuWOYcClW7GVSzupTOoPxzLR5K5pur-zoPz7OpMB7cWFMJ0ZpmDy0aiILlwb49zYYqx7Qo1lYq~QX5zcc7uwwASBGtS3FpCWw-npjjEvRt3nF3X69dBRLVzEI4mhfQ1vUE0~Xwgm1z~bP2aXD6-dHjx4xzAcKq6SkZtQAi2PyQtm6bRGRFy6XYU0vr327VcRLtL~741rlXXqGxfgYWsIYAhCMpmeV6CxX6nQX2dE5L3Iz1nRJTrIyDo2jB0BUn96cNFbhbB3b9Q__",
+      "products": [
         {
           "product_name": "Diesel",
-          "cash_price": 6.4,
-          "credit_card_price": 6.5,
-          "grade": "D",
-          "color": "#5495C9"
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 6.0,
+          "grade": 91
         }
       ]
     },
     {
       "name": "ARCO",
-      "street": "3125 California Ave",
-      "city": "Bakersfield",
+      "address": "3125 CA Ave, Bakersfield, CA-93304",
       "state": "California",
-      "state_code": "CA",
-      "zip_code": "93304",
       "country": "USA",
-      "phone": "(661) 634-0150",
-      "comment": 118,
-      "hours": "Mon-Sun, 7:00 AM - 9:00 PM",
-      "latitude": 34.05,
-      "longitude": -118.26,
+      "phone": "+1 661-634-0150",
+      "hours": "24",
+      "comment": 359,
+      "latitude": 35.3682,
+      "longitude": -119.0384,
       "open": true,
-      "timing": "Closes in 40mins",
-      "ratings": 3,
+      "timing": "Open 24 hours",
+      "ratings": 4.0,
       "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
       "products": [
         {
-          "product_name": "Regular",
-          "cash_price": 4.7,
-          "credit_card_price": 4.8,
-          "grade": 90,
-          "color": "#E70A5F"
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
         },
         {
           "product_name": "Midgrade",
-          "cash_price": 4.9,
-          "credit_card_price": 5.0,
-          "grade": 87,
-          "color": "#ca6eca"
+          "cash_price": 5.4,
+          "credit_card_price": 5.5,
+          "grade": 87
         },
-        {
-          "product_name": "Premium",
-          "cash_price": 5.1,
-          "credit_card_price": 5.2,
-          "grade": 91,
-          "color": "#2E57BA"
-        }
-      ]
-    },
-    {
-      "name": "Chevron",
-      "street": "3360 Panama Ln",
-      "city": "Bakersfield",
-      "state": "California",
-      "state_code": "CA",
-      "zip_code": "93313",
-      "country": "USA",
-      "phone": "(661) 396-7047",
-      "comment": 142,
-      "hours": "Mon-Fri, 6:30 AM - 10:30 PM; Sat-Sun, 8:00 AM - 8:00 PM",
-      "latitude": 34.065,
-      "longitude": -118.275,
-      "open": false,
-      "timing": "Opens in 1hr",
-      "ratings": 4.5,
-      "payment_mode": "Cash",
-      "products": [
         {
           "product_name": "Regular",
           "cash_price": 5.2,
           "credit_card_price": 5.3,
-          "grade": 90,
-          "color": "#E70A5F"
+          "grade": 90
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "ARCO",
+      "address": "6450 White Ln, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-398-0393",
+      "hours": "24",
+      "comment": 162,
+      "latitude": 35.32811,
+      "longitude": -119.07588,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 4.1,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
         },
         {
           "product_name": "Midgrade",
           "cash_price": 5.4,
           "credit_card_price": 5.5,
-          "grade": 87,
-          "color": "#ca6eca"
+          "grade": 87
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
         },
         {
           "product_name": "Premium",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "ARCO",
+      "address": " 3220 Ming, Bakersfield, CA-93304",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-398-0303",
+      "hours": "24",
+      "comment": 203,
+      "latitude": 35.34377,
+      "longitude": -119.03726,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.9,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.0,
+          "credit_card_price": 5.1,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
           "cash_price": 5.5,
           "credit_card_price": 5.6,
-          "grade": 91,
-          "color": "#2E57BA"
+          "grade": 87
         },
         {
-          "product_name": "Diesel",
-          "cash_price": 6.2,
-          "credit_card_price": 6.3,
-          "grade": "D",
-          "color": "#5495C9"
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
         }
       ]
     },
     {
-      "name": "Mobil",
-      "street": "101 19th St",
-      "city": "Bakersfield",
+      "name": "ARCO",
+      "address": "4203 Ming, Bakersfield, CA-93309",
       "state": "California",
-      "state_code": "CA",
-      "zip_code": "93301",
       "country": "USA",
-      "phone": "(661) 631-1049",
-      "comment": 92,
-      "hours": "Mon-Sun, 24 hours",
-      "latitude": 34.03,
-      "longitude": -118.27,
+      "phone": "+1 661-831-7309",
+      "hours": "24",
+      "comment": 166,
+      "latitude": 35.34292,
+      "longitude": -119.04978,
       "open": true,
-      "timing": "Closes in 3hrs",
-      "ratings": 5,
+      "timing": "Open 24 hours",
+      "ratings": 4.0,
       "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/14d5/4bae/5f7ce056df6ed741866e25cc0e2cba21?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BXehxRChYwgS2tVrt6YlDAr~sCtE1I8pzEWaVoI1UAq6RdpBxP-epZtLTWnj8k7p2fx2CQIWMBEkhSugmxVHAM-k9OibYc7Hzl5jTUlG6yh99gp48k77TSRmbHR6THiCz6UyhmBXUpDq-~LCNnHHB1XFqg5IWWuAljjmIs1SDsDlYczRAMpgKIjQ8ywYrqT1wkEI03oU5Qa8cf7pMpyhaw~Oy661lJNrNlaChy24axxTwd1Atl6eRfGtlNHjn6lQidPfWyNggxfS47YUMey-jNh~eODRFt7sd5bJPB02lPflWxvWOGGgCbscgXmYmk54lqnFjC178a77zcshBhx1hA__",
       "products": [
         {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
           "product_name": "Regular",
-          "cash_price": 4.4,
-          "credit_card_price": 4.5,
-          "grade": 90,
-          "color": "#E70A5F"
+          "cash_price": 5.2,
+          "credit_card_price": 5.3,
+          "grade": 90
         },
         {
           "product_name": "Midgrade",
-          "cash_price": 4.7,
-          "credit_card_price": 4.8,
-          "grade": 87,
-          "color": "#ca6eca"
+          "cash_price": 5.5,
+          "credit_card_price": 5.6,
+          "grade": 87
         },
         {
           "product_name": "Premium",
-          "cash_price": 4.8,
-          "credit_card_price": 4.9,
-          "grade": 91,
-          "color": "#2E57BA"
-        },
-        {
-          "product_name": "Diesel",
-          "cash_price": 5.4,
-          "credit_card_price": 5.5,
-          "grade": "D",
-          "color": "#5495C9"
-        }
-      ]
-    },
-    {
-      "name": "Fastrip Gasoline",
-      "street": "White Ln",
-      "city": "Bakersfield",
-      "state": "California",
-      "state_code": "CA",
-      "zip_code": "93307",
-      "country": "USA",
-      "phone": "(661) 832-6124",
-      "comment": 87,
-      "hours": "Mon-Sat, 8:00 AM - 11:00 PM; Sun, 10:00 AM - 7:00 PM",
-      "latitude": 34.08,
-      "longitude": -118.29,
-      "ratings": 4,
-      "open": true,
-      "timing": "closes in 4hrs",
-      "payment_mode": "Cash",
-      "products": [
-        {
-          "product_name": "Regular",
-          "cash_price": 3.6,
-          "credit_card_price": 3.7,
-          "grade": 90,
-          "color": "#E70A5F"
-        },
-        {
-          "product_name": "Diesel",
-          "cash_price": 3.3,
-          "credit_card_price": 3.4,
-          "grade": "D",
-          "color": "#ca6eca"
-        },
-        {
-          "product_name": "Midgrade",
-          "cash_price": 4.1,
-          "credit_card_price": 4.2,
-          "grade": 87,
-          "color": "#5495C9"
-        },
-        {
-          "product_name": "Premium",
-          "cash_price": 4.9,
-          "credit_card_price": 5.0,
-          "grade": 91,
-          "color": "#8BCAE2"
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
         }
       ]
     },
     {
       "name": "Shell",
-      "street": "2600 White Ln",
-      "city": "Bakersfield",
+      "address": "4815 Panama Ln, Bakersfield, CA-93313",
       "state": "California",
-      "state_code": "CA",
-      "zip_code": "93304",
       "country": "USA",
-      "phone": "(661) 564-8100",
-      "comment": 122,
-      "hours": "Mon-Fri, 7:00 AM - 10:00 PM; Sat-Sun, 9:00 AM - 8:00 PM",
-      "latitude": 34.04,
-      "longitude": -118.28,
-      "open": false,
-      "timing": "Opens in 3hrs",
-      "ratings": 3.5,
+      "phone": "+1 661-412-4956",
+      "hours": "24",
+      "comment": 77,
+      "latitude": 35.29973,
+      "longitude": -119.05551,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.8,
       "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/f598/eeb1/60152c7ebd3213dd2cdd1735f6f1b4fb?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KznblPLl0hR81Qh-gl3D7aZKOTGJDRcAUbPi4W6d7vZPX9cBppXjJaopXSxnswjIpuHOcsqoXFR7J89rRR3WahAjZit-MLzvdyBakaDftXdUxU9UAipKJ4sRiBhXGQ0P2E9bcd0g4ZggxzDbfJIghNOHN-iwyD6wkH4sYoKHbQ7BBallUjvsYSkoORv6l3K4VFOn0NTvXDp-RAJu~fV~6nDi7ZP3nGd5hmCM-huFEsvSfuPx9JivBRZ4XNJMcovnuxONmwEz0Mxp0CWw2hErUzlUxOAA4hsGcilaNhPcUmLNiA4wMivmBm5E2xktFygs9xN~TIaCOOMSMmfff6C0-w__",
       "products": [
         {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
           "product_name": "Regular",
-          "cash_price": 5.5,
-          "credit_card_price": 5.6,
-          "color": "#E70A5F"
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
         },
         {
           "product_name": "Midgrade",
-          "cash_price": 5.3,
-          "credit_card_price": 5.4,
-          "grade": 87,
-          "color": "#ca6eca"
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
         },
         {
           "product_name": "Premium",
-          "cash_price": 5.5,
-          "credit_card_price": 5.6,
-          "grade": 91,
-          "color": "#2E57BA"
-        },
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Shell",
+      "address": "4050 Gosford, Bakersfield, CA-93309",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-833-4002",
+      "hours": "24",
+      "comment": 23,
+      "latitude": 35.3223,
+      "longitude": -119.09199,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.1,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/f598/eeb1/60152c7ebd3213dd2cdd1735f6f1b4fb?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KznblPLl0hR81Qh-gl3D7aZKOTGJDRcAUbPi4W6d7vZPX9cBppXjJaopXSxnswjIpuHOcsqoXFR7J89rRR3WahAjZit-MLzvdyBakaDftXdUxU9UAipKJ4sRiBhXGQ0P2E9bcd0g4ZggxzDbfJIghNOHN-iwyD6wkH4sYoKHbQ7BBallUjvsYSkoORv6l3K4VFOn0NTvXDp-RAJu~fV~6nDi7ZP3nGd5hmCM-huFEsvSfuPx9JivBRZ4XNJMcovnuxONmwEz0Mxp0CWw2hErUzlUxOAA4hsGcilaNhPcUmLNiA4wMivmBm5E2xktFygs9xN~TIaCOOMSMmfff6C0-w__",
+      "products": [
         {
           "product_name": "Diesel",
-          "cash_price": 6.4,
-          "credit_card_price": 6.5,
-          "grade": "D",
-          "color": "#5495C9"
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
+        }
+      ]
+    },
+    {
+      "name": "Shell",
+      "address": "5300 Olive Dr, Bakersfield, CA-93308",
+      "state": "California",
+      "country": "USA",
+      "phone": "+1 661-399-8889",
+      "hours": "24",
+      "comment": 52,
+      "latitude": 35.41767,
+      "longitude": -119.05983,
+      "open": true,
+      "timing": "Open 24 hours",
+      "ratings": 3.8,
+      "payment_mode": "Cash",
+      "logo_url": "https://s3-alpha-sig.figma.com/img/f598/eeb1/60152c7ebd3213dd2cdd1735f6f1b4fb?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KznblPLl0hR81Qh-gl3D7aZKOTGJDRcAUbPi4W6d7vZPX9cBppXjJaopXSxnswjIpuHOcsqoXFR7J89rRR3WahAjZit-MLzvdyBakaDftXdUxU9UAipKJ4sRiBhXGQ0P2E9bcd0g4ZggxzDbfJIghNOHN-iwyD6wkH4sYoKHbQ7BBallUjvsYSkoORv6l3K4VFOn0NTvXDp-RAJu~fV~6nDi7ZP3nGd5hmCM-huFEsvSfuPx9JivBRZ4XNJMcovnuxONmwEz0Mxp0CWw2hErUzlUxOAA4hsGcilaNhPcUmLNiA4wMivmBm5E2xktFygs9xN~TIaCOOMSMmfff6C0-w__",
+      "products": [
+        {
+          "product_name": "Diesel",
+          "cash_price": 6.3,
+          "credit_card_price": 6.4,
+          "grade": "D"
+        },
+        {
+          "product_name": "Regular",
+          "cash_price": 5.6,
+          "credit_card_price": 5.7,
+          "grade": 90
+        },
+        {
+          "product_name": "Midgrade",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 87
+        },
+        {
+          "product_name": "Premium",
+          "cash_price": 5.8,
+          "credit_card_price": 5.9,
+          "grade": 91
         }
       ]
     }
@@ -25072,16 +25020,20 @@
       "icon_url": "/svgs/CarForSale.svg",
       "title": "Car for sale",
       "price": "$4,000",
-      "model": "2010 Honda Accord",
+      "model": "2010 Mercedes E Class",
       "type": "Sedan",
       "seller": "Best Auto Dealership",
       "phone_number": "(661) 555-1234",
-      "miles_driven": "100k miles driven",
+      "miles_driven": "100K miles",
       "latitude": "35.3528",
       "longitude": "-119.0314",
+      "street": "2317, L St Bakersfield",
       "state": "California",
+      "engine_type": "Gas",
       "state_code": "CA",
-      "zip_code": "93301"
+      "zip_code": "93301",
+      "rating": "3.5",
+      "review": "101"
     },
     {
       "id": "5",

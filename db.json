@@ -432,7 +432,8 @@
           "description": "Send an Welcome Email Engagement to a newly added Member in the group",
           "organiser": "Abhijeet Tehra",
           "tag": "Send an Email Engagement"
-        }, {
+        },
+        {
           "name": "Send an Email Engagement2",
           "type": "Marketing",
           "channels": "{\"email\":true,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":false}",
@@ -19336,6 +19337,7 @@
       "rowType": "live_tv",
       "place_of_origin": "NA",
       "artperiod": "Art Nouveau",
+      "description": "Anne Vallayer-Coster, by universal consensus, was admired by her contemporaries as the finest still-life painter in France since Jean-Siméon Chardin. The art establishment promoted her, and critics – especially early on in her career – lavished her Salon submissions with praise, though never without a misogynistic undercurrent of amazement at a woman who displayed a genius they believed to be reserved only for male artists.",
       "works": "NA",
       "year_of_origin": "",
       "consigner": "",
@@ -19360,7 +19362,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Alabama"
+      "auction_location": "Alabama",
+      "id": 1714722837838
     },
     {
       "name": "A guitar, tambourine, hunting horn, clarinet, oboe, and a drum on a marble-topped table",
@@ -19424,7 +19427,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Alaska"
+      "auction_location": "Alaska",
+      "id": 1714722837838
     },
     {
       "name": "A lace-trimmed hand cloth, a pan dulce and glassware on a stand, all arranged upon a tabletop draped with green damask",
@@ -19484,7 +19488,8 @@
       "artist_image": "/Images/Live/artist4.jpg",
       "auction_end_time": "35",
       "auction_start_time": "35",
-      "auction_location": "Arizona"
+      "auction_location": "Arizona",
+      "id": 1714722837838
     },
     {
       "name": "A cloud study over a Roman town",
@@ -19544,7 +19549,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Arkansas"
+      "auction_location": "Arkansas",
+      "id": 1714722837838
     },
     {
       "name": "Theseus rediscovering his father's sword",
@@ -19603,7 +19609,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "California"
+      "auction_location": "California",
+      "id": 1714722837838
     },
     {
       "name": "View of the Roman Campagna, with Lake Nemi",
@@ -19661,7 +19668,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Colorado"
+      "auction_location": "Colorado",
+      "id": 1714722837838
     },
     {
       "name": "Naples, a view of the Seiano Grotto in Posillipo with the Tomb of Virgil",
@@ -19723,7 +19731,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Connecticut"
+      "auction_location": "Connecticut",
+      "id": 1714722837838
     },
     {
       "name": "The River Aare at Thun, looking towards Lake Thun, with the Niesen and the Bernese Alps beyond",
@@ -19787,7 +19796,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Delaware"
+      "auction_location": "Delaware",
+      "id": 1714722837838
     },
     {
       "name": "Portrait of a Woman, Bust-Length",
@@ -19842,7 +19852,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "District of Columbia"
+      "auction_location": "District of Columbia",
+      "id": 1714722837838
     },
     {
       "name": "A Dutch Ship and Vessel Under Sail in a Moderate Breeze off a High Coast",
@@ -19895,7 +19906,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Florida"
+      "auction_location": "Florida",
+      "id": 1714722837838
     },
     {
       "name": "Summer: The Harvesters",
@@ -19950,7 +19962,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Georgia"
+      "auction_location": "Georgia",
+      "id": 1714722837838
     },
     {
       "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
@@ -20012,7 +20025,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Hawaii"
+      "auction_location": "Hawaii",
+      "id": 1714722837838
     },
     {
       "name": "Perseus turning Phineas and his followers to stone",
@@ -20067,7 +20081,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Idaho"
+      "auction_location": "Idaho",
+      "id": 1714722837838
     },
     {
       "name": "The Holy Family",
@@ -20125,7 +20140,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Illinois"
+      "auction_location": "Illinois",
+      "id": 1714722837838
     },
     {
       "name": "The Madonna and Child with Saints Dominic and Catherine of Siena",
@@ -20177,7 +20193,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Indiana"
+      "auction_location": "Indiana",
+      "id": 1714722837838
     },
     {
       "name": "The Adoration of the Shepherds",
@@ -20232,7 +20249,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Iowa"
+      "auction_location": "Iowa",
+      "id": 1714722837838
     },
     {
       "name": "Ecce Homo",
@@ -20287,7 +20305,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Kansas"
+      "auction_location": "Kansas",
+      "id": 1714722837838
     },
     {
       "name": "A Winter Landscape with Skaters on a Frozen River",
@@ -20339,7 +20358,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Kentucky"
+      "auction_location": "Kentucky",
+      "id": 1714722837838
     },
     {
       "name": "Christ at Supper with Simon the Pharisee",
@@ -20390,7 +20410,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Louisiana"
+      "auction_location": "Louisiana",
+      "id": 1714722837838
     },
     {
       "name": "The Adoration of the Magi",
@@ -20444,7 +20465,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Maine"
+      "auction_location": "Maine",
+      "id": 1714722837838
     },
     {
       "name": "An allegory of Public Faith",
@@ -20501,7 +20523,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Maryland"
+      "auction_location": "Maryland",
+      "id": 1714722837838
     },
     {
       "name": "The Infant Saint John the Baptist with the Lamb",
@@ -20557,7 +20580,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Massachusetts"
+      "auction_location": "Massachusetts",
+      "id": 1714722837838
     },
     {
       "name": "The Blind Hurdy-Gurdy Player",
@@ -20609,7 +20633,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Michigan"
+      "auction_location": "Michigan",
+      "id": 1714722837838
     },
     {
       "name": "A Winter Landscape with Elegant Ice Skaters",
@@ -20664,7 +20689,8 @@
       "artist_image": "",
       "auction_end_time": "15",
       "auction_start_time": "15",
-      "auction_location": "Minnesota"
+      "auction_location": "Minnesota",
+      "id": 1714722837838
     },
     {
       "name": "Fishermen Displaying Their Catch on a Rocky Coast",
@@ -20720,7 +20746,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Mississippi"
+      "auction_location": "Mississippi",
+      "id": 1714722837838
     },
     {
       "name": "Coastal Sunset: A Tranquil Scene",
@@ -20775,7 +20802,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Missouri"
+      "auction_location": "Missouri",
+      "id": 1714722837838
     },
     {
       "name": "An Elegant Lady on Horseback Giving Alms",
@@ -20836,7 +20864,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Montana"
+      "auction_location": "Montana",
+      "id": 1714722837838
     },
     {
       "name": "The Kermesse of Saint George",
@@ -20893,7 +20922,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Nebraska"
+      "auction_location": "Nebraska",
+      "id": 1714722837838
     },
     {
       "name": "Annie Stokes",
@@ -20944,7 +20974,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "Nevada"
+      "auction_location": "Nevada",
+      "id": 1714722837838
     },
     {
       "name": "Jennifer Le",
@@ -20995,7 +21026,8 @@
           "show_info_knobs": false
         }
       ],
-      "auction_location": "New Hampshire"
+      "auction_location": "New Hampshire",
+      "id": 1714722837838
     },
     {
       "name": "Shane",
@@ -21032,7 +21064,8 @@
       "artist_image": "/Images/Artists/Sandro_Botticelli.jpg",
       "auction_end_time": "2023-11-20T18:00:00",
       "auction_start_time": "2023-11-01T09:00:00",
-      "auction_location": "New Jersey"
+      "auction_location": "New Jersey",
+      "id": 1714722837838
     }
   ],
   "museo_filterData": {
@@ -21047,70 +21080,58 @@
       },
       {
         "text": "Tomás Yepes",
-        "img": "/Images/Filter/Artist1.svg"
+        "img": "/Images/Filter/Artist3.svg"
       },
       {
         "text": "Simon Joseph Alexandre Clément Denis",
-        "img": "/Images/Filter/Artist1.svg"
+        "img": "/Images/Filter/Artist4.svg"
       },
       {
         "text": "Thomas Blanchet",
-        "img": "/Images/Filter/Artist2.svg"
+        "img": "/Images/Filter/Artist5.svg"
       },
       {
         "text": "Joseph Mallord William Turner, R.A.",
-        "img": "/Images/Filter/Artist1.svg"
-      },
-      {
-        "text": "Sir Anthony van Dyck",
-        "img": "/Images/Filter/Artist2.svg"
-      },
-      {
-        "text": "Adriaen Cornelisz. van Salm",
-        "img": "/Images/Filter/Artist1.svg"
-      },
-      {
-        "text": "Pieter Brueghel II",
-        "img": "/Images/Filter/Artist2.svg"
-      },
-      {
-        "text": "Jan Dirksz Both",
-        "img": "/Images/Filter/Artist1.svg"
+        "img": "/Images/Filter/Artist6.svg"
       }
     ],
     "artperiod": [
       {
         "text": "Art Nouveau",
-        "img": "/Images/Filter/Art Period.svg"
-      },
-      {
-        "text": "Art Jab",
         "img": "/Images/Filter/Art Period1.svg"
       },
       {
-        "text": "Art bide",
+        "text": "Art Jab",
         "img": "/Images/Filter/Art Period2.svg"
       },
       {
+        "text": "Art bide",
+        "img": "/Images/Filter/Art Period7.svg"
+      },
+      {
         "text": "Athnes",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period4.svg"
+      },
+      {
+        "text": "Art Bhbeide",
+        "img": "/Images/Filter/Art Period5.svg"
       }
     ],
     "collections": [
       {
         "id": "1",
         "text": "Office",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period6.svg"
       },
       {
         "id": "2",
         "text": "Home",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period7.svg"
       },
       {
         "id": "3",
         "text": "Christmas",
-        "img": "/Images/Filter/Art Period2.svg"
+        "img": "/Images/Filter/Art Period8.svg"
       },
       {
         "id": "4",
@@ -21122,29 +21143,29 @@
       {
         "id": "1",
         "text": "21th Century",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period1.svg"
       },
       {
         "id": "2",
         "text": "20th Century",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period2.svg"
       },
       {
         "id": "3",
         "text": "19th Century",
-        "img": "/Images/Filter/Art Period2.svg"
+        "img": "/Images/Filter/Art Period6.svg"
       },
       {
         "id": "4",
         "text": "18th Century",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period4.svg"
       }
     ],
     "origin": [
       {
         "id": "1",
         "text": "Antwerp",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period1.svg"
       },
       {
         "id": "2",
@@ -21154,102 +21175,98 @@
       {
         "id": "3",
         "text": "Spain",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period.svg"
       },
       {
         "id": "4",
         "text": "Utrecht",
-        "img": "/Images/Filter/Art Period2.svg"
+        "img": "/Images/Filter/Art Period4.svg"
       },
       {
         "id": "5",
         "text": "Rome",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period5.svg"
       }
     ],
     "reserve": [
       {
         "id": "1",
         "text": "No reserve",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period1.svg"
       },
       {
         "id": "2",
         "text": "Reserve Met",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period2.svg"
       },
       {
         "id": "3",
         "text": "Reserve Not Met",
-        "img": "/Images/Filter/Art Period2.svg"
+        "img": "/Images/Filter/Art Period5.svg"
       }
     ],
     "estimate_range": [
       {
         "text": "Art Nouveau",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period1.svg"
       },
       {
         "text": "Bonifacio Veronese",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period2.svg"
       },
       {
         "text": "Ecce Homo",
-        "img": "/Images/Filter/Art Period2.svg"
+        "img": "/Images/Filter/Art Period.svg"
       },
       {
         "text": "A Winter Landscape with Skaters on a Frozen River",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period4.svg"
       },
       {
         "text": "Christ at Supper with Simon the Pharisee",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period5.svg"
       },
       {
         "text": "The Adoration of the Magi",
-        "img": "/Images/Filter/Art Period2.svg"
+        "img": "/Images/Filter/Art Period6.svg"
       },
       {
         "text": "An allegory of Public Faith",
-        "img": "/Images/Filter/Art Period.svg"
+        "img": "/Images/Filter/Art Period7.svg"
       },
       {
         "text": "The Infant Saint John the Baptist with the Lamb",
-        "img": "/Images/Filter/Art Period1.svg"
+        "img": "/Images/Filter/Art Period8.svg"
       }
     ],
     "medium": [
       {
-        "text": "Art Nouveau",
-        "img": "/Images/Filter/Art Period.svg"
+        "text": "oil on canvas",
+        "img": "/Images/Filter/medium1.jpeg"
       },
       {
-        "text": "Bonifacio Veronese",
-        "img": "/Images/Filter/Art Period1.svg"
+        "text": "oil on panel",
+        "img": "/Images/Filter/medium2.svg"
       },
       {
-        "text": "Ecce Homo",
-        "img": "/Images/Filter/Art Period2.svg"
+        "text": "oil on canvas, unframed",
+        "img": "/Images/Filter/medium3.svg"
       },
       {
-        "text": "A Winter Landscape with Skaters on a Frozen River",
-        "img": "/Images/Filter/Art Period.svg"
+        "text": "pencil and watercolor on paper",
+        "img": "/Images/Filter/medium4.svg"
       },
       {
-        "text": "Christ at Supper with Simon the Pharisee",
-        "img": "/Images/Filter/Art Period1.svg"
+        "text": "oil on canvas, unlined",
+        "img": "/Images/Filter/medium5.svg"
       },
       {
-        "text": "The Adoration of the Magi",
-        "img": "/Images/Filter/Art Period2.svg"
+        "text": "oil on paper",
+        "img": "/Images/Filter/medium6.jpeg"
       },
       {
-        "text": "An allegory of Public Faith",
-        "img": "/Images/Filter/Art Period.svg"
-      },
-      {
-        "text": "The Infant Saint John the Baptist with the Lamb",
-        "img": "/Images/Filter/Art Period1.svg"
+        "text": "oil on canvas, unlined, on its original stretcher",
+        "img": "/Images/Filter/medium7.jpeg"
       }
     ]
   },
@@ -21262,7 +21279,7 @@
       "estimate_range": "$30k - $100k",
       "date": "12 August 2022",
       "Auction_registration": "1 August",
-      "lot": 24,
+      "lot": 25,
       "status": "live",
       "saleId": "18998",
       "currentBid": "",
@@ -21283,46 +21300,46 @@
       "yourMaxBid": "USD 2700"
     },
     {
-      "name": "Adoration of the Magi | Sandro Botticelli’s Collection",
-      "img_path": "/Images/Home/painting2.webp",
-      "artist": "By Sandro Botticelli",
-      "collection_name": "Sandro Botticelli’s Collection",
-      "estimate_range": "$30k - $100k",
-      "date": "12 August 2022",
-      "Auction_registration": "1 August",
-      "lot": 24,
+      "name": "The River Aare at Thun, looking towards Lake Thun, with the Niesen and the Bernese Alps beyond | Joseph Mallord William Turner, R.A.",
+      "img_path": "/Images/Home/painting11.webp",
+      "artist": "Joseph Mallord William Turner, R.A.",
+      "collection_name": "Joseph Mallord William Turner, R.A.",
+      "estimate_range": "$300k - $500k",
+      "date": "14 August 2022",
+      "Auction_registration": "7 August",
+      "lot": 26,
       "status": "Upcoming - 28 August, 2022",
-      "saleId": "18998",
-      "currentBid": "",
-      "yourMaxBid": ""
+      "saleId": "18657",
+      "currentBid": "USD 2300",
+      "yourMaxBid": "USD 3300"
     }
   ],
   "museo_past_sales": [
     {
-      "name": "Birth of Venus | Sandro Botticelli’s Collection",
-      "img_path": "/Images/Profile/Adoration-Magi-img.png",
-      "artist": "By Sandro Botticelli",
-      "collection_name": "Sandro Botticelli’s Collection",
-      "date": "12 August 2022",
-      "Auction_registration": "1 August",
+      "name": "Portrait of a Woman, Bust-Length | Sir Anthony van Dyck Collection",
+      "img_path": "/Images/Home/painting12.webp",
+      "artist": "Sir Anthony van Dyck",
+      "collection_name": "Sir Anthony van Dyck's Collection",
+      "date": "12 May 2022",
+      "Auction_registration": "1 April",
       "count": 5,
-      "lot": 24,
+      "lot": 11,
       "status": "live",
-      "saleId": 18998,
-      "currentBid": "",
-      "yourMaxBid": ""
+      "saleId": 53156,
+      "currentBid": "USD 5500",
+      "yourMaxBid": "USD 6000"
     },
     {
-      "name": "Adoration of the Magi | Sandro Botticelli’s Collection",
+      "name": "A Dutch Ship and Vessel Under Sail in a Moderate Breeze off a High Coast | Adriaen Cornelisz. van Salm’s Collection",
       "img_path": "/Images/Profile/Adoration-Magi-img.png",
-      "artist": "By Sandro Botticelli",
-      "collection_name": "Sandro Botticelli’s Collection",
-      "date": "12 August 2022",
-      "Auction_registration": "1 August",
+      "artist": "Adriaen Cornelisz. van Salm",
+      "collection_name": "Adriaen Cornelisz. van Salm’s Collection",
+      "date": "1 Dec 2022",
+      "Auction_registration": "8 August",
       "count": 5,
-      "lot": 24,
+      "lot": 20,
       "status": "3 DAYS : 32 HR : 40 MIN",
-      "saleId": 18998,
+      "saleId": 98632,
       "currentBid": "USD 2500",
       "yourMaxBid": "USD 2700"
     },
@@ -21343,6 +21360,7 @@
   ],
   "museo_readyToCheckout": [
     {
+      "id": 1707307000128,
       "name": "Primavera",
       "img_path": "/Images/Home/painting2.webp",
       "artist": "Sandro Botticelli",
@@ -21364,7 +21382,8 @@
       "saleNumber": "#18998",
       "your_bid": "$76M",
       "count": 5,
-      "lot": 24
+      "lot": 24,
+      "id": 1707307000128
     },
     {
       "id": 1707307000128,
@@ -21373,7 +21392,7 @@
       "artist": "Thomas Blanchet",
       "collection_name": "Thomas Blanchet’s Collection",
       "estimate_range": "$100k - $150k",
-      "date": "20 Nov, 2023 at 12:00 pm PT",
+      "date": "02 March, 2023 at 02:00 pm PT",
       "saleNumber": "#18998",
       "your_bid": "$73.5K",
       "count": 1,
@@ -21385,6 +21404,7 @@
       "img_path": "/Images/Home/painting16.webp",
       "artist": "Jan Dirksz Both",
       "estimate_range": "$300k - $500k",
+      "date": "07 Nov, 2023 at 12:00 pm PT",
       "saleNumber": "#18998",
       "your_bid": "$73.5K",
       "count": 5,
@@ -21397,6 +21417,7 @@
       "artist": "Luca Giordano",
       "estimate_range": "$200k - $300k",
       "saleNumber": "#18998",
+      "date": "20 Jan, 2023 at 01:00 pm PT",
       "your_bid": "$74K",
       "count": 3,
       "lot": 6
@@ -21408,6 +21429,7 @@
       "artist": "Giuseppe Assereto",
       "estimate_range": "$20k - $30k",
       "saleNumber": "#18998",
+      "date": "22 June, 2023 at 12:00 pm PT",
       "your_bid": "$73M",
       "count": 27,
       "lot": 16
@@ -21420,7 +21442,7 @@
       "img_path": "/Images/Home/painting1.webp",
       "artist": "Sandro Botticelli",
       "count": 12,
-      "auction_type": "live",
+      "auction_type": "upcoming",
       "lot": 25,
       "timer": {
         "show": false,
@@ -21429,11 +21451,12 @@
     },
     {
       "id": 1707308807903,
-      "name": "A cloud study over a Roman town",
-      "img_path": "/Images/Home/painting7.webp",
-      "artist": "Simon Joseph Alexandre Clément Denis",
+      "name": "Summer: The Harvesters",
+      "img_path": "/Images/Home/painting14.webp",
+      "artist": "Pieter Brueghel II",
       "count": 12,
-      "lot": 1,
+      "auction_type": "upcoming",
+      "lot": 13,
       "timer": {
         "show": false,
         "end_date": "2024-01-17T00:00:00"
@@ -21441,10 +21464,10 @@
     },
     {
       "id": 1707308807999,
-      "name": "A cloud study over a Roman town",
+      "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
       "img_path": "/Images/Home/painting7.webp",
-      "artist": "Simon Joseph Alexandre Clément Denis",
-      "count": 12,
+      "artist": "Jan Dirksz Both",
+      "count": 16,
       "auction_type": "live",
       "lot": 1,
       "timer": {

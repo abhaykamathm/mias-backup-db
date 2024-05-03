@@ -25,6 +25,7 @@
       "number": "09033333333"
     }
   ],
+
   "xpx_voxa": [
     {
       "id": "campaigns",
@@ -176,7 +177,7 @@
       "list": [
         {
           "task_Name": "Complete Report",
-          "title": "Monthly Sales Report",
+          "title": "Create a campaign to welcome new users in XPX",
           "type": "Analysis",
           "assigned_to": "John Doe",
           "due_date": "2024-04-30T23:59:59Z",
@@ -203,7 +204,7 @@
         },
         {
           "task_Name": "Incomplete Report",
-          "title": "Monthly Sales Report 03",
+          "title": "Update the campaign to send Whatsapp engagements",
           "type": "Analysis",
           "assigned_to": "John Doe",
           "due_date": "2024-04-30T23:20:59Z",
@@ -230,7 +231,7 @@
         },
         {
           "task_Name": "Complete data analysis Report",
-          "title": "Monthly Sales Report off off",
+          "title": "Remove the Sms channel",
           "type": "Analysis",
           "assigned_to": "John Doe",
           "due_date": "2024-04-30T23:59:59Z",
@@ -257,7 +258,7 @@
         },
         {
           "task_Name": "Complete gogo Report",
-          "title": "Monthly Sales Report",
+          "title": "Create a campaign to send renewal emails to subscribers",
           "type": "Analysis",
           "assigned_to": "John Doe",
           "due_date": "2024-04-30T23:59:59Z",
@@ -284,7 +285,7 @@
         },
         {
           "task_Name": "Complete Report on oggy and cockroches",
-          "title": "Monthly Sales Report",
+          "title": "Update the campagin to also send sms engagements",
           "type": "Analysis",
           "assigned_to": "John Doe",
           "due_date": "2024-04-30T23:59:59Z",
@@ -311,7 +312,7 @@
         },
         {
           "task_Name": "Complete Report on agatha",
-          "title": "Grand Budapest Hotel",
+          "title": "Update the campagin content",
           "type": "Analysis",
           "assigned_to": "Zero",
           "due_date": "2024-04-30T23:59:59Z",
@@ -338,7 +339,7 @@
         },
         {
           "task_Name": "Complete Report on Captain Gogo",
-          "title": "Captain Gogo",
+          "title": "Send XPX introduction to potential users",
           "type": "Analysis",
           "assigned_to": "John Doe",
           "due_date": "2024-04-30T23:59:59Z",
@@ -365,7 +366,7 @@
         },
         {
           "task_Name": "Complete Report on the electrodynamics of moving bodies",
-          "title": "You are a wave",
+          "title": "Advertise GoFema to London Users",
           "type": "General truth",
           "assigned_to": "Albert Einstine",
           "due_date": "2024-04-30T23:59:59Z",
@@ -392,7 +393,7 @@
         },
         {
           "task_Name": "Complete Report jojo Rabbit",
-          "title": "Scarlet Johanson",
+          "title": "Advertise Aegis to UK users",
           "type": "Analysis",
           "assigned_to": "Jojo",
           "due_date": "2024-04-30T23:59:59Z",
@@ -432,7 +433,8 @@
           "description": "Send an Welcome Email Engagement to a newly added Member in the group",
           "organiser": "Abhijeet Tehra",
           "tag": "Find & Welcome New Contacts"
-        }, {
+        },
+        {
           "name": "Send a subscription renewal email",
           "type": "Marketing",
           "channels": "{\"email\":true,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":false}",
@@ -442,7 +444,8 @@
           "description": "Send a renewal remainder email to a user whose subscription is about to end",
           "organiser": "Mohammad Rumman",
           "tag": "Re-engage Contacts"
-        },{
+        },
+        {
           "name": "Send an Engagement on Facebook Page",
           "type": "Marketing",
           "channels": "{\"email\":false,\"insta\":false,\"facebook\":true,\"twitter\":false,\"sms\":false}",
@@ -452,72 +455,51 @@
           "description": "Send an Welcome Facebook Engagement to a newly added Member in the group",
           "organiser": "Ch Eswar",
           "tag": "Find & Welcome New Contacts"
-      },{
-        "name": "Send an Engagement via sms",
-        "type": "Marketing",
-        "channels": "{\"email\":false,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":true}",
-        "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20},{\"id\":\"307c1bb5-0a27-4cf3-bb8d-2c6a95ef816d\",\"type\":\"custom\",\"position\":{\"x\":373.91837310791016,\"y\":77.05381202697754},\"data\":{\"label\":\"SMS\",\"option\":{\"id\":\"eng_1\",\"text\":\"SMS\",\"channelName\":\"SMS\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"engagement\",\"progress\":0.3}},\"width\":70,\"height\":20}]",
-        "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"307c1bb5-0a27-4cf3-bb8d-2c6a95ef816d\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-307c1bb5-0a27-4cf3-bb8d-2c6a95ef816dcustomTop\"},{\"type\":\"step\",\"source\":\"307c1bb5-0a27-4cf3-bb8d-2c6a95ef816d\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-307c1bb5-0a27-4cf3-bb8d-2c6a95ef816dcustomBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
-       "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-        "description": "Send an Welcome sms Engagement to a newly added Member in the group",
-        "organiser": "Sayonil Maitre",
-        "tag": "Find & Welcome New Contacts"
-    },{
-      "name": "Send a whatsapp Engagement",
-      "type": "Marketing",
-      "channels": "{\"email\":false,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":false}",
-      "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20},{\"id\":\"ff831dc8-352e-4579-af60-b8dfca9a107b\",\"type\":\"custom\",\"position\":{\"x\":378.41837310791016,\"y\":86.05381202697754},\"data\":{\"label\":\"WhatsApp\",\"option\":{\"id\":\"eng_9\",\"text\":\"WhatsApp\",\"channelName\":\"WhatsApp\",\"logo\":\"\",\"position\":[-3,6,3],\"type\":\"engagement\",\"progress\":0.2}},\"width\":70,\"height\":20}]",
-      "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"ff831dc8-352e-4579-af60-b8dfca9a107b\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-ff831dc8-352e-4579-af60-b8dfca9a107bcustomTop\"},{\"type\":\"step\",\"source\":\"ff831dc8-352e-4579-af60-b8dfca9a107b\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-ff831dc8-352e-4579-af60-b8dfca9a107bcustomBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
-     "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-      "description": "Send an Welcome whatsapp Engagement to a newly added Member in the group",
-      "organiser": "Rumman",
-      "tag": "Find & Welcome New Contacts"
-  },{
-    "name": "Find new contacts with Facebook Lead Ads",
-    "type": "Marketing",
-    "channels": "{\"email\":false,\"insta\":false,\"facebook\":true,\"twitter\":false,\"sms\":false}",
-    "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"81bcaad4-b192-453e-9603-ade0a11d65b7\",\"type\":\"custom\",\"position\":{\"x\":366.91837310791016,\"y\":102.55381202697754},\"data\":{\"label\":\"Facebook\",\"option\":{\"id\":\"eng_2\",\"text\":\"Facebook\",\"channelName\":\"FACEBOOK\",\"logo\":\"\",\"position\":[4,0,-1],\"type\":\"engagement\",\"progress\":0.5}},\"width\":70,\"height\":20}]",
-"edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"81bcaad4-b192-453e-9603-ade0a11d65b7\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-81bcaad4-b192-453e-9603-ade0a11d65b7customTop\"},{\"type\":\"step\",\"source\":\"81bcaad4-b192-453e-9603-ade0a11d65b7\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-81bcaad4-b192-453e-9603-ade0a11d65b7customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
-   "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-    "description": "Send an reengage facebook Engagement to a newly added Member in the group",
-    "organiser": "Jatin Singh Chauhan",
-    "tag": "Re-engage Contacts"
-},{
-  "name": "Find new contacts with Instagram Lead Ads",
-  "type": "Marketing",
-  "channels": "{\"email\":false,\"insta\":true,\"facebook\":false,\"twitter\":false,\"sms\":false}",
-  "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2b\",\"type\":\"custom\",\"position\":{\"x\":352.41837310791016,\"y\":93.55381202697754},\"data\":{\"label\":\"Instagram\",\"option\":{\"id\":\"eng_5\",\"text\":\"Instagram\",\"channelName\":\"INSTAGRAM\",\"logo\":\"\",\"position\":[-3,6,3],\"type\":\"engagement\",\"progress\":0.2}},\"width\":70,\"height\":20}]",
-"edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2b\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2bcustomTop\"},{\"type\":\"step\",\"source\":\"c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2b\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2bcustomBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
- "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-  "description": "Send an reengage instagram Engagement to a newly added Member in the group",
-  "organiser": "Abhijeet Tehra",
-  "tag": "Re-engage Contacts"
-},{
-  "name": "Welcome contacts subscribed via your pop-up form",
-  "type": "Marketing",
-  "channels": "{\"email\":false,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":false}",
-  "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"2ca1474b-a652-42c6-b2e5-c31208eb1f00\",\"type\":\"custom\",\"position\":{\"x\":346.91837310791016,\"y\":92.05381202697754},\"data\":{\"label\":\"WhatsApp\",\"option\":{\"id\":\"eng_9\",\"text\":\"WhatsApp\",\"channelName\":\"WhatsApp\",\"logo\":\"\",\"position\":[-3,6,3],\"type\":\"engagement\",\"progress\":0.2}},\"width\":70,\"height\":20}]",
-"edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"2ca1474b-a652-42c6-b2e5-c31208eb1f00\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-2ca1474b-a652-42c6-b2e5-c31208eb1f00customTop\"},{\"type\":\"step\",\"source\":\"2ca1474b-a652-42c6-b2e5-c31208eb1f00\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-2ca1474b-a652-42c6-b2e5-c31208eb1f00customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
- "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-  "description": "Send an reengage whatsapp Engagement to a newly added Member in the group",
-  "organiser": "Rumman",
-  "tag": "Re-engage Contacts"
-} ,{
-  "name": "Welcome new Contacts",
-  "type": "Marketing",
-  "channels": "{\"email\":false,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":true}",
-  "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"5fc60c87-8ed6-4349-b618-8a5b5164f133\",\"type\":\"custom\",\"position\":{\"x\":373.91837310791016,\"y\":101.55381202697754},\"data\":{\"label\":\"SMS\",\"option\":{\"id\":\"eng_1\",\"text\":\"SMS\",\"channelName\":\"SMS\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"engagement\",\"progress\":0.3}},\"width\":70,\"height\":20}]",
-"edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"5fc60c87-8ed6-4349-b618-8a5b5164f133\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-5fc60c87-8ed6-4349-b618-8a5b5164f133customTop\"},{\"type\":\"step\",\"source\":\"5fc60c87-8ed6-4349-b618-8a5b5164f133\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-5fc60c87-8ed6-4349-b618-8a5b5164f133customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
- "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-  "description": "Send an reengage sms Engagement to a newly added Member in the group",
-  "organiser": "Ch Eswar",
-  "tag": "Re-engage Contacts"
-} 
-
-
-
-
-    
+        },
+        {
+          "name": "Send an Engagement via sms",
+          "type": "Marketing",
+          "channels": "{\"email\":false,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":true}",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20},{\"id\":\"307c1bb5-0a27-4cf3-bb8d-2c6a95ef816d\",\"type\":\"custom\",\"position\":{\"x\":373.91837310791016,\"y\":77.05381202697754},\"data\":{\"label\":\"SMS\",\"option\":{\"id\":\"eng_1\",\"text\":\"SMS\",\"channelName\":\"SMS\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"engagement\",\"progress\":0.3}},\"width\":70,\"height\":20}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"307c1bb5-0a27-4cf3-bb8d-2c6a95ef816d\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-307c1bb5-0a27-4cf3-bb8d-2c6a95ef816dcustomTop\"},{\"type\":\"step\",\"source\":\"307c1bb5-0a27-4cf3-bb8d-2c6a95ef816d\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-307c1bb5-0a27-4cf3-bb8d-2c6a95ef816dcustomBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an Welcome sms Engagement to a newly added Member in the group",
+          "organiser": "Sayonil Maitre",
+          "tag": "Find & Welcome New Contacts"
+        },
+        {
+          "name": "Find new contacts with Facebook Lead Ads",
+          "type": "Marketing",
+          "channels": "{\"email\":false,\"insta\":false,\"facebook\":true,\"twitter\":false,\"sms\":false}",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"81bcaad4-b192-453e-9603-ade0a11d65b7\",\"type\":\"custom\",\"position\":{\"x\":366.91837310791016,\"y\":102.55381202697754},\"data\":{\"label\":\"Facebook\",\"option\":{\"id\":\"eng_2\",\"text\":\"Facebook\",\"channelName\":\"FACEBOOK\",\"logo\":\"\",\"position\":[4,0,-1],\"type\":\"engagement\",\"progress\":0.5}},\"width\":70,\"height\":20}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"81bcaad4-b192-453e-9603-ade0a11d65b7\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-81bcaad4-b192-453e-9603-ade0a11d65b7customTop\"},{\"type\":\"step\",\"source\":\"81bcaad4-b192-453e-9603-ade0a11d65b7\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-81bcaad4-b192-453e-9603-ade0a11d65b7customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an reengage facebook Engagement to a newly added Member in the group",
+          "organiser": "Jatin Singh Chauhan",
+          "tag": "Re-engage Contacts"
+        },
+        {
+          "name": "Find new contacts with Instagram Lead Ads",
+          "type": "Marketing",
+          "channels": "{\"email\":false,\"insta\":true,\"facebook\":false,\"twitter\":false,\"sms\":false}",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2b\",\"type\":\"custom\",\"position\":{\"x\":352.41837310791016,\"y\":93.55381202697754},\"data\":{\"label\":\"Instagram\",\"option\":{\"id\":\"eng_5\",\"text\":\"Instagram\",\"channelName\":\"INSTAGRAM\",\"logo\":\"\",\"position\":[-3,6,3],\"type\":\"engagement\",\"progress\":0.2}},\"width\":70,\"height\":20}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2b\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2bcustomTop\"},{\"type\":\"step\",\"source\":\"c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2b\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-c01d4c82-77b3-4b60-8b0a-fe2fc75f4e2bcustomBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an reengage instagram Engagement to a newly added Member in the group",
+          "organiser": "Abhijeet Tehra",
+          "tag": "Re-engage Contacts"
+        },
+        {
+          "name": "Welcome new Contacts",
+          "type": "Marketing",
+          "channels": "{\"email\":false,\"insta\":false,\"facebook\":false,\"twitter\":false,\"sms\":true}",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":71,\"height\":48,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"type\":\"custom\",\"position\":{\"x\":315.91837310791016,\"y\":15.053812026977539},\"data\":{\"label\":\"Group\",\"option\":{\"id\":\"trigger2\",\"text\":\"Group\",\"triggerType\":\"GROUP\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":70,\"height\":20,\"selected\":false,\"dragging\":false},{\"id\":\"5fc60c87-8ed6-4349-b618-8a5b5164f133\",\"type\":\"custom\",\"position\":{\"x\":373.91837310791016,\"y\":101.55381202697754},\"data\":{\"label\":\"SMS\",\"option\":{\"id\":\"eng_1\",\"text\":\"SMS\",\"channelName\":\"SMS\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"engagement\",\"progress\":0.3}},\"width\":70,\"height\":20}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customRight\",\"target\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customRight-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customTop\"},{\"type\":\"step\",\"source\":\"edcafe90-70ec-41e1-bd77-2ccdf71de3b2\",\"sourceHandle\":\"customBottom\",\"target\":\"5fc60c87-8ed6-4349-b618-8a5b5164f133\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-edcafe90-70ec-41e1-bd77-2ccdf71de3b2customBottom-5fc60c87-8ed6-4349-b618-8a5b5164f133customTop\"},{\"type\":\"step\",\"source\":\"5fc60c87-8ed6-4349-b618-8a5b5164f133\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-5fc60c87-8ed6-4349-b618-8a5b5164f133customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an reengage sms Engagement to a newly added Member in the group",
+          "organiser": "Ch Eswar",
+          "tag": "Re-engage Contacts"
+        }
       ]
     },
     {
@@ -29969,7 +29951,7 @@
       }
     ]
   },
- "hearhere_users": [
+  "hearhere_users": [
     {
       "id": "a95c",
       "mobileNumber": "918449180576",
@@ -30602,7 +30584,7 @@
       "event_details_image_2": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D",
       "eventImage_c": "https://images.unsplash.com/photo-1614151135857-34e0468e04b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 5,
-      "age_limit":"21+ only",
+      "age_limit": "21+ only",
       "event_time": "4-5 hours",
       "special_instructions": "Entry with tickets only; No food or drinks allowed inside the venue.",
       "seatAvailable": 150,

@@ -30123,7 +30123,7 @@
       }
     ]
   },
-  "hearhere_users": [
+"hearhere_users": [
     {
       "id": "a95c",
       "mobileNumber": "918449180576",
@@ -30165,7 +30165,10 @@
       "duration": "2",
       "purpose": "Business",
       "numberOfGuests": "1",
-      "category": ["Fashion", "Fine-dine Casino"]
+      "category": [
+        "Fashion",
+        "Fine-dine Casino"
+      ]
     },
     {
       "id": "22c8",
@@ -30175,7 +30178,12 @@
       "duration": "5",
       "purpose": "Team meeting",
       "numberOfGuests": "45",
-      "category": ["Fashion", "Sports", "Cinema", "Art & History"]
+      "category": [
+        "Fashion",
+        "Sports",
+        "Cinema",
+        "Art & History"
+      ]
     },
     {
       "id": "c84e",
@@ -30185,7 +30193,15 @@
       "duration": "4",
       "purpose": "dfs",
       "numberOfGuests": "45",
-      "category": ["Futuristic", "Literature & Writing", "Concerts"]
+      "category": [
+        "Futuristic",
+        "Literature & Writing",
+        "Concerts"
+      ],
+      "favourites": [
+        "51",
+        "50"
+      ]
     },
     {
       "id": "34e3",
@@ -30260,7 +30276,10 @@
           "City": "New York",
           "Type of activity": "Walking Tour",
           "Activity Duration": "2 hours",
-          "Tags": ["Historical", "Cultural"],
+          "Tags": [
+            "Historical",
+            "Cultural"
+          ],
           "Description": "Explore the rich history and culture of New York City with a knowledgeable local guide.",
           "Type_of_activity": {
             "price": "$50 per person",
@@ -30280,7 +30299,10 @@
           "City": "Paris",
           "Type of activity": "Historical Walking Tour",
           "Activity Duration": "3 hours",
-          "Tags": ["Historical", "Cultural"],
+          "Tags": [
+            "Historical",
+            "Cultural"
+          ],
           "Description": "Embark on a journey through Paris' rich history and cultural heritage with an experienced local guide.",
           "Type_of_activity": {
             "price": "€60 per person",
@@ -30300,7 +30322,10 @@
           "City": "Tokyo",
           "Type of activity": "Culinary Tour",
           "Activity Duration": "4 hours",
-          "Tags": ["Culinary", "Local Cuisine"],
+          "Tags": [
+            "Culinary",
+            "Local Cuisine"
+          ],
           "Description": "Indulge in Tokyo's culinary delights as you explore hidden eateries and taste authentic Japanese dishes.",
           "Type_of_activity": {
             "price": "¥8000 per person",
@@ -30320,7 +30345,10 @@
           "City": "Patagonia",
           "Type of activity": "Adventure Hiking Tour",
           "Activity Duration": "Full day",
-          "Tags": ["Adventure", "Nature"],
+          "Tags": [
+            "Adventure",
+            "Nature"
+          ],
           "Description": "Embark on an adrenaline-pumping adventure through Patagonia's stunning landscapes and rugged trails.",
           "Type_of_activity": {
             "price": "$150 per person",
@@ -30341,7 +30369,11 @@
       "language": "English",
       "start_time": "10:00 AM",
       "end_time": "12:00 PM",
-      "days_of_activity": ["Monday", "Wednesday", "Friday"],
+      "days_of_activity": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
       "other": [
         "Monday",
         "Tuesday",
@@ -30359,7 +30391,10 @@
       "Individual_Tourguides": [
         {
           "name": "John William",
-          "languages_known": ["English", "Spanish"],
+          "languages_known": [
+            "English",
+            "Spanish"
+          ],
           "experience": "5 years",
           "price": "$50 per hour",
           "description": "Passionate about showcasing the beauty of New York City to visitors.",
@@ -30376,7 +30411,10 @@
         },
         {
           "name": "Jane Doe",
-          "languages_known": ["English", "French"],
+          "languages_known": [
+            "English",
+            "French"
+          ],
           "experience": "3 years",
           "price": "$60 per hour",
           "description": "A seasoned guide with a passion for sharing the hidden gems of New York City.",
@@ -30393,7 +30431,11 @@
         },
         {
           "name": "Carlos Martinez",
-          "languages_known": ["Spanish", "English", "Catalan"],
+          "languages_known": [
+            "Spanish",
+            "English",
+            "Catalan"
+          ],
           "experience": "5 years",
           "price": "€50 per hour",
           "description": "An experienced guide passionate about showcasing Barcelona's rich cultural heritage and vibrant atmosphere.",
@@ -30410,7 +30452,9 @@
         },
         {
           "name": "Sarah Johnson",
-          "languages_known": ["English"],
+          "languages_known": [
+            "English"
+          ],
           "experience": "7 years",
           "price": "$80 per hour",
           "description": "An expert nature guide specializing in Yellowstone National Park's wildlife, geology, and conservation efforts.",
@@ -30441,7 +30485,10 @@
           "City": "Rome",
           "Type of activity": "Historical Walking Tour",
           "Activity Duration": "3 hours",
-          "Tags": ["Historical", "Cultural"],
+          "Tags": [
+            "Historical",
+            "Cultural"
+          ],
           "Description": "Explore the ancient wonders of Rome with a passionate local guide.",
           "Type_of_activity": {
             "price": "€70 per person",
@@ -30462,7 +30509,11 @@
       "language": "English, Italian",
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
-      "days_of_activity": ["Tuesday", "Thursday", "Saturday"],
+      "days_of_activity": [
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
       "other": [
         "Monday",
         "Tuesday",
@@ -30480,7 +30531,11 @@
       "Individual_Tourguides": [
         {
           "name": "Maria Rossi",
-          "languages_known": ["English", "Italian", "Spanish"],
+          "languages_known": [
+            "English",
+            "Italian",
+            "Spanish"
+          ],
           "experience": "10 years",
           "price": "€70 per hour",
           "description": "Passionate about showcasing Rome's ancient history and cultural heritage.",
@@ -30511,7 +30566,10 @@
           "City": "Nairobi",
           "Type of activity": "Safari Tour",
           "Activity Duration": "Full day",
-          "Tags": ["Wildlife", "Nature"],
+          "Tags": [
+            "Wildlife",
+            "Nature"
+          ],
           "Description": "Embark on a thrilling safari adventure through Kenya's national parks and witness incredible wildlife.",
           "Type_of_activity": {
             "price": "$200 per person",
@@ -30532,7 +30590,11 @@
       "language": "English, Swahili",
       "start_time": "6:00 AM",
       "end_time": "5:00 PM",
-      "days_of_activity": ["Monday", "Wednesday", "Friday"],
+      "days_of_activity": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
       "other": [
         "Monday",
         "Tuesday",
@@ -30550,7 +30612,10 @@
       "Individual_Tourguides": [
         {
           "name": "David Mwangi",
-          "languages_known": ["English", "Swahili"],
+          "languages_known": [
+            "English",
+            "Swahili"
+          ],
           "experience": "15 years",
           "price": "$200 per day",
           "description": "Passionate about wildlife conservation and providing unforgettable safari experiences.",
@@ -30629,26 +30694,23 @@
       "address": "1025 S 1st St, Las Vegas, NV",
       "startTime": "11:00 am",
       "endTime": "6:00 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "senior": 39.99,
+        "children": 29.99
+      },
       "eventType": "Fashion show",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-115.1566",
+      "latitude": "36.1699",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1605289355680-75fb41239154?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1554881070-74595ca2b74c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
+      "website": "https://nyfashionweek.com",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "1 hour",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
       "seatAvailable": 300,
-      "images": [
-        "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
-        "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [
         {
           "fullName": "Sagar T Teradal",
@@ -30656,7 +30718,12 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "pay",
-          "selected_seats": ["D7", "D8", "D10", "D12"]
+          "selected_seats": [
+            "D7",
+            "D8",
+            "D10",
+            "D12"
+          ]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -30664,7 +30731,13 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "venmo",
-          "selected_seats": ["F5", "F6", "F7", "F8", "F9"]
+          "selected_seats": [
+            "F5",
+            "F6",
+            "F7",
+            "F8",
+            "F9"
+          ]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -30672,7 +30745,12 @@
           "phoneNumber": "7894561230",
           "email": "sample@gmail.com",
           "paymentMethod": "Pay",
-          "selected_seats": ["C5", "C6", "C7", "C8"]
+          "selected_seats": [
+            "C5",
+            "C6",
+            "C7",
+            "C8"
+          ]
         }
       ],
       "eventCategory": "Fashion",
@@ -30701,7 +30779,11 @@
         "C6",
         "C7",
         "C8"
-      ]
+      ],
+      "event_details_image_1": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822098/photo-1605289355680-75fb41239154_yfluic.jpg",
+      "event_details_image_2": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822148/photo-1554881070-74595ca2b74c_lmq3td.jpg",
+      "event_details_image_3": "https://res.cloudinary.com/do7okptyv/image/upload/v1714816618/i_NY_fashion_week_kf2dcv.jpg",
+      "eventImage_c": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822200/photo-1543728069-a3f97c5a2f32_sssrn1.jpg"
     },
     {
       "id": "2",
@@ -30711,30 +30793,31 @@
       "address": "25 Avenue Montaigne, 75008 Paris, France",
       "startTime": "10:00 am",
       "endTime": "5:00 pm",
-      "ticketPrice": 69.99,
+      "ticketPrice": {
+        "adults": 69.99,
+        "senior": 59.99,
+        "children": 49.99
+      },
       "eventType": "Fashion show",
       "parking": "Available nearby",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "2.3038",
+      "latitude": "48.8658",
       "contact": "33-1-47-23-55-55",
       "website": "https://parisfashionweek.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1572271381288-34c6c39a76ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHBhcmlzJTIwZmFzaGlvbiUyMHdlZWt8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1513171920216-2640b288471b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHVyYmFufGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 6,
       "age_limit": "21+ only",
       "event_time": "3-4 hours",
       "special_instructions": "Dress code: Elegant attire; Cameras allowed; VIP seating available.",
       "seatAvailable": 200,
-      "images": [
-        "/images/i_paris_fashion_week.jpeg",
-        "https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fashion",
-      "location": "New York",
-      "booked_seats": []
+      "location": "Paris",
+      "booked_seats": [],
+      "event_details_image_1": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822261/photo-1572271381288-34c6c39a76ed_uhunsl.jpg",
+      "event_details_image_2": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822311/photo-1513171920216-2640b288471b_suvxin.jpg",
+      "event_details_image_3": "https://www.google.com/imgres?q=paris%20fashion%20week%20logo&imgurl=https%3A%2F%2Fmlhr8pdbk6i8.i.optimole.com%2Fw%3Aauto%2Fh%3Aauto%2Fq%3Amauto%2Ff%3Abest%2Fhttps%3A%2F%2Fab-fabdesigns.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fparis-fashion-week-logo-20131.jpg&imgrefurl=https%3A%2F%2Fab-fabdesigns.com%2Ffashion-month-archives%2Fparis-fashion-week-a-w-2022-is-my-favorite-fashion-of-all%2F&docid=fyPnBGC_6AgRkM&tbnid=Iicl3e2XQ_GonM&vet=12ahUKEwjA_dvs7POFAxXvna8BHVEABMgQM3oECGYQAA..i&w=600&h=353&hcb=2&ved=2ahUKEwjA_dvs7POFAxXvna8BHVEABMgQM3oECGYQAA",
+      "eventImage_c": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822545/photo-1492707892479-7bc8d5a4ee93_iz8vbk.jpg"
     },
     {
       "id": "3",
@@ -30744,30 +30827,31 @@
       "address": "Via Montenapoleone, 20121 Milan, Italy",
       "startTime": "9:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 59.99,
+      "ticketPrice": {
+        "adults": 59.99,
+        "senior": 49.99,
+        "children": 39.99
+      },
       "eventType": "Fashion show",
       "parking": "Limited parking available",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "9.1966",
+      "latitude": "45.4682",
       "contact": "+39 02 76 00 26 56",
       "website": "https://milanfashionweek.it",
-      "event_details_image_1": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1614151135857-34e0468e04b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 5,
       "age_limit": "21+ only",
       "event_time": "4-5 hours",
       "special_instructions": "Entry with tickets only; No food or drinks allowed inside the venue.",
       "seatAvailable": 150,
-      "images": [
-        "/images/i_milan_fashion_week.jpeg",
-        "https://images.unsplash.com/photo-1614151135857-34e0468e04b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fashion",
-      "location": "New York",
-      "booked_seats": []
+      "location": "Milan",
+      "booked_seats": [],
+      "event_details_image_1": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822658/photo-1483985988355-763728e1935b_ouamvp.jpg",
+      "event_details_image_2": "https://res.cloudinary.com/do7okptyv/image/upload/v1714822706/photo-1539109136881-3be0616acf4b_eetvnc.jpg",
+      "event_details_image_3": "https://www.google.com/imgres?q=milan%20fashion%20week%20logo&imgurl=http%3A%2F%2Fp-guards.ch%2Fwp-content%2Fuploads%2F2014%2F09%2Flogo-della-milano-fashion-week-su-pinterest-300x188.jpg&imgrefurl=https%3A%2F%2Fp-guards.ch%2Ffashion-week-milan-2014%2F&docid=6g_LomWLa6AuhM&tbnid=CJ6ChI1PJRAjRM&vet=12ahUKEwj96u_X9POFAxWZRWwGHVEQD7AQM3oECEoQAA..i&w=300&h=188&hcb=2&ved=2ahUKEwj96u_X9POFAxWZRWwGHVEQD7AQM3oECEoQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1614151135857-34e0468e04b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww"
     },
     {
       "id": "4",
@@ -30777,30 +30861,31 @@
       "address": "180 The Strand, London WC2R 1EA, United Kingdom",
       "startTime": "12:00 pm",
       "endTime": "7:00 pm",
-      "ticketPrice": 79.99,
+      "ticketPrice": {
+        "adults": 79.99,
+        "senior": 69.99,
+        "children": 59.99
+      },
       "eventType": "Fashion show",
       "parking": "Parking available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-0.1237",
+      "latitude": "51.5113",
       "contact": "+44 20 7759 1000",
       "website": "https://londonfashionweek.co.uk",
-      "event_details_image_1": "https://images.unsplash.com/photo-1542469840569-2d807b8ba726?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fExvbmRvbiUyMEZhc2hpb24lMjBXZWVrfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1596725668413-d91baf68d9ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fExvbmRvbiUyMEZhc2hpb24lMjBXZWVrfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1485518882345-15568b007407?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "5-6 hours",
       "special_instructions": "Please arrive early for registration; Dress code: Fashionable attire.",
       "seatAvailable": 250,
-      "images": [
-        "/images/i_london_fashion_week.jpeg",
-        "https://images.unsplash.com/photo-1485518882345-15568b007407?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fashion",
-      "location": "New York",
-      "booked_seats": []
+      "location": "London",
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1542469840569-2d807b8ba726?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fExvbmRvbiUyMEZhc2hpb24lMjBXZWVrfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1596725668413-d91baf68d9ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fExvbmRvbiUyMEZhc2hpb24lMjBXZWVrfGVufDB8fDB8fHww",
+      "event_details_image_3":"https://www.google.com/imgres?q=london%20fashion%20week%20logo&imgurl=https%3A%2F%2Fimages.ctfassets.net%2Fi9jrgclxtfi0%2F10cd24fb-7887-4eb7-a48c-5407d02f9129%2Fa0f036125e3d6192fc8f9e61bd7fca07%2FimportedImage10cd24fb-7887-4eb7-a48c-5407d02f9129&imgrefurl=https%3A%2F%2Fwww.itv.com%2Florraine%2Farticles%2Fmark-heyes-london-fashion-week&docid=4E3qre-ftZRR6M&tbnid=JFz0Py3hCMb0RM&vet=12ahUKEwjM5KXg7vOFAxU-QPUHHedDA8MQM3oECCsQAA..i&w=2502&h=1407&hcb=2&ved=2ahUKEwjM5KXg7vOFAxU-QPUHHedDA8MQM3oECCsQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1485518882345-15568b007407?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww"
     },
     {
       "id": "5",
@@ -30810,30 +30895,31 @@
       "address": "123 S Las Vegas Blvd, Las Vegas, NV",
       "startTime": "9:00 pm",
       "endTime": "11:00 pm",
-      "ticketPrice": 39.99,
+      "ticketPrice": {
+        "adults": 39.99,
+        "senior": 29.99,
+        "children": 19.99
+      },
       "eventType": "Comedy show",
       "parking": "Parking available at the venue",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-115.1485",
+      "latitude": "36.1699",
       "contact": "1-888-555-6789",
       "website": "www.lacomedyclub.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1683117851221-7326a05d51f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fENvbWVkeSUyMENsdWIlMjBOaWdodHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1573676047757-905630d8e3ab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fENvbWVkeSUyMENsdWIlMjBOaWdodHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "2 hours",
       "special_instructions": "No heckling during the show; Food and drinks available for purchase.",
       "seatAvailable": 200,
-      "images": [
-        "/images/i_LA_Comedy_Club.jpg",
-        "https://images.unsplash.com/photo-1574802406791-ef6898f311d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y29tZWR5JTIwc2hvd3xlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Comedy",
-      "location": "New York",
-      "booked_seats": []
+      "location": "Las Vegas",
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1683117851221-7326a05d51f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fENvbWVkeSUyMENsdWIlMjBOaWdodHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1573676047757-905630d8e3ab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fENvbWVkeSUyMENsdWIlMjBOaWdodHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.paris.fr%2Fpages%2Fou-rire-a-paris-6-lieux-florissants-de-la-scene-stand-up-21150&psig=AOvVaw07DR63vj8uyy7J1AGFmfnJ&ust=1714907848162000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMij4ejv84UDFQAAAAAdAAAAABAE",
+      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "6",
@@ -30843,30 +30929,31 @@
       "address": "789 George St, Sydney NSW, Australia",
       "startTime": "8:30 pm",
       "endTime": "10:30 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "senior": 39.99,
+        "children": 29.99
+      },
       "eventType": "Comedy show",
       "parking": "Parking available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "151.2086",
+      "latitude": "-33.8696",
       "contact": "+61 2 9876 5432",
       "website": "www.sydneycomedyfestival.com.au",
-      "event_details_image_1": "https://images.unsplash.com/photo-1660248771425-76ee4182c257?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEhpdCUyMHNob3dzfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1705883064081-2912134e88ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29tZWRpYW58ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 7,
       "age_limit": "18+ only",
       "event_time": "2 hours",
       "special_instructions": "No photography or video recording during the show.",
       "seatAvailable": 220,
-      "images": [
-        "/images/i_Sydney_Comedy_Festival.jpg",
-        "https://plus.unsplash.com/premium_photo-1661423947331-2dc119b83cd5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y29tZWR5JTIwc2hvd3xlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Comedy",
-      "location": "New York",
-      "booked_seats": []
+      "location": "Sydney",
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1660248771425-76ee4182c257?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEhpdCUyMHNob3dzfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1705883064081-2912134e88ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29tZWRpYW58ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kabukupr.com.au%2Fprojects%2Fsydney-comedy-festival%2F&psig=AOvVaw3_xn-w7ueheKI4yprNf06N&ust=1714907968884000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCFzpfw84UDFQAAAAAdAAAAABAE",
+      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "7",
@@ -30876,30 +30963,31 @@
       "address": "456 Coventry Street, London, UK",
       "startTime": "7:30 pm",
       "endTime": "9:30 pm",
-      "ticketPrice": 34.99,
+      "ticketPrice": {
+        "adults": 34.99,
+        "senior": 24.99,
+        "children": 14.99
+      },
       "eventType": "Comedy show",
       "parking": "Parking available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-0.1323",
+      "latitude": "51.5103",
       "contact": "+44 20 1234 5678",
       "website": "www.londoncomedyclub.co.uk",
-      "event_details_image_1": "https://images.unsplash.com/photo-1647528373047-7fa292187a84?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvbWVkaWFufGVufDB8fDB8fHww",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1661293865118-5451ca18bccf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvbWVkaWFufGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1544448826-fa3ccf3acfc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGNvbWVkeSUyMHNob3d8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 5,
       "age_limit": "18+ only",
       "event_time": "2 hours",
       "special_instructions": "No outside food or drinks allowed; Arrive early for the best seats.",
       "seatAvailable": 180,
-      "images": [
-        "/images/i_London_Comedy_Night.jpg",
-        "https://images.unsplash.com/photo-1544448826-fa3ccf3acfc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGNvbWVkeSUyMHNob3d8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Comedy",
-      "location": "New York",
-      "booked_seats": []
+      "location": "London",
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1647528373047-7fa292187a84?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvbWVkaWFufGVufDB8fDB8fHww",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1661293865118-5451ca18bccf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvbWVkaWFufGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=London_Comedy_Night&imgurl=https%3A%2F%2Foffloadmedia.feverup.com%2Fsecretldn.com%2Fwp-content%2Fuploads%2F2019%2F10%2F18085848%2Fbest-comedy-clubs-london-15-666x479.jpg&imgrefurl=https%3A%2F%2Fsecretldn.com%2Fbest-comedy-clubs-london%2F&docid=R6ckvMhZ9_1dvM&tbnid=7rbLN6q6m_sVwM&vet=12ahUKEwjP6NDL8POFAxVhnK8BHapuCg8QM3oECBgQAA..i&w=666&h=479&hcb=2&ved=2ahUKEwjP6NDL8POFAxVhnK8BHapuCg8QM3oECBgQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1544448826-fa3ccf3acfc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGNvbWVkeSUyMHNob3d8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "8",
@@ -30909,30 +30997,31 @@
       "address": "123 Broadway, New York, NY",
       "startTime": "8:00 pm",
       "endTime": "10:00 pm",
-      "ticketPrice": 29.99,
+      "ticketPrice": {
+        "adults": 29.99,
+        "senior": 19.99,
+        "children": 9.99
+      },
       "eventType": "Comedy show",
       "parking": "Available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.9885",
+      "latitude": "40.7590",
       "contact": "1-800-555-1234",
       "website": "www.nyccomedynight.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1647528373047-7fa292187a84?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvbWVkaWFufGVufDB8fDB8fHww",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1661293865118-5451ca18bccf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvbWVkaWFufGVufDB8fDB8fHww",
-      "eventImage_c": "https://plus.unsplash.com/premium_photo-1683740128965-ef920e23a5d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29tZWR5JTIwc2hvd3xlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 6,
       "age_limit": "21+ only",
       "event_time": "2 hours",
       "special_instructions": "No recording devices allowed inside the venue.",
       "seatAvailable": 150,
-      "images": [
-        "/images/i_NYC_Comedy_Night.jpg",
-        "https://plus.unsplash.com/premium_photo-1683740128965-ef920e23a5d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29tZWR5JTIwc2hvd3xlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Comedy",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1647528373047-7fa292187a84?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvbWVkaWFufGVufDB8fDB8fHww",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1661293865118-5451ca18bccf?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvbWVkaWFufGVufDB8fDB8fHww",
+      "event_details_image_3": "https://res.cloudinary.com/do7okptyv/image/upload/v1714816417/i_NYC_Comedy_Night_x533c7.jpg",
+      "eventImage_c": "https://plus.unsplash.com/premium_photo-1683740128965-ef920e23a5d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29tZWR5JTIwc2hvd3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "9",
@@ -30942,29 +31031,30 @@
       "address": "W New York - Times Square, 1567 Broadway, New York, NY",
       "startTime": "9:00 am",
       "endTime": "5:00 pm",
-      "ticketPrice": 99.99,
+      "ticketPrice": {
+        "adults": 99.99,
+        "senior": 79.99,
+        "children": 49.99
+      },
       "eventType": "Conference",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.9866",
+      "latitude": "40.7580",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1661488405275-177cf88d4112?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RmFzaGlvbiUyMEluZHVzdHJ5JTIwQ29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1661490509503-fcca87556375?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RmFzaGlvbiUyMEluZHVzdHJ5JTIwQ29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1561489396-888724a1543d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+      "website": "www.fashionindustryconference.com",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_fashion_conference.jpeg",
-        "https://images.unsplash.com/photo-1561489396-888724a1543d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fashion",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1661488405275-177cf88d4112?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RmFzaGlvbiUyMEluZHVzdHJ5JTIwQ29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1661490509503-fcca87556375?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RmFzaGlvbiUyMEluZHVzdHJ5JTIwQ29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://res.cloudinary.com/do7okptyv/image/upload/v1714816416/i_fashion_conference_bzeceb.jpg",
+      "eventImage_c": "https://images.unsplash.com/photo-1561489396-888724a1543d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29uZmVyZW5jZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "10",
@@ -30974,29 +31064,30 @@
       "address": "Parsons School of Design, 66 5th Ave, New York, NY",
       "startTime": "1:00 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 79.99,
+      "ticketPrice": {
+        "adults": 95.99,
+        "senior": 74.99,
+        "children": 43.99
+      },
       "eventType": "Workshop",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.994295",
+      "latitude": "40.735951",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1681492747389-7d8cfed389b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RmFzaGlvbiUyMERlc2lnbiUyMFdvcmtzaG9wfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1681483655473-c7e1b04826d6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RmFzaGlvbiUyMERlc2lnbiUyMFdvcmtzaG9wfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d29ya3Nob3B8ZW58MHx8MHx8fDA%3D",
+      "website": "www.parsons.edu/fashion-design-workshop",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_fashion_week.jpg",
-        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d29ya3Nob3B8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fashion",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1681492747389-7d8cfed389b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RmFzaGlvbiUyMERlc2lnbiUyMFdvcmtzaG9wfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1681483655473-c7e1b04826d6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8RmFzaGlvbiUyMERlc2lnbiUyMFdvcmtzaG9wfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://res.cloudinary.com/do7okptyv/image/upload/v1714816416/i_fashion_week_rdoxkd.jpg",
+      "eventImage_c": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8d29ya3Nob3B8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "11",
@@ -31006,29 +31097,30 @@
       "address": "USTA Billie Jean King National Tennis Center, Queens, NY",
       "startTime": "11:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 129.99,
+      "ticketPrice": {
+        "adults": 129.99,
+        "seniors": 99.99,
+        "children": 69.99
+      },
       "eventType": "Tennis tournament",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.850724",
+      "latitude": "40.742053",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1589550458041-48caacbe4367?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1494251202008-582bbc3eac69?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D",
+      "website": "www.usopen.com",
       "ticket_limit": 8,
       "age_limit": 18,
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_us_open_tennis.jpeg",
-        "https://images.unsplash.com/photo-1480180566821-a7d525cdfc5e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fHRlbm5pcyUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Sports",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1589550458041-48caacbe4367?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1494251202008-582bbc3eac69?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://res.cloudinary.com/do7okptyv/image/upload/v1714816418/i_us_open_tennis_ah944u.jpg",
+      "eventImage_c": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "12",
@@ -31038,29 +31130,30 @@
       "address": "USTA Billie Jean King National Tennis Center, Queens, NY",
       "startTime": "11:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 129.99,
+      "ticketPrice": {
+        "adults": 129.99,
+        "seniors": 99.99,
+        "children": 79.99
+      },
       "eventType": "Tennis tournament",
       "parking": "Not available",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.8514",
+      "latitude": "40.7428",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1526307616774-60d0098f7642?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1542446608-e9525230faed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1531315396756-905d68d21b56?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRlbm5pcyUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D",
+      "website": "https://usopentennis.com",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_us_open_tennis.jpeg",
-        "https://images.unsplash.com/photo-1531315396756-905d68d21b56?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRlbm5pcyUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Sports",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1526307616774-60d0098f7642?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1542446608-e9525230faed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fFVTJTIwT3BlbiUyMFRlbm5pc3xlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=US%20Open%20Tennis&imgurl=https%3A%2F%2Fwww.atptour.com%2F-%2Fmedia%2Fimages%2Fnews%2F2021%2F09%2F13%2F07%2F28%2Fus-open-tournament-page-2021.jpg&imgrefurl=https%3A%2F%2Fwww.atptour.com%2Fen%2Ftournaments%2Fus-open%2F560%2Foverview&docid=Tw5_A77tVr7ZXM&tbnid=7xHyF00UOi9rPM&vet=12ahUKEwii4q_49fOFAxVrlK8BHdRYCo4QM3oECGIQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwii4q_49fOFAxVrlK8BHdRYCo4QM3oECGIQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1531315396756-905d68d21b56?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRlbm5pcyUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "13",
@@ -31070,29 +31163,30 @@
       "address": "USTA Billie Jean King National Tennis Center, Queens, NY",
       "startTime": "12:00 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 149.99,
+      "ticketPrice": {
+        "adults": 149.99,
+        "seniors": 119.99,
+        "children": 89.99
+      },
       "eventType": "Tennis tournament",
       "parking": "Available",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.8514",
+      "latitude": "40.7428",
       "contact": "1-800-123-4567",
       "website": "www.usopentennis.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1530915365347-e35b749a0381?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VVMlMjBPcGVuJTIwVGVubmlzJTIwMjAyNHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1510846699902-9211b99dac11?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFVTJTIwT3BlbiUyMFRlbm5pcyUyMDIwMjR8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1583275478661-1c31970669fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHx0ZW5uaXMlMjB0b3VybmFtZW50fGVufDB8fDB8fHww",
       "ticket_limit": 10,
       "age_limit": "21+ only",
       "event_time": "3 hours",
       "special_instructions": "No outside food or beverages allowed inside.",
-      "images": [
-        "/images/i_us_open_tennis_2024.jpeg",
-        "https://images.unsplash.com/photo-1583275478661-1c31970669fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHx0ZW5uaXMlMjB0b3VybmFtZW50fGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Sports",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1530915365347-e35b749a0381?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VVMlMjBPcGVuJTIwVGVubmlzJTIwMjAyNHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1510846699902-9211b99dac11?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFVTJTIwT3BlbiUyMFRlbm5pcyUyMDIwMjR8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=US%20Open%20Tennis&imgurl=https%3A%2F%2Fimg.jagranjosh.com%2Fimages%2F2023%2FJuly%2F2772023%2FUS-Open-2023.webp&imgrefurl=https%3A%2F%2Fwww.jagranjosh.com%2Fus%2Fsports%2Fus-open-2023-tennis-match-dates-schedule-players-and-other-details-1690463022&docid=5F6cKWnPJQU1vM&tbnid=2d_OHgfOJbk0tM&vet=12ahUKEwii4q_49fOFAxVrlK8BHdRYCo4QM3oECCMQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwii4q_49fOFAxVrlK8BHdRYCo4QM3oECCMQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1583275478661-1c31970669fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHx0ZW5uaXMlMjB0b3VybmFtZW50fGVufDB8fDB8fHww"
     },
     {
       "id": "14",
@@ -31102,29 +31196,30 @@
       "address": "USTA Billie Jean King National Tennis Center, Queens, NY",
       "startTime": "10:30 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 139.99,
+      "ticketPrice": {
+        "adults": 139.99,
+        "seniors": 109.99,
+        "children": 79.99
+      },
       "eventType": "Tennis tournament",
       "parking": "Limited parking available",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.8514",
+      "latitude": "40.7428",
       "contact": "1-888-555-7890",
       "website": "www.usopentennischampionship.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1587683437366-a85b816f6e5a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fFVTJTIwT3BlbiUyMFRlbm5pcyUyMENoYW1waW9uc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1542446608-e9525230faed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fFVTJTIwT3BlbiUyMFRlbm5pcyUyMENoYW1waW9uc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1521105221579-1a0db6120571?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM0fHx0ZW5uaXMlMjB0b3VybmFtZW50fGVufDB8fDB8fHww",
       "ticket_limit": 6,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "2.5 hours",
       "special_instructions": "Bag check required before entry.",
-      "images": [
-        "/images/i_us_open_tennis_championship.jpeg",
-        "https://images.unsplash.com/photo-1521105221579-1a0db6120571?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM0fHx0ZW5uaXMlMjB0b3VybmFtZW50fGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Sports",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1587683437366-a85b816f6e5a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fFVTJTIwT3BlbiUyMFRlbm5pcyUyMENoYW1waW9uc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1542446608-e9525230faed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fFVTJTIwT3BlbiUyMFRlbm5pcyUyMENoYW1waW9uc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=us_open_tennis_championship&imgurl=https%3A%2F%2Fbsmedia.business-standard.com%2F_media%2Fbs%2Fimg%2Farticle%2F2023-08%2F30%2Ffull%2F1693408347-7541.jpg&imgrefurl=https%3A%2F%2Fwww.business-standard.com%2Fabout%2Fwhat-is-us-open&docid=eNNrW4XNVCPDZM&tbnid=Oa3-Lzl9TwCw_M&vet=12ahUKEwiQ_dq-9vOFAxVBa_UHHQrcDWgQM3oECEcQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiQ_dq-9vOFAxVBa_UHHQrcDWgQM3oECEcQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1521105221579-1a0db6120571?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM0fHx0ZW5uaXMlMjB0b3VybmFtZW50fGVufDB8fDB8fHww"
     },
     {
       "id": "15",
@@ -31134,29 +31229,30 @@
       "address": "Dolby Theatre, Hollywood, Los Angeles, CA",
       "startTime": "5:00 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 199.99,
+      "ticketPrice": {
+        "adults": 199.99,
+        "seniors": 159.99,
+        "children": 99.99
+      },
       "eventType": "Award ceremony",
       "parking": "Not available",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-118.3406",
+      "latitude": "34.1026",
       "contact": "1-866-983-4279",
       "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1516238840914-94dfc0c873ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fE9zY2Fyc3xlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1679826780130-f760fcb26941?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8T3NjYXJzJTIwYXdhcmRzfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1642104744809-14b986179927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXdhcmQlMjBjZXJlbW9ueXxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 8,
       "age_limit": "60+ Only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_oscars.webp",
-        "https://images.unsplash.com/photo-1642104744809-14b986179927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXdhcmQlMjBjZXJlbW9ueXxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Cinema",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1516238840914-94dfc0c873ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fE9zY2Fyc3xlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1679826780130-f760fcb26941?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8T3NjYXJzJTIwYXdhcmRzfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vanityfair.com%2Fhollywood%2Fawards-insider-how-to-watch-oscars-2024&psig=AOvVaw0MUhVxGFCoEzwxmq5o9uZg&ust=1714909751090000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC9guj284UDFQAAAAAdAAAAABAT",
+      "eventImage_c": "https://images.unsplash.com/photo-1642104744809-14b986179927?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXdhcmQlMjBjZXJlbW9ueXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "16",
@@ -31166,29 +31262,30 @@
       "address": "Palais des Festivals et des Congrès, Cannes, France",
       "startTime": "10:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 249.99,
+      "ticketPrice": {
+        "adults": 249.99,
+        "seniors": 199.99,
+        "children": 149.99
+      },
       "eventType": "Film festival",
       "parking": "Available nearby",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
-      "contact": "+33 4 92 99 84 00",
+      "longitude": "7.0174",
+      "latitude": "43.5528",
+      "contact": "+33492998400",
       "website": "www.festival-cannes.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1534283542176-7cb0c9ac33e0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fENhbm5lcyUyMEZpbG0lMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1468234847176-28606331216a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fENhbm5lcyUyMEZpbG0lMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmxpbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
       "ticket_limit": 6,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "Full day",
       "special_instructions": "Red carpet attire required for certain events. Check schedule for screenings and events.",
-      "images": [
-        "/images/i_cannes_film_festival.jpg",
-        "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmxpbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Cinema",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1534283542176-7cb0c9ac33e0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fENhbm5lcyUyMEZpbG0lMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1468234847176-28606331216a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fENhbm5lcyUyMEZpbG0lMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=cannes_film_festival&imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FOqu_bX8YQxOQQGDOddOJecvZhIM%3D%2F0x0%3A2000x1200%2F1200x800%2Ffilters%3Afocal(866x155%3A1186x475)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F54794825%2Fcannes2019.13.jpg&imgrefurl=https%3A%2F%2Fwww.vox.com%2Fculture%2F2017%2F5%2F16%2F15508284%2Fcannes-film-festival-2019-dates-pronounce-netflix-jury&docid=fCokfHaTB3EotM&tbnid=r9cUoolas3WAWM&vet=12ahUKEwjLvOSb9_OFAxUTh1YBHdJvDFcQM3oECFwQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwjLvOSb9_OFAxUTh1YBHdJvDFcQM3oECFwQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmxpbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww"
     },
     {
       "id": "17",
@@ -31198,26 +31295,29 @@
       "address": "Palazzo del Cinema, Venice Lido, Italy",
       "startTime": "9:30 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 189.99,
+      "ticketPrice": {
+        "adults": 189.99,
+        "seniors": 149.99,
+        "children": 99.99
+      },
       "eventType": "Film festival",
       "parking": "Parking available at designated lots",
       "contact": "+39 041 5218711",
       "website": "www.labiennale.org/en/cinema",
-      "event_details_image_1": "https://images.unsplash.com/photo-1519112232436-9923c6ba3d26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dmVuaWNlJTIwZmlsbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1523906921802-b5d2d899e93b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVuaWNlJTIwZmlsbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmxpbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
       "ticket_limit": 6,
       "age_limit": "18+ only",
       "event_time": "Full day",
       "special_instructions": "Tickets for screenings must be booked in advance. Check official website for program details.",
-      "images": [
-        "/images/i_venice_film_festival.jpg",
-        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmxpbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Cinema",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "latitude": "45.4384",
+      "longitude": "12.3267",
+      "event_details_image_1": "https://images.unsplash.com/photo-1519112232436-9923c6ba3d26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dmVuaWNlJTIwZmlsbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1523906921802-b5d2d899e93b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVuaWNlJTIwZmlsbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwyAVfLIqaWC8AfrqJOY6e1BfVb1Hv0X1gnw&s",
+      "eventImage_c": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmxpbSUyMGZlc3RpdmFsfGVufDB8fDB8fHww"
     },
     {
       "id": "18",
@@ -31227,29 +31327,30 @@
       "address": "Berlinale Palast, Berlin, Germany",
       "startTime": "10:30 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 169.99,
+      "ticketPrice": {
+        "adults": 169.99,
+        "seniors": 139.99,
+        "children": 99.99
+      },
       "eventType": "Film festival",
       "parking": "Public parking available",
       "disability_parking": "Not available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "13.4050",
+      "latitude": "52.5200",
       "contact": "+49 30 25920-0",
       "website": "www.berlinale.de/en/home.html",
-      "event_details_image_1": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmVybGluJTIwSW50ZXJuYXRpb25hbCUyMEZpbG0lMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1496968594384-1736c036e4e6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEJlcmxpbiUyMEludGVybmF0aW9uYWwlMjBGaWxtJTIwRmVzdGl2YWx8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGZsaW0lMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 5,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "Full day",
       "special_instructions": "Film screenings held in multiple venues. Check program guide for locations and schedules.",
-      "images": [
-        "/images/i_berlin_film_festival.jpg",
-        "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGZsaW0lMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Cinema",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QmVybGluJTIwSW50ZXJuYXRpb25hbCUyMEZpbG0lMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1496968594384-1736c036e4e6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEJlcmxpbiUyMEludGVybmF0aW9uYWwlMjBGaWxtJTIwRmVzdGl2YWx8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=berlin_film_festival&imgurl=https%3A%2F%2Fstatic.dw.com%2Fimage%2F68270266_606.webp&imgrefurl=https%3A%2F%2Fwww.dw.com%2Fen%2Feverything-you-need-to-know-about-the-2024-berlin-international-film-festival%2Fa-68231529&docid=0-x6ZV7CSBG-WM&tbnid=Aa_D8IoXxr6P9M&vet=12ahUKEwjz4uqukfSFAxXSj68BHaW6CfQQM3oECDwQAA..i&w=1568&h=882&hcb=2&ved=2ahUKEwjz4uqukfSFAxXSj68BHaW6CfQQM3oECDwQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGZsaW0lMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "19",
@@ -31259,7 +31360,11 @@
       "address": "Rio All-Suite Hotel & Casino, Las Vegas, NV",
       "startTime": "12:00 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 499.99,
+      "ticketPrice": {
+        "adults": 299.99,
+        "seniors": 259.99,
+        "children": 200.99
+      },
       "eventType": "Poker tournament",
       "parking": "Not available",
       "disability_parking": "Available",
@@ -31267,21 +31372,18 @@
       "latitude": "",
       "contact": "1-866-983-4279",
       "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1618304925090-b68a8c744cbe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V29ybGQlMjBTZXJpZXMlMjBvZiUyMFBva2VyfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1613333151146-7634fe2c5994?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlcnxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1630251788545-05a9006375b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG9ya2VyJTIwdG91cm5hbWVudHxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 8,
       "age_limit": "60+ Only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_WSOP_Logo.jpg",
-        "https://images.unsplash.com/photo-1630251788545-05a9006375b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG9ya2VyJTIwdG91cm5hbWVudHxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fine-Dine",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1618304925090-b68a8c744cbe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8V29ybGQlMjBTZXJpZXMlMjBvZiUyMFBva2VyfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1613333151146-7634fe2c5994?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://res.cloudinary.com/do7okptyv/image/upload/v1714816419/i_WSOP_Logo_ki0fo7.jpg",
+      "eventImage_c": "https://images.unsplash.com/photo-1630251788545-05a9006375b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cG9ya2VyJTIwdG91cm5hbWVudHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "20",
@@ -31291,29 +31393,30 @@
       "address": "Wynn Las Vegas, Las Vegas, NV",
       "startTime": "6:30 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 299.99,
+      "ticketPrice": {
+        "adults": 299.99,
+        "seniors": 259.99,
+        "children": 200.99
+      },
       "eventType": "Celebrity poker tournament",
       "parking": "Free parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-115.1541",
+      "latitude": "36.1263",
       "contact": "1-888-123-4567",
       "website": "www.wsopcelebrityshowdown.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1604345250885-11f528eec3ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9rZXJ8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1596451190630-186aff535bf2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9rZXJ8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "3-4 hours",
       "special_instructions": "Limited seating available. RSVP required.",
-      "images": [
-        "/images/i_WSOP_Celebrity_Showdown.jpg",
-        "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fine-Dine",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1604345250885-11f528eec3ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9rZXJ8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1596451190630-186aff535bf2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cG9rZXJ8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=World%20Series%20of%20Poker%20-%20Celebrity%20Showdown&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F8%2F85%2FTv_bravo_celebrity_poker_tournament_logo.jpg%2F220px-Tv_bravo_celebrity_poker_tournament_logo.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCelebrity_Poker_Showdown&docid=45Y6JjDLJH3MBM&tbnid=yO4DhSYpd_WbtM&vet=12ahUKEwjq4_6ikvSFAxWXU_UHHQh7AcgQM3oECDwQAA..i&w=220&h=146&hcb=2&ved=2ahUKEwjq4_6ikvSFAxWXU_UHHQh7AcgQM3oECDwQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "21",
@@ -31323,29 +31426,30 @@
       "address": "Caesars Palace, Las Vegas, NV",
       "startTime": "1:00 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 399.99,
+      "ticketPrice": {
+        "adults": 399.99,
+        "seniors": 349.99,
+        "children": 299.99
+      },
       "eventType": "Women's poker championship",
       "parking": "Complimentary valet parking",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-115.1728",
+      "latitude": "36.1152",
       "contact": "1-877-987-6543",
       "website": "www.wsopwomenschampionship.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1511193311914-0346f16efe90?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlciUyMCUyMCUyMFdvbWVuJ3MlMjBDaGFtcGlvbnNoaXB8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1605420801008-456056f2c700?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8V29ybGQlMjBTZXJpZXMlMjBvZiUyMFBva2VyJTIwJTIwJTIwV29tZW4ncyUyMENoYW1waW9uc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1588954521402-729fccacba74?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 5,
       "age_limit": "21+ only",
       "event_time": "3-5 hours",
       "special_instructions": "Open to female players only. Register early to secure your spot.",
-      "images": [
-        "/images/i_WSOP_Womens_Championship.jpg",
-        "https://images.unsplash.com/photo-1588954521402-729fccacba74?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fine-Dine",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1511193311914-0346f16efe90?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlciUyMCUyMCUyMFdvbWVuJ3MlMjBDaGFtcGlvbnNoaXB8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1605420801008-456056f2c700?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8V29ybGQlMjBTZXJpZXMlMjBvZiUyMFBva2VyJTIwJTIwJTIwV29tZW4ncyUyMENoYW1waW9uc2hpcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=WSOP_Womens_Championship&imgurl=https%3A%2F%2Fwww.pokernewsdaily.com%2Fapp%2Fuploads%2F2023%2F06%2F2023WSOP.jpg&imgrefurl=https%3A%2F%2Fwww.pokernewsdaily.com%2Fwsop-ladies-championship-breaks-record-karina-jett-and-ruth-hall-in-top-ten-39397%2F&docid=FAAgr7JlZpvhUM&tbnid=Fq2g_aNWStZe0M&vet=12ahUKEwi5psmBk_SFAxXvVPUHHUI7D_I4ChAzegQIJxAA..i&w=2048&h=1536&hcb=2&ved=2ahUKEwi5psmBk_SFAxXvVPUHHUI7D_I4ChAzegQIJxAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1588954521402-729fccacba74?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "22",
@@ -31355,29 +31459,30 @@
       "address": "Bellagio Hotel & Casino, Las Vegas, NV",
       "startTime": "2:00 pm",
       "endTime": "4:00 pm",
-      "ticketPrice": 999.99,
+      "ticketPrice": {
+        "adults": 999.99,
+        "seniors": 899.99,
+        "children": 799.99
+      },
       "eventType": "High-stakes poker tournament",
       "parking": "Valet parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-115.1764",
+      "latitude": "36.1128",
       "contact": "1-800-555-9876",
       "website": "www.worldseriesofpoker.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1497129907035-91f1b95c8119?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlciUyMCUyMCUyMFdvbWVuJ3MlMjBDaGFtcGlvbnNoaXB8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1504279807002-09854ccc9b6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlciUyMCUyMCUyMFdvbWVuJ3MlMjBDaGFtcGlvbnNoaXB8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 6,
       "age_limit": "21+ only",
       "event_time": "4-6 hours",
       "special_instructions": "Players must register in advance. Dress code: Formal attire.",
-      "images": [
-        "/images/i_WSOP_High_Stakes.jpg",
-        "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Fine-Dine",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1497129907035-91f1b95c8119?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlciUyMCUyMCUyMFdvbWVuJ3MlMjBDaGFtcGlvbnNoaXB8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1504279807002-09854ccc9b6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fFdvcmxkJTIwU2VyaWVzJTIwb2YlMjBQb2tlciUyMCUyMCUyMFdvbWVuJ3MlMjBDaGFtcGlvbnNoaXB8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=WSOP_High_Stakes&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKC-x1aK3lYA%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DKC-x1aK3lYA&docid=7ojyBTif7FvJSM&tbnid=-wsiZPW3ggCv2M&vet=12ahUKEwiVisO-k_SFAxXXl1YBHfRqCuUQM3oECFAQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiVisO-k_SFAxXXl1YBHfRqCuUQM3oECFAQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1558008258-7ff8888b42b0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBvcmtlciUyMHRvdXJuYW1lbnR8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "23",
@@ -31387,29 +31492,30 @@
       "address": "Empire Polo Club, Indio, CA",
       "startTime": "12:00 pm",
       "endTime": "6:00 pm",
-      "ticketPrice": 399.99,
+      "ticketPrice": {
+        "adults": 399.99,
+        "seniors": 349.99,
+        "children": 299.99
+      },
       "eventType": "Music festival",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-116.2386",
+      "latitude": "33.6799",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "",
-      "event_details_image_2": "",
-      "eventImage_c": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
+      "website": "www.coachella.com",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_music_festival.jpg",
-        "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Concerts",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://www.google.com/imgres?q=Coachella%20Valley%20Music%20and%20Arts%20Festival&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D103474522726400&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F620866742806818%2F&docid=B8lYT46rVPCE3M&tbnid=jjfGAB9q7Km69M&vet=12ahUKEwj7lNrmk_SFAxUFsVYBHSA0DVkQM3oECB0QAA..i&w=1200&h=628&hcb=2&ved=2ahUKEwj7lNrmk_SFAxUFsVYBHSA0DVkQM3oECB0QAA",
+      "event_details_image_2": "https://www.google.com/imgres?q=Coachella%20Valley%20Music%20and%20Arts%20Festival&imgurl=https%3A%2F%2Fdenver.cbslocal.com%2Fwp-content%2Fuploads%2Fsites%2F14984641%2F2016%2F03%2Fcoachella-header.jpg&imgrefurl=https%3A%2F%2Fwww.cbsnews.com%2Flosangeles%2Fnews%2Fguide-to-the-coachella-valley-music-arts-festival%2F&docid=LYjOU2G2eoX56M&tbnid=ixg4y6ZKO2Ev-M&vet=12ahUKEwj7lNrmk_SFAxUFsVYBHSA0DVkQM3oECFkQAA..i&w=1200&h=729&hcb=2&ved=2ahUKEwj7lNrmk_SFAxUFsVYBHSA0DVkQM3oECFkQAA",
+      "event_details_image_3": "https://www.google.com/imgres?q=Coachella%20Valley%20Music%20and%20Arts%20Festival&imgurl=https%3A%2F%2Fsource.boomplaymusic.com%2Fbuzzgroup2%2FM00%2F34%2FA7%2FrBEe_GJf8QSALkS8ABVEJWPv6v0369.png&imgrefurl=https%3A%2F%2Fwww.boomplay.com%2Fbuzz%2F3525336&docid=aD0NCe0SDk6HaM&tbnid=-Tjrv0qt7YW0rM&vet=12ahUKEwj7lNrmk_SFAxUFsVYBHSA0DVkQM3oECHIQAA..i&w=975&h=594&hcb=2&ved=2ahUKEwj7lNrmk_SFAxUFsVYBHSA0DVkQM3oECHIQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVzaWMlMjBmZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "24",
@@ -31419,29 +31525,30 @@
       "address": "Empire Polo Club, Indio, CA",
       "startTime": "12:00 pm",
       "endTime": "6:00 pm",
-      "ticketPrice": 999.99,
+      "ticketPrice": {
+        "adults": 999.99,
+        "children": 499.99,
+        "seniors": 799.99
+      },
       "eventType": "VIP Music festival experience",
       "parking": "VIP parking included",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-116.2386",
+      "latitude": "33.6799",
       "contact": "1-800-555-1234",
       "website": "www.coachella.com/vip",
-      "event_details_image_1": "https://images.unsplash.com/photo-1682687982107-14492010e05e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q29hY2hlbGxhJTIwVklQJTIwRXhwZXJpZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1682687981630-cefe9cd73072?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fENvYWNoZWxsYSUyMFZJUCUyMEV4cGVyaWVuY2V8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "2-3 hours",
       "special_instructions": "VIP wristband required for access to VIP areas. Limited VIP tickets available.",
-      "images": [
-        "/images/i_coachella_vip.jpg",
-        "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Concerts",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1682687982107-14492010e05e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q29hY2hlbGxhJTIwVklQJTIwRXhwZXJpZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1682687981630-cefe9cd73072?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fENvYWNoZWxsYSUyMFZJUCUyMEV4cGVyaWVuY2V8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=coachella%20vip&imgurl=https%3A%2F%2Ftraveler.marriott.com%2Fwp-content%2Fuploads%2F2019%2F05%2FDSC_5149.jpg&imgrefurl=https%3A%2F%2Ftraveler.marriott.com%2Fpalm-springs%2Fmarriott-bonvoy-coachella%2F&docid=Cy_JzHpmChmznM&tbnid=4quwTMJBttcncM&vet=12ahUKEwixlNC2lPSFAxUNnq8BHYFNCA4QM3oECFgQAA..i&w=1920&h=960&hcb=2&ved=2ahUKEwixlNC2lPSFAxUNnq8BHYFNCA4QM3oECFgQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "25",
@@ -31451,29 +31558,30 @@
       "address": "Empire Polo Club, Indio, CA",
       "startTime": "12:00 pm",
       "endTime": "6:00 pm",
-      "ticketPrice": 499.99,
+      "ticketPrice": {
+        "adults": 499.99,
+        "children": 299.99,
+        "seniors": 399.99
+      },
       "eventType": "Camping and Music festival",
       "parking": "Free camping parking",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-116.2386",
+      "latitude": "33.6799",
       "contact": "1-888-987-6543",
       "website": "www.coachella.com/camping",
-      "event_details_image_1": "https://images.unsplash.com/photo-1470246973918-29a93221c455?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29hY2hlbGxhJTIwQ2FtcGluZyUyMEV4cGVyaWVuY2V8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q29hY2hlbGxhJTIwQ2FtcGluZyUyMEV4cGVyaWVuY2V8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 6,
       "age_limit": "60+ Only",
       "event_time": "2-3 days",
       "special_instructions": "Camping gear not provided. Campers must bring their own tents and supplies.",
-      "images": [
-        "/images/i_coachella_camping.jpg",
-        "/images/c_coachella_camping.jpeg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Concerts",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1470246973918-29a93221c455?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q29hY2hlbGxhJTIwQ2FtcGluZyUyMEV4cGVyaWVuY2V8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q29hY2hlbGxhJTIwQ2FtcGluZyUyMEV4cGVyaWVuY2V8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=coachella_camping.jpg&imgurl=https%3A%2F%2Fwww.iheartraves.com%2Fcdn%2Fshop%2Farticles%2FSafari09_640x.jpg%3Fv%3D1648065595&imgrefurl=https%3A%2F%2Fwww.iheartraves.com%2Fblogs%2Fpost%2Fcoachella-camping-tips&docid=8uWHhisSg6jc2M&tbnid=liibPw-Yp1uk1M&vet=12ahUKEwjvo5TklPSFAxVBh68BHftIDYUQM3oECBoQAA..i&w=640&h=427&hcb=2&ved=2ahUKEwjvo5TklPSFAxVBh68BHftIDYUQM3oECBoQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "26",
@@ -31483,29 +31591,30 @@
       "address": "Empire Polo Club, Indio, CA",
       "startTime": "12:00",
       "endTime": "10:00 pm",
-      "ticketPrice": 199.99,
+      "ticketPrice": {
+        "adults": 199.99,
+        "children": 99.99,
+        "seniors": 149.99
+      },
       "eventType": "Family-friendly music festival",
       "parking": "Free parking for families",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-116.2386",
+      "latitude": "33.6799",
       "contact": "1-877-123-4567",
       "website": "www.coachella.com/family",
-      "event_details_image_1": "https://images.unsplash.com/photo-1516013474378-d6498f0d1434?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENvYWNoZWxsYSUyMEZhbWlseSUyMERheSUyMFBhc3N8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1559734840-f9509ee5677f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fENvYWNoZWxsYSUyMEZhbWlseSUyMERheSUyMFBhc3N8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 5,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "8 hours",
       "special_instructions": "Children under 12 must be accompanied by an adult. Family pass valid for up to 4 people.",
-      "images": [
-        "/images/i_coachella_family.jpg",
-        "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Concerts",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1516013474378-d6498f0d1434?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENvYWNoZWxsYSUyMEZhbWlseSUyMERheSUyMFBhc3N8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1559734840-f9509ee5677f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fENvYWNoZWxsYSUyMEZhbWlseSUyMERheSUyMFBhc3N8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=coachella_family&imgurl=https%3A%2F%2F2dadswithbaggage.com%2Fwp-content%2Fuploads%2F2022%2F07%2FGPS_CoachellaFest_G87A885412_CC.jpg&imgrefurl=https%3A%2F%2F2dadswithbaggage.com%2Ftag%2Ffamily-activities%2F&docid=t51xAy3wb_-FkM&tbnid=rhXQm1mLrxmJHM&vet=12ahUKEwjr0t6RlfSFAxU0ffUHHb28DUAQM3oECGUQAA..i&w=2048&h=1365&hcb=2&itg=1&ved=2ahUKEwjr0t6RlfSFAxU0ffUHHb28DUAQM3oECGUQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fG11c2ljJTIwZmVzdGl2YWx8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "27",
@@ -31515,29 +31624,30 @@
       "address": "Metropolitan Museum of Art, 1000 5th Ave, New York, NY",
       "startTime": "10:00 am",
       "endTime": "5:00 pm",
-      "ticketPrice": 25.99,
+      "ticketPrice": {
+        "adults": 25.99,
+        "children": 15.99,
+        "senior": 20.99
+      },
       "eventType": "Exhibition",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.9629",
+      "latitude": "40.7794",
       "contact": "1-866-983-4279",
       "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1578301978162-7aae4d755744?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWV0cm9wb2xpdGFuJTIwTXVzZXVtJTIwb2YlMjBBcnQlMjBFeGhpYml0aW9ufGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1529154166925-574a0236a4f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWV0cm9wb2xpdGFuJTIwTXVzZXVtJTIwb2YlMjBBcnQlMjBFeGhpYml0aW9ufGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1530263131525-1c1d26feaa60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 8,
       "age_limit": "60+ Only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_museum_exhibition.jpg",
-        "https://images.unsplash.com/photo-1530263131525-1c1d26feaa60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Art & History",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1578301978162-7aae4d755744?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWV0cm9wb2xpdGFuJTIwTXVzZXVtJTIwb2YlMjBBcnQlMjBFeGhpYml0aW9ufGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1529154166925-574a0236a4f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TWV0cm9wb2xpdGFuJTIwTXVzZXVtJTIwb2YlMjBBcnQlMjBFeGhpYml0aW9ufGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=museum_exhibition&imgurl=https%3A%2F%2Fimages.crystalbridges.org%2Fuploads%2F2021%2F03%2Fmasthead-exhibitions-exported.jpg%3Fresize%3D1000%252C400%26gravity&imgrefurl=https%3A%2F%2Fcrystalbridges.org%2Fexhibitions%2F&docid=jBbHEEiiImsgzM&tbnid=OhkD1ONN6EgzyM&vet=12ahUKEwjm65bBlfSFAxW-m1YBHRX0BosQM3oECHcQAA..i&w=1000&h=400&hcb=2&ved=2ahUKEwjm65bBlfSFAxW-m1YBHRX0BosQM3oECHcQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1530263131525-1c1d26feaa60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "28",
@@ -31547,29 +31657,31 @@
       "address": "National History Museum, 200 Main St, Washington, DC",
       "startTime": "9:00 am",
       "endTime": "6:00 pm",
-      "ticketPrice": 20.99,
+      "ticketPrice": {
+        "adults": 20.99,
+        "children": 15.99,
+        "senior": 18.99
+      },
+      "ticketType": "General Admission",
       "eventType": "Exhibition",
       "parking": "Parking available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "77.0352",
+      "latitude": "38.8895",
       "contact": "1-800-555-6789",
-      "event_details_image_1": "https://images.unsplash.com/photo-1634505016753-733780012d4e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmF0aW9uYWwlMjBIaXN0b3J5JTIwTXVzZXVtJTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1662324101831-28d8aa6f6b60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TmF0aW9uYWwlMjBIaXN0b3J5JTIwTXVzZXVtJTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
       "website": "www.nationalhistorymuseum.com",
-      "eventImage_c": "https://images.unsplash.com/photo-1632383380175-812d44ec112b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 6,
       "age_limit": "21+ only",
       "event_time": "4-5 hours",
       "special_instructions": "No flash photography allowed inside the exhibition halls.",
-      "images": [
-        "/images/i_national_history_exhibition.jpg",
-        "https://images.unsplash.com/photo-1632383380175-812d44ec112b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Art & History",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1634505016753-733780012d4e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmF0aW9uYWwlMjBIaXN0b3J5JTIwTXVzZXVtJTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1662324101831-28d8aa6f6b60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TmF0aW9uYWwlMjBIaXN0b3J5JTIwTXVzZXVtJTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=national_history_exhibition&imgurl=https%3A%2F%2Fwashington.org%2Fsites%2Fdefault%2Ffiles%2Fmichellefortephotography_overview-of-museum-of-natural-history-atrium_mydccool-via-crowdriff.jpg&imgrefurl=https%3A%2F%2Fwashington.org%2FDC-guide-to%2Fsmithsonian-national-museum-natural-history&docid=u_2cW785P9KmTM&tbnid=Vvrr8CqL6Gx-7M&vet=12ahUKEwjwybnllfSFAxV23zQHHV8oAeMQM3oECGEQAA..i&w=800&h=533&hcb=2&ved=2ahUKEwjwybnllfSFAxV23zQHHV8oAeMQM3oECGEQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1632383380175-812d44ec112b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "29",
@@ -31579,29 +31691,31 @@
       "address": "Modern Art Gallery, 500 Center Ave, Los Angeles, CA",
       "startTime": "11:00 am",
       "endTime": "8:00 pm",
-      "ticketPrice": 35.99,
+      "ticketPrice": {
+        "adults": 35.99,
+        "children": 25.99,
+        "senior": 30.99
+      },
+      "ticketType": "General Admission",
       "eventType": "Art Exhibition",
       "parking": "Street parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-118.2437",
+      "latitude": "34.0522",
       "contact": "1-888-123-4567",
       "website": "www.contemporarygallery.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1579541814924-49fef17c5be5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q29udGVtcG9yYXJ5JTIwQXJ0JTIwR2FsbGVyeSUyMFNob3d8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fENvbnRlbXBvcmFyeSUyMEFydCUyMEdhbGxlcnklMjBTaG93fGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1580687580679-3f3e9ca2ef35?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxleGhpYml0aW9ufGVufDB8fDB8fHww",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "6-7 hours",
       "special_instructions": "Please refrain from touching the artworks.",
-      "images": [
-        "/images/i_contemporary_art_gallery.jpg",
-        "https://images.unsplash.com/photo-1580687580679-3f3e9ca2ef35?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxleGhpYml0aW9ufGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Art & History",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1579541814924-49fef17c5be5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q29udGVtcG9yYXJ5JTIwQXJ0JTIwR2FsbGVyeSUyMFNob3d8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fENvbnRlbXBvcmFyeSUyMEFydCUyMEdhbGxlcnklMjBTaG93fGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=contemporary_art_gallery&imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F08%2F4d%2F19%2F50%2Fcontemporary-art-gallery.jpg%3Fw%3D1200%26h%3D-1%26s%3D1&imgrefurl=https%3A%2F%2Fwww.tripadvisor.in%2FAttraction_Review-g154943-d2617131-Reviews-Contemporary_Art_Gallery-Vancouver_British_Columbia.html&docid=JR3GyfTYS1ddWM&tbnid=Io62i5cHHoEcgM&vet=12ahUKEwjz49SalvSFAxV6slYBHeQGBKQQM3oECF0QAA..i&w=1025&h=704&hcb=2&itg=1&ved=2ahUKEwjz49SalvSFAxV6slYBHeQGBKQQM3oECF0QAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1580687580679-3f3e9ca2ef35?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxleGhpYml0aW9ufGVufDB8fDB8fHww"
     },
     {
       "id": "30",
@@ -31611,29 +31725,31 @@
       "address": "Renaissance Art Museum, 300 Renaissance Blvd, Florence, Italy",
       "startTime": "10:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 30.99,
+      "ticketPrice": {
+        "adults": 30.99,
+        "children": 20.99,
+        "senior": 25.99
+      },
+      "ticketType": "General Admission",
       "eventType": "Historical Art Exhibition",
       "parking": "Paid parking available on-site",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "11.2558",
+      "latitude": "43.7696",
       "contact": "+39 055 123 4567",
       "website": "www.renaissancemuseum.it",
-      "event_details_image_1": "https://images.unsplash.com/photo-1579541718334-85e6075516f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fEhpc3RvcmljYWwlMjBBcnQlMjBFeGhpYml0aW9ufGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1515325595179-59cd5262ca53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8SGlzdG9yeXxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1591264135253-ad0c1aef41fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxleGhpYml0aW9ufGVufDB8fDB8fHww",
       "ticket_limit": 5,
       "age_limit": "60+ Only",
       "event_time": "5-6 hours",
       "special_instructions": "Audio guides are available for an enhanced experience.",
-      "images": [
-        "/images/i_renaissance_art_exhibition.jpg",
-        "https://images.unsplash.com/photo-1591264135253-ad0c1aef41fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxleGhpYml0aW9ufGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Art & History",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1579541718334-85e6075516f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fEhpc3RvcmljYWwlMjBBcnQlMjBFeGhpYml0aW9ufGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1515325595179-59cd5262ca53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8SGlzdG9yeXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=i_renaissance_art_exhibition&imgurl=https%3A%2F%2Fcdn.concreteplayground.com%2Fcontent%2Fuploads%2F2023%2F11%2FItalian-Renaissance-Alive_01_supplied.jpg&imgrefurl=https%3A%2F%2Fconcreteplayground.com%2Fbrisbane%2Farts-entertainment%2Fitalian-renaissance-alive-gold-coast-hota&docid=CW4WfSycIRMTnM&tbnid=r6IBrOA4if3GyM&vet=12ahUKEwiMuZG8lvSFAxVor1YBHdL1DMIQM3oECFwQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiMuZG8lvSFAxVor1YBHdL1DMIQM3oECFwQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1591264135253-ad0c1aef41fa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHxleGhpYml0aW9ufGVufDB8fDB8fHww"
     },
     {
       "id": "31",
@@ -31643,29 +31759,31 @@
       "address": "Tech Expo Center, 500 Howard St, San Francisco, CA",
       "startTime": "10:00 am",
       "endTime": "7:00 pm",
-      "ticketPrice": 39.99,
+      "ticketPrice": {
+        "adults": 39.99,
+        "children": 19.99,
+        "senior": 29.99
+      },
+      "ticketType": "General Admission",
       "eventType": "Experience",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-122.398571",
+      "latitude": "37.787086",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1612066473428-fb6833a0d855?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmlydHVhbCUyMFJlYWxpdHklMjBFeHBlcmllbmNlfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1530825894095-9c184b068fcb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFZpcnR1YWwlMjBSZWFsaXR5JTIwRXhwZXJpZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1637664067012-241eb64b7675?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHZpcnR1YWwlMjByZWFsaXR5fGVufDB8fDB8fHww",
+      "website": "www.virtualrealityexperience.com",
       "ticket_limit": 8,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_virtual_reality.jpg",
-        "https://images.unsplash.com/photo-1637664067012-241eb64b7675?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHZpcnR1YWwlMjByZWFsaXR5fGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Futuristic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1612066473428-fb6833a0d855?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmlydHVhbCUyMFJlYWxpdHklMjBFeHBlcmllbmNlfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1530825894095-9c184b068fcb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFZpcnR1YWwlMjBSZWFsaXR5JTIwRXhwZXJpZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=virtual%20reality&imgurl=https%3A%2F%2Fwww.smu.edu%2F-%2Fmedia%2FSite%2FMeadows%2FNewsStories%2F2023%2FBisk-SMU-New-Masters-Program%2FCreative-Technology-girl-wearing-VR-Goggles.png&imgrefurl=https%3A%2F%2Fwww.smu.edu%2Fmeadows%2Fnewsandevents%2Fnews%2F2023%2Faugmented-reality-vs-virtual-reality&docid=Cht0SPA9fNDzvM&tbnid=NzTEBwds8cUEmM&vet=12ahUKEwiZkreHl_SFAxVXklYBHZaID34QM3oECGMQAA..i&w=1500&h=879&hcb=2&ved=2ahUKEwiZkreHl_SFAxVXklYBHZaID34QM3oECGMQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1637664067012-241eb64b7675?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHZpcnR1YWwlMjByZWFsaXR5fGVufDB8fDB8fHww"
     },
     {
       "id": "32",
@@ -31675,29 +31793,30 @@
       "address": "Tech Innovation Center, 100 Innovation Ave, Seattle, WA",
       "startTime": "11:00 am",
       "endTime": "6:00 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "children": 29.99,
+        "seniors": 39.99
+      },
       "eventType": "AR Showcase",
       "parking": "On-site parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-122.335167",
+      "latitude": "47.606209",
       "contact": "1-800-555-1234",
       "website": "www.arshowcase.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXVnbWVudGVkJTIwUmVhbGl0eSUyMFNob3djYXNlfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1525540810550-5032f5d191b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEF1Z21lbnRlZCUyMFJlYWxpdHklMjBTaG93Y2FzZXxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1592477725143-2e57dc728f0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF1Z21lbnRlZCUyMHJlYWxpdHl8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 6,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "4-5 hours",
       "special_instructions": "Wear comfortable shoes for walking through the interactive exhibits.",
-      "images": [
-        "/images/i_augmented_reality_showcase.jpg",
-        "https://images.unsplash.com/photo-1592477725143-2e57dc728f0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF1Z21lbnRlZCUyMHJlYWxpdHl8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Futuristic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXVnbWVudGVkJTIwUmVhbGl0eSUyMFNob3djYXNlfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1525540810550-5032f5d191b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEF1Z21lbnRlZCUyMFJlYWxpdHklMjBTaG93Y2FzZXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=augmented_reality_showcase&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbJIrXDAyKxs%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbJIrXDAyKxs&docid=kjUtq2kfB_rQeM&tbnid=JVEwdO2MJADdqM&vet=12ahUKEwjgl72rl_SFAxXSmlYBHfpRAtgQM3oECBgQAA..i&w=1280&h=720&hcb=2&itg=1&ved=2ahUKEwjgl72rl_SFAxXSmlYBHfpRAtgQM3oECBgQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1592477725143-2e57dc728f0a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF1Z21lbnRlZCUyMHJlYWxpdHl8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "33",
@@ -31707,29 +31826,30 @@
       "address": "Tech Convention Center, 200 Robotics Blvd, Austin, TX",
       "startTime": "10:00am",
       "endTime": "5:00pm",
-      "ticketPrice": 59.99,
+      "ticketPrice": {
+        "adults": 59.99,
+        "children": 39.99,
+        "seniors": 49.99
+      },
       "eventType": "Robotics Expo",
       "parking": "Paid parking available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-97.7431",
+      "latitude": "30.2672",
       "contact": "1-888-123-4567",
       "website": "www.roboticsexpo2024.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1639046380152-8603868f2e6a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFJvYm90aWNzJTIwRXhwbyUyMDIwMjR8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1655393001768-d946c97d6fd1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFJvYm90aWNzJTIwRXhwbyUyMDIwMjR8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 5,
       "age_limit": "21+ only",
       "event_time": "6-7 hours",
       "special_instructions": "Interact with the robots and learn about their functionalities.",
-      "images": [
-        "/images/i_robotics_expo.jpg",
-        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Futuristic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1639046380152-8603868f2e6a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFJvYm90aWNzJTIwRXhwbyUyMDIwMjR8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1655393001768-d946c97d6fd1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFJvYm90aWNzJTIwRXhwbyUyMDIwMjR8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=robotics_expo&imgurl=https%3A%2F%2Fmarketing.wtwhmedia.com%2Fwp-content%2Fuploads%2F2022%2F01%2Frobotics-summit-2022b.jpg&imgrefurl=https%3A%2F%2Fmarketing.wtwhmedia.com%2Frobotics-summit-expo-returns-to-boston-in-may-2022%2F&docid=dn6JAu7Si5ObPM&tbnid=X9MQKhaGiGjQFM&vet=12ahUKEwijorrZl_SFAxVHm1YBHYNmAv0QM3oECHwQAA..i&w=740&h=400&hcb=2&ved=2ahUKEwijorrZl_SFAxVHm1YBHYNmAv0QM3oECHwQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "34",
@@ -31739,29 +31859,30 @@
       "address": "AI Research Institute, 300 Machine Learning Ave, San Jose, CA",
       "startTime": "9:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 69.99,
+      "ticketPrice": {
+        "adults": 69.99,
+        "children": 49.99,
+        "seniors": 59.99
+      },
       "eventType": "AI Symposium",
       "parking": "Street parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-121.8863",
+      "latitude": "37.3382",
       "contact": "1-877-987-6543",
       "website": "www.aisymposium.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1503039153293-d4d2ba067754?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE4fHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1553675559-5046b59a5ca5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RnV0dXJpc3RpY3xlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "7-8 hours",
       "special_instructions": "Attendees are encouraged to bring laptops for interactive sessions.",
-      "images": [
-        "/images/i_ai_ml_symposium.jpg",
-        "https://images.unsplash.com/photo-1553675559-5046b59a5ca5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RnV0dXJpc3RpY3xlbnwwfHwwfHx8MA%3D%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Futuristic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1503039153293-d4d2ba067754?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE4fHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=AI%20and%20Machine%20Learning%20Symposium&imgurl=https%3A%2F%2Fbloximages.chicago2.vip.townnews.com%2Fnewscenter1.tv%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2Fe%2F26%2Fe26c7301-d397-5e7b-8026-e5b20c02c30e%2F64369cc9c00e9.image.jpg%3Fcrop%3D1280%252C672%252C0%252C144%26resize%3D1200%252C630%26order%3Dcrop%252Cresize&imgrefurl=https%3A%2F%2Fwww.newscenter1.tv%2Fnews%2Fai-symposium-at-usd-bridging-academia-industry-and-government%2Farticle_1ca69c82-f5bf-11ee-a59b-df03bd0221dd.html&docid=xNLY0f31oy5D2M&tbnid=0sFF3ig_q8wV7M&vet=12ahUKEwjm7c-QmPSFAxUzr1YBHeCGBc84ChAzegQIFhAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwjm7c-QmPSFAxUzr1YBHeCGBc84ChAzegQIFhAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1553675559-5046b59a5ca5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RnV0dXJpc3RpY3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "35",
@@ -31771,29 +31892,30 @@
       "address": "AI Research Institute, 300 Machine Learning Ave, San Jose, CA",
       "startTime": "9:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 69.99,
+      "ticketPrice": {
+        "adults": 69.99,
+        "children": 59.99,
+        "senior": 49.99
+      },
       "eventType": "AI Symposium",
       "parking": "Street parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-121.886329",
+      "latitude": "37.335480",
       "contact": "1-877-987-6543",
       "website": "www.aisymposium.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1528030084539-15fe52c20f1b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQyfHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1559153290-13861520d6b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU1fHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QUklMjBzeW1wb3NpdW18ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "7-8 hours",
       "special_instructions": "Attendees are encouraged to bring laptops for interactive sessions.",
-      "images": [
-        "/images/i_ai_ml_symposium.jpg",
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QUklMjBzeW1wb3NpdW18ZW58MHx8MHx8fDA%3D"
-      ],
       "bookingDetails": [],
       "eventCategory": "Futuristic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1528030084539-15fe52c20f1b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQyfHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1559153290-13861520d6b7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU1fHxBSSUyMGFuZCUyME1hY2hpbmUlMjBMZWFybmluZyUyMFN5bXBvc2l1bXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=AI%20and%20Machine%20Learning%20Symposium&imgurl=https%3A%2F%2Fwww.aut.ac.nz%2F__data%2Fassets%2Fimage%2F0011%2F806177%2Fai-comes-for-you.jpg&imgrefurl=https%3A%2F%2Fwww.aut.ac.nz%2Fnews%2Fstories%2Faut-hosts-ai-communication-symposium&docid=f973szSBqDcV2M&tbnid=rqXqN5MyFErC6M&vet=12ahUKEwi9oNKgmfSFAxVjrlYBHWHlBsYQM3oECDcQAA..i&w=850&h=567&hcb=2&ved=2ahUKEwi9oNKgmfSFAxVjrlYBHWHlBsYQM3oECDcQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QUklMjBzeW1wb3NpdW18ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "36",
@@ -31803,29 +31925,30 @@
       "address": "Barnes & Noble, 800 Boylston St, Boston, MA",
       "startTime": "6:00 pm",
       "endTime": "8:00 pm",
-      "ticketPrice": 9.99,
+      "ticketPrice": {
+        "adults": 9.99,
+        "children": 5.99,
+        "senior": 6.99
+      },
       "eventType": "Reading",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-71.0763",
+      "latitude": "42.3474",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1706061118695-5c6cc28e418d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Qm9vayUyMFJlYWRpbmclMjAlMjYlMjBTaWduaW5nfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1706061116317-b4fe9d6f8cc2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Qm9vayUyMFJlYWRpbmclMjAlMjYlMjBTaWduaW5nfGVufDB8fDB8fHww",
-      "eventImage_c": "https://plus.unsplash.com/premium_photo-1682091493935-92c0132215d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGxpdGVyYXR1cmUlMjBhbmQlMjB3cml0aW5nfGVufDB8fDB8fHww",
+      "website": "www.example.com",
       "ticket_limit": 8,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": [
-        "/images/i_literature_writing_singing.jpg",
-        "https://plus.unsplash.com/premium_photo-1682091493935-92c0132215d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGxpdGVyYXR1cmUlMjBhbmQlMjB3cml0aW5nfGVufDB8fDB8fHww"
-      ],
       "bookingDetails": [],
       "eventCategory": "Literature & Writing",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1706061118695-5c6cc28e418d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Qm9vayUyMFJlYWRpbmclMjAlMjYlMjBTaWduaW5nfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1706061116317-b4fe9d6f8cc2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Qm9vayUyMFJlYWRpbmclMjAlMjYlMjBTaWduaW5nfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=song%20writing&imgurl=https%3A%2F%2Fwww.supremetracks.com%2Fwp-content%2Fuploads%2F2022%2F07%2F7-Mistakes-to-Avoid-When-Trying-to-Write-a-Hit-Song.jpeg&imgrefurl=https%3A%2F%2Fwww.supremetracks.com%2F7-mistakes-to-avoid-when-trying-to-write-a-hit-song%2F&docid=5-01o4xNDDFTMM&tbnid=ZxXdoJLvaWdAPM&vet=12ahUKEwi7pNeCmvSFAxXis1YBHdenBigQM3oECBsQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwi7pNeCmvSFAxXis1YBHdenBigQM3oECBsQAA",
+      "eventImage_c": "https://plus.unsplash.com/premium_photo-1682091493935-92c0132215d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGxpdGVyYXR1cmUlMjBhbmQlMjB3cml0aW5nfGVufDB8fDB8fHww"
     },
     {
       "id": "37",
@@ -31835,26 +31958,30 @@
       "address": "The Poetry Lounge, 123 Main St, Chicago, IL",
       "startTime": "7:30 pm",
       "endTime": "9:30 pm",
-      "ticketPrice": 14.99,
+      "ticketPrice": {
+        "adults": 14.99,
+        "children": 9.99,
+        "senior": 11.99
+      },
       "eventType": "Poetry Slam",
       "parking": "Street parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-87.6244",
+      "latitude": "41.8781",
       "contact": "1-800-555-6789",
       "website": "www.poetryslamnight.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1505322022379-7c3353ee6291?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UG9ldHJ5JTIwU2xhbSUyME5pZ2h0fGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1515705576963-95cad62945b6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fFBvZXRyeSUyMFNsYW0lMjBOaWdodHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1516069213778-f52c5ac638fc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODV8fHBvZXRyeSUyMHNsYW0lMjBuaWdodHxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 6,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "2 hours",
       "special_instructions": "Participants are welcome to perform their own poems or enjoy the performances.",
-      "images": ["/images/i_poetry_slam.jpg", "/images/c_poetry_slam.jpeg"],
       "bookingDetails": [],
       "eventCategory": "Literature & Writing",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1505322022379-7c3353ee6291?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UG9ldHJ5JTIwU2xhbSUyME5pZ2h0fGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1515705576963-95cad62945b6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fFBvZXRyeSUyMFNsYW0lMjBOaWdodHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=Poetry%20Slam%20Night&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1708482985%2Fphoto%2Fpoetry-night.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DAkUsNFa-A1F7Qht8EJC0gYTCpVgD2rz-YrikDBq8Z-Q%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fpoetry-slam&docid=Nc6rVupga_QeDM&tbnid=8dGmmWkq9AbLZM&vet=12ahUKEwi4nMG0mvSFAxW8gFYBHdYmC0oQM3oECHcQAA..i&w=612&h=377&hcb=2&ved=2ahUKEwi4nMG0mvSFAxW8gFYBHdYmC0oQM3oECHcQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1516069213778-f52c5ac638fc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODV8fHBvZXRyeSUyMHNsYW0lMjBuaWdodHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "38",
@@ -31864,29 +31991,30 @@
       "address": "Creative Minds Center, 200 Writing Way, San Francisco, CA",
       "startTime": "10:00 am",
       "endTime": "3:00 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "children": 39.99,
+        "senior": 44.99
+      },
       "eventType": "Workshop",
       "parking": "Paid parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-122.4194",
+      "latitude": "37.7749",
       "contact": "1-888-123-4567",
       "website": "www.writingworkshop2024.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V3JpdGluZyUyMFdvcmtzaG9wJTNBJTIwVW5sb2NrJTIwWW91ciUyMENyZWF0aXZpdHl8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1494883759339-0b042055a4ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fFdyaXRpbmclMjBXb3Jrc2hvcCUzQSUyMFVubG9jayUyMFlvdXIlMjBDcmVhdGl2aXR5fGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHdyaXRpbmclMjB3b3JrJTIwc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 10,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "5 hours",
       "special_instructions": "Bring your writing materials and be ready to participate in writing exercises.",
-      "images": [
-        "/images/i_writing_workshop.jpg",
-        "/images/c_writing_workshop.jpeg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Literature & Writing",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V3JpdGluZyUyMFdvcmtzaG9wJTNBJTIwVW5sb2NrJTIwWW91ciUyMENyZWF0aXZpdHl8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1494883759339-0b042055a4ee?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fFdyaXRpbmclMjBXb3Jrc2hvcCUzQSUyMFVubG9jayUyMFlvdXIlMjBDcmVhdGl2aXR5fGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=writing_workshop&imgurl=https%3A%2F%2Fwww.thecurriculumcorner.com%2Fthecurriculumcorner123%2Fwp-content%2Fuploads%2F2019%2F11%2Fwriting-workshop-1.jpg.webp&imgrefurl=https%3A%2F%2Fwww.thecurriculumcorner.com%2Fthecurriculumcorner123%2Fwriting-workshop%2F&docid=C_J6zFzrekVWkM&tbnid=3y9puwGKt6YBuM&vet=12ahUKEwjUl63zmvSFAxVCoK8BHWL5BoIQM3oECFQQAA..i&w=800&h=469&hcb=2&ved=2ahUKEwjUl63zmvSFAxVCoK8BHWL5BoIQM3oECFQQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHdyaXRpbmclMjB3b3JrJTIwc2hvcHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "39",
@@ -31896,26 +32024,30 @@
       "address": "Book Haven, 500 Author Ave, New York, NY",
       "startTime": "6:30 pm",
       "endTime": "8:30 pm",
-      "ticketPrice": 19.99,
+      "ticketPrice": {
+        "adults": 19.99,
+        "children": 14.99,
+        "senior": 17.99
+      },
       "eventType": "Panel Discussion",
       "parking": "Nearby parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-74.0060",
+      "latitude": "40.7128",
       "contact": "1-877-987-6543",
       "website": "www.authorpaneldiscussion.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1529405730888-1e9ce6b74bc3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fEF1dGhvciUyMFBhbmVsJTNBJTIwSW5zaWdodHMlMjBpbnRvJTIwQmVzdHNlbGxlcnN8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1574080266353-874b83b9b984?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fEF1dGhvciUyMFBhbmVsJTNBJTIwSW5zaWdodHMlMjBpbnRvJTIwQmVzdHNlbGxlcnN8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1521316973612-36489899f29b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fHdyaXRpbmclMjB3b3JrJTIwc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
       "ticket_limit": 8,
       "age_limit": "18+ only",
       "event_time": "2 hours",
       "special_instructions": "Get your questions ready for the panelists and enjoy insightful discussions.",
-      "images": ["/images/i_author_panel.jpg", "/images/c_author_panel.jpeg"],
       "bookingDetails": [],
       "eventCategory": "Literature & Writing",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1529405730888-1e9ce6b74bc3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fEF1dGhvciUyMFBhbmVsJTNBJTIwSW5zaWdodHMlMjBpbnRvJTIwQmVzdHNlbGxlcnN8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1574080266353-874b83b9b984?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fEF1dGhvciUyMFBhbmVsJTNBJTIwSW5zaWdodHMlMjBpbnRvJTIwQmVzdHNlbGxlcnN8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=author_panel&imgurl=https%3A%2F%2Flumiere-a.akamaihd.net%2Fv1%2Fimages%2F59d942938e158b0001927b09-image_0cbe6541.jpeg%3Fregion%3D0%2C0%2C1536%2C864%26width%3D768&imgrefurl=https%3A%2F%2Fwww.starwars.com%2Fnews%2Fnycc-2017-highlights-from-a-certain-point-of-view-author-panel&docid=UcSLKhu_edm5iM&tbnid=2-w7ByZzTK-LNM&vet=12ahUKEwj2gIy2nPSFAxVHiq8BHaL4BxM4FBAzegQILRAA..i&w=768&h=432&hcb=2&ved=2ahUKEwj2gIy2nPSFAxVHiq8BHaL4BxM4FBAzegQILRAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1521316973612-36489899f29b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fHdyaXRpbmclMjB3b3JrJTIwc2hvcHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "40",
@@ -31925,26 +32057,30 @@
       "address": "Denver Convention Center, 700 14th St, Denver, CO",
       "startTime": "9:00 am",
       "endTime": "5:00 pm",
-      "ticketPrice": 29.99,
+      "ticketPrice": {
+        "adults": 29.99,
+        "children": 24.99,
+        "senior": 27.99
+      },
       "eventType": "Expo",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-104.9876",
+      "latitude": "39.7392",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJhdmVsaW5nfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1687653079484-12a596ddf7a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJhdmVsaW5nfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHJhdmVsJTIwYW5kJTIwd29ya2luZ3xlbnwwfHwwfHx8MA%3D%3D",
+      "website": "www.adventuretravelexpo.com",
       "ticket_limit": 8,
       "age_limit": "Environment Friendly",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": ["/images/i_travel_adventure.webp", "/images/c_adventure.avif"],
       "bookingDetails": [],
       "eventCategory": "Travel & Adventure",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJhdmVsaW5nfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://plus.unsplash.com/premium_photo-1687653079484-12a596ddf7a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJhdmVsaW5nfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=Adventure%20Travel%20Expo&imgurl=https%3A%2F%2Fwww.thestatesman.com%2Fwp-content%2Fuploads%2F2017%2F08%2F1481880240-travel-926.jpg&imgrefurl=https%3A%2F%2Fwww.thestatesman.com%2Fbusiness%2Fkarnataka-host-international-travel-expo-feb-march-1502556065.html&docid=g5RS8IKmtgvkyM&tbnid=mDCXGJ36LsK9EM&vet=12ahUKEwiQxLPjnPSFAxWkafUHHRNRAV8QM3oECE0QAA..i&w=926&h=502&hcb=2&ved=2ahUKEwiQxLPjnPSFAxWkafUHHRNRAV8QM3oECE0QAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHJhdmVsJTIwYW5kJTIwd29ya2luZ3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "id": "41",
@@ -31954,29 +32090,30 @@
       "address": "Wilderness Retreat Center, 123 Nature Trail, Yosemite National Park, CA",
       "startTime": "10:00 am",
       "endTime": "4:00 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "children": 39.99,
+        "senior": 44.99
+      },
       "eventType": "Workshop",
       "parking": "On-site parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-119.5383",
+      "latitude": "37.8651",
       "contact": "1-800-555-1234",
       "website": "www.naturephotoworkshop.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1647346817343-bd26d9a8de72?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmF0dXJlJTIwUGhvdG9ncmFwaHklMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1647346880009-a731e8e6a0a4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TmF0dXJlJTIwUGhvdG9ncmFwaHklMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1637580680025-8cf56a0f0c63?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRyYXZlbCUyMGFuZCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 12,
       "age_limit": "Environment Friendly",
       "event_time": "6 hours",
       "special_instructions": "Bring your camera equipment and comfortable outdoor clothing.",
-      "images": [
-        "/images/i_nature_photography.jpg",
-        "/images/c_photography_workshop.jpg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Travel & Adventure",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1647346817343-bd26d9a8de72?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmF0dXJlJTIwUGhvdG9ncmFwaHklMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1647346880009-a731e8e6a0a4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TmF0dXJlJTIwUGhvdG9ncmFwaHklMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=Nature%20Photography%20Workshop&imgurl=https%3A%2F%2Fs33944.pcdn.co%2Fwp-content%2Fuploads%2Fphoto-1-scaled.jpg&imgrefurl=https%3A%2F%2Fselby.org%2Fevents%2Fintroduction-to-nature-photography-photography-workshop-2-836%2F&docid=7V8OaxZmPh3KTM&tbnid=Mp5T7fonLlO0BM&vet=12ahUKEwjCgO2hnfSFAxXIiK8BHUSsA-gQM3oFCIEBEAA..i&w=2560&h=1312&hcb=2&itg=1&ved=2ahUKEwjCgO2hnfSFAxXIiK8BHUSsA-gQM3oFCIEBEAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1637580680025-8cf56a0f0c63?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRyYXZlbCUyMGFuZCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "42",
@@ -31986,29 +32123,30 @@
       "address": "Adventure Park, 100 Adrenaline Blvd, Moab, UT",
       "startTime": "11:00 am",
       "endTime": "7:00 pm",
-      "ticketPrice": 79.99,
+      "ticketPrice": {
+        "adults": 79.99,
+        "children": 69.99,
+        "senior": 74.99
+      },
       "eventType": "Sports Event",
       "parking": "Ample parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-109.5463",
+      "latitude": "38.5733",
       "contact": "1-877-555-4321",
       "website": "www.extremesportschallenge.com",
-      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1661963517045-f3ad4911bf4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RXh0cmVtZSUyMFNwb3J0cyUyMENoYWxsZW5nZXxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1611692735794-004d15ae2358?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEV4dHJlbWUlMjBTcG9ydHMlMjBDaGFsbGVuZ2V8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1652553191432-d5ba50fd1d2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHRyYXZlbCUyMGFuZCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 10,
       "age_limit": "Environment Friendly",
       "event_time": "8 hours",
       "special_instructions": "Participants must sign liability waivers before engaging in activities.",
-      "images": [
-        "/images/i_extreme_sports_challenge.jpg",
-        "/images/c_extreme_sports.jpg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Travel & Adventure",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://plus.unsplash.com/premium_photo-1661963517045-f3ad4911bf4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RXh0cmVtZSUyMFNwb3J0cyUyMENoYWxsZW5nZXxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1611692735794-004d15ae2358?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEV4dHJlbWUlMjBTcG9ydHMlMjBDaGFsbGVuZ2V8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=xtreme_sports_challenge&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F020%2F011%2F732%2Fnon_2x%2Fextreme-sports-ads-free-editor_template.jpeg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ftemplate%2F20011732-extreme-sports-ads&docid=EqryM9MFJgcUmM&tbnid=gYKbkA4uIKY1mM&vet=12ahUKEwjJjJ_WnfSFAxU3bfUHHawzCgsQM3oECHIQAA..i&w=1873&h=980&hcb=2&ved=2ahUKEwjJjJ_WnfSFAxU3bfUHHawzCgsQM3oECHIQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1652553191432-d5ba50fd1d2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHRyYXZlbCUyMGFuZCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "43",
@@ -32018,29 +32156,30 @@
       "address": "Adventure Park, 100 Adrenaline Blvd, Moab, UT",
       "startTime": "11:00 am",
       "endTime": "7:00 pm",
-      "ticketPrice": 79.99,
+      "ticketPrice": {
+        "adults": 79.99,
+        "children": 59.99,
+        "senior": 69.99
+      },
       "eventType": "Sports Event",
       "parking": "Ample parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-111.890279",
+      "latitude": "38.573315",
       "contact": "1-877-555-4321",
       "website": "www.extremesportschallenge.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1542319281-2a3772c20dfc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fEV4dHJlbWUlMjBTcG9ydHMlMjBDaGFsbGVuZ2V8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1593013820725-ca0b6076576f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fEV4dHJlbWUlMjBTcG9ydHMlMjBDaGFsbGVuZ2V8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1637580680025-8cf56a0f0c63?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRyYXZlbCUyMGFuZCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 10,
       "age_limit": "18+ only",
       "event_time": "8 hours",
       "special_instructions": "Participants must sign liability waivers before engaging in activities.",
-      "images": [
-        "/images/i_extreme_sports_challenge.jpg",
-        "/images/c_extreme_sports.jpg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Travel & Adventure",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1542319281-2a3772c20dfc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fEV4dHJlbWUlMjBTcG9ydHMlMjBDaGFsbGVuZ2V8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1593013820725-ca0b6076576f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fEV4dHJlbWUlMjBTcG9ydHMlMjBDaGFsbGVuZ2V8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=i_extreme_sports_challenge.jpg&imgurl=https%3A%2F%2Fcdn.statically.io%2Fimg%2Fawe365.com%2Fwp-content%2Fuploads%2F2013%2F07%2FExtreme-Sports-wing-suit-flying-cc-Wikimedia-commons-image-Ocean_Wingsuit_Formation_6366966219-1024x566.jpg%3Fquality%3D100%26f%3Dauto&imgrefurl=https%3A%2F%2Fawe365.com%2Ftop-100-types-of-extreme-sport-ultimate-list-of-adventure-sports%2F&docid=97y_KI2uzhMKKM&tbnid=gHTCcSwcow3MFM&vet=12ahUKEwj174v2nfSFAxXzh68BHdM2CU8QM3oECBMQAA..i&w=1024&h=566&hcb=2&ved=2ahUKEwj174v2nfSFAxXzh68BHdM2CU8QM3oECBMQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1637580680025-8cf56a0f0c63?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fHRyYXZlbCUyMGFuZCUyMHdvcmtpbmd8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "44",
@@ -32050,30 +32189,31 @@
       "address": "456 5th Avenue, New York, NY",
       "startTime": "7:30 pm",
       "endTime": "9:30 pm",
-      "ticketPrice": 39.99,
+      "ticketPrice": {
+        "adults": 39.99,
+        "children": 33.00,
+        "seniors": 29.99
+      },
       "eventType": "Magic show",
       "parking": "Street parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.9814",
+      "latitude": "40.7644",
       "contact": "1-800-555-5678",
       "website": "www.magicalnyc.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1602325978196-37650f5d3203?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fE1hZ2ljYWwlMjBFdmVuaW5nJTIwaW4lMjBOWUN8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1597486367383-0e16d18eb65f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fE1hZ2ljYWwlMjBFdmVuaW5nJTIwaW4lMjBOWUN8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1556195332-95503f664ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnaWMlMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 4,
       "age_limit": "18+ only",
       "event_time": "2 hours",
       "special_instructions": "Please arrive 30 minutes early for seating. No flash photography allowed during the performance.",
       "seatAvailable": 200,
-      "images": [
-        "/images/i_NYC_Magic_Show.jpg",
-        "/images/c_NYC_Magic_Show.jpeg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Magic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1602325978196-37650f5d3203?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fE1hZ2ljYWwlMjBFdmVuaW5nJTIwaW4lMjBOWUN8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1597486367383-0e16d18eb65f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fE1hZ2ljYWwlMjBFdmVuaW5nJTIwaW4lMjBOWUN8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=NYC_Magic_Show&imgurl=https%3A%2F%2Fcdn5.f-cdn.com%2Fcontestentries%2F1495087%2F19187640%2F5cc9cac6a5fa3_thumb900.jpg&imgrefurl=https%3A%2F%2Fwww.freelancer.hk%2Fcontest%2Fth-anniversary-logo-for-nyc-magic-show-1495087-byentry-27918737&docid=9GbciiziKx8uEM&tbnid=CekY3D-aw7XsGM&vet=12ahUKEwiyr9qwnvSFAxW8kK8BHa-uDB0QM3oECBEQAA..i&w=900&h=600&hcb=2&itg=1&ved=2ahUKEwiyr9qwnvSFAxW8kK8BHa-uDB0QM3oECBEQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1556195332-95503f664ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnaWMlMjBzaG93fGVufDB8fDB8fHww"
     },
     {
       "id": "45",
@@ -32083,27 +32223,31 @@
       "address": "Grand Ballroom, 123 Enchantment Blvd, Fairyland, NY",
       "startTime": "8:00 pm",
       "endTime": "10:00 pm",
-      "ticketPrice": 59.99,
+      "ticketPrice": {
+        "adults": 59.99,
+        "children": 39.99,
+        "seniors": 49.99
+      },
       "eventType": "Magic Gala",
       "parking": "Valet parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.9360",
+      "latitude": "40.7128",
       "contact": "1-888-123-4567",
       "website": "www.enchantedmagicgala.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1510759591315-6425cba413fe?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RW5jaGFudGVkJTIwTWFnaWMlMjBHYWxhfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1504802469493-cad9b622c4f7?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RW5jaGFudGVkJTIwTWFnaWMlMjBHYWxhfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1505641326491-9ea2ad356c94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "ticket_limit": 6,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "2 hours",
       "special_instructions": "Formal attire required. No entry after the performance starts.",
       "seatAvailable": 300,
-      "images": ["/images/i_magic_gala.jpg", "/images/c_magic_gala.jpeg"],
       "bookingDetails": [],
       "eventCategory": "Magic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1510759591315-6425cba413fe?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RW5jaGFudGVkJTIwTWFnaWMlMjBHYWxhfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1504802469493-cad9b622c4f7?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RW5jaGFudGVkJTIwTWFnaWMlMjBHYWxhfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?q=Enchanted%20Magic%20Gala&imgurl=https%3A%2F%2Fwww.papercitymag.com%2Fwp-content%2Fuploads%2F2023%2F11%2FEnchanted-Evening_1200x800.jpg&imgrefurl=https%3A%2F%2Fwww.papercitymag.com%2Fevents%2Fknowautism-an-enchanted-evening-gala%2F&docid=DD0TrKjjAP62jM&tbnid=A0n34b-Iwo2IrM&vet=12ahUKEwjm-eXpnvSFAxV5UPUHHf6DATsQM3oECBkQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwjm-eXpnvSFAxV5UPUHHf6DATsQM3oECBkQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1505641326491-9ea2ad356c94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": "46",
@@ -32113,30 +32257,31 @@
       "address": "Magic Academy, 789 Wizardry Lane, Mystic City, CA",
       "startTime": "11:00 am",
       "endTime": "3:00 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "children": 14.99,
+        "seniors": 39.99
+      },
       "eventType": "Magic Workshop",
       "parking": "Free parking on-site",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-118.2437",
+      "latitude": "34.0522",
       "contact": "1-877-987-6543",
       "website": "www.mysticalmagicworkshop.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1508931133503-b1944a4ecdd5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE15c3RpY2FsJTIwTWFnaWMlMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1475738384599-8cf3db232ffa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fE15c3RpY2FsJTIwTWFnaWMlMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1556195332-95503f664ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnaWMlMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 8,
       "age_limit": "Kids/Family-Friendly",
       "event_time": "4 hours",
       "special_instructions": "Bring your own magic props and be ready to learn.",
       "seatAvailable": 50,
-      "images": [
-        "/images/i_magic_workshop.jpg",
-        "/images/c_magic_workshop.jpeg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Magic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1508931133503-b1944a4ecdd5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE15c3RpY2FsJTIwTWFnaWMlMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1475738384599-8cf3db232ffa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fE15c3RpY2FsJTIwTWFnaWMlMjBXb3Jrc2hvcHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=magic_workshop&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D751611045819061&imgrefurl=https%3A%2F%2Fm.facebook.com%2FTheMagicWorkshopOfficial%2F&docid=fyDRhZS_U-Bo-M&tbnid=wL-qieAgER-aCM&vet=12ahUKEwirhYaxn_SFAxUDmlYBHeFkAQUQM3oECH4QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwirhYaxn_SFAxUDmlYBHeFkAQUQM3oECH4QAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1556195332-95503f664ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnaWMlMjBzaG93fGVufDB8fDB8fHww"
     },
     {
       "id": "47",
@@ -32146,27 +32291,31 @@
       "address": "Holiday Theater, 123 Miracle Lane, North Pole, AK",
       "startTime": "6:30 pm",
       "endTime": "8:30 pm",
-      "ticketPrice": 44.99,
+      "ticketPrice": {
+        "adults": 44.99,
+        "children": 29.99,
+        "seniors": 34.99
+      },
       "eventType": "Holiday Magic Show",
       "parking": "Free parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-149.4937",
+      "latitude": "64.2008",
       "contact": "1-877-123-7890",
       "website": "www.magicalholidayspectacular.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1482330454287-3cf6611d0bc9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fE1hZ2ljYWwlMjBIb2xpZGF5JTIwU3BlY3RhY3VsYXJ8ZW58MHx8MHx8fDA%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1481271134264-c373cb29cf60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fE1hZ2ljYWwlMjBIb2xpZGF5JTIwU3BlY3RhY3VsYXJ8ZW58MHx8MHx8fDA%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1556195332-95503f664ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnaWMlMjBzaG93fGVufDB8fDB8fHww",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "2 hours",
       "special_instructions": "Wear your holiday attire for a chance to win prizes.",
       "seatAvailable": 150,
-      "images": ["/images/i_holiday_magic.jpg", "/images/c_holiday_magic.jpeg"],
       "bookingDetails": [],
       "eventCategory": "Magic",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1482330454287-3cf6611d0bc9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fE1hZ2ljYWwlMjBIb2xpZGF5JTIwU3BlY3RhY3VsYXJ8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1481271134264-c373cb29cf60?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fE1hZ2ljYWwlMjBIb2xpZGF5JTIwU3BlY3RhY3VsYXJ8ZW58MHx8MHx8fDA%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=Magical%20Holiday%20Spectacular&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMDAyMThiNzQtYzlmMS00MWViLWE0NGItOGQwNGNlODYzMjQxXkEyXkFqcGdeQXVyMTY1MDgxNzA3._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt11246990%2F&docid=MVPHV_i4OY82MM&tbnid=DZk-eNNdb7qOBM&vet=12ahUKEwjfjNihoPSFAxWacvUHHd73B6AQM3oECBYQAA..i&w=1000&h=410&hcb=2&ved=2ahUKEwjfjNihoPSFAxWacvUHHd73B6AQM3oECBYQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1556195332-95503f664ced?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFnaWMlMjBzaG93fGVufDB8fDB8fHww"
     },
     {
       "id": "48",
@@ -32176,26 +32325,30 @@
       "address": "Various locations in New York City, NY",
       "startTime": "12:00 pm",
       "endTime": "10:00  pm",
-      "ticketPrice": 79.99,
+      "ticketPrice": {
+        "adults": 79.99,
+        "children": 49.99,
+        "seniors": 69.99
+      },
       "eventType": "Festival",
       "parking": "Not available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-73.935242",
+      "latitude": "40.730610",
       "contact": "1-866-983-4279",
-      "website": "",
-      "event_details_image_1": "https://images.unsplash.com/photo-1454334281609-87a89762912c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEwfHxOZXclMjBZb3JrJTIwRm9vZCUyMCUyNiUyMFdpbmUlMjBGZXN0aXZhTHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1511910849309-0dffb8785146?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE3fHxOZXclMjBZb3JrJTIwRm9vZCUyMCUyNiUyMFdpbmUlMjBGZXN0aXZhTHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RmluZSUyMERpbmV8ZW58MHx8MHx8fDA%3D",
+      "website": "www.nycfoodwinefest.com",
       "ticket_limit": 8,
       "age_limit": "21+ only",
       "event_time": "2-3 hours",
       "special_instructions": "Important - Bring Passport as proof of ID, drinks, backpacks, selfie sticks are strictly prohibited",
-      "images": ["/images/i_NY_food_wine.jpg", "/images/c_food_wine.jpg"],
       "bookingDetails": [],
       "eventCategory": "Food & Beverage",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1454334281609-87a89762912c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEwfHxOZXclMjBZb3JrJTIwRm9vZCUyMCUyNiUyMFdpbmUlMjBGZXN0aXZhTHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1511910849309-0dffb8785146?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE3fHxOZXclMjBZb3JrJTIwRm9vZCUyMCUyNiUyMFdpbmUlMjBGZXN0aXZhTHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=New%20York%20Food%20%26%20Wine%20Festival&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5c213a383c3a53bf091b1c36%2Facd5acef-75da-48be-8ca2-0793f2edaaa2%2Fgods%2Blove_digital-1200x627_nycwff23-b.jpeg&imgrefurl=https%3A%2F%2Fwww.averagesocialite.com%2Fnyc-events%2F2023%2F10%2F13%2Fnew-york-city-wine-amp-food-festival-nycwff-2023-nyc&docid=jR2i4uu1bRSoXM&tbnid=MnhoQBPu5DOs5M&vet=12ahUKEwiks9fAoPSFAxUuYfUHHdOQBq8QM3oECEkQAA..i&w=1200&h=627&hcb=2&ved=2ahUKEwiks9fAoPSFAxUuYfUHHdOQBq8QM3oECEkQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8RmluZSUyMERpbmV8ZW58MHx8MHx8fDA%3D%3D"
     },
     {
       "id": "49",
@@ -32205,29 +32358,30 @@
       "address": "Downtown Plaza, 123 Foodie Street, Culinary City, CA",
       "startTime": "11:00 am",
       "endTime": "7:00 pm",
-      "ticketPrice": 49.99,
+      "ticketPrice": {
+        "adults": 49.99,
+        "children": 29.99,
+        "seniors": 39.99
+      },
       "eventType": "Street Food Festival",
       "parking": "Free parking available nearby",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-118.2427",
+      "latitude": "34.0522",
       "contact": "1-888-555-7890",
       "website": "www.internationalstreetfood.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1664033613955-7f95126dda2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SW50ZXJuYXRpb25hbCUyMFN0cmVldCUyMEZvb2QlMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SW50ZXJuYXRpb25hbCUyMFN0cmVldCUyMEZvb2QlMjBGZXN0aXZhTHxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1519756719377-e084f8333a83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fEZpbmUlMjBEaW5lfGVufDB8fDB8fHww",
       "ticket_limit": 6,
       "age_limit": "21+ only",
       "event_time": "8 hours",
       "special_instructions": "Come hungry and ready to savor global flavors.",
-      "images": [
-        "/images/i_street_food_festival.jpg",
-        "/images/c_street_food_festival.jpeg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Food & Beverage",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1664033613955-7f95126dda2a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SW50ZXJuYXRpb25hbCUyMFN0cmVldCUyMEZvb2QlMjBGZXN0aXZhbHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SW50ZXJuYXRpb25hbCUyMFN0cmVldCUyMEZvb2QlMjBGZXN0aXZhTHxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=Street%20Food%20Festival&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3248773872447185686&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fnationalstreetfoodfest%2F&docid=I7G8-QKYVe7JPM&tbnid=-bA8AsoryWDH-M&vet=12ahUKEwjt4e2IofSFAxU0k1YBHRNgBFEQM3oECHwQAA..i&w=720&h=406&hcb=2&ved=2ahUKEwjt4e2IofSFAxU0k1YBHRNgBFEQM3oECHwQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1519756719377-e084f8333a83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fEZpbmUlMjBEaW5lfGVufDB8fDB8fHww"
     },
     {
       "id": "50",
@@ -32237,29 +32391,30 @@
       "address": "Vineyard Gallery, 456 Artistry Ave, Wineville, CA",
       "startTime": "5:00 pm",
       "endTime": "9:00 pm",
-      "ticketPrice": 69.99,
+      "ticketPrice": {
+        "adults": 69.99,
+        "children": 49.99,
+        "seniors": 59.99
+      },
       "eventType": "Wine & Art Event",
       "parking": "Complimentary valet parking",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-118.3875",
+      "latitude": "33.7490",
       "contact": "1-800-123-4567",
       "website": "www.winetastingandart.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fFdpbmUlMjBUYXN0aW5nJTIwYW5kJTIwQXJ0JTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
-      "event_details_image_2": "https://images.unsplash.com/photo-1580136607986-df0f19794f41?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fFdpbmUlMjBUYXN0aW5nJTIwYW5kJTIwQXJ0JTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
-      "eventImage_c": "https://images.unsplash.com/photo-1589385973461-eaa9b0ae2830?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZvb2QlMjBhbmQlMjBiZXZlcmFnZXN8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 4,
       "age_limit": "21+ only",
       "event_time": "4 hours",
       "special_instructions": "Must be 21 or older to participate in wine tasting.",
-      "images": [
-        "/images/i_wine_tasting_art.jpg",
-        "/images/c_wine_tasting_art.jpeg"
-      ],
       "bookingDetails": [],
       "eventCategory": "Food & Beverage",
       "location": "New York",
-      "booked_seats": []
+      "booked_seats": [],
+      "event_details_image_1": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fFdpbmUlMjBUYXN0aW5nJTIwYW5kJTIwQXJ0JTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_2": "https://images.unsplash.com/photo-1580136607986-df0f19794f41?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fFdpbmUlMjBUYXN0aW5nJTIwYW5kJTIwQXJ0JTIwRXhoaWJpdGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "event_details_image_3": "https://www.google.com/imgres?q=Wine%20Tasting%20and%20Art%20Exhibition&imgurl=https%3A%2F%2Fcloverhillwines.com.au%2Fwp-content%2Fuploads%2FHadleys-Art-Prize-2.jpg&imgrefurl=https%3A%2F%2Fcloverhillwines.com.au%2Fhadleys-x-clover-hill-art-wine-masterclass%2F&docid=PourOVkpnCpRsM&tbnid=NvjyUDIsqoVdAM&vet=12ahUKEwi8wp-yofSFAxUgplYBHdIwBYQQM3oECGcQAA..i&w=1374&h=823&hcb=2&ved=2ahUKEwi8wp-yofSFAxUgplYBHdIwBYQQM3oECGcQAA",
+      "eventImage_c": "https://images.unsplash.com/photo-1589385973461-eaa9b0ae2830?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZvb2QlMjBhbmQlMjBiZXZlcmFnZXN8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": "51",
@@ -32269,25 +32424,22 @@
       "address": "Brewery Field, 789 Brewmaster Ave, Hopsville, TX",
       "startTime": "12:00 pm",
       "endTime": "8:00 pm",
-      "ticketPrice": 39.99,
+      "ticketPrice": {
+        "adults": 39.99,
+        "children": 29.99,
+        "seniors": 35.99
+      },
       "eventType": "Beer & BBQ Fest",
       "parking": "On-site parking available",
       "disability_parking": "Available",
-      "longitude": "",
-      "latitude": "",
+      "longitude": "-95.3633",
+      "latitude": "29.7633",
       "contact": "1-877-987-6543",
       "website": "www.beerandbbqfest.com",
-      "event_details_image_1": "https://images.unsplash.com/photo-1644447381357-3d8e57d5fba0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVlciUyMGFuZCUyMEJCUSUyMEZlc3RpdmFsfGVufDB8fDB8fHww",
-      "event_details_image_2": "https://images.unsplash.com/photo-1469488865564-c2de10f69f96?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmVlciUyMGFuZCUyMEJCUSUyMEZlc3RpdmFsfGVufDB8fDB8fHww",
-      "eventImage_c": "https://images.unsplash.com/photo-1584361749443-76c05e35e643?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGZvb2QlMjBhbmQlMjBiZXZlcmFnZXN8ZW58MHx8MHx8fDA%3D",
       "ticket_limit": 6,
       "age_limit": "21+ only",
       "event_time": "8 hours",
       "special_instructions": "Bring your appetite and enjoy live music and games.",
-      "images": [
-        "/images/i_beer_bbq_festival.jpg",
-        "/images/c_beer_bbq_festival.jpeg"
-      ],
       "bookingDetails": [
         {
           "fullName": "Sagar T Teradal",
@@ -32295,7 +32447,13 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "paypal",
-          "selected_seats": ["D6", "D7", "D8", "D9", "D10"]
+          "selected_seats": [
+            "D6",
+            "D7",
+            "D8",
+            "D9",
+            "D10"
+          ]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -32303,7 +32461,13 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "pay",
-          "selected_seats": ["C5", "C6", "C7", "C9", "C8"]
+          "selected_seats": [
+            "C5",
+            "C6",
+            "C7",
+            "C9",
+            "C8"
+          ]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -32311,25 +32475,56 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "paypal",
-          "selected_seats": ["A4", "A5", "A6", "A7", "A8", "A9"]
+          "selected_seats": [
+            "A4",
+            "A5",
+            "A6",
+            "A7",
+            "A8",
+            "A9"
+          ]
         },
         {
           "fullName": "Sagar T",
           "email": "sample@gmail.com",
           "paymentMethod": "paypal",
-          "selectedSeats": ["B4", "B5", "B6", "B7", "B8"],
+          "selectedSeats": [
+            "B4",
+            "B5",
+            "B6",
+            "B7",
+            "B8"
+          ],
           "totalPrice": 199.95000000000002,
           "convenienceFee": 10,
-          "selected_seats": ["B4", "B5", "B6", "B7", "B8"]
+          "selected_seats": [
+            "B4",
+            "B5",
+            "B6",
+            "B7",
+            "B8"
+          ]
         },
         {
           "fullName": "telugu",
           "email": "sanple@gmail.com",
           "paymentMethod": "paypal",
-          "selectedSeats": ["E7", "E8", "E9", "E5", "E6"],
+          "selectedSeats": [
+            "E7",
+            "E8",
+            "E9",
+            "E5",
+            "E6"
+          ],
           "totalPrice": 199.95000000000002,
           "convenienceFee": 10,
-          "selected_seats": ["E7", "E8", "E9", "E5", "E6"]
+          "selected_seats": [
+            "E7",
+            "E8",
+            "E9",
+            "E5",
+            "E6"
+          ]
         }
       ],
       "eventCategory": "Food & Beverage",
@@ -32361,7 +32556,11 @@
         "E9",
         "E5",
         "E6"
-      ]
+      ],
+      "event_details_image_1": "https://images.unsplash.com/photo-1644447381357-3d8e57d5fba0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVlciUyMGFuZCUyMEJCUSUyMEZlc3RpdmFsfGVufDB8fDB8fHww",
+      "event_details_image_2": "https://images.unsplash.com/photo-1469488865564-c2de10f69f96?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmVlciUyMGFuZCUyMEJCUSUyMEZlc3RpdmFsfGVufDB8fDB8fHww",
+      "event_details_image_3": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.carnifest.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fadelaide-beer-and-bbq-festival.jpg&tbnid=KJ1TNAhIFMtmKM&vet=10CAIQxiAoAGoXChMIqJ3P7qH0hQMVAAAAAB0AAAAAEBE..i&imgrefurl=https%3A%2F%2Fwww.carnifest.com%2Fadelaide-beer-and-bbq-festival-2024%2F&docid=R5IDcrOjvZFL0M&w=813&h=457&itg=1&q=Beer%20and%20BBQ%20Festival&ved=0CAIQxiAoAGoXChMIqJ3P7qH0hQMVAAAAAB0AAAAAEBE",
+      "eventImage_c": "https://images.unsplash.com/photo-1584361749443-76c05e35e643?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGZvb2QlMjBhbmQlMjBiZXZlcmFnZXN8ZW58MHx8MHx8fDA%3D"
     }
   ],
   "hearhere_fm_radio_stations": {

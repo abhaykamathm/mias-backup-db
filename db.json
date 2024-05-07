@@ -151,24 +151,84 @@
           "objective": "Send an Welcome Email Engagement to a newly added Member in the group"
         },
         {
-          "name": "New Sample Campaign Created using put method",
+          "name": "Send an Engagement as an Ad",
           "type": "Marketing",
           "openRate": "0",
           "clickRate": "0",
-          "channels": "{\"email\":true,\"insta\":true,\"facebook\":false,\"twitter\":false,\"sms\":false}",
+          "channels": "{\"email\":false,\"insta\":false,\"facebook\":true,\"twitter\":false,\"sms\":false}",
           "status": "Draft",
-          "runningSince": "1712653925",
-          "modified": "1714727525",
+          "runningSince": "1720210800",
+          "modified": "1720497600",
           "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":40,\"height\":40,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":62,\"height\":17,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":62,\"height\":17},{\"id\":\"27c317f5-3194-4144-a136-a90840699c39\",\"type\":\"custom\",\"position\":{\"x\":462.7864227294922,\"y\":102.59894943237305},\"data\":{\"label\":\"Email\",\"option\":{\"id\":\"eng_4\",\"text\":\"Email\",\"channelName\":\"GMAIL\",\"logo\":\"\",\"position\":[5,5,0],\"type\":\"engagement\",\"progress\":0.9}},\"width\":62,\"height\":17},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":62,\"height\":17}]",
           "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"27c317f5-3194-4144-a136-a90840699c39\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-27c317f5-3194-4144-a136-a90840699c39customTop\"},{\"type\":\"step\",\"source\":\"27c317f5-3194-4144-a136-a90840699c39\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-27c317f5-3194-4144-a136-a90840699c39customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
           "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
-          "description": "New Sample Campaign Created using put method",
+          "description": "Send an Welcome Email Engagement to a newly added Member in the group",
           "spend": 0,
           "budget": 45,
           "organiser": "Abhijeet Tehra",
           "history": "[]",
-          "title": "New Sample Campaign Created using put method",
-          "objective": "New Sample Campaign Created using put method"
+          "title": "Send an Email Engagement",
+          "objective": "Send an Welcome Email Engagement to a newly added Member in the group"
+        },
+        {
+          "name": "Campaign testing",
+          "type": "Marketing",
+          "openRate": "0",
+          "clickRate": "0",
+          "channels": "{\"email\":false,\"insta\":true,\"facebook\":false,\"twitter\":true,\"sms\":false}",
+          "status": "Draft",
+          "runningSince": "1720732800",
+          "modified": "1720740000",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":40,\"height\":40,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":62,\"height\":17,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":62,\"height\":17},{\"id\":\"27c317f5-3194-4144-a136-a90840699c39\",\"type\":\"custom\",\"position\":{\"x\":462.7864227294922,\"y\":102.59894943237305},\"data\":{\"label\":\"Email\",\"option\":{\"id\":\"eng_4\",\"text\":\"Email\",\"channelName\":\"GMAIL\",\"logo\":\"\",\"position\":[5,5,0],\"type\":\"engagement\",\"progress\":0.9}},\"width\":62,\"height\":17},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":62,\"height\":17}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"27c317f5-3194-4144-a136-a90840699c39\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-27c317f5-3194-4144-a136-a90840699c39customTop\"},{\"type\":\"step\",\"source\":\"27c317f5-3194-4144-a136-a90840699c39\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-27c317f5-3194-4144-a136-a90840699c39customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an Welcome Email Engagement to a newly added Member in the group",
+          "spend": 0,
+          "budget": 45,
+          "organiser": "Abhijeet Tehra",
+          "history": "[]",
+          "title": "Send an Email Engagement",
+          "objective": "Send an Welcome Email Engagement to a newly added Member in the group"
+        },
+        {
+          "name": "Google Meet Join Campaign",
+          "type": "Marketing",
+          "openRate": "0",
+          "clickRate": "0",
+          "channels": "{\"email\":false,\"insta\":true,\"facebook\":false,\"twitter\":true,\"sms\":false}",
+          "status": "Draft",
+          "runningSince": "1720812000",
+          "modified": "1720826400",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":40,\"height\":40,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":62,\"height\":17,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":62,\"height\":17},{\"id\":\"27c317f5-3194-4144-a136-a90840699c39\",\"type\":\"custom\",\"position\":{\"x\":462.7864227294922,\"y\":102.59894943237305},\"data\":{\"label\":\"Email\",\"option\":{\"id\":\"eng_4\",\"text\":\"Email\",\"channelName\":\"GMAIL\",\"logo\":\"\",\"position\":[5,5,0],\"type\":\"engagement\",\"progress\":0.9}},\"width\":62,\"height\":17},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":62,\"height\":17}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"27c317f5-3194-4144-a136-a90840699c39\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-27c317f5-3194-4144-a136-a90840699c39customTop\"},{\"type\":\"step\",\"source\":\"27c317f5-3194-4144-a136-a90840699c39\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-27c317f5-3194-4144-a136-a90840699c39customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an Welcome Email Engagement to a newly added Member in the group",
+          "spend": 0,
+          "budget": 45,
+          "organiser": "Abhijeet Tehra",
+          "history": "[]",
+          "title": "Send an Email Engagement",
+          "objective": "Send an Welcome Email Engagement to a newly added Member in the group"
+        },
+        {
+          "name": "Trial Campaign Tutorial",
+          "type": "Marketing",
+          "openRate": "0",
+          "clickRate": "0",
+          "channels": "{\"email\":false,\"insta\":true,\"facebook\":false,\"twitter\":true,\"sms\":false}",
+          "status": "Draft",
+          "runningSince": "1720893600",
+          "modified": "1720908000",
+          "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":40,\"height\":40,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":62,\"height\":17,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":62,\"height\":17},{\"id\":\"27c317f5-3194-4144-a136-a90840699c39\",\"type\":\"custom\",\"position\":{\"x\":462.7864227294922,\"y\":102.59894943237305},\"data\":{\"label\":\"Email\",\"option\":{\"id\":\"eng_4\",\"text\":\"Email\",\"channelName\":\"GMAIL\",\"logo\":\"\",\"position\":[5,5,0],\"type\":\"engagement\",\"progress\":0.9}},\"width\":62,\"height\":17},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":62,\"height\":17}]",
+          "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"27c317f5-3194-4144-a136-a90840699c39\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-27c317f5-3194-4144-a136-a90840699c39customTop\"},{\"type\":\"step\",\"source\":\"27c317f5-3194-4144-a136-a90840699c39\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-27c317f5-3194-4144-a136-a90840699c39customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
+          "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
+          "description": "Send an Welcome Email Engagement to a newly added Member in the group",
+          "spend": 0,
+          "budget": 45,
+          "organiser": "Abhijeet Tehra",
+          "history": "[]",
+          "title": "Send an Email Engagement",
+          "objective": "Send an Welcome Email Engagement to a newly added Member in the group"
         }
       ]
     },
@@ -404,6 +464,114 @@
               "name": "Spring Sale Campaign",
               "start_date": "2024-04-15T00:00:00Z",
               "end_date": "2024-04-30T23:59:59Z"
+            },
+            "campaign2": {
+              "name": "Summer Promo Campaign",
+              "start_date": "2024-05-01T00:00:00Z",
+              "end_date": "2024-05-15T23:59:59Z"
+            }
+          },
+          "status": "Pending",
+          "description": "hannibal lectar",
+          "user_id": "123456789",
+          "note": "We ARE GOING TO HIT THAT OBJECT",
+          "tenant_id": "abcdef1234567890",
+          "task_id": "987654321"
+        },
+        {
+          "task_Name": "Complete Report on Aegis MIA",
+          "title": "Advertise Aegis to UK users",
+          "type": "Analysis",
+          "assigned_to": "Jojo",
+          "due_date": "2024-05-05T18:00:00Z",
+          "start_date": "2024-05-05T16:00:00Z",
+          "end_date": "2024-05-05T18:00:00Z",
+          "campaigns": {
+            "campaign1": {
+              "name": "Spring Sale Campaign",
+              "start_date": "2024-04-15T00:00:00Z",
+              "end_date": "2024-05-05T18:00:00Z"
+            },
+            "campaign2": {
+              "name": "Summer Promo Campaign",
+              "start_date": "2024-05-01T00:00:00Z",
+              "end_date": "2024-05-15T23:59:59Z"
+            }
+          },
+          "status": "Pending",
+          "description": "hannibal lectar",
+          "user_id": "123456789",
+          "note": "We ARE GOING TO HIT THAT OBJECT",
+          "tenant_id": "abcdef1234567890",
+          "task_id": "987654321"
+        },
+        {
+          "task_Name": "Complete Report of iZak",
+          "title": "Advertise Aegis to UK users",
+          "type": "Analysis",
+          "assigned_to": "Jojo",
+          "due_date": "2024-05-06T18:00:00Z",
+          "start_date": "2024-05-06T14:00:00Z",
+          "end_date": "2024-05-06T18:00:00Z",
+          "campaigns": {
+            "campaign1": {
+              "name": "Spring Sale Campaign",
+              "start_date": "2024-05-06T14:00:00Z",
+              "end_date": "2024-05-06T18:00:00Z"
+            },
+            "campaign2": {
+              "name": "Summer Promo Campaign",
+              "start_date": "2024-05-01T00:00:00Z",
+              "end_date": "2024-05-15T23:59:59Z"
+            }
+          },
+          "status": "Pending",
+          "description": "hannibal lectar",
+          "user_id": "123456789",
+          "note": "We ARE GOING TO HIT THAT OBJECT",
+          "tenant_id": "abcdef1234567890",
+          "task_id": "987654321"
+        },
+        {
+          "task_Name": "Complete Report Mobius",
+          "title": "Advertise Aegis to UK users",
+          "type": "Analysis",
+          "assigned_to": "Jojo",
+          "due_date": "2024-05-07T18:00:00Z",
+          "start_date": "2024-05-07T16:00:00Z",
+          "end_date": "2024-05-07T18:00:00Z",
+          "campaigns": {
+            "campaign1": {
+              "name": "Spring Sale Campaign",
+              "start_date": "2024-04-15T00:00:00Z",
+              "end_date": "2024-05-05T18:00:00Z"
+            },
+            "campaign2": {
+              "name": "Summer Promo Campaign",
+              "start_date": "2024-05-01T00:00:00Z",
+              "end_date": "2024-05-15T23:59:59Z"
+            }
+          },
+          "status": "Pending",
+          "description": "hannibal lectar",
+          "user_id": "123456789",
+          "note": "We ARE GOING TO HIT THAT OBJECT",
+          "tenant_id": "abcdef1234567890",
+          "task_id": "987654321"
+        },
+        {
+          "task_Name": "Complete Report reve app",
+          "title": "Advertise Aegis to UK users",
+          "type": "Analysis",
+          "assigned_to": "Jojo",
+          "due_date": "2024-05-09T18:00:00Z",
+          "start_date": "2024-05-09T17:00:00Z",
+          "end_date": "2024-05-09T18:00:00Z",
+          "campaigns": {
+            "campaign1": {
+              "name": "Spring Sale Campaign",
+              "start_date": "2024-04-15T00:00:00Z",
+              "end_date": "2024-05-09T18:00:00Z"
             },
             "campaign2": {
               "name": "Summer Promo Campaign",
@@ -28963,7 +29131,7 @@
       ]
     }
   ],
- "gofema_userDetails": [
+  "gofema_userDetails": [
     {
       "name": "Shiva",
       "Pincode": "500032",
@@ -30084,7 +30252,7 @@
       }
     ]
   },
-"hearhere_users": [
+  "hearhere_users": [
     {
       "id": "a95c",
       "mobileNumber": "918449180576",
@@ -30126,10 +30294,7 @@
       "duration": "2",
       "purpose": "Business",
       "numberOfGuests": "1",
-      "category": [
-        "Fashion",
-        "Fine-dine Casino"
-      ]
+      "category": ["Fashion", "Fine-dine Casino"]
     },
     {
       "id": "22c8",
@@ -30139,12 +30304,7 @@
       "duration": "5",
       "purpose": "Team meeting",
       "numberOfGuests": "45",
-      "category": [
-        "Fashion",
-        "Sports",
-        "Cinema",
-        "Art & History"
-      ]
+      "category": ["Fashion", "Sports", "Cinema", "Art & History"]
     },
     {
       "id": "c84e",
@@ -30154,15 +30314,8 @@
       "duration": "4",
       "purpose": "dfs",
       "numberOfGuests": "45",
-      "category": [
-        "Futuristic",
-        "Literature & Writing",
-        "Concerts"
-      ],
-      "favourites": [
-        "51",
-        "50"
-      ]
+      "category": ["Futuristic", "Literature & Writing", "Concerts"],
+      "favourites": ["51", "50"]
     },
     {
       "id": "34e3",
@@ -30237,10 +30390,7 @@
           "City": "New York",
           "Type of activity": "Walking Tour",
           "Activity Duration": "2 hours",
-          "Tags": [
-            "Historical",
-            "Cultural"
-          ],
+          "Tags": ["Historical", "Cultural"],
           "Description": "Explore the rich history and culture of New York City with a knowledgeable local guide.",
           "Type_of_activity": {
             "price": "$50 per person",
@@ -30260,10 +30410,7 @@
           "City": "Paris",
           "Type of activity": "Historical Walking Tour",
           "Activity Duration": "3 hours",
-          "Tags": [
-            "Historical",
-            "Cultural"
-          ],
+          "Tags": ["Historical", "Cultural"],
           "Description": "Embark on a journey through Paris' rich history and cultural heritage with an experienced local guide.",
           "Type_of_activity": {
             "price": "€60 per person",
@@ -30283,10 +30430,7 @@
           "City": "Tokyo",
           "Type of activity": "Culinary Tour",
           "Activity Duration": "4 hours",
-          "Tags": [
-            "Culinary",
-            "Local Cuisine"
-          ],
+          "Tags": ["Culinary", "Local Cuisine"],
           "Description": "Indulge in Tokyo's culinary delights as you explore hidden eateries and taste authentic Japanese dishes.",
           "Type_of_activity": {
             "price": "¥8000 per person",
@@ -30306,10 +30450,7 @@
           "City": "Patagonia",
           "Type of activity": "Adventure Hiking Tour",
           "Activity Duration": "Full day",
-          "Tags": [
-            "Adventure",
-            "Nature"
-          ],
+          "Tags": ["Adventure", "Nature"],
           "Description": "Embark on an adrenaline-pumping adventure through Patagonia's stunning landscapes and rugged trails.",
           "Type_of_activity": {
             "price": "$150 per person",
@@ -30330,11 +30471,7 @@
       "language": "English",
       "start_time": "10:00 AM",
       "end_time": "12:00 PM",
-      "days_of_activity": [
-        "Monday",
-        "Wednesday",
-        "Friday"
-      ],
+      "days_of_activity": ["Monday", "Wednesday", "Friday"],
       "other": [
         "Monday",
         "Tuesday",
@@ -30352,10 +30489,7 @@
       "Individual_Tourguides": [
         {
           "name": "John William",
-          "languages_known": [
-            "English",
-            "Spanish"
-          ],
+          "languages_known": ["English", "Spanish"],
           "experience": "5 years",
           "price": "$50 per hour",
           "description": "Passionate about showcasing the beauty of New York City to visitors.",
@@ -30372,10 +30506,7 @@
         },
         {
           "name": "Jane Doe",
-          "languages_known": [
-            "English",
-            "French"
-          ],
+          "languages_known": ["English", "French"],
           "experience": "3 years",
           "price": "$60 per hour",
           "description": "A seasoned guide with a passion for sharing the hidden gems of New York City.",
@@ -30392,11 +30523,7 @@
         },
         {
           "name": "Carlos Martinez",
-          "languages_known": [
-            "Spanish",
-            "English",
-            "Catalan"
-          ],
+          "languages_known": ["Spanish", "English", "Catalan"],
           "experience": "5 years",
           "price": "€50 per hour",
           "description": "An experienced guide passionate about showcasing Barcelona's rich cultural heritage and vibrant atmosphere.",
@@ -30413,9 +30540,7 @@
         },
         {
           "name": "Sarah Johnson",
-          "languages_known": [
-            "English"
-          ],
+          "languages_known": ["English"],
           "experience": "7 years",
           "price": "$80 per hour",
           "description": "An expert nature guide specializing in Yellowstone National Park's wildlife, geology, and conservation efforts.",
@@ -30446,10 +30571,7 @@
           "City": "Rome",
           "Type of activity": "Historical Walking Tour",
           "Activity Duration": "3 hours",
-          "Tags": [
-            "Historical",
-            "Cultural"
-          ],
+          "Tags": ["Historical", "Cultural"],
           "Description": "Explore the ancient wonders of Rome with a passionate local guide.",
           "Type_of_activity": {
             "price": "€70 per person",
@@ -30470,11 +30592,7 @@
       "language": "English, Italian",
       "start_time": "9:00 AM",
       "end_time": "12:00 PM",
-      "days_of_activity": [
-        "Tuesday",
-        "Thursday",
-        "Saturday"
-      ],
+      "days_of_activity": ["Tuesday", "Thursday", "Saturday"],
       "other": [
         "Monday",
         "Tuesday",
@@ -30492,11 +30610,7 @@
       "Individual_Tourguides": [
         {
           "name": "Maria Rossi",
-          "languages_known": [
-            "English",
-            "Italian",
-            "Spanish"
-          ],
+          "languages_known": ["English", "Italian", "Spanish"],
           "experience": "10 years",
           "price": "€70 per hour",
           "description": "Passionate about showcasing Rome's ancient history and cultural heritage.",
@@ -30527,10 +30641,7 @@
           "City": "Nairobi",
           "Type of activity": "Safari Tour",
           "Activity Duration": "Full day",
-          "Tags": [
-            "Wildlife",
-            "Nature"
-          ],
+          "Tags": ["Wildlife", "Nature"],
           "Description": "Embark on a thrilling safari adventure through Kenya's national parks and witness incredible wildlife.",
           "Type_of_activity": {
             "price": "$200 per person",
@@ -30551,11 +30662,7 @@
       "language": "English, Swahili",
       "start_time": "6:00 AM",
       "end_time": "5:00 PM",
-      "days_of_activity": [
-        "Monday",
-        "Wednesday",
-        "Friday"
-      ],
+      "days_of_activity": ["Monday", "Wednesday", "Friday"],
       "other": [
         "Monday",
         "Tuesday",
@@ -30573,10 +30680,7 @@
       "Individual_Tourguides": [
         {
           "name": "David Mwangi",
-          "languages_known": [
-            "English",
-            "Swahili"
-          ],
+          "languages_known": ["English", "Swahili"],
           "experience": "15 years",
           "price": "$200 per day",
           "description": "Passionate about wildlife conservation and providing unforgettable safari experiences.",
@@ -30679,12 +30783,7 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "pay",
-          "selected_seats": [
-            "D7",
-            "D8",
-            "D10",
-            "D12"
-          ]
+          "selected_seats": ["D7", "D8", "D10", "D12"]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -30692,13 +30791,7 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "venmo",
-          "selected_seats": [
-            "F5",
-            "F6",
-            "F7",
-            "F8",
-            "F9"
-          ]
+          "selected_seats": ["F5", "F6", "F7", "F8", "F9"]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -30706,12 +30799,7 @@
           "phoneNumber": "7894561230",
           "email": "sample@gmail.com",
           "paymentMethod": "Pay",
-          "selected_seats": [
-            "C5",
-            "C6",
-            "C7",
-            "C8"
-          ]
+          "selected_seats": ["C5", "C6", "C7", "C8"]
         }
       ],
       "eventCategory": "Fashion",
@@ -30845,7 +30933,7 @@
       "booked_seats": [],
       "event_details_image_1": "https://images.unsplash.com/photo-1542469840569-2d807b8ba726?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fExvbmRvbiUyMEZhc2hpb24lMjBXZWVrfGVufDB8fDB8fHww",
       "event_details_image_2": "https://images.unsplash.com/photo-1596725668413-d91baf68d9ce?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fExvbmRvbiUyMEZhc2hpb24lMjBXZWVrfGVufDB8fDB8fHww",
-      "event_details_image_3":"https://www.google.com/imgres?q=london%20fashion%20week%20logo&imgurl=https%3A%2F%2Fimages.ctfassets.net%2Fi9jrgclxtfi0%2F10cd24fb-7887-4eb7-a48c-5407d02f9129%2Fa0f036125e3d6192fc8f9e61bd7fca07%2FimportedImage10cd24fb-7887-4eb7-a48c-5407d02f9129&imgrefurl=https%3A%2F%2Fwww.itv.com%2Florraine%2Farticles%2Fmark-heyes-london-fashion-week&docid=4E3qre-ftZRR6M&tbnid=JFz0Py3hCMb0RM&vet=12ahUKEwjM5KXg7vOFAxU-QPUHHedDA8MQM3oECCsQAA..i&w=2502&h=1407&hcb=2&ved=2ahUKEwjM5KXg7vOFAxU-QPUHHedDA8MQM3oECCsQAA",
+      "event_details_image_3": "https://www.google.com/imgres?q=london%20fashion%20week%20logo&imgurl=https%3A%2F%2Fimages.ctfassets.net%2Fi9jrgclxtfi0%2F10cd24fb-7887-4eb7-a48c-5407d02f9129%2Fa0f036125e3d6192fc8f9e61bd7fca07%2FimportedImage10cd24fb-7887-4eb7-a48c-5407d02f9129&imgrefurl=https%3A%2F%2Fwww.itv.com%2Florraine%2Farticles%2Fmark-heyes-london-fashion-week&docid=4E3qre-ftZRR6M&tbnid=JFz0Py3hCMb0RM&vet=12ahUKEwjM5KXg7vOFAxU-QPUHHedDA8MQM3oECCsQAA..i&w=2502&h=1407&hcb=2&ved=2ahUKEwjM5KXg7vOFAxU-QPUHHedDA8MQM3oECCsQAA",
       "eventImage_c": "https://images.unsplash.com/photo-1485518882345-15568b007407?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEZhc2hpb24lMjBzaG93fGVufDB8fDB8fHww"
     },
     {
@@ -32152,7 +32240,7 @@
       "endTime": "9:30 pm",
       "ticketPrice": {
         "adults": 39.99,
-        "children": 33.00,
+        "children": 33.0,
         "seniors": 29.99
       },
       "eventType": "Magic show",
@@ -32408,13 +32496,7 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "paypal",
-          "selected_seats": [
-            "D6",
-            "D7",
-            "D8",
-            "D9",
-            "D10"
-          ]
+          "selected_seats": ["D6", "D7", "D8", "D9", "D10"]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -32422,13 +32504,7 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "pay",
-          "selected_seats": [
-            "C5",
-            "C6",
-            "C7",
-            "C9",
-            "C8"
-          ]
+          "selected_seats": ["C5", "C6", "C7", "C9", "C8"]
         },
         {
           "fullName": "Sagar T Teradal",
@@ -32436,56 +32512,25 @@
           "phoneNumber": "7418529630",
           "email": "sample@gmail.com",
           "paymentMethod": "paypal",
-          "selected_seats": [
-            "A4",
-            "A5",
-            "A6",
-            "A7",
-            "A8",
-            "A9"
-          ]
+          "selected_seats": ["A4", "A5", "A6", "A7", "A8", "A9"]
         },
         {
           "fullName": "Sagar T",
           "email": "sample@gmail.com",
           "paymentMethod": "paypal",
-          "selectedSeats": [
-            "B4",
-            "B5",
-            "B6",
-            "B7",
-            "B8"
-          ],
+          "selectedSeats": ["B4", "B5", "B6", "B7", "B8"],
           "totalPrice": 199.95000000000002,
           "convenienceFee": 10,
-          "selected_seats": [
-            "B4",
-            "B5",
-            "B6",
-            "B7",
-            "B8"
-          ]
+          "selected_seats": ["B4", "B5", "B6", "B7", "B8"]
         },
         {
           "fullName": "telugu",
           "email": "sanple@gmail.com",
           "paymentMethod": "paypal",
-          "selectedSeats": [
-            "E7",
-            "E8",
-            "E9",
-            "E5",
-            "E6"
-          ],
+          "selectedSeats": ["E7", "E8", "E9", "E5", "E6"],
           "totalPrice": 199.95000000000002,
           "convenienceFee": 10,
-          "selected_seats": [
-            "E7",
-            "E8",
-            "E9",
-            "E5",
-            "E6"
-          ]
+          "selected_seats": ["E7", "E8", "E9", "E5", "E6"]
         }
       ],
       "eventCategory": "Food & Beverage",

@@ -21392,20 +21392,7 @@
   ],
   "museo_readyToCheckout": [
     {
-      "id": 1707307000128,
-      "name": "Primavera",
-      "img_path": "/Images/Home/painting2.webp",
-      "artist": "Sandro Botticelli",
-      "collection_name": "Sandro Botticelli’s Collection",
-      "estimate_range": "$30k - $100k",
-      "date": "20 Nov, 2023 at 12:00 pm PT",
-      "saleNumber": "#18998",
-      "your_bid": "$6M",
-      "count": 12,
-      "lot": 25
-    },
-    {
-      "id": 1707307350542,
+      "id": 1714722837838,
       "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
       "img_path": "/Images/Home/painting16.webp",
       "artist": "Jan Dirksz Both",
@@ -21417,7 +21404,7 @@
       "lot": 16
     },
     {
-      "id": 1707307433676,
+      "id": 1714722837838,
       "name": "Perseus turning Phineas and his followers to stone",
       "img_path": "/Images/Home/painting17.webp",
       "artist": "Luca Giordano",
@@ -21429,7 +21416,7 @@
       "lot": 6
     },
     {
-      "id": 1707801979106,
+      "id": 1714722837838,
       "name": "Ecce Homo",
       "img_path": "/Images/Home/painting20.webp",
       "artist": "Giuseppe Assereto",

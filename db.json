@@ -39,8 +39,8 @@
           "status": "Draft",
           "runningSince": "1712653925",
           "modified": "1713863525",
-          "startTime":"1712653925",
-          "endTime":"1713863525",
+          "startTime": "1712653925",
+          "endTime": "1713863525",
           "nodes": "[{\"id\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"type\":\"start\",\"position\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"data\":{\"option\":{}},\"width\":40,\"height\":40,\"selected\":false,\"positionAbsolute\":{\"x\":100.69094848632812,\"y\":-90.60070037841797},\"dragging\":false},{\"id\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"type\":\"custom\",\"position\":{\"x\":270.2864227294922,\"y\":-57.40105056762695},\"data\":{\"label\":\"Audience\",\"option\":{\"id\":\"camp_0\",\"text\":\"Audience\",\"logo\":\"\",\"position\":[0,0,0],\"type\":\"datasets\",\"cohort_id\":[{\"id\":\"660265a4b0e95b708e55cc9e\",\"title\":\"XPX Members\",\"rating\":\"4.7\",\"company\":\"Gaian Solutions India Pvt.Ltd\",\"desc\":\"All members of XPX\",\"flag\":true,\"type\":\"cohorts\"}]}},\"width\":62,\"height\":17,\"selected\":false,\"dragging\":false},{\"id\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"type\":\"custom\",\"position\":{\"x\":301.2864227294922,\"y\":18.598949432373047},\"data\":{\"label\":\"One Time\",\"option\":{\"id\":\"trigger1\",\"text\":\"One Time\",\"triggerType\":\"ONETIME\",\"logo\":\"\",\"position\":[3,-3,0],\"type\":\"trigger\",\"progress\":0.3}},\"width\":62,\"height\":17},{\"id\":\"27c317f5-3194-4144-a136-a90840699c39\",\"type\":\"custom\",\"position\":{\"x\":462.7864227294922,\"y\":102.59894943237305},\"data\":{\"label\":\"Email\",\"option\":{\"id\":\"eng_4\",\"text\":\"Email\",\"channelName\":\"GMAIL\",\"logo\":\"\",\"position\":[5,5,0],\"type\":\"engagement\",\"progress\":0.9}},\"width\":62,\"height\":17},{\"id\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"type\":\"custom\",\"position\":{\"x\":374.2864227294922,\"y\":187.09894943237305},\"data\":{\"label\":\"XPX\",\"option\":{\"id\":\"xpx\",\"text\":\"XPX\",\"url\":\"https://xpx.aidtaas.com/\",\"content\":\"\",\"type\":\"engagement_content\"}},\"width\":62,\"height\":17}]",
           "edges": "[{\"type\":\"step\",\"source\":\"7d5309ec-7980-4960-81f6-b02c0b13fb04\",\"sourceHandle\":\"start-Right\",\"target\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"targetHandle\":\"customLeft\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-7d5309ec-7980-4960-81f6-b02c0b13fb04start-Right-334339fc-dcc0-4bac-9e7a-3aab2d164a45customLeft\"},{\"type\":\"step\",\"source\":\"334339fc-dcc0-4bac-9e7a-3aab2d164a45\",\"sourceHandle\":\"customBottom\",\"target\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-334339fc-dcc0-4bac-9e7a-3aab2d164a45customBottom-da8b6112-514d-477b-9eee-e6f17c4f2e34customTop\"},{\"type\":\"step\",\"source\":\"da8b6112-514d-477b-9eee-e6f17c4f2e34\",\"sourceHandle\":\"customBottom\",\"target\":\"27c317f5-3194-4144-a136-a90840699c39\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-da8b6112-514d-477b-9eee-e6f17c4f2e34customBottom-27c317f5-3194-4144-a136-a90840699c39customTop\"},{\"type\":\"step\",\"source\":\"27c317f5-3194-4144-a136-a90840699c39\",\"sourceHandle\":\"customBottom\",\"target\":\"ec72b396-fa88-4948-8b90-db97013db393\",\"targetHandle\":\"customTop\",\"style\":{\"stroke\":\"rgba(117, 177, 210, 1)\"},\"id\":\"reactflow__edge-27c317f5-3194-4144-a136-a90840699c39customBottom-ec72b396-fa88-4948-8b90-db97013db393customTop\"}]",
           "tenantId": "6f699994-119d-4f1a-9ed9-f8619b917cc0",
@@ -22741,7 +22741,7 @@
     },
     {
       "name": "Shell",
-      "address": "4815 Panama Ln, Bakersfield, CA-93313",
+      "address": "4815 Panama, Bakersfield, CA-93313",
       "state": "California",
       "country": "USA",
       "phone": "+1 661-412-4956",
@@ -23685,6 +23685,7 @@
               "color": "#D69945",
               "opacity": 0.89
             },
+
             "geometry": {
               "coordinates": [
                 [
@@ -24163,7 +24164,8 @@
       "state_code": "CA",
       "zip_code": "93301",
       "latitude": 35.3751,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 100
     },
     {
       "network_type": "3G",
@@ -24173,7 +24175,8 @@
       "state_code": "CA",
       "zip_code": "93302",
       "latitude": 35.3733,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 90
     },
     {
       "network_type": "5G",
@@ -24183,7 +24186,8 @@
       "state_code": "CA",
       "zip_code": "93303",
       "latitude": 35.3718,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 110
     },
     {
       "network_type": "2G",
@@ -24193,7 +24197,8 @@
       "state_code": "CA",
       "zip_code": "93304",
       "latitude": 35.3701,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 80
     },
     {
       "network_type": "4G",
@@ -24203,7 +24208,8 @@
       "state_code": "CA",
       "zip_code": "93305",
       "latitude": 35.3683,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 95
     },
     {
       "network_type": "3G",
@@ -24213,7 +24219,8 @@
       "state_code": "CA",
       "zip_code": "93306",
       "latitude": 35.3668,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 85
     },
     {
       "network_type": "5G",
@@ -24223,7 +24230,8 @@
       "state_code": "CA",
       "zip_code": "93307",
       "latitude": 35.365,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 105
     },
     {
       "network_type": "2G",
@@ -24233,7 +24241,8 @@
       "state_code": "CA",
       "zip_code": "93308",
       "latitude": 35.3633,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 75
     },
     {
       "network_type": "4G",
@@ -24243,7 +24252,8 @@
       "state_code": "CA",
       "zip_code": "93309",
       "latitude": 35.3616,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 100
     },
     {
       "network_type": "3G",
@@ -24253,7 +24263,8 @@
       "state_code": "CA",
       "zip_code": "93310",
       "latitude": 35.36,
-      "longitude": -119.0187
+      "longitude": -119.0187,
+      "altitude": 90
     },
     {
       "network_type": "2G",
@@ -24263,7 +24274,8 @@
       "state_code": "CA",
       "zip_code": "93311",
       "latitude": 35.375,
-      "longitude": -119.018
+      "longitude": -119.018,
+      "altitude": 120
     }
   ],
   "around_liveSocialMediaData": [
@@ -30135,7 +30147,7 @@
       }
     ]
   },
-   "hearhere_users": [
+  "hearhere_users": [
     {
       "id": "a95c",
       "mobileNumber": "918449180576",

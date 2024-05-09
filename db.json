@@ -29163,142 +29163,56 @@
       ]
     }
   ],
-  "gofema_userDetails": [
+   "gofema_userDetails": [
     {
       "name": "Shiva",
       "Pincode": "500032",
-      "image": "",
-      "otherLocations": [],
       "id": "3ef9",
-      "SelectedOptions": [
-        "Flood Watch",
-        "Flood Advisory",
-        "Flood Statement",
-        "Flash Flood Watch",
-        "River Flood Warning",
-        "Heavy Rainfall Warning",
-        "Coastal Flooding Alert",
-        "Urban Flooding Advisory",
-        "Dam Break Warning",
-        "Mudslide Alert"
-      ],
-      "alert": "Fire Warning"
+
+      "otherLocations": {
+        "type": "Feature",
+        "id": "dXJuOm1ieHBsYzpBYVRz",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4652471468304, 42.751210955038]
+        },
+        "properties": {
+          "mapbox_id": "dXJuOm1ieHBsYzpBYVRz",
+          "feature_type": "region",
+          "full_address": "New York, United States",
+          "name": "New York",
+          "name_preferred": "New York",
+          "coordinates": {
+            "longitude": -75.4652471468304,
+            "latitude": 42.751210955038
+          },
+          "place_formatted": "United States",
+          "bbox": [-79.8046875, 40.4771401, -71.763627, 45.0239467],
+          "context": {
+            "country": {
+              "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+              "name": "United States",
+              "wikidata_id": "Q30",
+              "country_code": "US",
+              "country_code_alpha_3": "USA"
+            },
+            "region": {
+              "mapbox_id": "dXJuOm1ieHBsYzpBYVRz",
+              "name": "New York",
+              "wikidata_id": "Q1384"
+            }
+          }
+        }
+      },
+      "SelectedOptions": ["Drought Conditions Advisory"]
     }
   ],
   "gofema_friends": [
     {
-      "id": "1de5",
-      "FriendName": "Teju",
-      "Pincode": "424002",
-      "image": "/svg/Emoji9.svg",
-      "SelectedOptions": [
-        {
-          "option": "Flooding",
-          "subOption": [
-            "Flood Watch",
-            "Flood Advisory",
-            "Flood Statement",
-            "Flash Flood Watch",
-            "River Flood Warning",
-            "Heavy Rainfall Warning",
-            "Coastal Flooding Alert",
-            "Urban Flooding Advisory",
-            "Dam Break Warning",
-            "Mudslide Alert"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Snowfall Warning",
-            "Freezing Rain Warning",
-            "Winter Storm Watch",
-            "Sleet Advisory",
-            "Ice Storm Warning",
-            "Blizzard Warning",
-            "Wind Chill Advisory",
-            "Frost Warning",
-            "Snow Squall Alert",
-            "Black Ice Advisory"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Avalanche Warning",
-            "Avalanche Watch",
-            "Snow Slide Advisory",
-            "Alpine Avalanche Warning",
-            "Mountain Snow Advisory",
-            "Glacier Collapse Alert",
-            "Backcountry Avalanche Warning",
-            "Icefall Avalanche Advisory",
-            "Avalanche Debris Alert",
-            "Ski Resort Closure Warning"
-          ]
-        },
-        {
-          "option": "Earthquakes",
-          "subOption": [
-            "Earthquake Warning",
-            "Seismic Advisory",
-            "Tectonic Tremor Watch",
-            "Fault Line Alert",
-            "Ground Shaking Advisory",
-            "Aftershock Warning",
-            "Plate Boundary Alert",
-            "Underground Cavern Collapse Advisory",
-            "Seismic Swarm Watch",
-            "Subduction Zone Warning"
-          ]
-        },
-        {
-          "option": "Tsunamis",
-          "subOption": [
-            "Tsunami Warning",
-            "Tsunami Watch",
-            "Seismic Sea Wave Advisory",
-            "Coastal Tsunami Alert",
-            "Ocean Surges Warning",
-            "Underwater Landslide Alert",
-            "Deep-Sea Trench Tsunami Watch",
-            "Submarine Volcano Tsunami Warning",
-            "Pacific Ring of Fire Tsunami Alert",
-            "Tidal Wave Risk Advisory"
-          ]
-        },
-        {
-          "option": "Fire Weather",
-          "subOption": [
-            "Fire Warning",
-            "Red Flag Warning",
-            "Wildfire Alert",
-            "Drought Conditions Advisory",
-            "High Wind Fire Danger",
-            "Heatwave Wildfire Risk Alert",
-            "Vegetation Dryness Warning",
-            "Fire Weather Watch",
-            "Smoke Inhalation Advisory",
-            "Fire Perimeter Expansion Alert"
-          ]
-        },
-        {
-          "option": "Marine Weather",
-          "subOption": [
-            "Storm Warning",
-            "Small Craft Advisory",
-            "Gale Watch",
-            "Buoy Warning",
-            "Tropical Storm Alert",
-            "Hurricane Warning",
-            "Typhoon Watch",
-            "Nautical Mile Visibility Alert",
-            "Rip Current Advisory",
-            "Marine Vessel Icing Warning"
-          ]
-        }
-      ],
-      "Family": []
+      "id": "87f3",
+      "FriendName": "Rathy",
+      "Pincode": "622304",
+      "image": "/svg/Emoji1.svg"
     }
   ],
   "clink_citizenView": {

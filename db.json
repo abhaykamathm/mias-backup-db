@@ -24384,7 +24384,7 @@
       "zip_code": "93301"
     }
   ],
-  "aegis_cities": [
+  "aegis_cities":[
     {
       "id": "1",
       "cityname": {
@@ -24415,8 +24415,11 @@
           "camera_type": "body",
           "camera_pincode": "Wall Street",
           "camera_area": "Wall Street",
-          "camera_pinned": true,
-          "coordinates": [40.7051157, -74.0092721]
+          "camera_pinned": false,
+          "coordinates": [
+            40.7051157,
+            -74.0092721
+          ]
         },
         {
           "camera_id": 2,
@@ -24426,17 +24429,23 @@
           "camera_pincode": "Canal street",
           "camera_area": "Canal street",
           "camera_pinned": false,
-          "coordinates": [40.7188046, -73.9882216]
+          "coordinates": [
+            40.7188046,
+            -73.9882216
+          ]
         },
         {
           "camera_id": 3,
-          "camera_videourl": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/37341fdf-6edd-4da2-882e-c96fd59de23e_$$M7.8,%207.5,%206.0%20and%20120%20more%20Earthquakes%20hit%20Turkey%20and%20Syria%20in%20one%20day!%20(1).mp4",
+          "camera_videourl": "/videos/CameraID-3.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-          "camera_type": "drone",
+          "camera_type": "street",
           "camera_pincode": "Tylella Ave & Bayshore Fwy NB",
           "camera_area": "Bleecker Street",
           "camera_pinned": false,
-          "coordinates": [40.7471805, -73.9754142]
+          "coordinates": [
+            40.7471805,
+            -73.9754142
+          ]
         },
         {
           "camera_id": 4,
@@ -24446,27 +24455,36 @@
           "camera_pincode": "20 Cooper Square",
           "camera_area": "Bowery Street",
           "camera_pinned": false,
-          "coordinates": [40.729284, -73.993805]
+          "coordinates": [
+            40.729284,
+            -73.993805
+          ]
         },
         {
           "camera_id": 5,
-          "camera_videourl": "/videos/CameraID-5.mp4",
+          "camera_videourl": "/videos/CameraID-15.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-          "camera_type": "body",
+          "camera_type": "surveillance",
           "camera_pincode": "4 Washington Pl",
           "camera_area": "Houston Street",
           "camera_pinned": false,
-          "coordinates": [40.730337, -74.000972]
+          "coordinates": [
+            40.730337,
+            -74.000972
+          ]
         },
         {
           "camera_id": 6,
           "camera_videourl": "/videos/CameraID-6.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-          "camera_type": "street",
+          "camera_type": "surveillance",
           "camera_pincode": "The Oculus",
           "camera_area": "Doyers Street",
           "camera_pinned": false,
-          "coordinates": [40.7116414, -74.0116196]
+          "coordinates": [
+            40.7116414,
+            -74.0116196
+          ]
         },
         {
           "camera_id": 7,
@@ -24476,17 +24494,23 @@
           "camera_pincode": "Park Avenue",
           "camera_area": "Park Avenue",
           "camera_pinned": false,
-          "coordinates": [40.7292739, -73.9943988]
+          "coordinates": [
+            40.7292739,
+            -73.9943988
+          ]
         },
         {
           "camera_id": 8,
-          "camera_videourl": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/81f718d6-e05c-48e8-9634-4311515638de_$$Ambush%20at%20intersection%20near%20Sderot%20during%20Hamas%20attack%20in%20Israel%20_%20Traffic%20cam%20video.mp4",
+          "camera_videourl": "/videos/CameraID-8.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-          "camera_type": "drone",
+          "camera_type": "street",
           "camera_pincode": "Doyers Street",
           "camera_area": "The Oculus",
-          "camera_pinned": false,
-          "coordinates": [40.7160575, -73.9981375]
+          "camera_pinned": true,
+          "coordinates": [
+            40.7160575,
+            -73.9981375
+          ]
         },
         {
           "camera_id": 9,
@@ -24496,7 +24520,10 @@
           "camera_pincode": "Houston Street",
           "camera_area": "10001",
           "camera_pinned": false,
-          "coordinates": [40.7209156, -73.9957832]
+          "coordinates": [
+            40.7209156,
+            -73.9957832
+          ]
         },
         {
           "camera_id": 10,
@@ -24506,17 +24533,23 @@
           "camera_pincode": "Bowery Street",
           "camera_area": "10002",
           "camera_pinned": false,
-          "coordinates": [40.7200657, -73.9957351]
+          "coordinates": [
+            40.7200657,
+            -73.9957351
+          ]
         },
         {
           "camera_id": 11,
-          "camera_videourl": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/74fcc3dc-089f-47a8-87fd-d4bfdba6aeb1_$$Brazen%20thugs%20make%20a%20smooth%20get-away%20after%20robbing%20a%20store.mp4",
+          "camera_videourl": "/videos/CameraID-11.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-          "camera_type": "body",
+          "camera_type": "surveillance",
           "camera_pincode": "Wall Street",
           "camera_area": "10003",
           "camera_pinned": false,
-          "coordinates": [40.7051157, -74.0092721]
+          "coordinates": [
+            40.7051157,
+            -74.0092721
+          ]
         },
         {
           "camera_id": 12,
@@ -24526,37 +24559,49 @@
           "camera_pincode": "Canal street",
           "camera_area": "10004",
           "camera_pinned": false,
-          "coordinates": [40.7188046, -73.9882216]
+          "coordinates": [
+            40.7188046,
+            -73.9882216
+          ]
         },
         {
           "camera_id": 13,
-          "camera_videourl": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/f18007b1-c41e-4e5a-8f5f-ad4e5a14f87a_$$MnDOT%20camera%20captures%20moment%20vehicle%20slams%20into%20box%20truck.mp4",
+          "camera_videourl": "/videos/CameraID-13.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-          "camera_type": "drone",
+          "camera_type": "surveillance",
           "camera_pincode": "Tylella Ave & Bayshore Fwy NB",
           "camera_area": "10005",
           "camera_pinned": false,
-          "coordinates": [40.7471805, -73.9754142]
+          "coordinates": [
+            40.7471805,
+            -73.9754142
+          ]
         },
         {
           "camera_id": 14,
           "camera_videourl": "/videos/CameraID-14.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg9.svg?alt=media&token=81f53068-e879-46f2-a183-e23aaadbe8bf",
-          "camera_type": "surveillance",
+          "camera_type": "street",
           "camera_pincode": "20 Cooper Square",
           "camera_area": "10006",
           "camera_pinned": false,
-          "coordinates": [40.729284, -73.993805]
+          "coordinates": [
+            40.729284,
+            -73.993805
+          ]
         },
         {
           "camera_id": 15,
-          "camera_videourl": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/a20158cd-1545-49b2-83b7-39058329d210_$$Man%20Runs%20for%20His%20Life%20After%20Gunshots%20Fired%20at%20Gas%20Station.mp4",
+          "camera_videourl": "/videos/CameraID-5.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-          "camera_type": "body",
+          "camera_type": "drone",
           "camera_pincode": "4 Washington Pl",
           "camera_area": "10007",
           "camera_pinned": false,
-          "coordinates": [40.730337, -74.000972]
+          "coordinates": [
+            40.730337,
+            -74.000972
+          ]
         },
         {
           "camera_id": 16,
@@ -24566,27 +24611,36 @@
           "camera_pincode": "The Oculus",
           "camera_area": "10008",
           "camera_pinned": false,
-          "coordinates": [40.7116414, -74.0116196]
+          "coordinates": [
+            40.7116414,
+            -74.0116196
+          ]
         },
         {
           "camera_id": 17,
           "camera_videourl": "/videos/CameraID-17.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-          "camera_type": "surveillance",
+          "camera_type": "body",
           "camera_pincode": "Park Avenue",
           "camera_area": "10009",
-          "camera_pinned": false,
-          "coordinates": [40.7292739, -73.9943988]
+          "camera_pinned": true,
+          "coordinates": [
+            40.7292739,
+            -73.9943988
+          ]
         },
         {
           "camera_id": 18,
-          "camera_videourl": "https://cdn.gaiansolutions.com/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/618b6fdef5dacc0001a6b1b0/8cfd9135-1320-4a09-986b-b71615e8c898_$$IDF%20Shaldag%20Unit%20Neutralizes%20Terrorists%20Infiltrating%20Kibbutz%20Be%E2%80%99eri%20on%20Oct.%207.mp4",
+          "camera_videourl": "/videos/CameraID-18.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-          "camera_type": "drone",
+          "camera_type": "body",
           "camera_pincode": "Doyers Street",
           "camera_area": "10010",
           "camera_pinned": false,
-          "coordinates": [40.7160575, -73.9981375]
+          "coordinates": [
+            40.7160575,
+            -73.9981375
+          ]
         },
         {
           "camera_id": 19,
@@ -24596,24 +24650,33 @@
           "camera_pincode": "Houston Street",
           "camera_area": "10011",
           "camera_pinned": false,
-          "coordinates": [40.7209156, -73.9957832]
+          "coordinates": [
+            40.7209156,
+            -73.9957832
+          ]
         },
         {
           "camera_id": 20,
           "camera_videourl": "/videos/CameraID-20.mp4",
           "camera_imageurl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-          "camera_type": "surveillance",
+          "camera_type": "drone",
           "camera_pincode": "Bowery Street",
           "camera_area": "10012",
-          "camera_pinned": false,
-          "coordinates": [40.7200657, -73.9957351]
+          "camera_pinned": true,
+          "coordinates": [
+            40.7200657,
+            -73.9957351
+          ]
         }
       ],
       "lawEnforcement": [
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.796135, -73.943576],
+          "coordinates": [
+            40.796135,
+            -73.943576
+          ],
           "officer_id": "ID - LAPD 123",
           "officer_name": "Officer Rodriguez",
           "assets": {
@@ -24638,7 +24701,10 @@
         {
           "type": "police",
           "category": "Patrol",
-          "coordinates": [40.794259, -73.951054],
+          "coordinates": [
+            40.794259,
+            -73.951054
+          ],
           "officer_id": "ID - NYPD 456",
           "officer_name": "Officer Chris",
           "assets": {
@@ -24663,7 +24729,10 @@
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.81278, -73.942014],
+          "coordinates": [
+            40.81278,
+            -73.942014
+          ],
           "officer_id": "ID - NYPD 446",
           "officer_name": "Officer Smith",
           "assets": {
@@ -24688,7 +24757,10 @@
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.807804, -73.964155],
+          "coordinates": [
+            40.807804,
+            -73.964155
+          ],
           "officer_id": "ID - NYPD 789",
           "officer_name": "Officer Johnson",
           "assets": {
@@ -24713,7 +24785,10 @@
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.767005, -73.965823],
+          "coordinates": [
+            40.767005,
+            -73.965823
+          ],
           "officer_id": "ID - NYPD 101",
           "officer_name": "Officer Carter",
           "assets": {
@@ -24738,7 +24813,10 @@
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.789621, -73.940136],
+          "coordinates": [
+            40.789621,
+            -73.940136
+          ],
           "officer_id": "ID - NYPD 601",
           "officer_name": "Officer Williams",
           "assets": {
@@ -24763,7 +24841,10 @@
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.781858, -73.945924],
+          "coordinates": [
+            40.781858,
+            -73.945924
+          ],
           "officer_id": "ID - NYPD 320",
           "officer_name": "Officer Brown",
           "assets": {
@@ -24788,7 +24869,10 @@
         {
           "type": "police",
           "category": "Patrol",
-          "coordinates": [40.780352, -73.986607],
+          "coordinates": [
+            40.780352,
+            -73.986607
+          ],
           "officer_id": "ID - NYPD 417",
           "officer_name": "Officer Davis",
           "assets": {
@@ -24813,7 +24897,10 @@
         {
           "type": "police",
           "category": "Patrol",
-          "coordinates": [40.77017, -73.986313],
+          "coordinates": [
+            40.77017,
+            -73.986313
+          ],
           "officer_id": "ID - NYPD 100",
           "officer_name": "Officer Taylor",
           "assets": {
@@ -24838,7 +24925,10 @@
         {
           "type": "police",
           "category": "Patrol",
-          "coordinates": [40.758342, -73.983906],
+          "coordinates": [
+            40.758342,
+            -73.983906
+          ],
           "officer_id": "ID - LAPD 207",
           "officer_name": "Officer White",
           "assets": {
@@ -24863,7 +24953,10 @@
         {
           "type": "police",
           "category": "Patrol",
-          "coordinates": [40.754245, -73.968125],
+          "coordinates": [
+            40.754245,
+            -73.968125
+          ],
           "officer_id": "ID - NYPD 303",
           "officer_name": "Officer Garcia",
           "assets": {
@@ -24888,7 +24981,10 @@
         {
           "type": "police",
           "category": "Patrol",
-          "coordinates": [40.756446, -73.967437],
+          "coordinates": [
+            40.756446,
+            -73.967437
+          ],
           "officer_id": "ID - NYPD 450",
           "officer_name": "Officer Martinez",
           "assets": {
@@ -24913,7 +25009,10 @@
         {
           "type": "police",
           "category": "SWAT",
-          "coordinates": [40.745621, -73.991234],
+          "coordinates": [
+            40.745621,
+            -73.991234
+          ],
           "officer_id": "ID - NYPD 803",
           "officer_name": "Officer George",
           "assets": {
@@ -24940,14 +25039,35 @@
         {
           "id": 1,
           "status": "active",
-          "coordinates": [40.7851, -73.9683],
+          "coordinates": [
+            40.7851,
+            -73.9683
+          ],
           "affected_area": [
-            [-73.970493, 40.7888],
-            [-73.972186, 40.786458],
-            [-73.974596, 40.783352],
-            [-73.967758, 40.78133],
-            [-73.966293, 40.784338],
-            [-73.96639, 40.787691]
+            [
+              -73.970493,
+              40.7888
+            ],
+            [
+              -73.972186,
+              40.786458
+            ],
+            [
+              -73.974596,
+              40.783352
+            ],
+            [
+              -73.967758,
+              40.78133
+            ],
+            [
+              -73.966293,
+              40.784338
+            ],
+            [
+              -73.96639,
+              40.787691
+            ]
           ],
           "incident_name": "Earthquake Warning",
           "officerIncharge": "Off. Jackson",
@@ -24963,23 +25083,129 @@
             "status": "30%",
             "people_affected": "75000",
             "people_affected_array": [
-              230, 570, 890, 1120, 1460, 1820, 2110, 2340, 2670, 2890, 3210,
-              3570, 3980
+              230,
+              570,
+              890,
+              1120,
+              1460,
+              1820,
+              2110,
+              2340,
+              2670,
+              2890,
+              3210,
+              3570,
+              3980
             ],
             "casualities": "5000",
             "rescues": "15000",
             "people_rescued_array": [
-              100, 420, 750, 1080, 1420, 1780, 2070, 2300, 2630, 2850, 3170,
-              3530, 3940
+              100,
+              420,
+              750,
+              1080,
+              1420,
+              1780,
+              2070,
+              2300,
+              2630,
+              2850,
+              3170,
+              3530,
+              3940
             ],
             "evacuations": "25000",
             "calls_to_911": "180",
             "calls_to_900": {
-              "xAxis": ["4.00AM", "4.15AM", "4.30AM", "4.45AM", "5.00AM"],
-              "yAxis": [10, 60, 30, 80, 50, 100]
+              "xAxis": [
+                "4.00AM",
+                "4.15AM",
+                "4.30AM",
+                "4.45AM",
+                "5.00AM"
+              ],
+              "yAxis": [
+                10,
+                60,
+                30,
+                80,
+                50,
+                100
+              ]
             }
           },
-          "logInformation": [],
+          "logInformation": [
+            {
+              "officerName": "Off. Jackson",
+              "officerId": "ID - NYPD 215",
+              "type": "police",
+              "time": "15:40",
+              "date": "24-1-2024",
+              "logMessage": "Requesting backup"
+            },
+            {
+              "officerName": "Off. Kan",
+              "officerId": "ID - NYPD 555",
+              "type": "police",
+              "time": "15:42",
+              "date": "24-1-2024",
+              "logMessage": "Arrived on scene"
+            },
+            {
+              "type": "civilian",
+              "CivilianId": "ID - CV 4512",
+              "time": "15:50",
+              "date": "24-1-2024",
+              "logMessage": "10 Civilians reported emergency from Wall Street"
+            },
+            {
+              "officerName": "EMS Officer",
+              "officerId": "ID - NYPD 2412",
+              "type": "EMS",
+              "time": "15:52",
+              "date": "24-1-2024",
+              "logMessage": "EMS arrival delayed approx. 4 minutes"
+            },
+            {
+              "officerName": "Off. Braddy Sean",
+              "officerId": "ID - NYPD 232",
+              "type": "police",
+              "time": "15:57",
+              "date": "24-1-2024",
+              "logMessage": "Arrived on scene"
+            },
+            {
+              "officerName": "Off. Sean",
+              "officerId": "ID - NYPD 2345",
+              "type": "police",
+              "time": "15:59",
+              "date": "24-1-2024",
+              "logMessage": "Arrived on scene"
+            },
+            {
+              "type": "civilian",
+              "CivilianId": "ID - CV 4517",
+              "time": "15:50",
+              "date": "24-1-2024",
+              "logMessage": "fire has extended to the adjacent upper floor"
+            },
+            {
+              "officerName": "Off. Rodriguez",
+              "officerId": "ID - NYPD 2321",
+              "type": "police",
+              "time": "16:05",
+              "date": "24-1-2024",
+              "logMessage": "patrolling city outskirts for safety"
+            },
+            {
+              "officerName": "Off. Jackson",
+              "officerId": "ID - NYPD 215",
+              "type": "police",
+              "time": "16:12",
+              "date": "24-1-2024",
+              "logMessage": "Medical teams on standby"
+            }
+          ],
           "officersRequirement": [
             {
               "officerName": "EMS Officer",
@@ -25182,180 +25408,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Braddy Sean",
@@ -25416,16 +25468,43 @@
         },
         {
           "id": 3,
-          "coordinates": [40.710178, -74.017462],
+          "coordinates": [
+            40.710178,
+            -74.017462
+          ],
           "affected_area": [
-            [-74.016599, 40.718556],
-            [-74.017439, 40.714504],
-            [-74.018212, 40.710372],
-            [-74.018684, 40.708388],
-            [-74.014478, 40.709462],
-            [-74.012118, 40.712552],
-            [-74.011002, 40.71613],
-            [-74.012204, 40.718407]
+            [
+              -74.016599,
+              40.718556
+            ],
+            [
+              -74.017439,
+              40.714504
+            ],
+            [
+              -74.018212,
+              40.710372
+            ],
+            [
+              -74.018684,
+              40.708388
+            ],
+            [
+              -74.014478,
+              40.709462
+            ],
+            [
+              -74.012118,
+              40.712552
+            ],
+            [
+              -74.011002,
+              40.71613
+            ],
+            [
+              -74.012204,
+              40.718407
+            ]
           ],
           "status": "active",
           "incident_name": "FRW-Fire Warning",
@@ -25443,20 +25522,55 @@
             "status": "65% ",
             "people_affected": "50000",
             "people_affected_array": [
-              310, 620, 950, 1240, 1620, 1960, 2210, 2580, 2860, 3090, 3350,
-              3710, 4020
+              310,
+              620,
+              950,
+              1240,
+              1620,
+              1960,
+              2210,
+              2580,
+              2860,
+              3090,
+              3350,
+              3710,
+              4020
             ],
             "casualities": "2000",
             "rescues": "10000",
             "people_rescued_array": [
-              90, 400, 730, 1020, 1400, 1740, 1990, 2360, 2640, 2870, 3130,
-              3490, 3800
+              90,
+              400,
+              730,
+              1020,
+              1400,
+              1740,
+              1990,
+              2360,
+              2640,
+              2870,
+              3130,
+              3490,
+              3800
             ],
             "evacuations": "15000",
             "calls_to_911": "180",
             "calls_to_900": {
-              "xAxis": ["6.00AM", "6.15AM", "6.30AM", "6.45AM", "7.00AM"],
-              "yAxis": [20, 70, 40, 90, 50, 150]
+              "xAxis": [
+                "6.00AM",
+                "6.15AM",
+                "6.30AM",
+                "6.45AM",
+                "7.00AM"
+              ],
+              "yAxis": [
+                20,
+                70,
+                40,
+                90,
+                50,
+                150
+              ]
             }
           },
           "logInformation": [
@@ -25761,180 +25875,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Jackson",
@@ -25979,14 +25919,35 @@
         },
         {
           "id": 2,
-          "coordinates": [40.752156, -74.006158],
+          "coordinates": [
+            40.752156,
+            -74.006158
+          ],
           "affected_area": [
-            [-74.00589, 40.756531],
-            [-74.007644, 40.754342],
-            [-74.009051, 40.750638],
-            [-74.004359, 40.748841],
-            [-74.001156, 40.751712],
-            [-74.001676, 40.752206]
+            [
+              -74.00589,
+              40.756531
+            ],
+            [
+              -74.007644,
+              40.754342
+            ],
+            [
+              -74.009051,
+              40.750638
+            ],
+            [
+              -74.004359,
+              40.748841
+            ],
+            [
+              -74.001156,
+              40.751712
+            ],
+            [
+              -74.001676,
+              40.752206
+            ]
           ],
           "status": "active",
           "officerIncharge": "Off. Jackson",
@@ -26003,20 +25964,55 @@
             "status": "10% ",
             "people_affected": "10000",
             "people_affected_array": [
-              280, 590, 920, 1170, 1530, 1860, 2170, 2410, 2790, 3020, 3260,
-              3600, 3940
+              280,
+              590,
+              920,
+              1170,
+              1530,
+              1860,
+              2170,
+              2410,
+              2790,
+              3020,
+              3260,
+              3600,
+              3940
             ],
             "casualities": "9000",
             "rescues": "1000",
             "people_rescued_array": [
-              110, 420, 750, 1000, 1360, 1690, 1990, 2230, 2610, 2840, 3080,
-              3420, 3760
+              110,
+              420,
+              750,
+              1000,
+              1360,
+              1690,
+              1990,
+              2230,
+              2610,
+              2840,
+              3080,
+              3420,
+              3760
             ],
             "evacuations": "21000",
             "calls_to_911": "110",
             "calls_to_900": {
-              "xAxis": ["8.00AM", "8.15AM", "8.30AM", "8.45AM", "9.00AM"],
-              "yAxis": [30, 60, 10, 70, 40, 80]
+              "xAxis": [
+                "8.00AM",
+                "8.15AM",
+                "8.30AM",
+                "8.45AM",
+                "9.00AM"
+              ],
+              "yAxis": [
+                30,
+                60,
+                10,
+                70,
+                40,
+                80
+              ]
             }
           },
           "logInformation": [
@@ -26294,180 +26290,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Jackson",
@@ -26512,14 +26334,35 @@
         },
         {
           "id": 8,
-          "coordinates": [40.82643, -73.895626],
+          "coordinates": [
+            40.82643,
+            -73.895626
+          ],
           "affected_area": [
-            [-73.90207, 40.833408],
-            [-73.907562, 40.827152],
-            [-73.898231, 40.82237],
-            [-73.889846, 40.823398],
-            [-73.886598, 40.829386],
-            [-73.892739, 40.834122]
+            [
+              -73.90207,
+              40.833408
+            ],
+            [
+              -73.907562,
+              40.827152
+            ],
+            [
+              -73.898231,
+              40.82237
+            ],
+            [
+              -73.889846,
+              40.823398
+            ],
+            [
+              -73.886598,
+              40.829386
+            ],
+            [
+              -73.892739,
+              40.834122
+            ]
           ],
           "status": "active",
           "officerIncharge": "Off. Jackson",
@@ -26537,20 +26380,55 @@
             "status": "50% ",
             "people_affected": "15000",
             "people_affected_array": [
-              260, 550, 890, 1140, 1460, 1810, 2090, 2390, 2700, 2930, 3180,
-              3520, 3890
+              260,
+              550,
+              890,
+              1140,
+              1460,
+              1810,
+              2090,
+              2390,
+              2700,
+              2930,
+              3180,
+              3520,
+              3890
             ],
             "casualities": "500",
             "rescues": "1000",
             "people_rescued_array": [
-              120, 440, 780, 1030, 1350, 1700, 1980, 2280, 2590, 2820, 3070,
-              3420, 3790
+              120,
+              440,
+              780,
+              1030,
+              1350,
+              1700,
+              1980,
+              2280,
+              2590,
+              2820,
+              3070,
+              3420,
+              3790
             ],
             "evacuations": "3000",
             "calls_to_911": "180",
             "calls_to_900": {
-              "xAxis": ["8.00AM", "8.15AM", "8.30AM", "8.45AM", "9.00AM"],
-              "yAxis": [40, 80, 20, 90, 30, 200]
+              "xAxis": [
+                "8.00AM",
+                "8.15AM",
+                "8.30AM",
+                "8.45AM",
+                "9.00AM"
+              ],
+              "yAxis": [
+                40,
+                80,
+                20,
+                90,
+                30,
+                200
+              ]
             }
           },
           "logInformation": [
@@ -26816,180 +26694,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Jackson",
@@ -27034,12 +26738,27 @@
         },
         {
           "id": 9,
-          "coordinates": [40.93971, -73.784395],
+          "coordinates": [
+            40.93971,
+            -73.784395
+          ],
           "affected_area": [
-            [-73.794366, 40.941526],
-            [-73.79078, 40.9318],
-            [-73.779374, 40.934737],
-            [-73.778337, 40.947727]
+            [
+              -73.794366,
+              40.941526
+            ],
+            [
+              -73.79078,
+              40.9318
+            ],
+            [
+              -73.779374,
+              40.934737
+            ],
+            [
+              -73.778337,
+              40.947727
+            ]
           ],
           "status": "active",
           "officerIncharge": "Off. Dean",
@@ -27056,20 +26775,55 @@
             "status": "95% ",
             "people_affected": "5000",
             "people_affected_array": [
-              340, 670, 1000, 1290, 1660, 2010, 2280, 2510, 2830, 3070, 3340,
-              3700, 4030
+              340,
+              670,
+              1000,
+              1290,
+              1660,
+              2010,
+              2280,
+              2510,
+              2830,
+              3070,
+              3340,
+              3700,
+              4030
             ],
             "casualities": "0",
             "rescues": "0",
             "people_rescued_array": [
-              80, 390, 720, 1010, 1380, 1730, 2000, 2230, 2550, 2790, 3060,
-              3420, 3750
+              80,
+              390,
+              720,
+              1010,
+              1380,
+              1730,
+              2000,
+              2230,
+              2550,
+              2790,
+              3060,
+              3420,
+              3750
             ],
             "evacuations": "5000",
             "calls_to_911": "20",
             "calls_to_900": {
-              "xAxis": ["10.00AM", "10.15AM", "10.30AM", "10.45AM", "11.00AM"],
-              "yAxis": [50, 90, 40, 100, 50, 110]
+              "xAxis": [
+                "10.00AM",
+                "10.15AM",
+                "10.30AM",
+                "10.45AM",
+                "11.00AM"
+              ],
+              "yAxis": [
+                50,
+                90,
+                40,
+                100,
+                50,
+                110
+              ]
             }
           },
           "logInformation": [
@@ -27341,180 +27095,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Jackson",
@@ -27559,12 +27139,27 @@
         },
         {
           "id": 11,
-          "coordinates": [41.05075, -73.867577],
+          "coordinates": [
+            41.05075,
+            -73.867577
+          ],
           "affected_area": [
-            [-73.870074, 41.055647],
-            [-73.871761, 41.044168],
-            [-73.862487, 41.045651],
-            [-73.861784, 41.057307]
+            [
+              -73.870074,
+              41.055647
+            ],
+            [
+              -73.871761,
+              41.044168
+            ],
+            [
+              -73.862487,
+              41.045651
+            ],
+            [
+              -73.861784,
+              41.057307
+            ]
           ],
           "status": "active",
           "officerIncharge": "Off. Turner",
@@ -27581,20 +27176,55 @@
             "status": "80% ",
             "people_affected": "30000",
             "people_affected_array": [
-              290, 600, 940, 1200, 1560, 1900, 2170, 2450, 2760, 2990, 3230,
-              3560, 3910
+              290,
+              600,
+              940,
+              1200,
+              1560,
+              1900,
+              2170,
+              2450,
+              2760,
+              2990,
+              3230,
+              3560,
+              3910
             ],
             "casualities": "8000",
             "rescues": "5000",
             "people_rescued_array": [
-              130, 450, 790, 1040, 1400, 1740, 2010, 2290, 2600, 2830, 3070,
-              3420, 3770
+              130,
+              450,
+              790,
+              1040,
+              1400,
+              1740,
+              2010,
+              2290,
+              2600,
+              2830,
+              3070,
+              3420,
+              3770
             ],
             "evacuations": "10000",
             "calls_to_911": "220",
             "calls_to_900": {
-              "xAxis": ["12.00PM", "12.15PM", "12.30PM", "12.45PM", "1.00PM"],
-              "yAxis": [60, 100, 50, 110, 60, 120]
+              "xAxis": [
+                "12.00PM",
+                "12.15PM",
+                "12.30PM",
+                "12.45PM",
+                "1.00PM"
+              ],
+              "yAxis": [
+                60,
+                100,
+                50,
+                110,
+                60,
+                120
+              ]
             }
           },
           "logInformation": [
@@ -27878,180 +27508,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Jackson",
@@ -28096,24 +27552,75 @@
         },
         {
           "id": 6,
-          "coordinates": [40.720192, -73.986509],
+          "coordinates": [
+            40.720192,
+            -73.986509
+          ],
           "affected_area": [
-            [-73.989704, 40.734309],
-            [-73.989704, 40.734309],
-            [-73.971808, 40.72701],
-            [-73.97372, 40.720747],
-            [-73.977682, 40.711065],
-            [-73.981302, 40.71003],
-            [-73.988406, 40.709305],
-            [-73.988337, 40.710081],
-            [-73.99913, 40.70858],
-            [-74.001452, 40.71003],
-            [-73.999949, 40.711687],
-            [-73.99913, 40.712877],
-            [-73.9979, 40.713965],
-            [-73.993597, 40.721471],
-            [-73.991411, 40.728097],
-            [-73.989894, 40.73442]
+            [
+              -73.989704,
+              40.734309
+            ],
+            [
+              -73.989704,
+              40.734309
+            ],
+            [
+              -73.971808,
+              40.72701
+            ],
+            [
+              -73.97372,
+              40.720747
+            ],
+            [
+              -73.977682,
+              40.711065
+            ],
+            [
+              -73.981302,
+              40.71003
+            ],
+            [
+              -73.988406,
+              40.709305
+            ],
+            [
+              -73.988337,
+              40.710081
+            ],
+            [
+              -73.99913,
+              40.70858
+            ],
+            [
+              -74.001452,
+              40.71003
+            ],
+            [
+              -73.999949,
+              40.711687
+            ],
+            [
+              -73.99913,
+              40.712877
+            ],
+            [
+              -73.9979,
+              40.713965
+            ],
+            [
+              -73.993597,
+              40.721471
+            ],
+            [
+              -73.991411,
+              40.728097
+            ],
+            [
+              -73.989894,
+              40.73442
+            ]
           ],
           "status": "active",
           "officerIncharge": "Off. Williams",
@@ -28130,19 +27637,55 @@
             "status": "10% ",
             "people_affected": "10000",
             "people_affected_array": [
-              500, 550, 620, 713, 780, 855, 884, 1000, 1040, 1140, 1546, 1623,
+              500,
+              550,
+              620,
+              713,
+              780,
+              855,
+              884,
+              1000,
+              1040,
+              1140,
+              1546,
+              1623,
               1845
             ],
             "casualities": "5000",
             "rescues": "5000",
             "people_rescued_array": [
-              200, 350, 420, 513, 513, 655, 712, 720, 816, 918, 1046, 1126, 1845
+              200,
+              350,
+              420,
+              513,
+              513,
+              655,
+              712,
+              720,
+              816,
+              918,
+              1046,
+              1126,
+              1845
             ],
             "evacuations": "4000",
             "calls_to_911": "200",
             "calls_to_900": {
-              "xAxis": ["2.00PM", "2.15PM", "2.30PM", "2.45PM", "3.00PM"],
-              "yAxis": [50, 100, 150, 200, 250, 300]
+              "xAxis": [
+                "2.00PM",
+                "2.15PM",
+                "2.30PM",
+                "2.45PM",
+                "3.00PM"
+              ],
+              "yAxis": [
+                50,
+                100,
+                150,
+                200,
+                250,
+                300
+              ]
             }
           },
           "logInformation": [
@@ -28414,180 +27957,6 @@
               }
             ]
           },
-          "cmsData": [
-            {
-              "time": "15:30",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            },
-            {
-              "time": "15:40",
-              "date": "23 Jan 2024",
-              "data": [
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "246 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg8.svg?alt=media&token=9a4bdd56-d6de-47e4-a547-850ba7eff6d1",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg7.svg?alt=media&token=4d4b41c0-d0a1-4cec-9051-e92a0defa653",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg5.svg?alt=media&token=564fac42-02af-4967-981c-3cedfb6b0318",
-                  "tagLine": "Rubin Residence Hall.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "15 Greene St.mp4"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "20 Cooper Square.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage63.svg?alt=media&token=5820b397-af72-4430-8562-ce793b285182",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage61.svg?alt=media&token=de905931-bf6c-4aba-bc19-c1c5db32412a",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage64.svg?alt=media&token=d3677940-6dab-43ad-a591-6003c9c31a3c",
-                  "tagLine": "1 E 2nd St.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimg6.svg?alt=media&token=1e6a3447-d97b-44ea-ba89-820b27e1e6c5",
-                  "tagLine": "4 Washington Pl.jpeg"
-                },
-                {
-                  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Camera%2Fimage62.svg?alt=media&token=8b70c448-91a6-4e3a-ab05-18f74b949abd",
-                  "tagLine": "1 E 2nd St.jpeg"
-                }
-              ]
-            }
-          ],
           "officersDispatched": [
             {
               "officerName": "Off. Jackson",
@@ -28764,17 +28133,26 @@
       },
       "evacuations_center": [
         {
-          "coordinates": [40.7359, -73.9911],
+          "coordinates": [
+            40.7359,
+            -73.9911
+          ],
           "name": "PS - IS 30",
           "location": "Between Ovington Avenue and 72 Street"
         },
         {
-          "coordinates": [40.7646, -73.9997],
+          "coordinates": [
+            40.7646,
+            -73.9997
+          ],
           "name": "JHS 185",
           "location": "Between 147 Street and 149 Street"
         },
         {
-          "coordinates": [40.7982, -73.9529],
+          "coordinates": [
+            40.7982,
+            -73.9529
+          ],
           "name": "PS 153",
           "location": "Between 60th Road and 60th Lane"
         }
@@ -28782,7 +28160,10 @@
       "fire_servicing": [
         {
           "type": "fire service",
-          "coordinates": [40.7678, -73.9718],
+          "coordinates": [
+            40.7678,
+            -73.9718
+          ],
           "officer_id": "ID - FDNY 001",
           "officer_name": "Firefighter Smith",
           "assets": {
@@ -28803,7 +28184,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.6695, -73.9626],
+          "coordinates": [
+            40.6695,
+            -73.9626
+          ],
           "officer_id": "ID - FDNY 002",
           "officer_name": "Firefighter Johnson",
           "assets": {
@@ -28824,7 +28208,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.7892, -74.0848],
+          "coordinates": [
+            40.7892,
+            -74.0848
+          ],
           "officer_id": "ID - FDNY 003",
           "officer_name": "Firefighter Williams",
           "assets": {
@@ -28845,7 +28232,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.7479, -74.0048],
+          "coordinates": [
+            40.7479,
+            -74.0048
+          ],
           "officer_id": "ID - FDNY 004",
           "officer_name": "Firefighter Martinez",
           "assets": {
@@ -28866,7 +28256,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.5734, -73.9784],
+          "coordinates": [
+            40.5734,
+            -73.9784
+          ],
           "officer_id": "ID - FDNY 005",
           "officer_name": "Firefighter Garcia",
           "assets": {
@@ -28887,7 +28280,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.7552, -73.9788],
+          "coordinates": [
+            40.7552,
+            -73.9788
+          ],
           "officer_id": "ID - FDNY 006",
           "officer_name": "Firefighter Scotts",
           "assets": {
@@ -28908,7 +28304,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.7625, -73.9889],
+          "coordinates": [
+            40.7625,
+            -73.9889
+          ],
           "officer_id": "ID - FDNY 007",
           "officer_name": "Firefighter Brown",
           "assets": {
@@ -28929,7 +28328,10 @@
         },
         {
           "type": "fire service",
-          "coordinates": [40.7798, -73.9531],
+          "coordinates": [
+            40.7798,
+            -73.9531
+          ],
           "officer_id": "ID - FDNY 008",
           "officer_name": "Firefighter Harris",
           "assets": {
@@ -28952,7 +28354,10 @@
       "EMS": [
         {
           "type": "EMS",
-          "coordinates": [40.8506, -73.8765],
+          "coordinates": [
+            40.8506,
+            -73.8765
+          ],
           "officer_id": "ID - EMS 001",
           "officer_name": "Paramedic Smith",
           "assets": {
@@ -28973,7 +28378,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.8649, -73.9313],
+          "coordinates": [
+            40.8649,
+            -73.9313
+          ],
           "officer_id": "ID - EMS 002",
           "officer_name": "Paramedic Johnson",
           "assets": {
@@ -28994,7 +28402,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.7587, -73.9787],
+          "coordinates": [
+            40.7587,
+            -73.9787
+          ],
           "officer_id": "ID - EMS 003",
           "officer_name": "Paramedic Williams",
           "assets": {
@@ -29015,7 +28426,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.7532, -73.9822],
+          "coordinates": [
+            40.7532,
+            -73.9822
+          ],
           "officer_id": "ID - EMS 004",
           "officer_name": "Paramedic Brown",
           "assets": {
@@ -29036,7 +28450,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.7126, -74.0134],
+          "coordinates": [
+            40.7126,
+            -74.0134
+          ],
           "officer_id": "ID - EMS 005",
           "officer_name": "Paramedic Martinez",
           "assets": {
@@ -29057,7 +28474,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.7308, -73.9973],
+          "coordinates": [
+            40.7308,
+            -73.9973
+          ],
           "officer_id": "ID - EMS 006",
           "officer_name": "Paramedic Rodriguez",
           "assets": {
@@ -29078,7 +28498,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.6727, -73.9691],
+          "coordinates": [
+            40.6727,
+            -73.9691
+          ],
           "officer_id": "ID - EMS 007",
           "officer_name": "Paramedic Lee",
           "assets": {
@@ -29099,7 +28522,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.7536, -74.0021],
+          "coordinates": [
+            40.7536,
+            -74.0021
+          ],
           "officer_id": "ID - EMS 008",
           "officer_name": "Paramedic Garcia",
           "assets": {
@@ -29120,7 +28546,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.7033, -74.017],
+          "coordinates": [
+            40.7033,
+            -74.017
+          ],
           "officer_id": "ID - EMS 009",
           "officer_name": "Paramedic Thompson",
           "assets": {
@@ -29141,7 +28570,10 @@
         },
         {
           "type": "EMS",
-          "coordinates": [40.8642, -73.9318],
+          "coordinates": [
+            40.8642,
+            -73.9318
+          ],
           "officer_id": "ID - EMS 010",
           "officer_name": "Paramedic Davis",
           "assets": {
@@ -29159,6 +28591,80 @@
           "speed": "60 km/h",
           "timeToReach": "25 minutes",
           "status": "Responding to emergency"
+        }
+      ],
+      "CMS": [
+        {
+          "date": "15",
+          "month": "1",
+          "Year": "2024",
+          "mediaType": "jpg",
+          "title": "Ambulances in area Mid-Towm",
+          "mediaUrl": "https://images.prismic.io/ellipsis-drive/3c84d3e8-4ce1-4dcd-b4fa-38fc7a0e7fb7_1643557020-f3f6b9f8224be911b2f9c66e12d7a8d3.webp?auto=compress%2Cformat&fit=max"
+        },
+        {
+          "date": "15",
+          "month": "3",
+          "Year": "2024",
+          "mediaType": "floorplans",
+          "mediaUrl": "https://www.cadpro.com/wp-content/uploads/2018/10/Professional-Fire-Evacuation-Floor-Plan.png",
+          "title": "Fire in near Street 5, California"
+        },
+        {
+          "date": "15",
+          "month": "1",
+          "Year": "2024",
+          "mediaType": "jpg",
+          "mediaUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202401/japan-earthquake-044751828-16x9_0.jpg?VersionId=RBM6I1Flkjgb8On.fmy3IlKcXUMLAhNG",
+          "title": "Earthquake in area 5, California"
+        },
+        {
+          "date": "15",
+          "month": "1",
+          "Year": "2024",
+          "mediaType": "jpg",
+          "mediaUrl": "https://c.files.bbci.co.uk/A38C/production/_132186814_6eea3347a8074cd8c9b96bdad5fe37dad93766840_537_5616_31595616x3159.jpg",
+          "title": "Police in action in area 5, California"
+        },
+        {
+          "date": "15",
+          "month": "3",
+          "Year": "2024",
+          "mediaType": "jpg",
+          "mediaUrl": "https://images.wondershare.com/edrawmax/maker2023/evacuation-plan-maker/new/home-evacuation-plan.jpg",
+          "title": "Police in action in area 5, California"
+        },
+        {
+          "date": "11",
+          "month": "1",
+          "Year": "2024",
+          "mediaType": "jpg",
+          "mediaUrl": "https://reliablefire.com/wp-content/uploads/2022/03/emergency-evacuation-drill-training-1544164517-1360246.jpeg",
+          "title": "Police in action in area 5, California"
+        },
+        {
+          "date": "15",
+          "month": "1",
+          "Year": "2024",
+          "mediaType": "pdf",
+          "mediaUrl": "https://environmentclearance.nic.in/writereaddata/online/RiskAssessment/08102020HYO9ZK96sops.pdf",
+          "title": "Police in action in area 5, California"
+        },
+        {
+          "date": "15",
+          "month": "3",
+          "Year": "2024",
+          "mediaType": "mp4",
+          "mediaUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Videos-FRA%2FUAL%20Big%20Welcome%202021_%20Fire%20safety%20and%20evacuation%20procedure.mp4?alt=media&token=ffff4320-4ecb-43f5-b786-7c8f52ea2b24",
+          "title": "Police in action in area 5, California"
+        },
+        {
+          "date": "15",
+          "month": "1",
+          "Year": "2024",
+          "mediaType": "mp4",
+          "mediaUrl": "https://firebasestorage.googleapis.com/v0/b/fra-file-uploading-testing.appspot.com/o/Videos-FRA%2FUAL%20Big%20Welcome%202021_%20Fire%20safety%20and%20evacuation%20procedure.mp4?alt=media&token=ffff4320-4ecb-43f5-b786-7c8f52ea2b24",
+          "title": "Police in action in area 5, California"
         }
       ]
     }

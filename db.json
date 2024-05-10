@@ -275,7 +275,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Generate and analyze monthly sales data",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -302,7 +302,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Generate and analyze monthly sales data 02",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -329,7 +329,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Generate and analyze monthly sales data 03",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -356,7 +356,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Generate and analyze monthly sales data of tom and jerry",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -383,7 +383,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Generate and analyze monthly sales data of man",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -410,7 +410,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "The slaughterhouse called humanity",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -437,7 +437,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Generate and analyze monthly sales data jam",
           "user_id": "123456789",
           "note": "Urgent task, needs to be completed by end of month",
@@ -464,7 +464,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "Captain you are a wave",
           "user_id": "123456789",
           "note": "You are a wave captain",
@@ -491,7 +491,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "hannibal lectar",
           "user_id": "123456789",
           "note": "We ARE GOING TO HIT THAT OBJECT",
@@ -518,7 +518,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "hannibal lectar",
           "user_id": "123456789",
           "note": "We ARE GOING TO HIT THAT OBJECT",
@@ -545,7 +545,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "hannibal lectar",
           "user_id": "123456789",
           "note": "We ARE GOING TO HIT THAT OBJECT",
@@ -572,7 +572,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "hannibal lectar",
           "user_id": "123456789",
           "note": "We ARE GOING TO HIT THAT OBJECT",
@@ -599,7 +599,7 @@
               "end_date": "2024-05-15T23:59:59Z"
             }
           },
-          "status": "Pending",
+          "status": "Done",
           "description": "hannibal lectar",
           "user_id": "123456789",
           "note": "We ARE GOING TO HIT THAT OBJECT",

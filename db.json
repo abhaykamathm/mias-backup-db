@@ -28669,56 +28669,217 @@
       ]
     }
   ],
-   "gofema_userDetails": [
+    "gofema_userDetails": [
     {
       "name": "Shiva",
-      "Pincode": "500032",
+      "Pincode": "98101",
       "id": "3ef9",
-
+      "image": "/svg/Emoji8.svg",
       "otherLocations": {
         "type": "Feature",
-        "id": "dXJuOm1ieHBsYzpBYVRz",
+        "id": "dXJuOm1ieHBsYzpBa3Jvbnc",
         "geometry": {
           "type": "Point",
-          "coordinates": [-75.4652471468304, 42.751210955038]
+          "coordinates": [
+            -96.91536,
+            19.539557
+          ]
         },
         "properties": {
-          "mapbox_id": "dXJuOm1ieHBsYzpBYVRz",
-          "feature_type": "region",
-          "full_address": "New York, United States",
-          "name": "New York",
-          "name_preferred": "New York",
+          "mapbox_id": "dXJuOm1ieHBsYzpBa3Jvbnc",
+          "feature_type": "place",
+          "full_address": "Xalapa, Veracruz, Mexico",
+          "name": "Xalapa",
+          "name_preferred": "Xalapa",
           "coordinates": {
-            "longitude": -75.4652471468304,
-            "latitude": 42.751210955038
+            "longitude": -96.91536,
+            "latitude": 19.539557
           },
-          "place_formatted": "United States",
-          "bbox": [-79.8046875, 40.4771401, -71.763627, 45.0239467],
+          "place_formatted": "Veracruz, Mexico",
+          "bbox": [
+            -96.9708429,
+            19.4846713,
+            -96.7990494,
+            19.599466
+          ],
           "context": {
-            "country": {
-              "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
-              "name": "United States",
-              "wikidata_id": "Q30",
-              "country_code": "US",
-              "country_code_alpha_3": "USA"
-            },
             "region": {
-              "mapbox_id": "dXJuOm1ieHBsYzpBYVRz",
-              "name": "New York",
-              "wikidata_id": "Q1384"
+              "mapbox_id": "dXJuOm1ieHBsYzpBV1Nm",
+              "name": "Veracruz",
+              "wikidata_id": "Q60130",
+              "region_code": "VER",
+              "region_code_full": "MX-VER"
+            },
+            "country": {
+              "mapbox_id": "dXJuOm1ieHBsYzpJcDg",
+              "name": "Mexico",
+              "wikidata_id": "Q96",
+              "country_code": "MX",
+              "country_code_alpha_3": "MEX"
+            },
+            "place": {
+              "mapbox_id": "dXJuOm1ieHBsYzpBa3Jvbnc",
+              "name": "Xalapa",
+              "wikidata_id": "Q221051"
             }
           }
         }
       },
-      "SelectedOptions": ["Drought Conditions Advisory"]
+      "SelectedOptions": [
+        "Drought Conditions Advisory"
+      ]
     }
   ],
   "gofema_friends": [
     {
-      "id": "87f3",
+      "id": "a4f6",
+      "FriendName": "Henry",
+      "Pincode": "99359",
+      "image": "/svg/Emoji8.svg",
+      "SelectedOptions": [
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Snowfall Warning"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Freezing Rain Warning"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Winter Storm Watch"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Sleet Advisory"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Ice Storm Warning"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Blizzard Warning"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Wind Chill Advisory"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Frost Warning"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Snow Squall Alert"
+          ]
+        },
+        {
+          "option": "Winter Weather",
+          "subOption": [
+            "Black Ice Advisory"
+          ]
+        }
+      ],
+      "Family": []
+    },
+    {
+      "id": "409f",
+      "FriendName": "Oliver",
+      "Pincode": "92111",
+      "image": "/svg/Emoji7.svg",
+      "SelectedOptions": [
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Avalanche Warning"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Avalanche Watch"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Snow Slide Advisory"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Alpine Avalanche Warning"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Mountain Snow Advisory"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Glacier Collapse Alert"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Backcountry Avalanche Warning"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Icefall Avalanche Advisory"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Avalanche Debris Alert"
+          ]
+        },
+        {
+          "option": "Avalanches",
+          "subOption": [
+            "Ski Resort Closure Warning"
+          ]
+        }
+      ],
+      "Family": []
+    },
+    {
+      "id": "64b6",
       "FriendName": "Rathy",
-      "Pincode": "622304",
-      "image": "/svg/Emoji1.svg"
+      "Pincode": "75001",
+      "image": "/svg/Emoji2.svg"
+    },
+    {
+      "id": "d3ab",
+      "FriendName": "Walter",
+      "Pincode": "90001",
+      "image": "/svg/Emoji9.svg"
     }
   ],
   "clink_citizenView": {

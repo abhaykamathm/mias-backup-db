@@ -40044,219 +40044,1162 @@
       ]
     }
   ],
-  "gofema_userDetails": [
-    {
-      "name": "Shiva",
-      "Pincode": "98101",
-      "id": "3ef9",
-      "image": "/svg/Emoji8.svg",
-      "otherLocations": {
-        "type": "Feature",
-        "id": "dXJuOm1ieHBsYzpBa3Jvbnc",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            -96.91536,
-            19.539557
-          ]
-        },
-        "properties": {
-          "mapbox_id": "dXJuOm1ieHBsYzpBa3Jvbnc",
-          "feature_type": "place",
-          "full_address": "Xalapa, Veracruz, Mexico",
-          "name": "Xalapa",
-          "name_preferred": "Xalapa",
-          "coordinates": {
-            "longitude": -96.91536,
-            "latitude": 19.539557
+ "gofema_userDetails": {
+    "en": [
+      {
+        "name": "Shiva",
+        "Pincode": "98101",
+        "id": "3ef9",
+        "image": "/svg/Emoji8.svg",
+        "otherLocations": {
+          "type": "Feature",
+          "id": "dXJuOm1ieHBsYzpJS2p4",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-71.642716, 10.559484]
           },
-          "place_formatted": "Veracruz, Mexico",
-          "bbox": [
-            -96.9708429,
-            19.4846713,
-            -96.7990494,
-            19.599466
-          ],
-          "context": {
-            "region": {
-              "mapbox_id": "dXJuOm1ieHBsYzpBV1Nm",
-              "name": "Veracruz",
-              "wikidata_id": "Q60130",
-              "region_code": "VER",
-              "region_code_full": "MX-VER"
+          "properties": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+            "feature_type": "place",
+            "full_address": "San Francisco, Zulia, Venezuela",
+            "name": "San Francisco",
+            "name_preferred": "San Francisco",
+            "coordinates": {
+              "longitude": -71.642716,
+              "latitude": 10.559484
             },
-            "country": {
-              "mapbox_id": "dXJuOm1ieHBsYzpJcDg",
-              "name": "Mexico",
-              "wikidata_id": "Q96",
-              "country_code": "MX",
-              "country_code_alpha_3": "MEX"
-            },
-            "place": {
-              "mapbox_id": "dXJuOm1ieHBsYzpBa3Jvbnc",
-              "name": "Xalapa",
-              "wikidata_id": "Q221051"
+            "place_formatted": "Zulia, Venezuela",
+            "bbox": [-71.780011, 10.4988918, -71.5722582, 10.603545],
+            "context": {
+              "region": {
+                "mapbox_id": "dXJuOm1ieHBsYzpBdVR4",
+                "name": "Zulia",
+                "wikidata_id": "Q43269",
+                "region_code": "V",
+                "region_code_full": "VE-V"
+              },
+              "country": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJdkU",
+                "name": "Venezuela",
+                "wikidata_id": "Q717",
+                "country_code": "VE",
+                "country_code_alpha_3": "VEN"
+              },
+              "place": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+                "name": "San Francisco",
+                "wikidata_id": "Q16628330"
+              }
             }
           }
-        }
+        },
+        "SelectedOptions": ["Flood Advisory"]
+      }
+    ],
+    "ta": [
+      {
+        "name": "சிவன்",
+        "Pincode": "98101",
+        "id": "3ef9",
+        "image": "/svg/Emoji8.svg",
+        "otherLocations": {
+          "type": "அம்சம்",
+          "id": "dXJuOm1ieHBsYzpJS2p4",
+          "geometry": {
+            "type": "புள்ளி",
+            "coordinates": [-71.642716, 10.559484]
+          },
+          "properties": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+            "feature_type": "இடம்",
+            "full_address": "சான் பிரான்சிஸ்கோ, ஜூலியா, வெனிசுலா",
+            "name": "சான் பிரான்சிஸ்கோ",
+            "name_preferred": "சான் பிரான்சிஸ்கோ",
+            "coordinates": {
+              "longitude": -71.642716,
+              "latitude": 10.559484
+            },
+            "place_formatted": "ஜூலியா, வெனிசுலா",
+            "bbox": [-71.780011, 10.4988918, -71.5722582, 10.603545],
+            "context": {
+              "region": {
+                "mapbox_id": "dXJuOm1ieHBsYzpBdVR4",
+                "name": "ஜூலியா",
+                "wikidata_id": "Q43269",
+                "region_code": "வி",
+                "region_code_full": "VE-V"
+              },
+              "country": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJdkU",
+                "name": "வெனிசுலா",
+                "wikidata_id": "Q717",
+                "country_code": "VE",
+                "country_code_alpha_3": "VEN"
+              },
+              "place": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+                "name": "சான் பிரான்சிஸ்கோ",
+                "wikidata_id": "Q16628330"
+              }
+            }
+          }
+        },
+        "SelectedOptions": ["வெள்ள ஆலோசனை"]
+      }
+    ],
+    "te": [
+      {
+        "name": "శివుడు",
+        "Pincode": "98101",
+        "id": "3ef9",
+        "image": "/svg/Emoji8.svg",
+        "otherLocations": {
+          "type": "ఫీచర్",
+          "id": "dXJuOm1ieHBsYzpJS2p4",
+          "geometry": {
+            "type": "పాయింట్",
+            "coordinates": [-71.642716, 10.559484]
+          },
+          "properties": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+            "feature_type": "స్థలం",
+            "full_address": "శాన్ ఫ్రాన్సిస్కో, జూలియా, వెనిజులా",
+            "name": "శాన్ ఫ్రాన్సిస్కొ",
+            "name_preferred": "శాన్ ఫ్రాన్సిస్కొ",
+            "coordinates": {
+              "longitude": -71.642716,
+              "latitude": 10.559484
+            },
+            "place_formatted": "జూలియా, వెనిజులా",
+            "bbox": [-71.780011, 10.4988918, -71.5722582, 10.603545],
+            "context": {
+              "region": {
+                "mapbox_id": "dXJuOm1ieHBsYzpBdVR4",
+                "name": "జూలియా",
+                "wikidata_id": "Q43269",
+                "region_code": "వి",
+                "region_code_full": "VE-V"
+              },
+              "country": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJdkU",
+                "name": "వెనిజులా",
+                "wikidata_id": "Q717",
+                "country_code": "VE",
+                "country_code_alpha_3": "VEN"
+              },
+              "place": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+                "name": "శాన్ ఫ్రాన్సిస్కొ",
+                "wikidata_id": "Q16628330"
+              }
+            }
+          }
+        },
+        "SelectedOptions": ["వరద సలహా"]
+      }
+    ],
+    "ml": [
+      {
+        "name": "ശിവൻ",
+        "Pincode": "98101",
+        "id": "3ef9",
+        "image": "/svg/Emoji8.svg",
+        "otherLocations": {
+          "type": "ഫീച്ചർ",
+          "id": "dXJuOm1ieHBsYzpJS2p4",
+          "geometry": {
+            "type": "പോയിൻ്റ്",
+            "coordinates": [-71.642716, 10.559484]
+          },
+          "properties": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+            "feature_type": "സ്ഥലം",
+            "full_address": "സാൻ ഫ്രാൻസിസ്കോ, സുലിയ, വെനിസ്വേല",
+            "name": "സാന് ഫ്രാന്സിസ്കോ",
+            "name_preferred": "സാന് ഫ്രാന്സിസ്കോ",
+            "coordinates": {
+              "longitude": -71.642716,
+              "latitude": 10.559484
+            },
+            "place_formatted": "സുലിയ, വെനിസ്വേല",
+            "bbox": [-71.780011, 10.4988918, -71.5722582, 10.603545],
+            "context": {
+              "region": {
+                "mapbox_id": "dXJuOm1ieHBsYzpBdVR4",
+                "name": "സുലിയ",
+                "wikidata_id": "Q43269",
+                "region_code": "വി",
+                "region_code_full": "വി.ഇ-വി"
+              },
+              "country": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJdkU",
+                "name": "വെനിസ്വേല",
+                "wikidata_id": "Q717",
+                "country_code": "വി.ഇ",
+                "country_code_alpha_3": "വി.ഇ.എൻ"
+              },
+              "place": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+                "name": "സാന് ഫ്രാന്സിസ്കോ",
+                "wikidata_id": "Q16628330"
+              }
+            }
+          }
+        },
+        "SelectedOptions": ["വെള്ളപ്പൊക്ക ഉപദേശം"]
+      }
+    ],
+    "hi": [
+      {
+        "name": "शिव",
+        "Pincode": "98101",
+        "id": "3ef9",
+        "image": "/svg/Emoji8.svg",
+        "otherLocations": {
+          "type": "विशेषता",
+          "id": "dXJuOm1ieHBsYzpJS2p4",
+          "geometry": {
+            "type": "बिंदु",
+            "coordinates": [-71.642716, 10.559484]
+          },
+          "properties": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+            "feature_type": "जगह",
+            "full_address": "सैन फ्रांसिस्को, ज़ुलिया, वेनेजुएला",
+            "name": "सैन फ्रांसिस्को",
+            "name_preferred": "सैन फ्रांसिस्को",
+            "coordinates": {
+              "longitude": -71.642716,
+              "latitude": 10.559484
+            },
+            "place_formatted": "जूलिया, वेनेज़ुएला",
+            "bbox": [-71.780011, 10.4988918, -71.5722582, 10.603545],
+            "context": {
+              "region": {
+                "mapbox_id": "dXJuOm1ieHBsYzpBdVR4",
+                "name": "ज़ुलिया",
+                "wikidata_id": "Q43269",
+                "region_code": "वी",
+                "region_code_full": "वीई-वी"
+              },
+              "country": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJdkU",
+                "name": "वेनेज़ुएला",
+                "wikidata_id": "Q717",
+                "country_code": "वी.ई",
+                "country_code_alpha_3": "वेंचर"
+              },
+              "place": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+                "name": "सैन फ्रांसिस्को",
+                "wikidata_id": "Q16628330"
+              }
+            }
+          }
+        },
+        "SelectedOptions": ["बाढ़ संबंधी सलाह"]
+      }
+    ],
+    "kn": [
+      {
+        "name": "ಶಿವ",
+        "Pincode": "98101",
+        "id": "3ef9",
+        "image": "/svg/Emoji8.svg",
+        "otherLocations": {
+          "type": "ವೈಶಿಷ್ಟ್ಯ",
+          "id": "dXJuOm1ieHBsYzpJS2p4",
+          "geometry": {
+            "type": "ಪಾಯಿಂಟ್",
+            "coordinates": [-71.642716, 10.559484]
+          },
+          "properties": {
+            "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+            "feature_type": "ಸ್ಥಳ",
+            "full_address": "ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋ, ಜುಲಿಯಾ, ವೆನೆಜುವೆಲಾ",
+            "name": "ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋ",
+            "name_preferred": "ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋ",
+            "coordinates": {
+              "longitude": -71.642716,
+              "latitude": 10.559484
+            },
+            "place_formatted": "ಜುಲಿಯಾ, ವೆನೆಜುವೆಲಾ",
+            "bbox": [-71.780011, 10.4988918, -71.5722582, 10.603545],
+            "context": {
+              "region": {
+                "mapbox_id": "dXJuOm1ieHBsYzpBdVR4",
+                "name": "ಜುಲಿಯಾ",
+                "wikidata_id": "Q43269",
+                "region_code": "ವಿ",
+                "region_code_full": "VE-V"
+              },
+              "country": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJdkU",
+                "name": "ವೆನೆಜುವೆಲಾ",
+                "wikidata_id": "Q717",
+                "country_code": "ವಿಇ",
+                "country_code_alpha_3": "VEN"
+              },
+              "place": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJS2p4",
+                "name": "ಸ್ಯಾನ್ ಫ್ರಾನ್ಸಿಸ್ಕೋ",
+                "wikidata_id": "Q16628330"
+              }
+            }
+          }
+        },
+        "SelectedOptions": ["ಪ್ರವಾಹ ಸಲಹಾ"]
+      }
+    ]
+  },
+  "gofema_friends": {
+    "en": [
+      {
+        "id": "a4f6",
+        "FriendName": "Henry",
+        "Pincode": "99359",
+        "image": "/svg/Emoji8.svg",
+        "SelectedOptions": [
+          {
+            "option": "Flooding",
+            "subOption": [
+              "Flood Watch",
+              "Flood Advisory",
+              "Flood Statement",
+              "Flash Flood Watch",
+              "River Flood Warning",
+              "Heavy Rainfall Warning",
+              "Coastal Flooding Alert",
+              "Urban Flooding Advisory",
+              "Dam Break Warning",
+              "Mudslide Alert"
+            ]
+          },
+          {
+            "option": "Winter Weather",
+            "subOption": [
+              "Snowfall Warning",
+              "Freezing Rain Warning",
+              "Winter Storm Watch",
+              "Sleet Advisory",
+              "Ice Storm Warning",
+              "Blizzard Warning",
+              "Wind Chill Advisory",
+              "Frost Warning",
+              "Snow Squall Alert",
+              "Black Ice Advisory"
+            ]
+          },
+          {
+            "option": "Avalanches",
+            "subOption": [
+              "Avalanche Warning",
+              "Avalanche Watch",
+              "Snow Slide Advisory",
+              "Alpine Avalanche Warning",
+              "Mountain Snow Advisory",
+              "Glacier Collapse Alert",
+              "Backcountry Avalanche Warning",
+              "Icefall Avalanche Advisory",
+              "Avalanche Debris Alert",
+              "Ski Resort Closure Warning"
+            ]
+          },
+          {
+            "option": "Earthquakes",
+            "subOption": [
+              "Earthquake Warning",
+              "Seismic Advisory",
+              "Tectonic Tremor Watch",
+              "Fault Line Alert",
+              "Ground Shaking Advisory",
+              "Aftershock Warning",
+              "Plate Boundary Alert",
+              "Underground Cavern Collapse Advisory",
+              "Seismic Swarm Watch",
+              "Subduction Zone Warning"
+            ]
+          },
+          {
+            "option": "Tsunamis",
+            "subOption": [
+              "Tsunami Warning",
+              "Tsunami Watch",
+              "Seismic Sea Wave Advisory",
+              "Coastal Tsunami Alert",
+              "Ocean Surges Warning",
+              "Underwater Landslide Alert",
+              "Deep-Sea Trench Tsunami Watch",
+              "Submarine Volcano Tsunami Warning",
+              "Pacific Ring of Fire Tsunami Alert",
+              "Tidal Wave Risk Advisory"
+            ]
+          },
+          {
+            "option": "Fire Weather",
+            "subOption": [
+              "Fire Warning",
+              "Red Flag Warning",
+              "Wildfire Alert",
+              "Drought Conditions Advisory",
+              "High Wind Fire Danger",
+              "Heatwave Wildfire Risk Alert",
+              "Vegetation Dryness Warning",
+              "Fire Weather Watch",
+              "Smoke Inhalation Advisory",
+              "Fire Perimeter Expansion Alert"
+            ]
+          },
+          {
+            "option": "Marine Weather",
+            "subOption": [
+              "Storm Warning",
+              "Small Craft Advisory",
+              "Gale Watch",
+              "Buoy Warning",
+              "Tropical Storm Alert",
+              "Hurricane Warning",
+              "Typhoon Watch",
+              "Nautical Mile Visibility Alert",
+              "Rip Current Advisory",
+              "Marine Vessel Icing Warning"
+            ]
+          }
+        ],
+        "Family": []
       },
-      "SelectedOptions": [
-        "Drought Conditions Advisory"
-      ]
-    }
-  ],
-  "gofema_friends": [
-    {
-      "id": "a4f6",
-      "FriendName": "Henry",
-      "Pincode": "99359",
-      "image": "/svg/Emoji8.svg",
-      "SelectedOptions": [
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Snowfall Warning"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Freezing Rain Warning"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Winter Storm Watch"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Sleet Advisory"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Ice Storm Warning"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Blizzard Warning"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Wind Chill Advisory"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Frost Warning"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Snow Squall Alert"
-          ]
-        },
-        {
-          "option": "Winter Weather",
-          "subOption": [
-            "Black Ice Advisory"
-          ]
-        }
-      ],
-      "Family": []
-    },
-    {
-      "id": "409f",
-      "FriendName": "Oliver",
-      "Pincode": "92111",
-      "image": "/svg/Emoji7.svg",
-      "SelectedOptions": [
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Avalanche Warning"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Avalanche Watch"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Snow Slide Advisory"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Alpine Avalanche Warning"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Mountain Snow Advisory"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Glacier Collapse Alert"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Backcountry Avalanche Warning"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Icefall Avalanche Advisory"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Avalanche Debris Alert"
-          ]
-        },
-        {
-          "option": "Avalanches",
-          "subOption": [
-            "Ski Resort Closure Warning"
-          ]
-        }
-      ],
-      "Family": []
-    },
-    {
-      "id": "64b6",
-      "FriendName": "Rathy",
-      "Pincode": "75001",
-      "image": "/svg/Emoji2.svg"
-    },
-    {
-      "id": "d3ab",
-      "FriendName": "Walter",
-      "Pincode": "90001",
-      "image": "/svg/Emoji9.svg"
-    }
-  ],
+      {
+        "id": "409f",
+        "FriendName": "Oliver",
+        "Pincode": "92111",
+        "image": "/svg/Emoji7.svg",
+        "SelectedOptions": [
+          {
+            "option": "Flooding",
+            "subOption": ["Heavy Rainfall Warning"]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "64b6",
+        "FriendName": "Rathy",
+        "Pincode": "75001",
+        "image": "/svg/Emoji2.svg"
+      },
+      {
+        "id": "b010",
+        "FriendName": "Gwen",
+        "Pincode": "90001",
+        "image": "/svg/Emoji8.svg"
+      }
+    ],
+    "ta": [
+      {
+        "id": "a4f6",
+        "FriendName": "ஹென்றி",
+        "Pincode": "99359",
+        "image": "/svg/Emoji8.svg",
+        "SelectedOptions": [
+          {
+            "option": "வெள்ளம்",
+            "subOption": [
+              "வெள்ள கண்காணிப்பு",
+              "வெள்ள ஆலோசனை",
+              "வெள்ள அறிக்கை",
+              "ஃப்ளாஷ் வெள்ள கண்காணிப்பு",
+              "ஆற்றில் வெள்ள அபாய எச்சரிக்கை",
+              "கனமழை எச்சரிக்கை",
+              "கரையோர வெள்ள அபாய எச்சரிக்கை",
+              "நகர்ப்புற வெள்ளம் பற்றிய ஆலோசனை",
+              "அணை உடைப்பு எச்சரிக்கை",
+              "மண்சரிவு எச்சரிக்கை"
+            ]
+          },
+          {
+            "option": "குளிர்கால வானிலை",
+            "subOption": [
+              "பனிப்பொழிவு எச்சரிக்கை",
+              "உறைபனி மழை எச்சரிக்கை",
+              "குளிர்கால புயல் கண்காணிப்பு",
+              "ஸ்லீட் ஆலோசனை",
+              "ஐஸ் புயல் எச்சரிக்கை",
+              "பனிப்புயல் எச்சரிக்கை",
+              "காற்று குளிர் ஆலோசனை",
+              "உறைபனி எச்சரிக்கை",
+              "ஸ்னோ ஸ்கால் எச்சரிக்கை",
+              "கருப்பு பனி ஆலோசனை"
+            ]
+          },
+          {
+            "option": "பனிச்சரிவுகள்",
+            "subOption": [
+              "பனிச்சரிவு எச்சரிக்கை",
+              "பனிச்சரிவு கண்காணிப்பு",
+              "ஸ்னோ ஸ்லைடு ஆலோசனை",
+              "அல்பைன் பனிச்சரிவு எச்சரிக்கை",
+              "மலை பனி ஆலோசனை",
+              "பனிப்பாறை சரிவு எச்சரிக்கை",
+              "பின்நாடு பனிச்சரிவு எச்சரிக்கை",
+              "பனிப்பொழிவு பனிச்சரிவு ஆலோசனை",
+              "பனிச்சரிவு குப்பைகள் எச்சரிக்கை",
+              "ஸ்கை ரிசார்ட் மூடல் எச்சரிக்கை"
+            ]
+          },
+          {
+            "option": "பூகம்பங்கள்",
+            "subOption": [
+              "நிலநடுக்கம் எச்சரிக்கை",
+              "நில அதிர்வு ஆலோசனை",
+              "டெக்டோனிக் ட்ரெமர் வாட்ச்",
+              "தவறு வரி எச்சரிக்கை",
+              "நில நடுக்கம் ஆலோசனை",
+              "அதிர்வு எச்சரிக்கை",
+              "தட்டு எல்லை எச்சரிக்கை",
+              "நிலத்தடி குகை சரிவு ஆலோசனை",
+              "நில அதிர்வு திரள் கண்காணிப்பு",
+              "துணை மண்டல எச்சரிக்கை"
+            ]
+          },
+          {
+            "option": "சுனாமிகள்",
+            "subOption": [
+              "சுனாமி எச்சரிக்கை",
+              "சுனாமி கண்காணிப்பு",
+              "நில அதிர்வு கடல் அலை ஆலோசனை",
+              "கடலோர சுனாமி எச்சரிக்கை",
+              "கடல் அலைகள் எச்சரிக்கை",
+              "நீருக்கடியில் நிலச்சரிவு எச்சரிக்கை",
+              "ஆழ்கடல் அகழி சுனாமி கண்காணிப்பு",
+              "நீர்மூழ்கிக் கப்பல் எரிமலை சுனாமி எச்சரிக்கை",
+              "பசிபிக் ரிங் ஆஃப் ஃபயர் சுனாமி எச்சரிக்கை",
+              "அலை அலை அபாய ஆலோசனை"
+            ]
+          },
+          {
+            "option": "தீ வானிலை",
+            "subOption": [
+              "தீ எச்சரிக்கை",
+              "சிவப்புக் கொடி எச்சரிக்கை",
+              "காட்டுத்தீ எச்சரிக்கை",
+              "வறட்சி நிலைமைகள் ஆலோசனை",
+              "அதிக காற்று தீ ஆபத்து",
+              "வெப்ப அலை காட்டுத்தீ அபாய எச்சரிக்கை",
+              "தாவர வறட்சி எச்சரிக்கை",
+              "தீ வானிலை கண்காணிப்பு",
+              "புகை உள்ளிழுக்கும் ஆலோசனை",
+              "தீ சுற்றளவு விரிவாக்க எச்சரிக்கை"
+            ]
+          },
+          {
+            "option": "கடல் வானிலை",
+            "subOption": [
+              "புயல் எச்சரிக்கை",
+              "சிறிய கைவினை ஆலோசனை",
+              "கேல் வாட்ச்",
+              "மிதவை எச்சரிக்கை",
+              "வெப்பமண்டல புயல் எச்சரிக்கை",
+              "சூறாவளி எச்சரிக்கை",
+              "டைஃபூன் வாட்ச்",
+              "கடல் மைல் தெரிவுநிலை எச்சரிக்கை",
+              "ரிப் தற்போதைய ஆலோசனை",
+              "கடல் கப்பல் ஐசிங் எச்சரிக்கை"
+            ]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "409f",
+        "FriendName": "ஆலிவர்",
+        "Pincode": "92111",
+        "image": "/svg/Emoji7.svg",
+        "SelectedOptions": [
+          {
+            "option": "வெள்ளம்",
+            "subOption": ["கனமழை எச்சரிக்கை"]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "64b6",
+        "FriendName": "ரதி",
+        "Pincode": "75001",
+        "image": "/svg/Emoji2.svg"
+      },
+      {
+        "id": "b010",
+        "FriendName": "க்வென்",
+        "Pincode": "90001",
+        "image": "/svg/Emoji8.svg"
+      }
+    ],
+    "te": [
+      {
+        "id": "a4f6",
+        "FriendName": "హెన్రీ",
+        "Pincode": "99359",
+        "image": "/svg/Emoji8.svg",
+        "SelectedOptions": [
+          {
+            "option": "వరదలు",
+            "subOption": [
+              "వరదల పరిశీలన",
+              "వరద సలహా",
+              "వరద ప్రకటన",
+              "ఫ్లాష్ ఫ్లడ్ వాచ్",
+              "నది వరద హెచ్చరిక",
+              "భారీ వర్షపాతం హెచ్చరిక",
+              "తీరప్రాంత వరద హెచ్చరిక",
+              "పట్టణ వరదల సలహా",
+              "డ్యామ్ బ్రేక్ హెచ్చరిక",
+              "బురద జల్లుల హెచ్చరిక"
+            ]
+          },
+          {
+            "option": "శీతాకాలపు వాతావరణం",
+            "subOption": [
+              "హిమపాతం హెచ్చరిక",
+              "గడ్డకట్టే వర్షం హెచ్చరిక",
+              "శీతాకాలపు తుఫాను వాచ్",
+              "స్లీట్ సలహా",
+              "మంచు తుఫాను హెచ్చరిక",
+              "మంచు తుఫాను హెచ్చరిక",
+              "గాలి చలి సలహా",
+              "ఫ్రాస్ట్ హెచ్చరిక",
+              "స్నో స్క్వాల్ అలర్ట్",
+              "బ్లాక్ ఐస్ సలహా"
+            ]
+          },
+          {
+            "option": "హిమపాతాలు",
+            "subOption": [
+              "హిమపాతం హెచ్చరిక",
+              "హిమపాతం వాచ్",
+              "మంచు స్లయిడ్ సలహా",
+              "ఆల్పైన్ హిమపాతం హెచ్చరిక",
+              "పర్వత మంచు సలహా",
+              "గ్లేసియర్ కూలిపోయే హెచ్చరిక",
+              "బ్యాక్‌కంట్రీ హిమపాతం హెచ్చరిక",
+              "ఐస్ ఫాల్ హిమపాతం సలహా",
+              "హిమపాతం శిధిలాల హెచ్చరిక",
+              "స్కీ రిసార్ట్ మూసివేత హెచ్చరిక"
+            ]
+          },
+          {
+            "option": "భూకంపాలు",
+            "subOption": [
+              "భూకంప హెచ్చరిక",
+              "భూకంప సలహా",
+              "టెక్టోనిక్ ట్రెమర్ వాచ్",
+              "ఫాల్ట్ లైన్ హెచ్చరిక",
+              "గ్రౌండ్ షేకింగ్ అడ్వైజరీ",
+              "ఆఫ్టర్‌షాక్ హెచ్చరిక",
+              "ప్లేట్ సరిహద్దు హెచ్చరిక",
+              "భూగర్భ గుహ కూలిపోయే సలహా",
+              "సీస్మిక్ స్వార్మ్ వాచ్",
+              "సబ్డక్షన్ జోన్ హెచ్చరిక"
+            ]
+          },
+          {
+            "option": "సునామీలు",
+            "subOption": [
+              "సునామీ హెచ్చరిక",
+              "సునామీ వాచ్",
+              "సీస్మిక్ సీ వేవ్ అడ్వైజరీ",
+              "తీరప్రాంత సునామీ హెచ్చరిక",
+              "సముద్రపు అలలు హెచ్చరిక",
+              "నీటి అడుగున కొండచరియల హెచ్చరిక",
+              "డీప్-సీ ట్రెంచ్ సునామీ వాచ్",
+              "జలాంతర్గామి అగ్నిపర్వతం సునామీ హెచ్చరిక",
+              "పసిఫిక్ రింగ్ ఆఫ్ ఫైర్ సునామీ హెచ్చరిక",
+              "టైడల్ వేవ్ రిస్క్ అడ్వైజరీ"
+            ]
+          },
+          {
+            "option": "అగ్ని వాతావరణం",
+            "subOption": [
+              "అగ్ని హెచ్చరిక",
+              "ఎర్ర జెండా హెచ్చరిక",
+              "అడవి మంటల హెచ్చరిక",
+              "కరువు పరిస్థితుల సలహా",
+              "అధిక గాలి అగ్ని ప్రమాదం",
+              "హీట్‌వేవ్ వైల్డ్‌ఫైర్ రిస్క్ అలర్ట్",
+              "వృక్షసంపద పొడి హెచ్చరిక",
+              "ఫైర్ వెదర్ వాచ్",
+              "స్మోక్ ఇన్హేలేషన్ అడ్వైజరీ",
+              "అగ్ని చుట్టుకొలత విస్తరణ హెచ్చరిక"
+            ]
+          },
+          {
+            "option": "సముద్ర వాతావరణం",
+            "subOption": [
+              "తుఫాను హెచ్చరిక",
+              "చిన్న క్రాఫ్ట్ సలహా",
+              "గేల్ వాచ్",
+              "బోయ్ హెచ్చరిక",
+              "ఉష్ణమండల తుఫాను హెచ్చరిక",
+              "హరికేన్ హెచ్చరిక",
+              "టైఫూన్ వాచ్",
+              "నాటికల్ మైల్ విజిబిలిటీ అలర్ట్",
+              "రిప్ కరెంట్ అడ్వైజరీ",
+              "మెరైన్ వెసెల్ ఐసింగ్ హెచ్చరిక"
+            ]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "409f",
+        "FriendName": "ఆలివర్",
+        "Pincode": "92111",
+        "image": "/svg/Emoji7.svg",
+        "SelectedOptions": [
+          {
+            "option": "వరదలు",
+            "subOption": ["భారీ వర్షపాతం హెచ్చరిక"]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "64b6",
+        "FriendName": "రతీ",
+        "Pincode": "75001",
+        "image": "/svg/Emoji2.svg"
+      },
+      {
+        "id": "b010",
+        "FriendName": "గ్వెన్",
+        "Pincode": "90001",
+        "image": "/svg/Emoji8.svg"
+      }
+    ],
+    "ml": [
+      {
+        "id": "a4f6",
+        "FriendName": "ഹെൻറി",
+        "Pincode": "99359",
+        "image": "/svg/Emoji8.svg",
+        "SelectedOptions": [
+          {
+            "option": "വെള്ളപ്പൊക്കം",
+            "subOption": [
+              "വെള്ളപ്പൊക്ക നിരീക്ഷണം",
+              "വെള്ളപ്പൊക്ക ഉപദേശം",
+              "പ്രളയ പ്രസ്താവന",
+              "ഫ്ലാഷ് ഫ്ലഡ് വാച്ച്",
+              "നദിയിലെ വെള്ളപ്പൊക്ക മുന്നറിയിപ്പ്",
+              "കനത്ത മഴയുടെ മുന്നറിയിപ്പ്",
+              "തീരപ്രദേശത്തെ വെള്ളപ്പൊക്ക മുന്നറിയിപ്പ്",
+              "നഗര വെള്ളപ്പൊക്ക ഉപദേശം",
+              "ഡാം ബ്രേക്ക് മുന്നറിയിപ്പ്",
+              "മണ്ണിടിച്ചിൽ മുന്നറിയിപ്പ്"
+            ]
+          },
+          {
+            "option": "ശീതകാല കാലാവസ്ഥ",
+            "subOption": [
+              "മഞ്ഞുവീഴ്ച മുന്നറിയിപ്പ്",
+              "മരവിപ്പിക്കുന്ന മഴ മുന്നറിയിപ്പ്",
+              "വിൻ്റർ സ്റ്റോം വാച്ച്",
+              "സ്ലീറ്റ് ഉപദേശം",
+              "ഐസ് കൊടുങ്കാറ്റ് മുന്നറിയിപ്പ്",
+              "മഞ്ഞുവീഴ്ച മുന്നറിയിപ്പ്",
+              "കാറ്റ് ചിൽ ഉപദേശം",
+              "മഞ്ഞ് മുന്നറിയിപ്പ്",
+              "മഞ്ഞുവീഴ്ച മുന്നറിയിപ്പ്",
+              "ബ്ലാക്ക് ഐസ് ഉപദേശം"
+            ]
+          },
+          {
+            "option": "ഹിമപാതങ്ങൾ",
+            "subOption": [
+              "ഹിമപാത മുന്നറിയിപ്പ്",
+              "അവലാഞ്ച് വാച്ച്",
+              "സ്നോ സ്ലൈഡ് ഉപദേശം",
+              "ആൽപൈൻ ഹിമപാത മുന്നറിയിപ്പ്",
+              "പർവത മഞ്ഞ് ഉപദേശം",
+              "ഹിമാനി തകർച്ച മുന്നറിയിപ്പ്",
+              "ബാക്ക്‌കൺട്രി ഹിമപാത മുന്നറിയിപ്പ്",
+              "ഹിമപാത ഹിമപാത ഉപദേശം",
+              "ഹിമപാത അവശിഷ്ടങ്ങൾ മുന്നറിയിപ്പ്",
+              "സ്കീ റിസോർട്ട് അടച്ചുപൂട്ടൽ മുന്നറിയിപ്പ്"
+            ]
+          },
+          {
+            "option": "ഭൂകമ്പങ്ങൾ",
+            "subOption": [
+              "ഭൂകമ്പ മുന്നറിയിപ്പ്",
+              "ഭൂകമ്പ ഉപദേശം",
+              "ടെക്റ്റോണിക് ട്രെമർ വാച്ച്",
+              "ഫോൾട്ട് ലൈൻ അലേർട്ട്",
+              "നിലം കുലുക്കാനുള്ള ഉപദേശം",
+              "ആഫ്റ്റർ ഷോക്ക് മുന്നറിയിപ്പ്",
+              "പ്ലേറ്റ് ബൗണ്ടറി അലേർട്ട്",
+              "ഭൂഗർഭ ഗുഹ തകർച്ച ഉപദേശം",
+              "സീസ്മിക് സ്വാം വാച്ച്",
+              "സബ്ഡക്ഷൻ സോൺ മുന്നറിയിപ്പ്"
+            ]
+          },
+          {
+            "option": "സുനാമികൾ",
+            "subOption": [
+              "സുനാമി മുന്നറിയിപ്പ്",
+              "സുനാമി വാച്ച്",
+              "സീസ്മിക് സീ വേവ് അഡ്വൈസറി",
+              "തീരദേശ സുനാമി മുന്നറിയിപ്പ്",
+              "കടൽക്ഷോഭം മുന്നറിയിപ്പ്",
+              "വെള്ളത്തിനടിയിൽ മണ്ണിടിച്ചിൽ മുന്നറിയിപ്പ്",
+              "ആഴക്കടൽ ട്രെഞ്ച് സുനാമി വാച്ച്",
+              "അന്തർവാഹിനി അഗ്നിപർവ്വത സുനാമി മുന്നറിയിപ്പ്",
+              "പസഫിക് റിംഗ് ഓഫ് ഫയർ സുനാമി മുന്നറിയിപ്പ്",
+              "ടൈഡൽ വേവ് റിസ്ക് അഡ്വൈസറി"
+            ]
+          },
+          {
+            "option": "അഗ്നി കാലാവസ്ഥ",
+            "subOption": [
+              "അഗ്നി മുന്നറിയിപ്പ്",
+              "ചെങ്കൊടി മുന്നറിയിപ്പ്",
+              "കാട്ടുതീ മുന്നറിയിപ്പ്",
+              "വരൾച്ച സാഹചര്യങ്ങളുടെ ഉപദേശം",
+              "ഉയർന്ന കാറ്റ് തീ അപകടം",
+              "ഹീറ്റ്‌വേവ് കാട്ടുതീ അപകട മുന്നറിയിപ്പ്",
+              "സസ്യങ്ങളുടെ വരൾച്ച മുന്നറിയിപ്പ്",
+              "ഫയർ വെതർ വാച്ച്",
+              "സ്മോക്ക് ഇൻഹാലേഷൻ ഉപദേശം",
+              "അഗ്നി ചുറ്റളവ് വിപുലീകരണ മുന്നറിയിപ്പ്"
+            ]
+          },
+          {
+            "option": "സമുദ്ര കാലാവസ്ഥ",
+            "subOption": [
+              "കൊടുങ്കാറ്റ് മുന്നറിയിപ്പ്",
+              "ചെറിയ കരകൗശല ഉപദേശം",
+              "ഗെയ്ൽ വാച്ച്",
+              "ബോയ് മുന്നറിയിപ്പ്",
+              "ഉഷ്ണമേഖലാ കൊടുങ്കാറ്റ് മുന്നറിയിപ്പ്",
+              "ചുഴലിക്കാറ്റ് മുന്നറിയിപ്പ്",
+              "ടൈഫൂൺ വാച്ച്",
+              "നോട്ടിക്കൽ മൈൽ ദൃശ്യപരത മുന്നറിയിപ്പ്",
+              "റിപ്പ് നിലവിലെ ഉപദേശം",
+              "മറൈൻ വെസ്സൽ ഐസിംഗ് മുന്നറിയിപ്പ്"
+            ]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "409f",
+        "FriendName": "ഒലിവർ",
+        "Pincode": "92111",
+        "image": "/svg/Emoji7.svg",
+        "SelectedOptions": [
+          {
+            "option": "വെള്ളപ്പൊക്കം",
+            "subOption": ["കനത്ത മഴയുടെ മുന്നറിയിപ്പ്"]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "64b6",
+        "FriendName": "രതി",
+        "Pincode": "75001",
+        "image": "/svg/Emoji2.svg"
+      },
+      {
+        "id": "b010",
+        "FriendName": "ഗ്വെൻ",
+        "Pincode": "90001",
+        "image": "/svg/Emoji8.svg"
+      }
+    ],
+    "hi": [
+      {
+        "id": "a4f6",
+        "FriendName": "हेनरी",
+        "Pincode": "99359",
+        "image": "/svg/Emoji8.svg",
+        "SelectedOptions": [
+          {
+            "option": "बाढ़",
+            "subOption": [
+              "बाढ़ की निगरानी",
+              "बाढ़ संबंधी सलाह",
+              "बाढ़ विवरण",
+              "आकस्मिक बाढ़ निगरानी",
+              "नदी में बाढ़ की चेतावनी",
+              "भारी वर्षा की चेतावनी",
+              "तटीय बाढ़ चेतावनी",
+              "शहरी बाढ़ सलाहकार",
+              "बांध तोड़ने की चेतावनी",
+              "कीचड़ धंसने की चेतावनी"
+            ]
+          },
+          {
+            "option": "जाड़े का मौसिम",
+            "subOption": [
+              "बर्फबारी की चेतावनी",
+              "बर्फ़ीली बारिश की चेतावनी",
+              "शीतकालीन तूफान घड़ी",
+              "ओलावृष्टि संबंधी सलाह",
+              "बर्फीले तूफ़ान की चेतावनी",
+              "बर्फ़ीला तूफ़ान की चेतावनी",
+              "पवन शीतल सलाह",
+              "पाले की चेतावनी",
+              "हिमपात की चेतावनी",
+              "ब्लैक आइस एडवाइज़री"
+            ]
+          },
+          {
+            "option": "हिमस्खलन",
+            "subOption": [
+              "हिमस्खलन की चेतावनी",
+              "हिमस्खलन घड़ी",
+              "स्नो स्लाइड सलाह",
+              "अल्पाइन हिमस्खलन की चेतावनी",
+              "पर्वतीय हिमपात संबंधी सलाह",
+              "ग्लेशियर ढहने की चेतावनी",
+              "बैककंट्री हिमस्खलन की चेतावनी",
+              "हिमपात हिमस्खलन संबंधी सलाह",
+              "हिमस्खलन मलबे की चेतावनी",
+              "स्की रिज़ॉर्ट बंद करने की चेतावनी"
+            ]
+          },
+          {
+            "option": "भूकंप",
+            "subOption": [
+              "भूकंप की चेतावनी",
+              "भूकंपीय सलाह",
+              "टेक्टोनिक ट्रेमर वॉच",
+              "फॉल्ट लाइन अलर्ट",
+              "ज़मीन हिलने की सलाह",
+              "झटके के बाद की चेतावनी",
+              "प्लेट सीमा चेतावनी",
+              "भूमिगत गुफा ढहने की सलाह",
+              "भूकंपीय झुंड घड़ी",
+              "सबडक्शन जोन चेतावनी"
+            ]
+          },
+          {
+            "option": "सुनामी",
+            "subOption": [
+              "सुनामी की चेतावनी",
+              "सुनामी घड़ी",
+              "भूकंपीय समुद्री लहर सलाह",
+              "तटीय सुनामी चेतावनी",
+              "महासागरीय लहरों की चेतावनी",
+              "पानी के अंदर भूस्खलन की चेतावनी",
+              "गहरे समुद्र की खाई सुनामी पर नजर",
+              "पनडुब्बी ज्वालामुखी सुनामी की चेतावनी",
+              "प्रशांत रिंग ऑफ फायर सुनामी चेतावनी",
+              "ज्वारीय लहर जोखिम सलाह"
+            ]
+          },
+          {
+            "option": "आग का मौसम",
+            "subOption": [
+              "आग की चेतावनी",
+              "लाल झंडा चेतावनी",
+              "जंगल की आग की चेतावनी",
+              "सूखे की स्थिति संबंधी सलाह",
+              "तेज़ हवा में आग लगने का ख़तरा",
+              "हीटवेव जंगल की आग जोखिम चेतावनी",
+              "वनस्पति सूखने की चेतावनी",
+              "आग के मौसम पर नजर",
+              "धुआँ साँस लेने की सलाह",
+              "अग्नि परिधि विस्तार चेतावनी"
+            ]
+          },
+          {
+            "option": "समुद्री मौसम",
+            "subOption": [
+              "तूफान की चेतावनी",
+              "लघु शिल्प सलाह",
+              "आंधी घड़ी",
+              "बोया चेतावनी",
+              "उष्णकटिबंधीय तूफान चेतावनी",
+              "तूफ़ान की चेतावनी",
+              "तूफ़ान घड़ी",
+              "समुद्री मील दृश्यता चेतावनी",
+              "रिप करेंट एडवाइजरी",
+              "समुद्री जहाज़ पर बर्फ़ पड़ने की चेतावनी"
+            ]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "409एफ",
+        "FriendName": "ओलिवर",
+        "Pincode": "92111",
+        "image": "/svg/Emoji7.svg",
+        "SelectedOptions": [
+          {
+            "option": "बाढ़",
+            "subOption": ["भारी वर्षा की चेतावनी"]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "64बी6",
+        "FriendName": "राठी",
+        "Pincode": "75001",
+        "image": "/svg/Emoji2.svg"
+      },
+      {
+        "id": "b010",
+        "FriendName": "वेन",
+        "Pincode": "90001",
+        "image": "/svg/Emoji8.svg"
+      }
+    ],
+    "kn": [
+      {
+        "id": "a4f6",
+        "FriendName": "ಹೆನ್ರಿ",
+        "Pincode": "99359",
+        "image": "/svg/Emoji8.svg",
+        "SelectedOptions": [
+          {
+            "option": "ಪ್ರವಾಹ",
+            "subOption": [
+              "ಪ್ರವಾಹ ವೀಕ್ಷಣೆ",
+              "ಪ್ರವಾಹ ಸಲಹಾ",
+              "ಪ್ರವಾಹದ ಹೇಳಿಕೆ",
+              "ಫ್ಲ್ಯಾಶ್ ಫ್ಲಡ್ ವಾಚ್",
+              "ನದಿ ಪ್ರವಾಹದ ಎಚ್ಚರಿಕೆ",
+              "ಭಾರೀ ಮಳೆಯ ಎಚ್ಚರಿಕೆ",
+              "ಕರಾವಳಿಯ ಪ್ರವಾಹದ ಎಚ್ಚರಿಕೆ",
+              "ನಗರ ಪ್ರವಾಹದ ಸಲಹಾ",
+              "ಅಣೆಕಟ್ಟು ಒಡೆಯುವ ಎಚ್ಚರಿಕೆ",
+              "ಮಣ್ಣಿನ ಕುಸಿತದ ಎಚ್ಚರಿಕೆ"
+            ]
+          },
+          {
+            "option": "ಚಳಿಗಾಲದ ಹವಾಮಾನ",
+            "subOption": [
+              "ಹಿಮಪಾತದ ಎಚ್ಚರಿಕೆ",
+              "ಘನೀಕರಿಸುವ ಮಳೆಯ ಎಚ್ಚರಿಕೆ",
+              "ಚಳಿಗಾಲದ ಬಿರುಗಾಳಿ ವೀಕ್ಷಣೆ",
+              "ಸ್ಲೀಟ್ ಸಲಹೆ",
+              "ಐಸ್ ಸ್ಟಾರ್ಮ್ ಎಚ್ಚರಿಕೆ",
+              "ಹಿಮಪಾತದ ಎಚ್ಚರಿಕೆ",
+              "ಗಾಳಿ ಚಿಲ್ ಸಲಹೆ",
+              "ಫ್ರಾಸ್ಟ್ ಎಚ್ಚರಿಕೆ",
+              "ಸ್ನೋ ಸ್ಕ್ವಾಲ್ ಎಚ್ಚರಿಕೆ",
+              "ಕಪ್ಪು ಐಸ್ ಸಲಹೆ"
+            ]
+          },
+          {
+            "option": "ಹಿಮಪಾತಗಳು",
+            "subOption": [
+              "ಹಿಮಪಾತದ ಎಚ್ಚರಿಕೆ",
+              "ಹಿಮಪಾತ ವಾಚ್",
+              "ಸ್ನೋ ಸ್ಲೈಡ್ ಸಲಹೆ",
+              "ಆಲ್ಪೈನ್ ಹಿಮಪಾತ ಎಚ್ಚರಿಕೆ",
+              "ಮೌಂಟೇನ್ ಸ್ನೋ ಸಲಹಾ",
+              "ಗ್ಲೇಸಿಯರ್ ಕುಸಿತದ ಎಚ್ಚರಿಕೆ",
+              "ಬ್ಯಾಕ್‌ಕಂಟ್ರಿ ಹಿಮಪಾತ ಎಚ್ಚರಿಕೆ",
+              "ಹಿಮಪಾತದ ಹಿಮಪಾತದ ಸಲಹೆ",
+              "ಹಿಮಪಾತದ ಅವಶೇಷಗಳ ಎಚ್ಚರಿಕೆ",
+              "ಸ್ಕೀ ರೆಸಾರ್ಟ್ ಮುಚ್ಚುವ ಎಚ್ಚರಿಕೆ"
+            ]
+          },
+          {
+            "option": "ಭೂಕಂಪಗಳು",
+            "subOption": [
+              "ಭೂಕಂಪದ ಎಚ್ಚರಿಕೆ",
+              "ಭೂಕಂಪನ ಸಲಹಾ",
+              "ಟೆಕ್ಟೋನಿಕ್ ಟ್ರೆಮರ್ ವಾಚ್",
+              "ದೋಷ ರೇಖೆಯ ಎಚ್ಚರಿಕೆ",
+              "ಗ್ರೌಂಡ್ ಶೇಕಿಂಗ್ ಸಲಹೆ",
+              "ಆಫ್ಟರ್ ಶಾಕ್ ಎಚ್ಚರಿಕೆ",
+              "ಪ್ಲೇಟ್ ಬೌಂಡರಿ ಎಚ್ಚರಿಕೆ",
+              "ಭೂಗತ ಗುಹೆ ಕುಗ್ಗುವಿಕೆ ಸಲಹಾ",
+              "ಭೂಕಂಪಗಳ ಸಮೂಹ ವಾಚ್",
+              "ಸಬ್ಡಕ್ಷನ್ ವಲಯ ಎಚ್ಚರಿಕೆ"
+            ]
+          },
+          {
+            "option": "ಸುನಾಮಿಗಳು",
+            "subOption": [
+              "ಸುನಾಮಿ ಎಚ್ಚರಿಕೆ",
+              "ಸುನಾಮಿ ವಾಚ್",
+              "ಭೂಕಂಪನ ಸಮುದ್ರ ಅಲೆಗಳ ಸಲಹಾ",
+              "ಕರಾವಳಿ ಸುನಾಮಿ ಎಚ್ಚರಿಕೆ",
+              "ಸಾಗರದ ಅಲೆಗಳ ಎಚ್ಚರಿಕೆ",
+              "ನೀರೊಳಗಿನ ಭೂಕುಸಿತ ಎಚ್ಚರಿಕೆ",
+              "ಡೀಪ್-ಸೀ ಟ್ರೆಂಚ್ ಸುನಾಮಿ ವಾಚ್",
+              "ಜಲಾಂತರ್ಗಾಮಿ ಜ್ವಾಲಾಮುಖಿ ಸುನಾಮಿ ಎಚ್ಚರಿಕೆ",
+              "ಪೆಸಿಫಿಕ್ ರಿಂಗ್ ಆಫ್ ಫೈರ್ ಸುನಾಮಿ ಎಚ್ಚರಿಕೆ",
+              "ಉಬ್ಬರವಿಳಿತದ ಅಪಾಯದ ಸಲಹೆ"
+            ]
+          },
+          {
+            "option": "ಬೆಂಕಿಯ ಹವಾಮಾನ",
+            "subOption": [
+              "ಬೆಂಕಿ ಎಚ್ಚರಿಕೆ",
+              "ಕೆಂಪು ಧ್ವಜ ಎಚ್ಚರಿಕೆ",
+              "ಕಾಡ್ಗಿಚ್ಚು ಎಚ್ಚರಿಕೆ",
+              "ಬರ ಪರಿಸ್ಥಿತಿಗಳ ಸಲಹಾ",
+              "ಹೆಚ್ಚಿನ ಗಾಳಿ ಬೆಂಕಿಯ ಅಪಾಯ",
+              "ಹೀಟ್ ವೇವ್ ವೈಲ್ಡ್ ಫೈರ್ ಅಪಾಯದ ಎಚ್ಚರಿಕೆ",
+              "ಸಸ್ಯವರ್ಗದ ಶುಷ್ಕತೆ ಎಚ್ಚರಿಕೆ",
+              "ಫೈರ್ ವೆದರ್ ವಾಚ್",
+              "ಸ್ಮೋಕ್ ಇನ್ಹಲೇಷನ್ ಸಲಹೆ",
+              "ಬೆಂಕಿಯ ಪರಿಧಿ ವಿಸ್ತರಣೆ ಎಚ್ಚರಿಕೆ"
+            ]
+          },
+          {
+            "option": "ಸಾಗರ ಹವಾಮಾನ",
+            "subOption": [
+              "ಚಂಡಮಾರುತದ ಎಚ್ಚರಿಕೆ",
+              "ಸಣ್ಣ ಕರಕುಶಲ ಸಲಹೆ",
+              "ಗೇಲ್ ವಾಚ್",
+              "ಬಾಯ್ ಎಚ್ಚರಿಕೆ",
+              "ಉಷ್ಣವಲಯದ ಚಂಡಮಾರುತದ ಎಚ್ಚರಿಕೆ",
+              "ಚಂಡಮಾರುತದ ಎಚ್ಚರಿಕೆ",
+              "ಟೈಫೂನ್ ವಾಚ್",
+              "ನಾಟಿಕಲ್ ಮೈಲ್ ಗೋಚರತೆಯ ಎಚ್ಚರಿಕೆ",
+              "ರಿಪ್ ಪ್ರಸ್ತುತ ಸಲಹೆ",
+              "ಮೆರೈನ್ ವೆಸೆಲ್ ಐಸಿಂಗ್ ಎಚ್ಚರಿಕೆ"
+            ]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "409f",
+        "FriendName": "ಆಲಿವರ್",
+        "Pincode": "92111",
+        "image": "/svg/Emoji7.svg",
+        "SelectedOptions": [
+          {
+            "option": "ಪ್ರವಾಹ",
+            "subOption": ["ಭಾರೀ ಮಳೆಯ ಎಚ್ಚರಿಕೆ"]
+          }
+        ],
+        "Family": []
+      },
+      {
+        "id": "64b6",
+        "FriendName": "ರಾತಿ",
+        "Pincode": "75001",
+        "image": "/svg/Emoji2.svg"
+      },
+      {
+        "id": "b010",
+        "FriendName": "ಗ್ವೆನ್",
+        "Pincode": "90001",
+        "image": "/svg/Emoji8.svg"
+      }
+    ]
+  },
   "clink_citizenView": {
     "contact": [
       {

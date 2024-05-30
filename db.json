@@ -36465,6 +36465,48 @@
     ]
   },
   "clink_citizenView": {
+    "icons": [
+      {
+        "passive": "/icons/contact.svg",
+        "active": "/icons/contactDark.svg",
+        "path": "contact"
+      },
+      {
+        "passive": "/icons/share.svg",
+        "active": "/icons/shareDark.svg",
+        "path": "share"
+      },
+      {
+        "passive": "/icons/report.svg",
+        "active": "/icons/reportDark.svg",
+        "path": "report"
+      },
+      {
+        "passive": "/icons/message.svg",
+        "active": "/icons/messageDark.svg",
+        "path": "message"
+      },
+      {
+        "passive": "/icons/insights.svg",
+        "active": "/icons/insightsDark.svg",
+        "path": "insights"
+      },
+      {
+        "passive": "/icons/government.svg",
+        "active": "/icons/governmentDark.svg",
+        "path": "government"
+      },
+      {
+        "passive": "/icons/events.svg",
+        "active": "/icons/eventsDark.svg",
+        "path": "events"
+      },
+      {
+        "passive": "/icons/cctv.svg",
+        "active": "/icons/cctvDark.svg",
+        "path": "cctv"
+      }
+    ],
     "contact": {
       "en": [
         {
@@ -37123,9 +37165,288 @@
           "చెత్త, రీసైక్లింగ్ మరియు గ్రాఫిటీ",
           "ఎన్నికలు మరియు రికార్డులు"
         ]
+      },
+      "myReports": {
+        "en": [
+          {
+            "type": "Illegal Parking",
+            "status": "Reported",
+            "reportedBy": "Jhonsan Gary",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "Litter",
+            "status": "Pending",
+            "reportedBy": "Jhonsan Gary",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "Illegal Parking",
+            "status": "In Progress",
+            "reportedBy": "Jhonsan Gary",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "Litter",
+            "status": "Pending",
+            "reportedBy": "Jhonsan Gary",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "hi": [
+          {
+            "type": "गैर कानूनी पार्किंग",
+            "status": "रिपोर्ट किया गया",
+            "reportedBy": "झोंसन गैरी",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "कूड़ा",
+            "status": "लंबित",
+            "reportedBy": "झोंसन गैरी",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "गैर कानूनी पार्किंग",
+            "status": "प्रगति में",
+            "reportedBy": "झोंसन गैरी",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "कूड़ा",
+            "status": "लंबित",
+            "reportedBy": "झोंसन गैरी",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "kn": [
+          {
+            "type": "ಅನಧಿಕೃತ ಪಾರ್ಕಿಂಗ್",
+            "status": "ಅರ್ಜಿದಾರರು",
+            "reportedBy": "ಜಾನ್‌ಸನ್ ಗೆರಿ",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "ಕಸ",
+            "status": "ಬಾಕಿ",
+            "reportedBy": "ಜಾನ್‌ಸನ್ ಗೆರಿ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "ಅನಧಿಕೃತ ಪಾರ್ಕಿಂಗ್",
+            "status": "ಪ್ರಗತಿಯಲ್ಲಿ",
+            "reportedBy": "ಜಾನ್‌ಸನ್ ಗೆರಿ",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "ಕಸ",
+            "status": "ಬಾಕಿ",
+            "reportedBy": "ಜಾನ್‌ಸನ್ ಗೆರಿ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "ml": [
+          {
+            "type": "പാർക്കിംഗ്",
+            "status": "റിപ്പോർട്ട് ചെയ്തു",
+            "reportedBy": "ജോൺസൺ ഗാരി",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "അഴുക്ക്",
+            "status": "നിലവിൽ",
+            "reportedBy": "ജോൺസൺ ഗാരി",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "പാർക്കിംഗ്",
+            "status": "നടപ്പിലാണു",
+            "reportedBy": "ജോൺസൺ ഗാരി",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "അഴുക്ക്",
+            "status": "നിലവിൽ",
+            "reportedBy": "ജോൺസൺ ഗാരി",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "ta": [
+          {
+            "type": "சட்டவிரோதம்",
+            "status": "அறிகயிடப்பட்டது",
+            "reportedBy": "ஜான்சன் கேரி",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "குப்பை",
+            "status": "நிலுவையில்",
+            "reportedBy": "ஜான்சன் கேரி",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "சட்டவிரோதம்",
+            "status": "செயல்",
+            "reportedBy": "ஜான்சன் கேரி",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "குப்பை",
+            "status": "நிலுவையில்",
+            "reportedBy": "ஜான்சன் கேரி",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "te": [
+          {
+            "type": "అనధికార పార్కింగ్",
+            "status": "నివేదించబడింది",
+            "reportedBy": "జాన్సన్ గ్యారీ",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "తుప్ప",
+            "status": "పెండింగ్",
+            "reportedBy": "జాన్సన్ గ్యారీ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "అనధికార పార్కింగ్",
+            "status": "ప్రక్రియలో ఉంది",
+            "reportedBy": "జాన్సన్ గ్యారీ",
+            "bgimg": "/Svg/illegalBig.svg",
+            "smimg": "/Svg/illegalsmall.svg"
+          },
+          {
+            "type": "తుప్ప",
+            "status": "పెండింగ్",
+            "reportedBy": "జాన్సన్ గ్యారీ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ]
+      },
+      "otherReports": {
+        "en": [
+          {
+            "type": "Litter",
+            "status": "Reported",
+            "reportedBy": "Jhonsan Gary",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "Litter",
+            "status": "Reported",
+            "reportedBy": "Jhonsan Gary",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "hi": [
+          {
+            "type": "कूड़ा",
+            "status": "रिपोर्ट किया गया",
+            "reportedBy": "झोंसन गैरी",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "कूड़ा",
+            "status": "रिपोर्ट किया गया",
+            "reportedBy": "झोंसन गैरी",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "kn": [
+          {
+            "type": "ಕಸ",
+            "status": "ರಿಪೋರ್ಟ್ ಮಾಡಲಾಗಿದೆ",
+            "reportedBy": "ಜಾನ್‌ಸನ್ ಗೆರಿ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "ಕಸ",
+            "status": "ರಿಪೋರ್ಟ್ ಮಾಡಲಾಗಿದೆ",
+            "reportedBy": "ಜಾನ್‌ಸನ್ ಗೆರಿ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "ml": [
+          {
+            "type": "അഴുക്ക്",
+            "status": "റിപ്പോർട്ട് ചെയ്തു",
+            "reportedBy": "ജോൺസൺ ഗാരി",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "അഴുക്ക്",
+            "status": "റിപ്പോർട്ട് ചെയ്തു",
+            "reportedBy": "ജോൺസൺ ഗാരി",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "ta": [
+          {
+            "type": "குப்பை",
+            "status": "அறிக்கை செய்யப்பட்டது",
+            "reportedBy": "ஜான்சன் கேரி",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "குப்பை",
+            "status": "அறிக்கை செய்யப்பட்டது",
+            "reportedBy": "ஜான்சன் கேரி",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ],
+        "te": [
+          {
+            "type": "తుప్ప",
+            "status": "నివేదించబడింది",
+            "reportedBy": "జాన్సన్ గ్యారీ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          },
+          {
+            "type": "తుప్ప",
+            "status": "నివేదించబడింది",
+            "reportedBy": "జాన్సన్ గ్యారీ",
+            "bgimg": "/Svg/litterBig.svg",
+            "smimg": "/Svg/littersmall.svg"
+          }
+        ]
       }
     },
-
     "insights": {
       "en": [
         {

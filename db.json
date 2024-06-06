@@ -37801,95 +37801,76 @@
       {
         "geocode": [40.7128, -74.006],
         "icon": {
-          "iconUrl": "/Images/my_location.png",
-          "iconSize": [96, 96]
+          "iconUrl": "/Svg/LocationMap.svg",
+          "iconSize": [150, 150]
         },
-        "type": "location",
-        "popUp": "You are here"
+        "type": "location"
       },
       {
-        "geocode": [40.713, -74.005],
+        "geocode": [40.71, -74.002],
         "icon": {
-          "iconUrl": "/Images/issues_open_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/NoiseMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "open",
-        "popUp": "Near By Location"
+        "type": "open"
       },
       {
         "geocode": [40.714, -74.007],
         "icon": {
-          "iconUrl": "/Images/issues_open_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/LitterMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "open",
-        "popUp": "You are here"
+        "type": "open"
       },
       {
         "geocode": [40.715, -74.004],
         "icon": {
-          "iconUrl": "/Images/issues_open_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/TrafficMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "open",
-        "popUp": "You are here"
+        "type": "open"
       },
       {
-        "geocode": [40.714, -74.008],
+        "geocode": [40.712939, -73.995618],
         "icon": {
-          "iconUrl": "/Images/issues_pending_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/LitterMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "pending",
-        "popUp": "You are here"
+        "type": "pending"
       },
       {
-        "geocode": [40.716, -74.009],
+        "geocode": [40.711, -74.009],
         "icon": {
-          "iconUrl": "/Images/issues_pending_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/NoiseMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "pending",
-        "popUp": "You are here"
+        "type": "pending"
       },
       {
-        "geocode": [40.715, -74.01],
+        "geocode": [40.7155, -73.998118],
         "icon": {
-          "iconUrl": "/Images/issues_pending_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/TrafficMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "pending",
-        "popUp": "You are here"
+        "type": "pending"
       },
       {
         "geocode": [40.716, -74.01],
         "icon": {
-          "iconUrl": "/Images/issues_resolved_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/NoiseMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "resolved",
-        "popUp": "You are here"
+        "type": "resolved"
       },
       {
-        "geocode": [40.717, -74.011],
+        "geocode": [40.714492, -74.013471],
         "icon": {
-          "iconUrl": "/Images/issues_resolved_icon.png",
-          "iconSize": [12, 12]
+          "iconUrl": "/Svg/LitterMap.svg",
+          "iconSize": [50, 50]
         },
-        "type": "resolved",
-        "popUp": "You are here"
-      },
-      {
-        "geocode": [40.718, -74.009],
-        "icon": {
-          "iconUrl": "/Images/issues_resolved_icon.png",
-          "iconSize": [12, 12]
-        },
-        "type": "resolved",
-        "popUp": "You are here"
+        "type": "resolved"
       }
     ],
-
     "Communitymarkers": [
       {
         "geocode": [40.72, -74.001],
@@ -37940,42 +37921,6 @@
         },
         "type": "open",
         "popUp": ""
-      }
-    ],
-
-    "Litter": [
-      {
-        "img": "/Images/Litter.png",
-        "tag": "Litter",
-        "name": "Gary Thomas",
-        "description": "The park near my house has turned into a dumping ground for litterbugs. There's graffiti on benches, empty beer cans in the bushes, and plastic bags caught in the trees. Our kids deserve a clean and safe space to play, not this mess!",
-        "issuetime": "Feb 21, 10:32 pm",
-        "issue2": "Waiting for the crew to be assigned",
-        "issuehours": "Usually takes up to 4 hours"
-      }
-    ],
-
-    "Noise": [
-      {
-        "img": "/Images/Noise.png",
-        "tag": "Noise-Residential",
-        "name": "Gary Thomas",
-        "description": "Loud music, constant construction sounds, and disruptive gatherings are robbing us of the peaceful atmosphere we once enjoyed. Our homes should be a haven of quietude, not a constant battleground of noise. It's time to address this issue and reclaim the serenity of our community.",
-        "issuetime": "Feb 21, 10:32 pm",
-        "issue2": "Crew assigned",
-        "issuehours": "Usually takes up to 4 hours"
-      }
-    ],
-
-    "Illegal": [
-      {
-        "img": "/Images/parking.png",
-        "tag": "Illegal parking",
-        "name": "Andrea Simon",
-        "description": "Illegally parked vehicles are hindering the flow of traffic and posing risks to pedestrians. Let's address this problem together to ensure our streets remain safe and accessible for everyone.",
-        "issuetime": "Feb 21, 10:32 pm",
-        "issue2": "Waiting for the crew to be assigned",
-        "issuehours": "Usually takes up to 4 hours"
       }
     ]
   },
@@ -38350,63 +38295,358 @@
     ]
   },
   "clink_CommunityView": {
-    "illegalItem": [
-      {
-        "img": "/Images/parking.png",
-        "tag": "Illegal parking",
-        "name": "Andrea Simon",
-        "description": "Illegally parked vehicles are hindering the flow of traffic and posing risks to pedestrians. Let's address this problem together to ensure our streets remain safe and accessible for everyone.",
-        "issuetime": "Feb 21, 10:32 pm",
-        "issue2": "Waiting for the crew to be assigned",
-        "issuehours": "Usually takes up to 4 hours"
-      }
-    ],
-    "Litter": [
-      {
-        "img": "/Images/Litter.png.png",
-        "tag": "Litter",
-        "name": "Gary Thomas",
-        "description": "The park near my house has turned into a dumping ground for litterbugs. There's graffiti on benches, empty beer cans in the bushes, and plastic bags caught in the trees. Our kids deserve a clean and safe space to play, not this mess!\"",
-        "issuetime": "Feb 21, 10:32 pm ",
-        "issue2": "Waiting for the crew to be assigned",
-        "issuehours": "Usually takes upto 4 hours"
-      }
-    ],
-    "noiseItem": [
-      {
-        "img": "/Images/Noise.png",
-        "tag": "Noise-Residential",
-        "name": "Gary Thomas",
-        "description": "Loud music, constant construction sounds, and disruptive gatherings are robbing us of the peaceful atmosphere we once enjoyed. Our homes should be a haven of quietude, not a constant battleground of noise. It's time to address this issue and reclaim the serenity of our community.",
-        "issuetime": "Feb 21, 10:32 pm",
-        "issue2": "Crew assigned",
-        "issuehours": "Usually takes up to 4 hours"
-      }
-    ],
-    "herodata": [
-      {
-        "lpheadings": "Our local hero",
-        "lpimg": "/Images/Rectangle 3.png",
-        "lpname": "Michael Lipetri",
-        "lprole": "Chief of Crime",
-        "lpaddress": "Strategies, NYPD New_York, NY10038",
-        "lpsname": "Michael Lipetri",
-        "lpdescription": " Mayor Eric Adams has served the people of New York City as an NYPD officer, State Senator, Brooklyn Borough President, and now as the 110th Mayor of the City of New York.",
-        "lpdescription2": " He gave voice to a diverse coalition of working families in all five boroughs and is leading the fight to bring back New York City’s economy, reduce inequality, improve public safety, and build a stronger, healthier city that delivers for all New Yorkers. Mayor Eric Adams has served the people of New York City as an NYPD officer."
-      }
-    ],
-    "Mayourdata": [
-      {
-        "lpheadings": "Mayour's Message",
-        "lpimg": "/Images/Rectangle 34626512.png",
-        "lpname": "Mayor Eric Adamsi ",
-        "lprole": " City Hall",
-        "lpaddress": "New York , NY 10007",
-        "lpsname": "Mayor Eric Adamsi",
-        "lpdescription": " has served the people of New York\n                        City as an NYPD officer, State Senator, Brooklyn Borough\n                        President, and now as the 110th Mayor of the City of New York.",
-        "lpdescription2": " He gave voice to a diverse coalition of working families in all\n                        five boroughs and is leading the fight to bring back New York\n                        City's economy, reduce inequality, improve public safety, and\n                        build a stronger, healthier city that delivers for all New\n                        Yorkers. Mayor Eric Adams has served the people of New York City\n                        as an NYPD officer."
-      }
-    ]
+    "illegalItem": {
+      "en": [
+        {
+          "img": "/Svg/illegalsmall.svg",
+          "tag": "Illegal parking",
+          "name": "Andrea Simon",
+          "description": "Illegally parked vehicles are hindering the flow of traffic and posing risks to pedestrians. Let's address this problem together to ensure our streets remain safe and accessible for everyone.",
+          "issuetime": "Feb 21, 10:32 pm",
+          "issue2": "Waiting for the crew to be assigned",
+          "issuehours": "Usually takes up to 4 hours"
+        }
+      ],
+      "hi": [
+        {
+          "img": "/Svg/illegalsmall.svg",
+          "tag": "अवैध पार्किंग",
+          "name": "आंद्रिया साइमन",
+          "description": "अवैध रूप से खड़ी गाड़ियाँ यातायात के प्रवाह में बाधा डाल रही हैं और पैदल यात्रियों के लिए जोखिम पैदा कर रही हैं। आइए इस समस्या का समाधान मिलकर करें ताकि हमारी सड़कों को सभी के लिए सुरक्षित और सुगम बनाया जा सके।",
+          "issuetime": "21 फरवरी, 10:32 रात",
+          "issue2": "क्रू को असाइन किए जाने का इंतजार",
+          "issuehours": "सामान्यत: 4 घंटे तक का समय लगता है"
+        }
+      ],
+      "kn": [
+        {
+          "img": "/Svg/illegalsmall.svg",
+          "tag": "ಅನಧಿಕೃತ ಪಾರ್ಕಿಂಗ್",
+          "name": "ಆಂಡ್ರಿಯಾ ಸೈಮನ್",
+          "description": "ಅನಧಿಕೃತವಾಗಿ ಪಾರ್ಕ್ ಮಾಡಿರುವ ವಾಹನಗಳು ಸಂಚಾರದ ನಡವಳಿಕೆಯನ್ನು ಅಡ್ಡಿಪಡಿಸುತ್ತಿವೆ ಮತ್ತು ಪಾದಚಾರಿಗಳಿಗೆ ಅಪಾಯ ಉಂಟುಮಾಡುತ್ತಿವೆ. ನಮ್ಮ ಬೀದಿಗಳನ್ನು ಎಲ್ಲರಿಗೂ ಸುರಕ್ಷಿತ ಮತ್ತು ಪ್ರವೇಶಯೋಗ್ಯವಾಗಿಸಲು ಈ ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಾಣಿಕೆ ಮಾಡೋಣ.",
+          "issuetime": "ಫೆಬ್ರವರಿ 21, 10:32 ರಾತ್ರಿ",
+          "issue2": "ತಂಡವನ್ನು ನಿಯೋಜಿಸಲು ಕಾಯಲಾಗುತ್ತಿದೆ",
+          "issuehours": "ಸಾಮಾನ್ಯವಾಗಿ 4 ಗಂಟೆಗಳವರೆಗೆ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ"
+        }
+      ],
+      "ml": [
+        {
+          "img": "/Svg/illegalsmall.svg",
+          "tag": "അനധികൃത പാർക്കിംഗ്",
+          "name": "ആൻഡ്രിയ സൈമൺ",
+          "description": "അനധികൃതമായി പാർക്ക് ചെയ്ത വാഹനങ്ങൾ ഗതാഗതം തടസ്സപ്പെടുത്തുകയും നടപ്പാതയിലൂടെ പോകുന്നവർക്ക് അപകടം സൃഷ്ടിക്കുകയും ചെയ്യുന്നു. നമ്മുടെ വഴികൾ എല്ലാവർക്കും സുരക്ഷിതവും ആക്സസിബിളുമായിരിക്കാനായി ഈ പ്രശ്നം ഒരുമിച്ച് പരിഹരിക്കാം.",
+          "issuetime": "ഫെബ്രുവരി 21, 10:32 രാത്രി",
+          "issue2": "സൈനികരെ നിയോഗിക്കാനുള്ള കാത്തിരിപ്പ്",
+          "issuehours": "സാധാരണ 4 മണിക്കൂർ വരെ സമയമെടുക്കും"
+        }
+      ],
+      "ta": [
+        {
+          "img": "/Svg/illegalsmall.svg",
+          "tag": "சட்டவிரோதமாக நிறுத்தல்",
+          "name": "ஆன்ட்ரியா சைமன்",
+          "description": "சட்டவிரோதமாக நிறுத்திய வாகனங்கள் போக்குவரத்து நெரிசலைத் தடுத்து நிறுத்துகின்றன மற்றும் பாதசாரிகளுக்கு அபாயத்தை ஏற்படுத்துகின்றன. எங்களின் வீதிகளை அனைவருக்கும் பாதுகாப்பாகவும் அணுகக்கூடியதாகவும் வைத்திருக்க இந்த சிக்கலை ஒன்றாகச் சமாளிப்போம்.",
+          "issuetime": "பிப்ரவரி 21, 10:32 இரவு",
+          "issue2": "படையை ஒதுக்க காத்திருக்கிறது",
+          "issuehours": "சாதாரணமாக 4 மணி நேரம் வரை எடுத்துக்கொள்ளும்"
+        }
+      ],
+      "te": [
+        {
+          "img": "/Svg/illegalsmall.svg",
+          "tag": "అక్రమ పార్కింగ్",
+          "name": "ఆండ్రియా సైమన్",
+          "description": "అక్రమంగా పార్క్ చేసిన వాహనాలు ట్రాఫిక్ ప్రవాహాన్ని అడ్డుకుంటున్నాయి మరియు పాదచారులకు ప్రమాదం కలిగిస్తున్నాయి. మన రహదారులు అందరికీ సురక్షితంగా మరియు సులభంగా ఉండేందుకు ఈ సమస్యను కలిసి పరిష్కరిద్దాం.",
+          "issuetime": "ఫిబ్రవరి 21, 10:32 రాత్రి",
+          "issue2": "బృందం కేటాయించడానికి వేచి ఉంది",
+          "issuehours": "సాధారణంగా 4 గంటల వరకు సమయం పడుతుంది"
+        }
+      ]
+    },
+    "Litter": {
+      "en": [
+        {
+          "img": "/Svg/Litter.svg",
+          "tag": "Litter",
+          "name": "Gary Thomas",
+          "description": "The park near my house has turned into a dumping ground for litterbugs. There's graffiti on benches, empty beer cans in the bushes, and plastic bags caught in the trees. Our kids deserve a clean and safe space to play, not this mess!\"",
+          "issuetime": "Feb 21, 10:32 pm ",
+          "issue2": "Waiting for the crew to be assigned",
+          "issuehours": "Usually takes upto 4 hours"
+        }
+      ],
+      "hi": [
+        {
+          "img": "/Svg/Litter.svg",
+          "tag": "कचरा",
+          "name": "गैरी थॉमस",
+          "description": "मेरे घर के पास का पार्क कूड़ादानों के लिए एक डंपिंग ग्राउंड बन गया है। बेंचों पर ग्रैफिटी है, झाड़ियों में खाली बीयर के कैन हैं, और पेड़ों में प्लास्टिक की थैलियाँ फंसी हुई हैं। हमारे बच्चों को खेलने के लिए एक साफ और सुरक्षित स्थान चाहिए, न कि यह गंदगी!",
+          "issuetime": "फरवरी 21, 10:32 बजे रात",
+          "issue2": "क्रू को असाइन करने की प्रतीक्षा हो रही है",
+          "issuehours": "आमतौर पर इसमें 4 घंटे लगते हैं"
+        }
+      ],
+      "kn": [
+        {
+          "img": "/Svg/Litter.svg",
+          "tag": "ಕಸ",
+          "name": "ಗ್ಯಾರಿ ಥಾಮಸ್",
+          "description": "ನನ್ನ ಮನೆಯ ಹತ್ತಿರದ ಉದ್ಯಾನವು ಕಸದ ಮರಿ ಹಾಕುವ ಸ್ಥಳವಾಗಿದೆ. ಪೀಠಗಳ ಮೇಲೆ ಗ್ರಾಫಿಟಿ, ಪೊದೆಯೊಳಗೆ ಖಾಲಿ ಬಿಯರ್ ಕ್ಯಾನ್ಗಳು ಮತ್ತು ಮರಗಳಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳು ಹಿಡಿದಿವೆ. ನಮ್ಮ ಮಕ್ಕಳಿಗೆ ಆಡುವ ಸ್ಥಳ ಶುದ್ಧವಾಗಿರಬೇಕು, ಈ ಕಸವಲ್ಲ!",
+          "issuetime": "ಫೆಬ್ರವರಿ 21, 10:32 ರಾತ್ರಿ",
+          "issue2": "ತಂಡವನ್ನು ನಿಯೋಜಿಸಲು ಕಾಯುತ್ತಿದ್ದಾರೆ",
+          "issuehours": "ಸಾಮಾನ್ಯವಾಗಿ 4 ಗಂಟೆಗಳು ತಗಲುತ್ತದೆ"
+        }
+      ],
+      "ml": [
+        {
+          "img": "/Svg/Litter.svg",
+          "tag": "കുഴപ്പം",
+          "name": "ഗാരി തോമസ്",
+          "description": "എന്റെ വീട്ടിനടുത്തുള്ള പാർക്ക് മാലിന്യങ്ങൾക്കായുള്ള ഡമ്പിംഗ് ഗ്രൗണ്ടായി മാറിയിരിക്കുന്നു. ബഞ്ചുകളിൽ ഗ്രാഫിറ്റി, കാട്ടുചെടികളിൽ ഒഴിഞ്ഞ ബിയർ കാനുകൾ, മരങ്ങളിൽ പിടിച്ച പ്ലാസ്റ്റിക് ബാഗുകൾ. നമ്മുടെ കുട്ടികൾക്ക് കളിക്കാൻ ശുദ്ധവും സുരക്ഷിതവുമായ ഇടം വേണം, ഈ മാലിന്യം അല്ല!",
+          "issuetime": "ഫെബ്രുവരി 21, 10:32 രാത്രി",
+          "issue2": "ക്രൂവിനെ നിയോഗിക്കുന്നതിന് കാത്തിരിക്കുകയാണ്",
+          "issuehours": "സാധാരണ 4 മണിക്കൂർ വരെ എടുക്കും"
+        }
+      ],
+      "ta": [
+        {
+          "img": "/Svg/Litter.svg",
+          "tag": "குப்பை",
+          "name": "கேரி தாமஸ்",
+          "description": "என் வீட்டருகிலுள்ள பூங்கா குப்பையை கொட்டும் இடமாக மாறியுள்ளது. அமர்ந்திருக்கும் பெஞ்சுகள் மீது கிராஃபிட்டி, புல்களில் காலியான பீர் டின்கள், மரங்களில் சிக்கியிருக்கும் பிளாஸ்டிக் பைகள். எங்கள் குழந்தைகள் விளையாட சுத்தமான மற்றும் பாதுகாப்பான இடம் வேண்டும், இந்த குப்பை அல்ல!",
+          "issuetime": "பிப்ரவரி 21, 10:32 இரவு",
+          "issue2": "படையை நியமிக்க காத்திருக்கிறது",
+          "issuehours": "சாதாரணமாக 4 மணிநேரம் ஆகும்"
+        }
+      ],
+      "te": [
+        {
+          "img": "/Svg/Litter.svg",
+          "tag": "చెత్త",
+          "name": "గ్యారీ థామస్",
+          "description": "నా ఇంటి దగ్గర ఉన్న పార్క్ చెత్తకుప్పల స్థానంగా మారిపోయింది. బెంచ్‌లపై గ్రాఫిటి, పొదలలో ఖాళీ బీర్ కాన్లు మరియు చెట్లలో పట్టుకున్న ప్లాస్టిక్ బ్యాగులు. మా పిల్లలకు ఆడటానికి శుభ్రమైన మరియు సురక్షితమైన ప్రదేశం కావాలి, ఈ చెత్త కాదు!",
+          "issuetime": "ఫిబ్రవరి 21, 10:32 రాత్రి",
+          "issue2": "సిబ్బందిని కేటాయించడానికి వేచి ఉంది",
+          "issuehours": "సాధారణంగా 4 గంటల వరకు పడుతుంది"
+        }
+      ]
+    },
+    "noiseItem": {
+      "en": [
+        {
+          "img": "/Svg/Noise.svg",
+          "tag": "Noise-Residential",
+          "name": "Gary Thomas",
+          "description": "Loud music, constant construction sounds, and disruptive gatherings are robbing us of the peaceful atmosphere we once enjoyed. Our homes should be a haven of quietude, not a constant battleground of noise. It's time to address this issue and reclaim the serenity of our community.",
+          "issuetime": "Feb 21, 10:32 pm",
+          "issue2": "Crew assigned",
+          "issuehours": "Usually takes up to 4 hours"
+        }
+      ],
+      "hi": [
+        {
+          "img": "/Svg/Noise.svg",
+          "tag": "शोर-आवासीय",
+          "name": "गैरी थॉमस",
+          "description": "जोर से संगीत, लगातार निर्माण की आवाजें, और विघटनकारी सभाएँ हमारे शांतिपूर्ण वातावरण को लूट रही हैं। हमारे घर एक शांति की जगह होनी चाहिए, न कि लगातार शोरगुल का मैदान। इस मुद्दे को संबोधित करने और हमारे समुदाय की शांति को पुनः प्राप्त करने का समय आ गया है।",
+          "issuetime": "फरवरी 21, 10:32 बजे",
+          "issue2": "दल सौंपा गया",
+          "issuehours": "आमतौर पर 4 घंटे तक का समय लगता है"
+        }
+      ],
+      "kn": [
+        {
+          "img": "/Svg/Noise.svg",
+          "tag": "ಶಬ್ದ-ವಾಸಸ್ಥಳ",
+          "name": "ಗ್ಯಾರಿ ಥಾಮಸ್",
+          "description": "ಜೋರಾಗಿ ಸಂಗೀತ, ನಿರಂತರ ನಿರ್ಮಾಣ ಧ್ವನಿಗಳು, ಮತ್ತು ಖಂಡಿತ ಗೂಡಾಟಗಳು ನಾವು ಅನುಭವಿಸುತ್ತಿದ್ದ ಶಾಂತ ಪರಿಸರವನ್ನು ಕಸಿದುಕೊಳ್ಳುತ್ತಿವೆ. ನಮ್ಮ ಮನೆಗಳು ಶಾಂತಿಯ ಆಸರೆಯಾಗಿರಬೇಕು, ಶಬ್ದದ ಯುದ್ಧಭೂಮಿಯಲ್ಲ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ನಮ್ಮ ಸಮುದಾಯದ ಶಾಂತಿಯನ್ನು ಮರಳಿ ಪಡೆಯಲು ಸಮಯವಾಗಿದೆ.",
+          "issuetime": "ಫೆಬ್ರವರಿ 21, 10:32 ಸಂಜೆ",
+          "issue2": "ತಂಡವನ್ನು ನಿಯೋಜಿಸಲಾಗಿದೆ",
+          "issuehours": "ಸಾಮಾನ್ಯವಾಗಿ 4 ಗಂಟೆಗಳ ಕಾಲ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ"
+        }
+      ],
+      "ml": [
+        {
+          "img": "/Svg/Noise.svg",
+          "tag": "ശബ്ദം-നിവാസകേന്ദ്രം",
+          "name": "ഗാരി തോമസ്",
+          "description": "ഉച്ചത്തിലുള്ള സംഗീതം, നിരന്തരമായ നിർമ്മാണ ശബ്ദങ്ങൾ, പെട്ടെന്ന് കൂടുന്ന കൂട്ടങ്ങൾ എന്നിവ നമ്മളിൽ അനുഭവിച്ചിരുന്ന ശാന്തമായ അന്തരീക്ഷം നശിപ്പിക്കുന്നു. നമ്മുടെ വീടുകൾ ഒരു സമാധാനത്തിന്റെയും വിശ്രാമത്തിന്റെയും സ്ഥലം ആയിരിക്കണം, എല്ലാ സമയത്തും ശബ്ദത്തിന്റെ യുദ്ധഭൂമിയല്ല. ഈ പ്രശ്നം പരിഹരിക്കാനും നമ്മുടെ സമുദായത്തിന്റെ സമാധാനവും ശാന്തിയും വീണ്ടെടുക്കാനും സമയം എത്തി.",
+          "issuetime": "ഫെബ്രുവരി 21, 10:32 pm",
+          "issue2": "കൂട്ട് നിയോഗിച്ചു",
+          "issuehours": "സാധാരണയായി 4 മണിക്കൂർ വരെ സമയം എടുക്കുന്നു"
+        }
+      ],
+      "ta": [
+        {
+          "img": "/Svg/Noise.svg",
+          "tag": "சத்தம்-வசதி",
+          "name": "கேரி தோமஸ்",
+          "description": "மேலும், பரபரப்பான கட்டுமான சத்தங்கள் மற்றும் குழப்பமான கூடங்கள் ஆகியவை, நாம் அனுபவித்த அமைதியான சூழலை நம்மிடமிருந்து பறித்து வருகின்றன. எங்கள் வீடுகள் அமைதியான இடமாக இருக்க வேண்டும், நிலையான சத்தத்தின் போர் நிலமாக இல்லை. இந்த பிரச்சினையை தீர்த்து, எங்கள் சமூகத்தின் அமைதியை மீட்க வேண்டிய நேரம் வந்துவிட்டது.",
+          "issuetime": "பிப்ரவரி 21, 10:32 pm",
+          "issue2": "அணி ஒதுக்கப்பட்டது",
+          "issuehours": "சாதாரணமாக 4 மணிநேரம் வரை எடுக்கும்"
+        }
+      ],
+      "te": [
+        {
+          "img": "/Svg/Noise.svg",
+          "tag": "శబ్దం-వాస",
+          "name": "గ్యారి థామస్",
+          "description": "పెద్ద సౌండ్, నిరంతర నిర్మాణ శబ్దాలు, మరియు అశాంతి కలిగించే సమావేశాలు మనం అనుభవించిన ప్రశాంత వాతావరణాన్ని లాక్కుంటున్నాయి. మన ఇళ్లు ప్రశాంతతకు నిలయంగా ఉండాలి, శబ్దంతో నిండిన యుద్ధభూమిగా కాదు. ఈ సమస్యను పరిష్కరించడానికి మరియు మన సమాజంలో ప్రశాంతతను తిరిగి పొందడానికి సమయం వచ్చింది.",
+          "issuetime": "ఫిబ్రవరి 21, 10:32 pm",
+          "issue2": "సిబ్బంది నియమించారు",
+          "issuehours": "సాధారణంగా 4 గంటల వరకు పడుతుంది"
+        }
+      ]
+    },
+    "herodata": {
+      "en": [
+        {
+          "lpheadings": "Our local hero",
+          "lpimg": "/Images/Rectangle 3.png",
+          "lpname": "Michael Lipetri",
+          "lprole": "Chief of Crime Control",
+          "lpaddress": "Strategies, NYPD New_York, NY10038",
+          "lpsname": "Michael Lipetri",
+          "lpdescription": " Mayor Eric Adams has served the people of New York City as an NYPD officer, State Senator, Brooklyn Borough President, and now as the 110th Mayor of the City of New York.",
+          "lpdescription2": " He gave voice to a diverse coalition of working families in all five boroughs and is leading the fight to bring back New York City’s economy, reduce inequality, improve public safety, and build a stronger, healthier city that delivers for all New Yorkers. Mayor Eric Adams has served the people of New York City as an NYPD officer."
+        }
+      ],
+      "hi": [
+        {
+          "lpheadings": "हमारे स्थानीय नायक",
+          "lpimg": "/Images/Rectangle 3.png",
+          "lpname": "माइकल लिपेट्री",
+          "lprole": "अपराध नियंत्रण प्रमुख",
+          "lpaddress": "रणनीतियाँ, NYPD न्यूयॉर्क, NY10038",
+          "lpsname": "माइकल लिपेट्री",
+          "lpdescription": "मेयर एरिक एडम्स ने न्यूयॉर्क सिटी के लोगों की सेवा NYPD अधिकारी, राज्य सीनेटर, ब्रुकलिन बोरो अध्यक्ष के रूप में की है और अब न्यूयॉर्क सिटी के 110वें मेयर के रूप में कर रहे हैं।",
+          "lpdescription2": "उन्होंने पाँचों बोरों में कामकाजी परिवारों के एक विविध गठबंधन को आवाज दी और न्यूयॉर्क सिटी की अर्थव्यवस्था को पुनर्जीवित करने, असमानता को कम करने, सार्वजनिक सुरक्षा में सुधार करने और सभी न्यूयॉर्क निवासियों के लिए एक मजबूत, स्वस्थ शहर बनाने के लिए लड़ाई का नेतृत्व कर रहे हैं। मेयर एरिक एडम्स ने NYPD अधिकारी के रूप में न्यूयॉर्क सिटी के लोगों की सेवा की है।"
+        }
+      ],
+      "kn": [
+        {
+          "lpheadings": "ನಮ್ಮ ಸ್ಥಳೀಯ ಹೀರೋ",
+          "lpimg": "/Images/Rectangle 3.png",
+          "lpname": "ಮೈಕೆಲ್ ಲಿಪೆಟ್ರಿ",
+          "lprole": "ಅಪರಾಧ ನಿಯಂತ್ರಣ ಮುಖ್ಯಸ್ಥರು",
+          "lpaddress": "ಯೋಜನೆಗಳು, NYPD ನ್ಯೂಯಾರ್ಕ್, NY10038",
+          "lpsname": "ಮೈಕೆಲ್ ಲಿಪೆಟ್ರಿ",
+          "lpdescription": "ಮೇಯರ್ ಎರಿಕ್ ಆಡಮ್ಸ್ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಜನರ ಸೇವೆ NYPD ಅಧಿಕಾರಿಯಾಗಿ, ರಾಜ್ಯ ಸೆನೆಟರ್, ಬ್ರೂಕ್ಲಿನ್ ಬೊರೋ ಅಧ್ಯಕ್ಷರಾಗಿ ಮತ್ತು ಈಗ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ 110ನೇ ಮೇಯರ್ ಆಗಿ ಸಲ್ಲಿಸಿದ್ದಾರೆ.",
+          "lpdescription2": "ಅವರು ಐದು ಬೊರೋಗಳಲ್ಲಿ ಕಾರ್ಯನಿರತ ಕುಟುಂಬಗಳ ವೈವಿಧ್ಯಮಯ ಒಕ್ಕೂಟಕ್ಕೆ ಧ್ವನಿಯಾಗಿದ್ದಾರೆ ಮತ್ತು ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಆರ್ಥಿಕತೆಯನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸಲು, ಅಸಮಾನತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು, ಸಾರ್ವಜನಿಕ ಭದ್ರತೆಯನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಎಲ್ಲಾ ನ್ಯೂಯಾರ್ಕ್ ನಿವಾಸಿಗಳಿಗೆ ಒದಗಿಸುವ ಬಲವಾದ, ಆರೋಗ್ಯಕರ ನಗರವನ್ನು ನಿರ್ಮಿಸಲು ಹೋರಾಟಕ್ಕೆ ಮುಂಚೂಣಿಯಲ್ಲಿ ಇದ್ದಾರೆ. ಮೇಯರ್ ಎರಿಕ್ ಆಡಮ್ಸ್ NYPD ಅಧಿಕಾರಿಯಾಗಿ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಜನರ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ."
+        }
+      ],
+      "ml": [
+        {
+          "lpheadings": "നമ്മുടെ പ്രാദേശിക നായകൻ",
+          "lpimg": "/Images/Rectangle 3.png",
+          "lpname": "മൈക്കൽ ലിപെട്രി",
+          "lprole": "ക്രൈം കൺട്രോൾ ചീഫ്",
+          "lpaddress": "സ്ട്രാറ്റജീസ്, NYPD ന്യൂയോർക്ക്സ്, NY10038",
+          "lpsname": "മൈക്കൽ ലിപെട്രി",
+          "lpdescription": "മെയർ എറിക് ആഡംസ് NYPD ഓഫീസർ, സ്റ്റേറ്റ് സെനറ്റർ, ബ്രൂക്ക്ലിൻ ബോറോ പ്രസിഡന്റ് എന്നീ നിലകളിൽ ന്യു യോർക്ക് സിറ്റിയിലെ ജനങ്ങൾക്ക് സേവനം നൽകിയിട്ടുണ്ട്, ഇപ്പോൾ 110-ാം ന്യു യോർക്ക് സിറ്റി മേയർ ആകുന്നു.",
+          "lpdescription2": "അദ്ദേഹം അഞ്ചു ബോറോകളിലെ പ്രവർത്തനക്ഷമമായ കുടുംബങ്ങളുടെ വൈവിധ്യമാർന്ന കോളിഷന്റെ ശബ്ദമായി പ്രവർത്തിച്ചു, ന്യൂ യോർക്ക് സിറ്റിയുടെ സമ്പദ്ഘടന പുനസ്ഥാപിക്കാൻ, അസമത്വം കുറയ്ക്കാൻ, പൊതുസുരക്ഷ മെച്ചപ്പെടുത്താൻ, എല്ലാ ന്യൂയോർക്കർക്കും സേവനം നൽകുന്ന ശക്തവും ആരോഗ്യമുള്ള നഗരമായി പുനർനിർമിക്കാൻ പോരാടുന്നു. മെയർ എറിക് ആഡംസ് NYPD ഓഫീസറായി സേവനം ചെയ്തിട്ടുണ്ട്."
+        }
+      ],
+      "ta": [
+        {
+          "lpheadings": "எங்கள் உள்ளூர் ஹீரோ",
+          "lpimg": "/Images/Rectangle 3.png",
+          "lpname": "மைக்கேல் லிபெட்ரி",
+          "lprole": "குற்றக் கட்டுப்பாட்டு தலைவர்",
+          "lpaddress": "திட்டங்கள், NYPD நியூயார்க், NY10038",
+          "lpsname": "மைக்கேல் லிபெட்ரி",
+          "lpdescription": "மேயர் எரிக் ஆடம்ஸ் NYPD அதிகாரி, மாநில செனட்டர், ப்ரூக்ளின் புறநகர்ப் பிரசிடெண்ட் ஆகிய பொறுப்புகளில் நியூயார்க் நகர மக்கள் சேவையில் இருந்து தற்போது நியூயார்க் நகரின் 110வது மேயராக உள்ளார்.",
+          "lpdescription2": "அவரது தலைமையில் நியூயார்க் நகரின் பொருளாதாரத்தை மீட்டெடுக்கும் போராட்டத்தில் தலைமை வகிக்கிறார், சமத்துவமின்மை குறைப்பதில், பொதுமக்கள் பாதுகாப்பை மேம்படுத்துவதில், எல்லா நியூயார்க்கருக்கும் ஒரு வலிமையான, ஆரோக்கியமான நகரத்தை உருவாக்கியதில் முதன்மை பெறுகிறார். மேயர் எரிக் ஆடம்ஸ் NYPD அதிகாரியாக நியூயார்க் நகரின் மக்கள் சேவையில் இருந்துள்ளார்."
+        }
+      ],
+      "te": [
+        {
+          "lpheadings": "మన స్థానిక హీరో",
+          "lpimg": "/Images/Rectangle 3.png",
+          "lpname": "మైకేల్ లిపెత్రి",
+          "lprole": "నేర నియంత్రణ చీఫ్",
+          "lpaddress": "స్ట్రాటజీస్, NYPD న్యూయార్క్, NY10038",
+          "lpsname": "మైకేల్ లిపెత్రి",
+          "lpdescription": "మేయర్ ఎరిక్ ఆడమ్స్ NYPD అధికారిగా, రాష్ట్ర సెనేటర్, బ్రూక్లిన్ బోరో అధ్యక్షుడిగా మరియు ఇప్పుడు న్యూయార్క్ నగరానికి 110వ మేయర్‌గా న్యూయార్క్ నగర ప్రజలకు సేవలను అందిస్తున్నారు.",
+          "lpdescription2": "అతను ఐదు బరోలోని పనిచేసే కుటుంబాల విభిన్న కూటమికి గొంతుకను ఇచ్చాడు మరియు న్యూయార్క్ నగర ఆర్థిక వ్యవస్థను తిరిగి తీసుకురావడానికి, అసమానతను తగ్గించడానికి, ప్రజా భద్రతను మెరుగుపరచడానికి మరియు అన్ని న్యూయార్కర్లకు డెలివర్ చేసే బలమైన, ఆరోగ్యకరమైన నగరాన్ని నిర్మించడానికి పోరాడుతున్నాడు. మేయర్ ఎరిక్ ఆడమ్స్ NYPD అధికారిగా న్యూయార్క్ నగర ప్రజలకు సేవలు అందిస్తున్నారు."
+        }
+      ]
+    },
+    "Mayourdata": {
+      "en": [
+        {
+          "lpheadings": "Mayour's Message",
+          "lpimg": "/Images/Rectangle 34626512.png",
+          "lpname": "Mayor Eric Adamsi ",
+          "lprole": " City Hall",
+          "lpaddress": "New York , NY 10007",
+          "lpsname": "Mayor Eric Adamsi",
+          "lpdescription": " has served the people of New York\n                        City as an NYPD officer, State Senator, Brooklyn Borough\n                        President, and now as the 110th Mayor of the City of New York.",
+          "lpdescription2": " He gave voice to a diverse coalition of working families in all\n                        five boroughs and is leading the fight to bring back New York\n                        City's economy, reduce inequality, improve public safety, and\n                        build a stronger, healthier city that delivers for all New\n                        Yorkers. Mayor Eric Adams has served the people of New York City\n                        as an NYPD officer."
+        }
+      ],
+      "hi": [
+        {
+          "lpheadings": "मेयर का संदेश",
+          "lpimg": "/Images/Rectangle 34626512.png",
+          "lpname": "मेयर एरिक एडम्स",
+          "lprole": "सिटी हॉल",
+          "lpaddress": "न्यूयॉर्क, NY 10007",
+          "lpsname": "मेयर एरिक एडम्स",
+          "lpdescription": "न्यूयॉर्क शहर के लोगों की सेवा NYPD अधिकारी, राज्य सीनेटर, ब्रुकलिन बरो अध्यक्ष के रूप में और अब न्यूयॉर्क शहर के 110वें मेयर के रूप में की है।",
+          "lpdescription2": "उन्होंने पाँचों बरो में कामकाजी परिवारों के एक विविध गठबंधन को आवाज दी है और न्यूयॉर्क शहर की अर्थव्यवस्था को पुनर्जीवित करने, असमानता को कम करने, सार्वजनिक सुरक्षा में सुधार करने और सभी न्यूयॉर्क निवासियों के लिए एक मजबूत, स्वस्थ शहर बनाने के संघर्ष का नेतृत्व कर रहे हैं। मेयर एरिक एडम्स ने NYPD अधिकारी के रूप में न्यूयॉर्क शहर के लोगों की सेवा की है।"
+        }
+      ],
+      "kn": [
+        {
+          "lpheadings": "ಮೇಯರ್ ಸಂದೇಶ",
+          "lpimg": "/Images/Rectangle 34626512.png",
+          "lpname": "ಮೇಯರ್ ಎರಿಕ್ ಆಡಮ್ಸ್",
+          "lprole": "ಸಿಟಿ ಹಾಲ್",
+          "lpaddress": "ನ್ಯೂಯಾರ್ಕ್, NY 10007",
+          "lpsname": "ಮೇಯರ್ ಎರಿಕ್ ಆಡಮ್ಸ್",
+          "lpdescription": "ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಜನರ ಸೇವೆಯನ್ನು NYPD ಅಧಿಕಾರಿ, ರಾಜ್ಯ ಸೆನೆಟರ್, ಬ್ರೂಕ್ಲಿನ್ ಬೊರೋ ಅಧ್ಯಕ್ಷರಾಗಿ ಮತ್ತು ಈಗ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ 110ನೇ ಮೇಯರ್ ಆಗಿ ಸಲ್ಲಿಸಿದ್ದಾರೆ.",
+          "lpdescription2": "ಅವರು ಐದು ಬೊರೋಗಳಲ್ಲಿ ಕಾರ್ಯನಿರತ ಕುಟುಂಬಗಳ ವೈವಿಧ್ಯಮಯ ಒಕ್ಕೂಟಕ್ಕೆ ಧ್ವನಿಯಾಗಿದ್ದಾರೆ ಮತ್ತು ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಆರ್ಥಿಕತೆಯನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸಲು, ಅಸಮಾನತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು, ಸಾರ್ವಜನಿಕ ಭದ್ರತೆಯನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಎಲ್ಲಾ ನ್ಯೂಯಾರ್ಕ್ ನಿವಾಸಿಗಳಿಗೆ ಒದಗಿಸುವ ಬಲವಾದ, ಆರೋಗ್ಯಕರ ನಗರವನ್ನು ನಿರ್ಮಿಸಲು ಹೋರಾಟಕ್ಕೆ ಮುಂಚೂಣಿಯಲ್ಲಿ ಇದ್ದಾರೆ. ಮೇಯರ್ ಎರಿಕ್ ಆಡಮ್ಸ್ NYPD ಅಧಿಕಾರಿಯಾಗಿ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಜನರ ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದಾರೆ."
+        }
+      ],
+      "ml": [
+        {
+          "lpheadings": "മെയറുടെ സന്ദേശം",
+          "lpimg": "/Images/Rectangle 34626512.png",
+          "lpname": "മെയർ എറിക് ആഡംസ്",
+          "lprole": "സിറ്റി ഹാൾ",
+          "lpaddress": "ന്യൂയോർക്ക്, NY 10007",
+          "lpsname": "മെയർ എറിക് ആഡംസ്",
+          "lpdescription": "NYC-യുടെ ജനങ്ങൾക്ക് NYPD ഓഫീസർ, സ്റ്റേറ്റ് സെനറ്റർ, ബ്രൂക്ക്ലിൻ ബോറോ പ്രസിഡന്റ് എന്നിവരായി സേവനം നൽകിയിട്ടുണ്ട്, ഇപ്പോൾ NYC-യുടെ 110-ആമത്തെ മേയർ ആകുന്നു.",
+          "lpdescription2": "അദ്ദേഹം അഞ്ചു ബോറോകളിലെ വിവിധ തൊഴിൽ കുടുംബങ്ങളുടെ ശബ്ദമായി പ്രവർത്തിക്കുകയും NYC-യുടെ സമ്പദ്‌വ്യവസ്ഥ പുനഃസ്ഥാപിക്കാൻ, അസമത്വം കുറയ്ക്കാൻ, പൊതുസുരക്ഷ മെച്ചപ്പെടുത്താൻ, എല്ലാ ന്യൂയോർക്കറുകൾക്കും ഒരു ശക്തവും ആരോഗ്യകരമായ നഗരമായിപ്പോകാനുള്ള പോരാട്ടത്തിന് നേതൃത്വം നൽകുകയും ചെയ്യുന്നുണ്ട്. മെയർ എറിക് ആഡംസ് NYPD ഓഫീസറായി സേവനം ചെയ്തിട്ടുണ്ട്."
+        }
+      ],
+      "ta": [
+        {
+          "lpheadings": "முதல்வரின் செய்தி",
+          "lpimg": "/Images/Rectangle 34626512.png",
+          "lpname": "முதல்வர் எரிக் ஆடம்ஸ்",
+          "lprole": "நகர மன்றம்",
+          "lpaddress": "நியூயார்க், NY 10007",
+          "lpsname": "முதல்வர் எரிக் ஆடம்ஸ்",
+          "lpdescription": "நியூயார்க் நகரின் மக்கள் NYPD அதிகாரி, மாநில செனட்டர், ப்ரூக்லின் புறநகர்ப் பிரசிடெண்ட் ஆகிய பொறுப்புகளில் இருந்து தற்போது நியூயார்க் நகரின் 110வது மேயராக உள்ளார்.",
+          "lpdescription2": "அவரது தலைமையில் நியூயார்க் நகரின் பொருளாதாரத்தை மீட்டெடுக்கும் போராட்டத்தில் தலைமை வகிக்கிறார், சமத்துவமின்மை குறைப்பதில், பொதுமக்கள் பாதுகாப்பை மேம்படுத்துவதில், எல்லா நியூயார்க்கருக்கும் ஒரு வலிமையான, ஆரோக்கியமான நகரத்தை உருவாக்கியதில் முதன்மை பெறுகிறார். மேயர் எரிக் ஆடம்ஸ் NYPD அதிகாரியாக நியூயார்க் நகரின் மக்கள் சேவையில் இருந்துள்ளார்."
+        }
+      ],
+      "te": [
+        {
+          "lpheadings": "మేయర్ సందేశం",
+          "lpimg": "/Images/Rectangle 34626512.png",
+          "lpname": "మేయర్ ఎరిక్ ఆడమ్స్",
+          "lprole": "సిటీ హాల్",
+          "lpaddress": "న్యూయార్క్, NY 10007",
+          "lpsname": "మేయర్ ఎరిక్ ఆడమ్స్",
+          "lpdescription": "న్యూయార్క్ నగర ప్రజలకు NYPD అధికారిగా, రాష్ట్ర సెనేటర్, బ్రూక్లిన్ బోరో అధ్యక్షుడిగా మరియు ఇప్పుడు న్యూయార్క్ నగరానికి 110వ మేయర్‌గా సేవలు అందిస్తున్నారు.",
+          "lpdescription2": "అతను ఐదు బరోలోని పనిచేసే కుటుంబాల విభిన్న కూటమికి గొంతుకను ఇచ్చాడు మరియు న్యూయార్క్ నగర ఆర్థిక వ్యవస్థను తిరిగి తీసుకురావడానికి, అసమానతను తగ్గించడానికి, ప్రజా భద్రతను మెరుగుపరచడానికి మరియు అన్ని న్యూయార్కర్లకు డెలివర్ చేసే బలమైన, ఆరోగ్యకరమైన నగరాన్ని నిర్మించడానికి పోరాడుతున్నాడు. మేయర్ ఎరిక్ ఆడమ్స్ NYPD అధికారిగా న్యూయార్క్ నగర ప్రజలకు సేవలు అందిస్తున్నారు."
+        }
+      ]
+    }
   },
   "clink_CrewWorker": {
     "Dispatch": [

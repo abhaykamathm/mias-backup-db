@@ -58270,7 +58270,1889 @@
       }
     },
     "tv": {
-      "candidate": {},
+      "candidate": {
+        "popularList": {
+          "en": [
+            {
+              "name": "Health Care",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "Energy Policy",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "Foreign Policy",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "Inflation",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+
+            {
+              "name": "Health Care",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "Energy Policy",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "Foreign Policy",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "Inflation",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            }
+          ],
+          "hi": [
+            {
+              "name": "स्वास्थ्य देखभाल",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ऊर्जा नीति",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "विदेश नीति",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "मुद्रास्फीति",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "स्वास्थ्य देखभाल",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ऊर्जा नीति",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "विदेश नीति",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "मुद्रास्फीति",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            }
+          ],
+          "kn": [
+            {
+              "name": "ಆರೋಗ್ಯದ ಆರೈಕೆ",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ಶಕ್ತಿ ನೀತಿ",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "ವಿದೇಶ ನೀತಿ",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "ದರ ಏರಿಕೆ",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "ಆರೋಗ್ಯದ ಆರೈಕೆ",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ಶಕ್ತಿ ನೀತಿ",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "ವಿದೇಶ ನೀತಿ",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "ದರ ಏರಿಕೆ",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            }
+          ],
+          "te": [
+            {
+              "name": "ఆరోగ్య సంరక్షణ",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "శక్తి విధానం",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "విదేశాంగ విధానం",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "ద్రవ్యోల్బణం",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "ఆరోగ్య సంరక్షణ",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "శక్తి విధానం",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "విదేశాంగ విధానం",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "ద్రవ్యోల్బణం",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            }
+          ],
+          "ta": [
+            {
+              "name": "சுகாதார பராமரிப்பு",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ஆற்றல் கொள்கை",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "வெளிநாட்டு கொள்கை",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "விலையேற்றம்",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "சுகாதார பராமரிப்பு",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ஆற்றல் கொள்கை",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "வெளிநாட்டு கொள்கை",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "விலையேற்றம்",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            }
+          ],
+          "ml": [
+            {
+              "name": "ആരോഗ്യപരിചരണം",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "എനർജി നയം",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "വിദേശ നയം",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "പണപ്പെരുപ്പം",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "ആരോഗ്യപരിചരണം",
+              "image": "/images/Tv/Candidate/discussion/healthCare.jpg",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "എനർജി നയം",
+              "image": "/images/Tv/Candidate/discussion/energyPolicy.jpg",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "വിദേശ നയം",
+              "image": "/images/Tv/Candidate/discussion/foreignPolicy.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "പണപ്പെരുപ്പം",
+              "image": "/images/Tv/Candidate/discussion/inflation.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            }
+          ]
+        },
+        "issuesData": {
+          "en": [
+            {
+              "title": "Making abortions after six weeks of pregnancy illegal",
+              "party": 100,
+              "public": 100
+            },
+            {
+              "title": "Permanently exempting gas stove purchases from sales taxes",
+              "party": 50,
+              "public": 50
+            },
+            {
+              "title": "Mandating that K-12 libraries immediately remove and review books that are flagged as inappropriate",
+              "party": 70,
+              "public": 40
+            },
+            {
+              "title": "Making abortions after six weeks of pregnancy illegal",
+              "party": 80,
+              "public": 70
+            },
+            {
+              "title": "Making abortions after six weeks of pregnancy illegal",
+              "party": 30,
+              "public": 10
+            },
+            {
+              "title": "Making abortions after six weeks of pregnancy illegal",
+              "party": 50,
+              "public": 90
+            },
+            {
+              "title": "Making abortions after six weeks of pregnancy illegal",
+              "party": 70,
+              "public": 80
+            }
+          ],
+          "kn": [
+            {
+              "title": "ಆರು ವಾರಗಳ ಗರ್ಭಾವಸ್ಥೆಯ ನಂತರ ಗರ್ಭಪಾತಗಳನ್ನು ಅಕ್ರಮ ಮಾಡುವುದು",
+              "party": 100,
+              "public": 100
+            },
+            {
+              "title": "ಎಲ್ಲಾ ಗ್ಯಾಸ್ನಿನ ಖರೀದಿಗೆ ಸೇಲ್ಸ್ ತೆರಿಗೆಯನ್ನು ಶಾಶ್ವತವಾಗಿ ವಿನಾಯಿತಿ ನೀಡುವುದು",
+              "party": 50,
+              "public": 50
+            },
+            {
+              "title": "ಕೆ-12 ಗ್ರಂಥಾಲಯಗಳಲ್ಲಿ ಅಸಭ್ಯವೆಂದು ಗುರುತಿಸಲ್ಪಟ್ಟ ಪುಸ್ತಕಗಳನ್ನು ತಕ್ಷಣ ತೆಗೆಯಲು ಮತ್ತು ಪರಿಶೀಲಿಸಲು ಬಾಧ್ಯತೆ ವಿಧಿಸುವುದು",
+              "party": 70,
+              "public": 40
+            },
+            {
+              "title": "ಆರು ವಾರಗಳ ಗರ್ಭಾವಸ್ಥೆಯ ನಂತರ ಗರ್ಭಪಾತಗಳನ್ನು ಅಕ್ರಮ ಮಾಡುವುದು",
+              "party": 80,
+              "public": 70
+            },
+            {
+              "title": "ಆರು ವಾರಗಳ ಗರ್ಭಾವಸ್ಥೆಯ ನಂತರ ಗರ್ಭಪಾತಗಳನ್ನು ಅಕ್ರಮ ಮಾಡುವುದು",
+              "party": 30,
+              "public": 10
+            },
+            {
+              "title": "ಆರು ವಾರಗಳ ಗರ್ಭಾವಸ್ಥೆಯ ನಂತರ ಗರ್ಭಪಾತಗಳನ್ನು ಅಕ್ರಮ ಮಾಡುವುದು",
+              "party": 50,
+              "public": 90
+            },
+            {
+              "title": "ಆರು ವಾರಗಳ ಗರ್ಭಾವಸ್ಥೆಯ ನಂತರ ಗರ್ಭಪಾತಗಳನ್ನು ಅಕ್ರಮ ಮಾಡುವುದು",
+              "party": 70,
+              "public": 80
+            }
+          ],
+          "hi": [
+            {
+              "title": "छह सप्ताह की गर्भावस्था के बाद गर्भपात को अवैध बनाना",
+              "party": 100,
+              "public": 100
+            },
+            {
+              "title": "गैस स्टोव की खरीद को बिक्री कर से स्थायी रूप से छूट देना",
+              "party": 50,
+              "public": 50
+            },
+            {
+              "title": "के-12 पुस्तकालयों में तुरंत हटाने और समीक्षा करने के लिए अनुचित पुस्तकों को चिन्हित करना अनिवार्य बनाना",
+              "party": 70,
+              "public": 40
+            },
+            {
+              "title": "छह सप्ताह की गर्भावस्था के बाद गर्भपात को अवैध बनाना",
+              "party": 80,
+              "public": 70
+            },
+            {
+              "title": "छह सप्ताह की गर्भावस्था के बाद गर्भपात को अवैध बनाना",
+              "party": 30,
+              "public": 10
+            },
+            {
+              "title": "छह सप्ताह की गर्भावस्था के बाद गर्भपात को अवैध बनाना",
+              "party": 50,
+              "public": 90
+            },
+            {
+              "title": "छह सप्ताह की गर्भावस्था के बाद गर्भपात को अवैध बनाना",
+              "party": 70,
+              "public": 80
+            }
+          ],
+          "ta": [
+            {
+              "title": "ஆறு வார கர்ப்பத்தின் பிறகு கருக்கலைப்பை சட்டவிரோதமாக்குதல்",
+              "party": 100,
+              "public": 100
+            },
+            {
+              "title": "காஸ் அடுப்புகளை வாங்குவதற்கு விற்பனை வரியில் இருந்து நிரந்தரமாக விலக்கு அளித்தல்",
+              "party": 50,
+              "public": 50
+            },
+            {
+              "title": "கே-12 நூலகங்களில் உடனடியாக நீக்கி, மதிப்பீடு செய்ய கொருக்கப்பட்ட புத்தகங்களை கட்டாயமாக்குதல்",
+              "party": 70,
+              "public": 40
+            },
+            {
+              "title": "ஆறு வார கர்ப்பத்தின் பிறகு கருக்கலைப்பை சட்டவிரோதமாக்குதல்",
+              "party": 80,
+              "public": 70
+            },
+            {
+              "title": "ஆறு வார கர்ப்பத்தின் பிறகு கருக்கலைப்பை சட்டவிரோதமாக்குதல்",
+              "party": 30,
+              "public": 10
+            },
+            {
+              "title": "ஆறு வார கர்ப்பத்தின் பிறகு கருக்கலைப்பை சட்டவிரோதமாக்குதல்",
+              "party": 50,
+              "public": 90
+            },
+            {
+              "title": "ஆறு வார கர்ப்பத்தின் பிறகு கருக்கலைப்பை சட்டவிரோதமாக்குதல்",
+              "party": 70,
+              "public": 80
+            }
+          ],
+          "te": [
+            {
+              "title": "ఆరు వారాల గర్భం తర్వాత గర్భపాతాలను అక్రమంగా చేయడం",
+              "party": 100,
+              "public": 100
+            },
+            {
+              "title": "గ్యాస్ స్టవ్ కొనుగోళ్లు అమ్మకపు పన్నుల నుండి శాశ్వతంగా మినహాయింపు ఇవ్వడం",
+              "party": 50,
+              "public": 50
+            },
+            {
+              "title": "కే-12 లైబ్రరీల్లో తక్షణమే తీసేయడం మరియు సమీక్షించడానికి అనుచితంగా గుర్తించిన పుస్తకాలను మానడానికి ఆదేశించడం",
+              "party": 70,
+              "public": 40
+            },
+            {
+              "title": "ఆరు వారాల గర్భం తర్వాత గర్భపాతాలను అక్రమంగా చేయడం",
+              "party": 80,
+              "public": 70
+            },
+            {
+              "title": "ఆరు వారాల గర్భం తర్వాత గర్భపాతాలను అక్రమంగా చేయడం",
+              "party": 30,
+              "public": 10
+            },
+            {
+              "title": "ఆరు వారాల గర్భం తర్వాత గర్భపాతాలను అక్రమంగా చేయడం",
+              "party": 50,
+              "public": 90
+            },
+            {
+              "title": "ఆరు వారాల గర్భం తర్వాత గర్భపాతాలను అక్రమంగా చేయడం",
+              "party": 70,
+              "public": 80
+            }
+          ],
+          "ml": [
+            {
+              "title": "ആറ് ആഴ്ച ഗർഭകാലത്തിനുശേഷം ഗർഭച്ഛിദ്രം നിയമവിരുദ്ധമാക്കൽ",
+              "party": 100,
+              "public": 100
+            },
+            {
+              "title": "വാറ്റുയോജിതതിൽ നിന്ന് ഗ്യാസ് സ്റ്റോവ് വാങ്ങൽ സ്ഥിരമായി ഒഴിവാക്കുക",
+              "party": 50,
+              "public": 50
+            },
+            {
+              "title": "കെ-12 ലൈബ്രറികളിൽ നിന്ന് അശ്ലീലമായി അടയാളപ്പെടുത്തിയ പുസ്തകങ്ങൾ ഉടനെ നീക്കുകയും അവ പരിശോധിക്കുകയും ചെയ്യണം",
+              "party": 70,
+              "public": 40
+            },
+            {
+              "title": "ആറ് ആഴ്ച ഗർഭകാലത്തിനുശേഷം ഗർഭച്ഛിദ്രം നിയമവിരുദ്ധമാക്കൽ",
+              "party": 80,
+              "public": 70
+            },
+            {
+              "title": "ആറ് ആഴ്ച ഗർഭകാലത്തിനുശേഷം ഗർഭച്ഛിദ്രം നിയമവിരുദ്ധമാക്കൽ",
+              "party": 30,
+              "public": 10
+            },
+            {
+              "title": "ആറ് ആഴ്ച ഗർഭകാലത്തിനുശേഷം ഗർഭച്ഛിദ്രം നിയമവിരുദ്ധമാക്കൽ",
+              "party": 50,
+              "public": 90
+            },
+            {
+              "title": "ആറ് ആഴ്ച ഗർഭകാലത്തിനുശേഷം ഗർഭച്ഛിദ്രം നിയമവിരുദ്ധമാക്കൽ",
+              "party": 70,
+              "public": 80
+            }
+          ]
+        },
+        "topicRowData": {
+          "en": [
+            {
+              "img": "/images/Topics/topic1.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Haley Jokes That New Hampshire Primary Will ‘Correct’ Iowa’s Result",
+              "description": "Ms. Haley, campaigning in New Hampshire, quipped that “Iowa starts it. You know that you correct it.” Allies of Gov. Ron DeSantis pounced.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic2.jpg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Is the 2024 election already heading to the Supreme court?",
+              "description": "It’s the start of the actual election year — and a new chapter in the campaign.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "It’s 2024, and the Candidates Are Campaigning at a Furious Pace",
+              "description": "The Iowa caucuses are less than two weeks away. The candidates challenging Donald J. Trump hope a strong showing will lead to consolidated support.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "It’s 2024, and the Candidates Are Campaigning at a Furious Pace",
+              "description": "The Iowa caucuses are less than two weeks away. The candidates challenging Donald J. Trump hope a strong showing will lead to consolidated support.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic4.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Haley's Money Haul, Trump's Full House, FOX News Tarot, Kennedy Jr. on the Ballot",
+              "description": "Republican presidential candidate Nikki Haley raised $24.5 million between October and December.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic5.jpeg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Alliance are back at the Centre of Power",
+              "description": "Unlock the tax-saving potential of your charitable giving.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Donald Trump appeals to US Supreme Court to overturn ballot ban in Colorado",
+              "description": "Donald Trump has asked the US Supreme Court to overturn a ruling preventing him from appearing on the presidential ballot",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Donald Trump appeals to US Supreme Court to overturn ballot ban in Colorado",
+              "description": "Donald Trump has asked the US Supreme Court to overturn a ruling preventing him from appearing on the presidential ballot",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic7.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "In Tense Election Year, Public Officials Face Climate of Intimidation",
+              "description": "Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the harassment of officials.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic8.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "Trump’s January: Court Dates and Election Nights",
+              "description": "While Iowa’s caucuses and New Hampshire’s primary could start to propel the former president to the G.O.P. nomination, he is facing two trials this month.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "DeSantis Keeps Getting Asked: Why Won’t He Directly Criticize Trump?",
+              "description": "The Iowa caucuses are less than two weeks away. The candidates challenging Donald J. Trump hope a strong showing will lead to consolidated support.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "DeSantis Keeps Getting Asked: Why Won’t He Directly Criticize Trump?",
+              "description": "The Iowa caucuses are less than two weeks away. The candidates challenging Donald J. Trump hope a strong showing will lead to consolidated support.",
+              "row_type": "Public & Health Care"
+            }
+          ],
+          "kn": [
+            {
+              "img": "/images/Topics/topic1.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಹೇಲಿ ಚುಟುಕು: 'ನ್ಯೂ ಹ್ಯಾಂಪ್ಶೈರ್ ಪ್ರಾಥಮಿಕ' ಐಒವಾನ ಫಲವನ್ನು 'ತಪ್ಪು ಸರಿಪಡಿಸಲಿದೆ'",
+              "description": "ಹೇಲಿ, ನ್ಯೂ ಹ್ಯಾಂಪ್ಶೈರ್‌ನಲ್ಲಿ ಪ್ರಚಾರ ಮಾಡುತ್ತಿರುವಾಗ, 'ಐಒವಾನನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ನೀವು ಅದನ್ನು ಸರಿಪಡಿಸುತ್ತೀರಿ ಎಂದು ನೀವು ತಿಳಿದಿದ್ದೀರಿ' ಎಂದು ವ್ಯಂಗ್ಯವಾಡಿದರು. ಗವರ್ನರ್ ರಾನ್ ಡಿಸಾಂಟಿಸ್ ಅವರ ಸ್ನೇಹಿತರು ತಕ್ಷಣ ಆಕ್ರಮಿಸಿದರು.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic2.jpg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "2024ರ ಚುನಾವಣೆಯು ಈಗಾಗಲೇ ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ಗೆ ಹೋಗುತ್ತಿದೆಯೇ?",
+              "description": "ಇದು ನೈಜ ಚುನಾವಣಾ ವರ್ಷದ ಆರಂಭ - ಮತ್ತು ಪ್ರಚಾರದ ಹೊಸ ಅಧ್ಯಾಯ.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಇದು 2024, ಮತ್ತು ಅಭ್ಯರ್ಥಿಗಳು ಉತ್ಸಾಹದಿಂದ ಪ್ರಚಾರ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+              "description": "ಐಒವಾ ಸಭೆಗಳು ಇನ್ನೂ ಎರಡು ವಾರಗಳಲ್ಲಿ ಕಡಿಮೆಯಾಗಿದೆ. ಡೊನಾಲ್ಡ್ ಜೆ. ಟ್ರಂಪ್ ಅವರ ವಿರುದ್ಧ ಸ್ಪರ್ಧಿಸುವ ಅಭ್ಯರ್ಥಿಗಳು ಬಲವಾದ ಪ್ರದರ್ಶನವು ಏಕೀಕೃತ ಬೆಂಬಲವನ್ನು ನೀಡಲು ನಿರೀಕ್ಷಿಸುತ್ತಾರೆ.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಇದು 2024, ಮತ್ತು ಅಭ್ಯರ್ಥಿಗಳು ಉತ್ಸಾಹದಿಂದ ಪ್ರಚಾರ ಮಾಡುತ್ತಿದ್ದಾರೆ",
+              "description": "ಐಒವಾ ಸಭೆಗಳು ಇನ್ನೂ ಎರಡು ವಾರಗಳಲ್ಲಿ ಕಡಿಮೆಯಾಗಿದೆ. ಡೊನಾಲ್ಡ್ ಜೆ. ಟ್ರಂಪ್ ಅವರ ವಿರುದ್ಧ ಸ್ಪರ್ಧಿಸುವ ಅಭ್ಯರ್ಥಿಗಳು ಬಲವಾದ ಪ್ರದರ್ಶನವು ಏಕೀಕೃತ ಬೆಂಬಲವನ್ನು ನೀಡಲು ನಿರೀಕ್ಷಿಸುತ್ತಾರೆ.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic4.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಹೇಲಿಯ ಹಣದ ಹಣಕಾಸು, ಟ್ರಂಪ್ ಫುಲ್ ಹೌಸ್, ಫಾಕ್ಸ್ ನ್ಯೂಸ್ ಟಾರೋಟ್, ಬೆಲ್ಲಟ್‌ನಲ್ಲಿ RFK",
+              "description": "ರಿಪಬ್ಲಿಕನ್ ಅಧ್ಯಕ್ಷೀಯ ಅಭ್ಯರ್ಥಿ ನಿಕ್ಕಿ ಹೇಲಿ ಅಕ್ಟೋಬರ್ ಮತ್ತು ಡಿಸೆಂಬರ್ ನಡುವೆ $24.5 ಮಿಲಿಯನ್ ಸಂಗ್ರಹಿಸಿದರು.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic5.jpeg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಅಲಯನ್ಸ್ ಪುನಃ ಕೇಂದ್ರದ ಶಕ್ತಿಯಲ್ಲಿ",
+              "description": "ನಿಮ್ಮ ದಾನಾತ್ಮಕ ಕೊಡುಗೆಯ ತೆರಿಗೆ-ಉಳಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಕಾಲೊರಾಡೋದಲ್ಲಿ ಮತದಾನದ ನಿಷೇಧವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಅಮೇರಿಕಾದ ಸುಪ್ರೀಂಕೋರ್ಟ್‌ಗೆ ಆಪಾದಿಸುತ್ತಾರೆ",
+              "description": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್, ಅಧ್ಯಕ್ಷೀಯ ಮತದಾನದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳಲು ತಡೆಯುವ ತೀರ್ಪುವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಅಮೇರಿಕಾದ ಸುಪ್ರೀಂಕೋರ್ಟ್‌ಗೆ ವಿನಂತಿಸಿದ್ದಾರೆ.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಕಾಲೊರಾಡೋದಲ್ಲಿ ಮತದಾನದ ನಿಷೇಧವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಅಮೇರಿಕಾದ ಸುಪ್ರೀಂಕೋರ್ಟ್‌ಗೆ ಆಪಾದಿಸುತ್ತಾರೆ",
+              "description": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್, ಅಧ್ಯಕ್ಷೀಯ ಮತದಾನದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳಲು ತಡೆಯುವ ತೀರ್ಪುವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಅಮೇರಿಕಾದ ಸುಪ್ರೀಂಕೋರ್ಟ್‌ಗೆ ವಿನಂತಿಸಿದ್ದಾರೆ.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic7.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ತೀವ್ರ ಚುನಾವಣಾ ವರ್ಷದಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಅಧಿಕಾರಿಗಳು ತೀವ್ರತೆಯ ವಾತಾವರಣವನ್ನು ಎದುರಿಸುತ್ತಾರೆ",
+              "description": "ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಡೊನಾಲ್ಡ್ ಜೆ. ಟ್ರಂಪ್ ಅವರನ್ನು ಮತದಾನದಿಂದ ತಡೆಯಲು, ಕಾಲೊರಾಡೋ ಮತ್ತು ಮೈನೆಯಲ್ಲಿ ಅಧಿಕಾರಿಗಳ ಹಿಂಸೆ.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic8.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಟ್ರಂಪ್ ಜನವರಿ: ಕೋರ್ಟ್ ದಿನಗಳು ಮತ್ತು ಚುನಾವಣಾ ರಾತ್ರಿ",
+              "description": "ಐಒವಾ ಸಭೆಗಳು ಮತ್ತು ನ್ಯೂ ಹ್ಯಾಂಪ್ಶೈರ್ ಪ್ರಾಥಮಿಕವು ಮಾಜಿ ಅಧ್ಯಕ್ಷರನ್ನು G.O.P. ನಾಮನಿರ್ದೇಶನದತ್ತ ಪ್ರಾರಂಭಿಸಬಹುದು, ಆದರೆ ಈ ತಿಂಗಳು ಅವರು ಎರಡು ಕೇಸುಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಡಿಸಾಂಟಿಸ್: ಯಾಕೆ ಅವರು ಟ್ರಂಪ್ ಅವರನ್ನು ನೇರವಾಗಿ ಟೀಕಿಸಬಲ್ಲರೇ?",
+              "description": "ಐಒವಾ ಸಭೆಗಳು ಇನ್ನೂ ಎರಡು ವಾರಗಳಲ್ಲಿ ಕಡಿಮೆಯಾಗಿದೆ. ಡೊನಾಲ್ಡ್ ಜೆ. ಟ್ರಂಪ್ ಅವರ ವಿರುದ್ಧ ಸ್ಪರ್ಧಿಸುವ ಅಭ್ಯರ್ಥಿಗಳು ಬಲವಾದ ಪ್ರದರ್ಶನವು ಏಕೀಕೃತ ಬೆಂಬಲವನ್ನು ನೀಡಲು ನಿರೀಕ್ಷಿಸುತ್ತಾರೆ.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ಡಿಸಾಂಟಿಸ್: ಯಾಕೆ ಅವರು ಟ್ರಂಪ್ ಅವರನ್ನು ನೇರವಾಗಿ ಟೀಕಿಸಬಲ್ಲರೇ?",
+              "description": "ಐಒವಾ ಸಭೆಗಳು ಇನ್ನೂ ಎರಡು ವಾರಗಳಲ್ಲಿ ಕಡಿಮೆಯಾಗಿದೆ. ಡೊನಾಲ್ಡ್ ಜೆ. ಟ್ರಂಪ್ ಅವರ ವಿರುದ್ಧ ಸ್ಪರ್ಧಿಸುವ ಅಭ್ಯರ್ಥಿಗಳು ಬಲವಾದ ಪ್ರದರ್ಶನವು ಏಕೀಕೃತ ಬೆಂಬಲವನ್ನು ನೀಡಲು ನಿರೀಕ್ಷಿಸುತ್ತಾರೆ.",
+              "row_type": "Public & Health Care"
+            }
+          ],
+          "hi": [
+            {
+              "img": "/images/Topics/topic1.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "हेले का मजाक: 'न्यू हैम्पशायर प्राइमरी' आयोवा के परिणाम को 'सही' करेगा",
+              "description": "हेले ने न्यू हैम्पशायर में प्रचार करते हुए कहा, 'आयोवा इसे शुरू करता है। आप जानते हैं कि आप इसे ठीक करते हैं।' गवर्नर रॉन डेसांटिस के सहयोगियों ने तुरंत हमला किया।",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic2.jpg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "क्या 2024 का चुनाव पहले ही सुप्रीम कोर्ट की ओर जा रहा है?",
+              "description": "यह असली चुनावी वर्ष की शुरुआत है - और अभियान में एक नया अध्याय।",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "यह 2024 है, और उम्मीदवार जोर-शोर से प्रचार कर रहे हैं",
+              "description": "आयोवा कॉकस दो सप्ताह से भी कम समय में है। डोनाल्ड जे. ट्रम्प को चुनौती देने वाले उम्मीदवारों को उम्मीद है कि मजबूत प्रदर्शन से समर्थन में एकजुटता आएगी।",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "यह 2024 है, और उम्मीदवार जोर-शोर से प्रचार कर रहे हैं",
+              "description": "आयोवा कॉकस दो सप्ताह से भी कम समय में है। डोनाल्ड जे. ट्रम्प को चुनौती देने वाले उम्मीदवारों को उम्मीद है कि मजबूत प्रदर्शन से समर्थन में एकजुटता आएगी।",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic4.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "हेले की धन उगाही, ट्रम्प का पूरा घर, फॉक्स न्यूज टैरो, आरएफके मतपत्र पर",
+              "description": "रिपब्लिकन राष्ट्रपति पद के उम्मीदवार निक्की हेले ने अक्टूबर और दिसंबर के बीच $24.5 मिलियन जुटाए।",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic5.jpeg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "गठबंधन फिर से सत्ता के केंद्र में हैं",
+              "description": "अपनी दानशीलता को कर बचत क्षमता को अनलॉक करें।",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "डोनाल्ड ट्रम्प कोलोराडो में मतपत्र प्रतिबंध को पलटने के लिए अमेरिकी सुप्रीम कोर्ट में अपील करते हैं",
+              "description": "डोनाल्ड ट्रम्प ने अमेरिकी सुप्रीम कोर्ट से राष्ट्रपति पद के मतपत्र पर उन्हें रोकने वाले फैसले को पलटने का अनुरोध किया है।",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "डोनाल्ड ट्रम्प कोलोराडो में मतपत्र प्रतिबंध को पलटने के लिए अमेरिकी सुप्रीम कोर्ट में अपील करते हैं",
+              "description": "डोनाल्ड ट्रम्प ने अमेरिकी सुप्रीम कोर्ट से राष्ट्रपति पद के मतपत्र पर उन्हें रोकने वाले फैसले को पलटने का अनुरोध किया है।",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic7.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "तनावपूर्ण चुनावी वर्ष में, सार्वजनिक अधिकारी धमकी के माहौल का सामना कर रहे हैं",
+              "description": "पूर्व राष्ट्रपति डोनाल्ड जे. ट्रम्प को मतपत्र से रोकने वाले कोलोराडो और मेन ने अधिकारियों की उत्पीड़न से निपटा है।",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic8.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ट्रम्प का जनवरी: कोर्ट की तारीखें और चुनावी रातें",
+              "description": "आयोवा कॉकस और न्यू हैम्पशायर प्राइमरी पूर्व राष्ट्रपति को जीओपी नामांकन की ओर बढ़ा सकते हैं, लेकिन इस महीने वह दो मुकदमों का सामना कर रहे हैं।",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "डेसांटिस को बार-बार पूछा जा रहा है: वह ट्रम्प की सीधी आलोचना क्यों नहीं करेंगे?",
+              "description": "आयोवा कॉकस दो सप्ताह से भी कम समय में है। डोनाल्ड जे. ट्रम्प को चुनौती देने वाले उम्मीदवारों को उम्मीद है कि मजबूत प्रदर्शन से समर्थन में एकजुटता आएगी।",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "डेसांटिस को बार-बार पूछा जा रहा है: वह ट्रम्प की सीधी आलोचना क्यों नहीं करेंगे?",
+              "description": "आयोवा कॉकस दो सप्ताह से भी कम समय में है। डोनाल्ड जे. ट्रम्प को चुनौती देने वाले उम्मीदवारों को उम्मीद है कि मजबूत प्रदर्शन से समर्थन में एकजुटता आएगी।",
+              "row_type": "Public & Health Care"
+            }
+          ],
+          "ta": [
+            {
+              "img": "/images/Topics/topic1.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ஹாலி கேலி: 'நியூ ஹாம்ப்ஷயர் முதன்மை' ஐவாவின் முடிவை 'சரி' செய்யும்",
+              "description": "நியூ ஹாம்ப்ஷயரில் பிரசாரம் செய்து கொண்டிருந்த ஹாலி, 'ஐவா அதைத் தொடங்குகிறது. நீங்கள் அதைச் சரி செய்கிறீர்கள் என்று உங்களுக்கு தெரியும்' என்று நகைச்சுவையாகக் கூறினார். கவர்னர் ரான் டெசாண்டிஸ் அவர்களின் ஆதரவாளர்கள் உடனடியாக தாக்கினர்.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic2.jpg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "2024 தேர்தல் ஏற்கனவே உச்சநீதிமன்றத்தை நோக்கி செல்கின்றதா?",
+              "description": "இது உண்மையான தேர்தல் ஆண்டின் தொடக்கம் - மற்றும் பிரச்சாரத்தின் புதிய அத்தியாயம்.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "இது 2024, மற்றும் வேட்பாளர்கள் சிறுத்தை வேகத்தில் பிரச்சாரம் செய்கின்றனர்",
+              "description": "ஐவா குழு கூட்டம் இன்னும் இரண்டு வாரங்களில் குறைவாக உள்ளது. டொனால்ட் ஜே. டிரம்ப் எதிர்த்துப் போட்டியிடும் வேட்பாளர்கள் வலுவான காட்சி ஒருங்கிணைந்த ஆதரவை ஏற்படுத்தும் என்று நம்புகிறார்கள்.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "இது 2024, மற்றும் வேட்பாளர்கள் சிறுத்தை வேகத்தில் பிரச்சாரம் செய்கின்றனர்",
+              "description": "ஐவா குழு கூட்டம் இன்னும் இரண்டு வாரங்களில் குறைவாக உள்ளது. டொனால்ட் ஜே. டிரம்ப் எதிர்த்துப் போட்டியிடும் வேட்பாளர்கள் வலுவான காட்சி ஒருங்கிணைந்த ஆதரவை ஏற்படுத்தும் என்று நம்புகிறார்கள்.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic4.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ஹாலியின் பண வசூல், டிரம்பின் முழு வீடு, ஃபாக்ஸ் நியூஸ் டாரோட், பேலட்டில் ஆர்.எப்.கே",
+              "description": "குடியரசு கட்சி ஜனாதிபதி வேட்பாளர் நிக்கி ஹாலி அக்டோபர் மற்றும் டிசம்பர் இடையே $24.5 மில்லியன் திரட்டினார்.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic5.jpeg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "கூட்டணிகள் மீண்டும் ஆற்றலின் மையத்தில் உள்ளன",
+              "description": "உங்கள் தானத்தால் ஏற்படும் வரி சேமிப்பு திறனை திறக்கவும்.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "டொனால்ட் டிரம்ப் காலோராடோவில் வாக்குச்சீட்டு தடை நிலையை ரத்து செய்ய அமெரிக்க உச்சநீதிமன்றத்தில் மேல் முறையிடுகிறார்",
+              "description": "அமெரிக்க உச்சநீதிமன்றத்தில் அமரிக்காவில் தலைமைத்துவ வாக்குச் சீட்டு தடையை ரத்து செய்ய அமெரிக்க உச்சநீதிமன்றத்தில் விண்ணப்பித்துள்ளார்.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "டொனால்ட் டிரம்ப் காலோராடோவில் வாக்குச்சீட்டு தடை நிலையை ரத்து செய்ய அமெரிக்க உச்சநீதிமன்றத்தில் மேல் முறையிடுகிறார்",
+              "description": "அமெரிக்க உச்சநீதிமன்றத்தில் அமரிக்காவில் தலைமைத்துவ வாக்குச் சீட்டு தடையை ரத்து செய்ய அமெரிக்க உச்சநீதிமன்றத்தில் விண்ணப்பித்துள்ளார்.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic7.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "முழு தேர்தல் ஆண்டில், பொது அதிகாரிகள் மிரட்டும் சூழ்நிலையை எதிர்கொண்டுள்ளனர்",
+              "description": "முன்னாள் ஜனாதிபதி டொனால்ட் ஜே. டிரம்பைப் பொது அதிகாரிகளை மிரட்டியதை நிறுத்திய காலோராடோ மற்றும் மைன் அரசு.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic8.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "டிரம்பின் ஜனவரி: நீதிமன்ற தேதிகள் மற்றும் தேர்தல் இரவுகள்",
+              "description": "ஐவா குழுக் கூட்டங்கள் மற்றும் நியூ ஹாம்ப்ஷயர் முதன்மை முன்னாள் ஜனாதிபதியை GOP பெயர்ச்சீட்டுக்குத் தள்ளும், ஆனால் இந்த மாதம் இரண்டு வழக்குகளை எதிர்கொண்டுள்ளார்.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "டெசாண்டிஸ் மீண்டும் கேட்கப்பட்டார்: ஏன் அவர் டிரம்பை நேரடியாக விமர்சிக்க மாட்டார்?",
+              "description": "ஐவா குழுக் கூட்டங்கள் இன்னும் இரண்டு வாரங்களில் குறைவாக உள்ளது. டொனால்ட் ஜே. டிரம்ப் எதிர்த்துப் போட்டியிடும் வேட்பாளர்கள் வலுவான காட்சி ஒருங்கிணைந்த ஆதரவை ஏற்படுத்தும் என்று நம்புகிறார்கள்.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "டெசாண்டிஸ் மீண்டும் கேட்கப்பட்டார்: ஏன் அவர் டிரம்பை நேரடியாக விமர்சிக்க மாட்டார்?",
+              "description": "ஐவா குழுக் கூட்டங்கள் இன்னும் இரண்டு வாரங்களில் குறைவாக உள்ளது. டொனால்ட் ஜே. டிரம்ப் எதிர்த்துப் போட்டியிடும் வேட்பாளர்கள் வலுவான காட்சி ஒருங்கிணைந்த ஆதரவை ஏற்படுத்தும் என்று நம்புகிறார்கள்.",
+              "row_type": "Public & Health Care"
+            }
+          ],
+          "te": [
+            {
+              "img": "/images/Topics/topic1.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "న్యూ హాంప్షైర్ ప్రైమరీ ఐవా ఫలితాన్ని 'సరిచేయాలి' అని హేలీ సరదాగా చెప్పారు",
+              "description": "న్యూ హాంప్షైర్‌లో ప్రచారం చేస్తున్న మిస్ హేలీ, “ఐవా మొదలు పెడుతుంది. మీరు దానిని సరిచేస్తారని తెలుసు.” అని సరదాగా చెప్పారు. గవర్నర్ రాన్ డిసాంటిస్ మిత్రులు దాడి చేశారు.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic2.jpg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "2024 ఎన్నిక ఇప్పటికే సుప్రీం కోర్టుకు వెళ్తుందా?",
+              "description": "ఇది వాస్తవ ఎన్నికల సంవత్సర ప్రారంభం — మరియు ప్రచారంలో ఒక కొత్త అధ్యాయం.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ఇది 2024, మరియు అభ్యర్థులు తీవ్రమైన పేస్‌లో ప్రచారం చేస్తున్నారు",
+              "description": "ఐవా కౌకసెస్ రెండు వారాల కంటే తక్కువ దూరంలో ఉన్నాయి. డొనాల్డ్ జె. ట్రంప్‌కు సవాల్ చేస్తున్న అభ్యర్థులు బలమైన ప్రదర్శన ఒకతాటి మద్దతుకు దారితీస్తుందని ఆశిస్తున్నారు.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ఇది 2024, మరియు అభ్యర్థులు తీవ్రమైన పేస్‌లో ప్రచారం చేస్తున్నారు",
+              "description": "ఐవా కౌకసెస్ రెండు వారాల కంటే తక్కువ దూరంలో ఉన్నాయి. డొనాల్డ్ జె. ట్రంప్‌కు సవాల్ చేస్తున్న అభ్యర్థులు బలమైన ప్రదర్శన ఒకతాటి మద్దతుకు దారితీస్తుందని ఆశిస్తున్నారు.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic4.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "హేలీ డబ్బు సమకూర్చడం, ట్రంప్ పూర్తి హౌస్, ఫాక్స్ న్యూస్ టారోట్, బ్యాలెట్‌పై కెనడీ జూనియర్",
+              "description": "రిపబ్లికన్ అధ్యక్ష అభ్యర్థి నిక్కీ హేలీ అక్టోబర్ నుండి డిసెంబర్ వరకు $24.5 మిలియన్లు సేకరించారు.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic5.jpeg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "కేంద్రంలో శక్తి వద్ద కూటములు తిరిగి ఉన్నాయి",
+              "description": "మీ చారిటబుల్ డొనేషన్‌ల ద్వారా పన్ను ఆదా సామర్థ్యాన్ని అన్‌లాక్ చేయండి.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "కోలరాడోలో బ్యాలెట్ నిషేధాన్ని రద్దు చేయమని US సుప్రీం కోర్టుకు డోనాల్డ్ ట్రంప్ అప్పీల్ చేశారు",
+              "description": "అధ్యక్ష పదవికి తనను బ్యాలెట్‌లో కనిపించనివ్వకపోవడంపై తుది తీర్పు రద్దు చేయమని US సుప్రీం కోర్టును డోనాల్డ్ ట్రంప్ కోరారు.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "కోలరాడోలో బ్యాలెట్ నిషేధాన్ని రద్దు చేయమని US సుప్రీం కోర్టుకు డోనాల్డ్ ట్రంప్ అప్పీల్ చేశారు",
+              "description": "అధ్యక్ష పదవికి తనను బ్యాలెట్‌లో కనిపించనివ్వకపోవడంపై తుది తీర్పు రద్దు చేయమని US సుప్రీం కోర్టును డోనాల్డ్ ట్రంప్ కోరారు.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic7.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "తీవ్రమైన ఎన్నికల సంవత్సరంలో, ప్రజా అధికారులు బెదిరింపు వాతావరణాన్ని ఎదుర్కొంటున్నారు",
+              "description": "డొనాల్డ్ జె. ట్రంప్‌ను బ్యాలెట్ నుండి నిలిపివేసిన కొలరాడో మరియు మెయిన్ అధికారులు వేధింపులకు గురయ్యారు.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic8.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ట్రంప్ యొక్క జనవరి: కోర్టు తేదీలు మరియు ఎన్నికల రాత్రులు",
+              "description": "ఐవా కౌకసెస్ మరియు న్యూ హాంప్షైర్ ప్రైమరీ ట్రంప్ GOP నామినేషన్ పొందేందుకు ప్రారంభించవచ్చు, అతను ఈ నెలలో రెండు విచారణలు ఎదుర్కొంటున్నాడు.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "డిసాంటిస్: ట్రంప్‌ని నేరుగా విమర్శించడానికి ఎందుకు ఇష్టపడటం లేదు?",
+              "description": "ఐవా కౌకసెస్ రెండు వారాల కంటే తక్కువ దూరంలో ఉన్నాయి. డొనాల్డ్ జె. ట్రంప్‌కు సవాల్ చేస్తున్న అభ్యర్థులు బలమైన ప్రదర్శన ఒకతాటి మద్దతుకు దారితీస్తుందని ఆశిస్తున్నారు.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "డిసాంటిస్: ట్రంప్‌ని నేరుగా విమర్శించడానికి ఎందుకు ఇష్టపడటం లేదు?",
+              "description": "ఐవా కౌకసెస్ రెండు వారాల కంటే తక్కువ దూరంలో ఉన్నాయి. డొనాల్డ్ జె. ట్రంప్‌కు సవాల్ చేస్తున్న అభ్యర్థులు బలమైన ప్రదర్శన ఒకతాటి మద్దతుకు దారితీస్తుందని ఆశిస్తున్నారు.",
+              "row_type": "Public & Health Care"
+            }
+          ],
+          "ml": [
+            {
+              "img": "/images/Topics/topic1.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ന്യൂഹാംഷെയർ പ്രാഥമിക ഫലത്തെ 'ശരിയാക്കും' എന്ന് ഹാലി തമാശയായി പറയുന്നു",
+              "description": "ന്യൂഹാംഷെയറിൽ പ്രചാരണം നടത്തുന്ന ഹാലി പറഞ്ഞു, 'ഐവായിൽ അത് ആരംഭിക്കുന്നു. നിങ്ങൾ അതിനെ ശരിയാക്കുന്നു എന്ന് നിങ്ങൾക്കറിയാം.' ഗവർണർ റൺ ഡിസാന്റിസിന്റെ സഹപ്രവർത്തകർ ആക്രമിച്ചു.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic2.jpg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "2024 തിരഞ്ഞെടുപ്പ് ഇതിനകം സുപ്രീം കോടതിയിലേക്ക് പോകുന്നുണ്ടോ?",
+              "description": "ഇത് വാസ്തവ തെരഞ്ഞെടുപ്പ് വർഷത്തിന്റെ തുടക്കമാണ് — കൂടാതെ പ്രചാരണത്തിലെ ഒരു പുതിയ അധ്യായം.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ഇത് 2024 ആണ്, സ്ഥാനാർത്ഥികൾ ഉഗ്രൻ നിലയിൽ പ്രചാരണം നടത്തുന്നു",
+              "description": "ഐവ കോകസുകൾ രണ്ടു ആഴ്ചയിൽ കുറവാണ്. ഡൊണാൾഡ് ജെ. ട്രംപിന് എതിർക്കുന്ന സ്ഥാനാർത്ഥികൾ ശക്തമായ പ്രകടനം ഏകോപിതമായ പിന്തുണയിലേക്ക് നയിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic3.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ഇത് 2024 ആണ്, സ്ഥാനാർത്ഥികൾ ഉഗ്രൻ നിലയിൽ പ്രചാരണം നടത്തുന്നു",
+              "description": "ഐവ കോകസുകൾ രണ്ടു ആഴ്ചയിൽ കുറവാണ്. ഡൊണാൾഡ് ജെ. ട്രംപിന് എതിർക്കുന്ന സ്ഥാനാർത്ഥികൾ ശക്തമായ പ്രകടനം ഏകോപിതമായ പിന്തുണയിലേക്ക് നയിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു.",
+              "row_type": "Up for health related discussions"
+            },
+            {
+              "img": "/images/Topics/topic4.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ഹാലിയുടെ പണം പിരിവ്, ട്രംപിന്റെ ഫുൾ ഹൗസ്, ഫോക്സ് ന്യൂസ് ടാറോറ്റ്, ബാലറ്റിൽ കെന്നഡി ജൂനിയർ",
+              "description": "റിപ്പബ്ലിക്കൻ പ്രസിഡന്റ് സ്ഥാനാർത്ഥി നിക്കി ഹാലി ഒക്ടോബർ മുതൽ ഡിസംബർ വരെ 24.5 ദശലക്ഷം ഡോളർ പിരിച്ചു.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic5.jpeg",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "കേന്ദ്രത്തിൽ ശക്തിയുള്ള സഖ്യങ്ങൾ വീണ്ടും ഉണ്ട്",
+              "description": "നിങ്ങളുടെ ഫിലാൻട്രോപിക് സംഭാവനകളുടെ നികുതി ലാഭ സാധ്യതയുള്‍തുറക്കുക.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "കൊളറാഡോയിൽ ബാലറ്റ് നിരോധനം റദ്ദാക്കാൻ യുഎസ് സുപ്രീം കോടതിയിൽ ട്രംപ് അപ്പീൽ ചെയ്തു",
+              "description": "പ്രസിഡൻഷ്യൽ ബാലറ്റിൽ നിന്നു താൻ പുറത്തായതിൽ എതിർപ്പുമായി ട്രംപ് യുഎസ് സുപ്രീം കോടതിയിൽ അപ്പീൽ നൽകി.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic6.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "കൊളറാഡോയിൽ ബാലറ്റ് നിരോധനം റദ്ദാക്കാൻ യുഎസ് സുപ്രീം കോടതിയിൽ ട്രംപ് അപ്പീൽ ചെയ്തു",
+              "description": "പ്രസിഡൻഷ്യൽ ബാലറ്റിൽ നിന്നു താൻ പുറത്തായതിൽ എതിർപ്പുമായി ട്രംപ് യുഎസ് സുപ്രീം കോടതിയിൽ അപ്പീൽ നൽകി.",
+              "row_type": "A meld of Health Care & Foreign Policy"
+            },
+            {
+              "img": "/images/Topics/topic7.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "പ്രക്ഷുബ്ധമായ തിരഞ്ഞെടുപ്പ് വർഷത്തിൽ, പബ്ലിക് ഉദ്യോഗസ്ഥർ ഭീഷണിയുടെ അന്തരീക്ഷത്തെ നേരിടുന്നു",
+              "description": "ഡൊണാൾഡ് ജെ. ട്രംപിനെ ബാലറ്റിൽ നിന്ന് തടഞ്ഞ കൊളറാഡോയും മെയിനും ഉദ്യോഗസ്ഥരുടെ ഉപദ്രവത്തോട് പൊരുതി.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic8.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ട്രംപിന്റെ ജനുവരി: കോടതി തീയതികളും തിരഞ്ഞെടുപ്പ് രാത്രികളും",
+              "description": "ഐവ കോകസുകളും ന്യൂ ഹാംപ്ഷെയർ പ്രാഥമികവും മുൻ പ്രസിഡന്റ് GOP നാമനിർദ്ദേശം നേടാൻ തുടങ്ങുന്നതിന് സഹായിക്കാം, എന്നാൽ അദ്ദേഹം ഈ മാസം രണ്ട് വിചാരണകളുടെ നേരിടുന്നു.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ഡിസാന്റിസ്: ട്രംപിനെ നേരിട്ട് വിമർശിക്കാൻ എന്തുകൊണ്ട് തയ്യാറാകുന്നില്ല?",
+              "description": "ഐവ കോകസുകൾ രണ്ടു ആഴ്ചയിൽ കുറവാണ്. ഡൊണാൾഡ് ജെ. ട്രംപിന് എതിർക്കുന്ന സ്ഥാനാർത്ഥികൾ ശക്തമായ പ്രകടനം ഏകോപിതമായ പിന്തുണയിലേക്ക് നയിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു.",
+              "row_type": "Public & Health Care"
+            },
+            {
+              "img": "/images/Topics/topic9.png",
+              "date": "Jan. 4, 2024, 9:43 a.m. ET",
+              "title": "ഡിസാന്റിസ്: ട്രംപിനെ നേരിട്ട് വിമർശിക്കാൻ എന്തുകൊണ്ട് തയ്യാറാകുന്നില്ല?",
+              "description": "ഐവ കോകസുകൾ രണ്ടു ആഴ്ചയിൽ കുറവാണ്. ഡൊണാൾഡ് ജെ. ട്രംപിന് എതിർക്കുന്ന സ്ഥാനാർത്ഥികൾ ശക്തമായ പ്രകടനം ഏകോപിതമായ പിന്തുണയിലേക്ക് നയിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു.",
+              "row_type": "Public & Health Care"
+            }
+          ]
+        },
+        "candidateElectionType": {
+          "en": [
+            {
+              "name": "PRESIDENTIAL",
+              "path": "presidential"
+            },
+            {
+              "name": "CONGRESSIONAL",
+              "path": "congressional"
+            },
+            {
+              "name": "GUBERNATORIAL",
+              "path": "Gubernatorial"
+            },
+            {
+              "name": "LOCAL",
+              "path": "local"
+            }
+          ],
+          "hi": [
+            {
+              "name": "राष्ट्रपति",
+              "path": "presidential"
+            },
+            {
+              "name": "कांग्रेसनल",
+              "path": "congressional"
+            },
+            {
+              "name": "गवर्नेटोरियल",
+              "path": "Gubernatorial"
+            },
+            {
+              "name": "स्थानीय",
+              "path": "local"
+            }
+          ],
+          "te": [
+            {
+              "name": "ప్రెసిడెన్షియల్",
+              "path": "presidential"
+            },
+            {
+              "name": "కాన్గ్రెషనల్",
+              "path": "congressional"
+            },
+            {
+              "name": "గవర్నేటోరియల్",
+              "path": "Gubernatorial"
+            },
+            {
+              "name": "స్థానిక",
+              "path": "local"
+            }
+          ],
+          "kn": [
+            {
+              "name": "ಪ್ರೆಸಿಡೆನ್ಷಿಯಲ್",
+              "path": "presidential"
+            },
+            {
+              "name": "ಕಾಂಗ್ರೆಸ್ಸನಲ್",
+              "path": "congressional"
+            },
+            {
+              "name": "ಗವರ್ನಟೋರಿಯಲ್",
+              "path": "Gubernatorial"
+            },
+            {
+              "name": "ಸ್ಥಳೀಯ",
+              "path": "local"
+            }
+          ],
+          "ta": [
+            {
+              "name": "நிறைவேற்று",
+              "path": "presidential"
+            },
+            {
+              "name": "காங்கிரஸ்நாள்",
+              "path": "congressional"
+            },
+            {
+              "name": "நியமனாட்சித்துவ",
+              "path": "Gubernatorial"
+            },
+            {
+              "name": "உள்ளூர்",
+              "path": "local"
+            }
+          ],
+          "ml": [
+            {
+              "name": "പ്രസിഡൻഷ്യൽ",
+              "path": "presidential"
+            },
+            {
+              "name": "കോൺഗ്രഷണൽ",
+              "path": "congressional"
+            },
+            {
+              "name": "ഗവേണേറ്റോറിയൽ",
+              "path": "Gubernatorial"
+            },
+            {
+              "name": "പ്രാദേശിക",
+              "path": "local"
+            }
+          ]
+        },
+        "candidateList": {
+          "en": [
+            {
+              "name": "Ryan Binkley",
+              "party": "Democratic",
+              "image": "/images/Tv/details/presidential/reyanBinkley.png",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "Joe Biden",
+              "party": "Democratic",
+              "image": "/images/Tv/details/presidential/joeBiden.png",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "Donald Trump",
+              "party": "Republican",
+              "image": "/images/Tv/details/presidential/trump.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "Nimarata Nikki Haley",
+              "party": "Republican",
+              "image": "/images/Tv/details/presidential/Nikki-Haley.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "Mike Pence",
+              "party": "Democratic",
+              "image": "/images/Tv/details/presidential/mikePence.jpg",
+              "id": "5150da04-61a9-4999-b78b-4db762886327"
+            },
+            {
+              "name": "John Desantis",
+              "party": "Republican",
+              "image": "/images/Tv/details/presidential/JohnDesantis.jpg",
+              "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
+            }
+          ],
+          "hi": [
+            {
+              "name": "रयान बिंकली",
+              "party": "डेमोक्रेटिक",
+              "image": "/images/Tv/details/presidential/reyanBinkley.png",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "जो बाइडेन",
+              "party": "डेमोक्रेटिक",
+              "image": "/images/Tv/details/presidential/joeBiden.png",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "डोनाल्ड ट्रम्प",
+              "party": "रिपब्लिकन",
+              "image": "/images/Tv/details/presidential/trump.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "निमरता निक्की हेली",
+              "party": "रिपब्लिकन",
+              "image": "/images/Tv/details/presidential/Nikki-Haley.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "माइक पेंस",
+              "party": "डेमोक्रेटिक",
+              "image": "/images/Tv/details/presidential/mikePence.jpg",
+              "id": "5150da04-61a9-4999-b78b-4db762886327"
+            },
+            {
+              "name": "जॉन डेसांटिस",
+              "party": "रिपब्लिकन",
+              "image": "/images/Tv/details/presidential/JohnDesantis.jpg",
+              "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
+            }
+          ],
+          "kn": [
+            {
+              "name": "ರಿಯನ್ ಬಿಂಕ್ಲಿ",
+              "party": "ಡೆಮಾಕ್ರಟಿಕ್",
+              "image": "/images/Tv/details/presidential/reyanBinkley.png",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ಜೋ ಬಿಡನ್",
+              "party": "ಡೆಮಾಕ್ರಟಿಕ್",
+              "image": "/images/Tv/details/presidential/joeBiden.png",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್",
+              "party": "ರಿಪಬ್ಲಿಕನ್",
+              "image": "/images/Tv/details/presidential/trump.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "ನಿಮರತಾ ನಿಕ್ಕಿ ಹ್ಯಾಲಿ",
+              "party": "ರಿಪಬ್ಲಿಕನ್",
+              "image": "/images/Tv/details/presidential/Nikki-Haley.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "ಮೈಕ್ ಪೆನ್ಸ್",
+              "party": "ಡೆಮಾಕ್ರಟಿಕ್",
+              "image": "/images/Tv/details/presidential/mikePence.jpg",
+              "id": "5150da04-61a9-4999-b78b-4db762886327"
+            },
+            {
+              "name": "ಜಾನ್ ಡೆಸಾಂಟಿಸ್",
+              "party": "ರಿಪಬ್ಲಿಕನ್",
+              "image": "/images/Tv/details/presidential/JohnDesantis.jpg",
+              "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
+            }
+          ],
+          "te": [
+            {
+              "name": "రియన్ బింక్లీ",
+              "party": "డెమోక్రాటిక్",
+              "image": "/images/Tv/details/presidential/reyanBinkley.png",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "జో బైడెన్",
+              "party": "డెమోక్రాటిక్",
+              "image": "/images/Tv/details/presidential/joeBiden.png",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "డొనాల్డ్ ట్రంప్",
+              "party": "రిపబ్లికన్",
+              "image": "/images/Tv/details/presidential/trump.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "నిమరత నిక్కి హేలీ",
+              "party": "రిపబ్లికన్",
+              "image": "/images/Tv/details/presidential/Nikki-Haley.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "మైక్ పెన్స్",
+              "party": "డెమోక్రాటిక్",
+              "image": "/images/Tv/details/presidential/mikePence.jpg",
+              "id": "5150da04-61a9-4999-b78b-4db762886327"
+            },
+            {
+              "name": "జాన్ డిసాంటిస్",
+              "party": "రిపబ్లికన్",
+              "image": "/images/Tv/details/presidential/JohnDesantis.jpg",
+              "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
+            }
+          ],
+          "ta": [
+            {
+              "name": "ரியன் பின்க்லி",
+              "party": "டெமோக்ராட்டிக்",
+              "image": "/images/Tv/details/presidential/reyanBinkley.png",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ஜோ பைடன்",
+              "party": "டெமோக்ராட்டிக்",
+              "image": "/images/Tv/details/presidential/joeBiden.png",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "டொனால்ட் ட்ரம்ப்",
+              "party": "குடியரசு",
+              "image": "/images/Tv/details/presidential/trump.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "நிமரதா நிக்கி ஹேலி",
+              "party": "குடியரசு",
+              "image": "/images/Tv/details/presidential/Nikki-Haley.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "மைக் பேன்ஸ்",
+              "party": "டெமோக்ராட்டிக்",
+              "image": "/images/Tv/details/presidential/mikePence.jpg",
+              "id": "5150da04-61a9-4999-b78b-4db762886327"
+            },
+            {
+              "name": "ஜான் டெசாண்டிஸ்",
+              "party": "குடியரசு",
+              "image": "/images/Tv/details/presidential/JohnDesantis.jpg",
+              "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
+            }
+          ],
+          "ml": [
+            {
+              "name": "റയാൻ ബിങ്ക്ലി",
+              "party": "ഡെമോക്രാറ്റിക്",
+              "image": "/images/Tv/details/presidential/reyanBinkley.png",
+              "id": "36e493e9-f9b6-45ec-82a4-381feee48d8c"
+            },
+            {
+              "name": "ജോ ബൈഡൻ",
+              "party": "ഡെമോക്രാറ്റിക്",
+              "image": "/images/Tv/details/presidential/joeBiden.png",
+              "id": "d4835dbe-c437-4378-8587-2b6c41cf72da"
+            },
+            {
+              "name": "ഡൊണാൽഡ് ട്രംപ്",
+              "party": "റിപ്പബ്ലിക്കൻ",
+              "image": "/images/Tv/details/presidential/trump.jpg",
+              "id": "5d4c51ba-602c-4987-8e04-4624a3722b9d"
+            },
+            {
+              "name": "നിമരത നിക്കി ഹേലി",
+              "party": "റിപ്പബ്ലിക്കൻ",
+              "image": "/images/Tv/details/presidential/Nikki-Haley.jpg",
+              "id": "64cb4965-1ea6-4178-bb23-945315e950c0"
+            },
+            {
+              "name": "മൈക്ക് പെൻസ്",
+              "party": "ഡെമോക്രാറ്റിക്",
+              "image": "/images/Tv/details/presidential/mikePence.jpg",
+              "id": "5150da04-61a9-4999-b78b-4db762886327"
+            },
+            {
+              "name": "ജോൺ ഡെസാന്റിസ്",
+              "party": "റിപ്പബ്ലിക്കൻ",
+              "image": "/images/Tv/details/presidential/JohnDesantis.jpg",
+              "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
+            }
+          ]
+        },
+        "spotlights": {
+          "en": [
+            {
+              "headline": "The Border Security and Dignity Plan",
+              "thumbline": "Confront China’s expansionism in Asia and Africa.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "Bidens make traditional pre-Christmas visit to children’s hospital",
+              "thumbline": "President Joe Biden joined first lady Jill Biden,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            },
+            {
+              "headline": "The Border Security and Dignity Plan",
+              "thumbline": "Confront China’s expansionism in Asia and Africa.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "Bidens make traditional pre-Christmas visit to children’s hospital",
+              "thumbline": "President Joe Biden joined first lady Jill Biden,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            }
+          ],
+          "hi": [
+            {
+              "headline": "सीमा सुरक्षा और गरिमा योजना",
+              "thumbline": "एशिया और अफ्रीका में चीन के विस्तारवाद का सामना करें।",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "बाइडें बच्चों के अस्पताल में परंपरागत पूर्व क्रिसमस यात्रा करते हैं",
+              "thumbline": "राष्ट्रपति जो बाइडेन ने पहली महिला जिल बाइडेन के साथ शामिल हुए,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            },
+            {
+              "headline": "सीमा सुरक्षा और गरिमा योजना",
+              "thumbline": "एशिया और अफ्रीका में चीन के विस्तारवाद का सामना करें।",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "बाइडें बच्चों के अस्पताल में परंपरागत पूर्व क्रिसमस यात्रा करते हैं",
+              "thumbline": "राष्ट्रपति जो बाइडेन ने पहली महिला जिल बाइडेन के साथ शामिल हुए,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            }
+          ],
+          "kn": [
+            {
+              "headline": "ಸರಣಿ ಭಾರತದ ಸೀಮಾ ಸುರಕ್ಷತೆ ಮತ್ತು ಗರಿಮಾ ಯೋಜನೆ",
+              "thumbline": "ಏಷ್ಯಾ ಮತ್ತು ಆಫ್ರಿಕಾದಲ್ಲಿ ಚೈನಾದ ವಿಸ್ತಾರವಾದವನ್ನು ಎದುರಿಸಿ.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "ಬೈಡನ್ಸ್ ಹಳೆಯ ಕ್ರಿಸ್ಮಸ್ ಮುಂಜಾನೆ ಮಕ್ಕಳ ಆಸ್ಪತ್ರೆಗೆ ಭೇಟಿ ನೀಡುತ್ತಾರೆ",
+              "thumbline": "ರಾಷ್ಟ್ರಪತಿ ಜೋ ಬೈಡನ್ ಮೊದಲ ಮಹಿಳೆ ಜಿಲ್ ಬೈಡನ್ ಜೊತೆಗೆ ಸೇರಿದರು,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            },
+            {
+              "headline": "ಸರಣಿ ಭಾರತದ ಸೀಮಾ ಸುರಕ್ಷತೆ ಮತ್ತು ಗರಿಮಾ ಯೋಜನೆ",
+              "thumbline": "ಏಷ್ಯಾ ಮತ್ತು ಆಫ್ರಿಕಾದಲ್ಲಿ ಚೈನಾದ ವಿಸ್ತಾರವಾದವನ್ನು ಎದುರಿಸಿ.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "ಬೈಡನ್ಸ್ ಹಳೆಯ ಕ್ರಿಸ್ಮಸ್ ಮುಂಜಾನೆ ಮಕ್ಕಳ ಆಸ್ಪತ್ರೆಗೆ ಭೇಟಿ ನೀಡುತ್ತಾರೆ",
+              "thumbline": "ರಾಷ್ಟ್ರಪತಿ ಜೋ ಬೈಡನ್ ಮೊದಲ ಮಹಿಳೆ ಜಿಲ್ ಬೈಡನ್ ಜೊತೆಗೆ ಸೇರಿದರು,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            }
+          ],
+          "te": [
+            {
+              "headline": "బార్డర్ సెక్యూరిటీ అండ్ డిగ్నిటీ ప్లాన్",
+              "thumbline": "ఆసియా మరియు ఆఫ్రికాలో చైనా విస్తారవాదానికి ఎదురుచూస్తుంది.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "బైడెన్స్ పరంపరాగత క్రిస్మస్ స్థలాలు బచ్చల ఆస్పత్రి విజిట్ చేసినరు",
+              "thumbline": "ప్రేసిడెంట్ జో బైడెన్ మొదటి మహిళ జిల్ బైడెన్ తో చేరారు,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            },
+            {
+              "headline": "బార్డర్ సెక్యూరిటీ అండ్ డిగ్నిటీ ప్లాన్",
+              "thumbline": "ఆసియా మరియు ఆఫ్రికాలో చైనా విస్తారవాదానికి ఎదురుచూస్తుంది.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "బైడెన్స్ పరంపరాగత క్రిస్మస్ స్థలాలు బచ్చల ఆస్పత్రి విజిట్ చేసినరు",
+              "thumbline": "ప్రేసిడెంట్ జో బైడెన్ మొదటి మహిళ జిల్ బైడెన్ తో చేరారు,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            }
+          ],
+          "ta": [
+            {
+              "headline": "எல்லை பாதுகாப்பு மற்றும் காப்பு திட்டம்",
+              "thumbline": "ஆசியா மற்றும் ஆப்ரிக்காவில் சீனாவின் விஸ்தாரவாதத்தை எதிர்கொள்ளுங்கள்.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "பைடன்ஸ் பாரம்பரிய கிறிஸ்மஸ் முன் குழந்தைகள் மருத்துவமனைக்கு விரும்பினர்",
+              "thumbline": "அமெரிக்க அதிபர் ஜோ பைடன் முதல் மனைவி ஜில் பைடன் அவர்கள் இணைந்து சேர்ந்தனர்,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            },
+            {
+              "headline": "எல்லை பாதுகாப்பு மற்றும் காப்பு திட்டம்",
+              "thumbline": "ஆசியா மற்றும் ஆப்ரிக்காவில் சீனாவின் விஸ்தாரவாதத்தை எதிர்கொள்ளுங்கள்.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "பைடன்ஸ் பாரம்பரிய கிறிஸ்மஸ் முன் குழந்தைகள் மருத்துவமனைக்கு விரும்பினர்",
+              "thumbline": "அமெரிக்க அதிபர் ஜோ பைடன் முதல் மனைவி ஜில் பைடன் அவர்கள் இணைந்து சேர்ந்தனர்,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            }
+          ],
+          "ml": [
+            {
+              "headline": "തടാക സുരക്ഷാ മറ്റുമുള്ള മരുമക്കത്തായ പദ്ധതി",
+              "thumbline": "ഏഷ്യയിലും ആഫ്രിക്കയിലും ചൈനയുടെ വിസ്താരവാദത്തെ നേരിടുക.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "ബൈഡന്സ് പാരമ്പരാഗത പ്രീ-ക്രിസ്മസ് ബാലാശ്പതാലയം സന്ദർശിക്കുന്നു",
+              "thumbline": "പ്രസിഡന്റ് ജോ ബൈഡനും ആദ്യ മഹിള ജിൽ ബൈഡനും ചേർന്നു,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            },
+            {
+              "headline": "തടാക സുരക്ഷാ മറ്റുമുള്ള മരുമക്കത്തായ പദ്ധതി",
+              "thumbline": "ഏഷ്യയിലും ആഫ്രിക്കയിലും ചൈനയുടെ വിസ്താരവാദത്തെ നേരിടുക.",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight1.png"
+            },
+            {
+              "headline": "ബൈഡന്സ് പാരമ്പരാഗത പ്രീ-ക്രിസ്മസ് ബാലാശ്പതാലയം സന്ദർശിക്കുന്നു",
+              "thumbline": "പ്രസിഡന്റ് ജോ ബൈഡനും ആദ്യ മഹിള ജിൽ ബൈഡനും ചേർന്നു,",
+              "image": "/images/Tv/Candidate/Home/spotlight/spotlight2.png"
+            }
+          ]
+        },
+        "carouselData": {
+          "en": [
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image1.png",
+              "title": "TRANSFORMING HEALTHCARE",
+              "buttonValue": "Book Now"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image2.png",
+              "title": "Bidens make traditional pre-Christmas visit to children’s hospital",
+              "buttonValue": "View"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image3.png",
+              "title": "New Hampshire is ready for a new generation of leadership!",
+              "buttonValue": "View"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image4.png",
+              "title": "US House majority whip Tom Emmer endorses Trump for president",
+              "buttonValue": "View"
+            }
+          ],
+          "hi": [
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image1.png",
+              "title": "स्वास्थ्य देखभाल को परिवर्तित करना",
+              "buttonValue": "अभी बुक करें"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image2.png",
+              "title": "बैडेंस बच्चों के अस्पताल में पारंपरिक पूर्व-क्रिसमस दौरा करते हैं",
+              "buttonValue": "देखें"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image3.png",
+              "title": "न्यू हैम्पशायर नए नेतृत्व की एक नई पीढ़ी के लिए तैयार है!",
+              "buttonValue": "देखें"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image4.png",
+              "title": "संयुक्त राज्य भविष्यवाणी के लिए टॉम इमर ट्रंप को अध्यक्ष के लिए समर्थन देते हैं",
+              "buttonValue": "देखें"
+            }
+          ],
+          "kn": [
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image1.png",
+              "title": "ಆರೋಗ್ಯ ಸುಧಾರಣೆ ಮಾಡುವುದು",
+              "buttonValue": "ಈಗ ಬುಕ್ ಮಾಡಿ"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image2.png",
+              "title": "ಬೈಡನ್ಸ್ ಹೆಚ್ಚಳಿಕೆ ಮಾಡುತ್ತಾರೆ ಚಿಕ್ಕಮಕ್ಕಳ ಆಸ್ಪತ್ರೆಗೆ ಪಾರಂಪರಿಕ ಕ್ರಿಸ್ಮಸ್ ಭೇಟಿಯನ್ನು",
+              "buttonValue": "ವೀಕ್ಷಿಸಿ"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image3.png",
+              "title": "ನ್ಯೂ ಹ್ಯಾಂಪ್ಶೈರ್ ಹೊಸ ನೇತೃತ್ವದ ಹಲವು ವರ್ಷಗಳ ನಂತರ ಸಿದ್ಧವಾಗಿದೆ!",
+              "buttonValue": "ವೀಕ್ಷಿಸಿ"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image4.png",
+              "title": "ಯು.ಎಸ್. ಹೌಸ್ ಬಹುಮಾಂಶ ಬೀಳ್ಕೊಟ್ಟುವ ಟಾಮ್ ಎಮರ್ ಟ್ರಂಪ್ ಅಧ್ಯಕ್ಷರಿಗೆ ಬ್ಯಾಲೆಟ್ ಬಾಣವನ್ನು ಮರುಹೋಗಿಸುವಿಕೆ",
+              "buttonValue": "ವೀಕ್ಷಿಸಿ"
+            }
+          ],
+          "te": [
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image1.png",
+              "title": "ఆరోగ్య కేంద్రాలను మార్చడానికి",
+              "buttonValue": "ఇప్పుడే బుక్ చేయండి"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image2.png",
+              "title": "బైడెన్స్ పారంపరాగత క్రిస్మస్ అస్పతాల సందర్శించారు",
+              "buttonValue": "వీక్షించు"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image3.png",
+              "title": "న్యూ హాంప్షయర్ కొత్త నాయకత్వాన్ని సిద్ధం చేస్తుంది!",
+              "buttonValue": "వీక్షించు"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image4.png",
+              "title": "యు.ఎస్. హౌస్ బహుమతి విఫ్ టాం ఎమర్ ట్రంప్ కోసం బ్యాలట్ బ్యాన్ అమరావాలి",
+              "buttonValue": "వీక్షించు"
+            }
+          ],
+          "ta": [
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image1.png",
+              "title": "மருத்துவ பரிவர்த்தனை",
+              "buttonValue": "இப்போது புக் செய்யவும்"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image2.png",
+              "title": "பைடென்ஸ் பரம்பரையமான பரிணாம குழந்தை மருத்துவமனைக்கு விரும்புகிறார்கள்",
+              "buttonValue": "காண்க"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image3.png",
+              "title": "புதிய நாட்டுநடப்புக்கு தயாரான நிறுவனத்துக்கு தமிழகம்!",
+              "buttonValue": "காண்க"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image4.png",
+              "title": "யூ.எஸ். ஹவுஸ் பலம் எம். டிரம்பிற்கு பரிவு மன்னர் டாம் எம்மர் முன்னேற்றம்",
+              "buttonValue": "காண்க"
+            }
+          ],
+          "ml": [
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image1.png",
+              "title": "ഹെൽത്ത് കെയർ മാറ്റം",
+              "buttonValue": "ഇപ്പോൾ ബുക്ക് ചെയ്യുക"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image2.png",
+              "title": "ബൈഡന്സ് പാരമ്പര്യ ക്രിസ്മസ് ചിക്കിൽഡ്രൻസ് ഹോസ്പിറ്റലിലേക്ക് പരമ്പരാഗത പ്രവേശിച്ചു",
+              "buttonValue": "കാണുക"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image3.png",
+              "title": "ന്യൂ ഹാംപ്ഷൈർ പുതിയ നേതൃത്വത്തിന് സിദ്ധമാകുന്നു!",
+              "buttonValue": "കാണുക"
+            },
+            {
+              "image": "/images/Tv/Candidate/Home/topCarousel/image4.png",
+              "title": "യു.എസ്. ഹൌസ് ബഹുമതി വൈഫ് ടോം എമ്മർ ട്രമ്പിന് തിരഞ്ഞെടുപ്പ് നിരോധിക്കുന്നു",
+              "buttonValue": "കാണുക"
+            }
+          ]
+        },
+        "navItem": {
+          "en": [
+            {
+              "title": "Home",
+              "link": "home",
+              "id": "tvHome"
+            },
+            {
+              "title": "Explore",
+              "link": "explore",
+              "id": "tvExplore"
+            },
+            {
+              "title": "News",
+              "link": "news",
+              "id": "tvNews"
+            },
+            {
+              "title": "Discussions",
+              "link": "discussions",
+              "id": "tvDiscussions"
+            }
+          ],
+          "hi": [
+            {
+              "title": "होम",
+              "link": "home",
+              "id": "tvHome"
+            },
+            {
+              "title": "एक्सप्लोर",
+              "link": "explore",
+              "id": "tvExplore"
+            },
+            {
+              "title": "समाचार",
+              "link": "news",
+              "id": "tvNews"
+            },
+            {
+              "title": "चर्चाएँ",
+              "link": "discussions",
+              "id": "tvDiscussions"
+            }
+          ],
+          "kn": [
+            {
+              "title": "ಮನೆ",
+              "link": "home",
+              "id": "tvHome"
+            },
+            {
+              "title": "ಅನ್ವೇಷಿಸಿ",
+              "link": "explore",
+              "id": "tvExplore"
+            },
+            {
+              "title": "ಸುದ್ದಿ",
+              "link": "news",
+              "id": "tvNews"
+            },
+            {
+              "title": "ಚರ್ಚೆಗಳು",
+              "link": "discussions",
+              "id": "tvDiscussions"
+            }
+          ],
+          "te": [
+            {
+              "title": "హోమ్",
+              "link": "home",
+              "id": "tvHome"
+            },
+            {
+              "title": "అన్వేషణ",
+              "link": "explore",
+              "id": "tvExplore"
+            },
+            {
+              "title": "వార్తలు",
+              "link": "news",
+              "id": "tvNews"
+            },
+            {
+              "title": "చర్చలు",
+              "link": "discussions",
+              "id": "tvDiscussions"
+            }
+          ],
+          "ta": [
+            {
+              "title": "முகப்பு",
+              "link": "home",
+              "id": "tvHome"
+            },
+            {
+              "title": "ஆராய்ச்சி",
+              "link": "explore",
+              "id": "tvExplore"
+            },
+            {
+              "title": "செய்திகள்",
+              "link": "news",
+              "id": "tvNews"
+            },
+            {
+              "title": "ஆலோசனைகள்",
+              "link": "discussions",
+              "id": "tvDiscussions"
+            }
+          ],
+          "ml": [
+            {
+              "title": "ഹോം",
+              "link": "home",
+              "id": "tvHome"
+            },
+            {
+              "title": "ആവകാശം",
+              "link": "explore",
+              "id": "tvExplore"
+            },
+            {
+              "title": "വാർത്തകൾ",
+              "link": "news",
+              "id": "tvNews"
+            },
+            {
+              "title": "ചർച്ചകൾ",
+              "link": "discussions",
+              "id": "tvDiscussions"
+            }
+          ]
+        },
+        "newsHighlight": {
+          "en": [
+            {
+              "heading": "Latest News",
+              "image": "/images/Tv/Candidate/latestNews.png",
+              "title": "DeSantis and Haley Will Appear in Back-to-Back Town Halls Tonight",
+              "describtion": "Donald trump is expected to participate in a fox news townhal lon the same day, the network announced Tuesday",
+              "date": "January 11, 2024"
+            }
+          ],
+          "hi": [
+            {
+              "heading": "ताज़ा खबर",
+              "image": "/images/Tv/Candidate/latestNews.png",
+              "title": "डिसैंटिस और हेली आज रात बैक-टू-बैक टाउन हॉल में दिखाई देंगे",
+              "describtion": "फॉक्स न्यूज़ टाउनहॉल में डोनाल्ड ट्रंप के उसी दिन भाग लेने की उम्मीद है, नेटवर्क ने मंगलवार को घोषणा की",
+              "date": "11 जनवरी, 2024"
+            }
+          ],
+          "kn": [
+            {
+              "heading": "ಇತ್ತೀಚಿನ ಸುದ್ದಿ",
+              "image": "/images/Tv/Candidate/latestNews.png",
+              "title": "ಡಿಸಾಂಟಿಸ್ ಮತ್ತು ಹ್ಯಾಲಿ ಇಂದು ರಾತ್ರಿ ಬ್ಯಾಕ್-ಟು-ಬ್ಯಾಕ್ ಟೌನ್ ಹಾಲ್‌ಗಳಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿದ್ದಾರೆ",
+              "describtion": "ಫಾಕ್ಸ್ ನ್ಯೂಸ್ ಟೌನ್‌ಹಾಲ್‌ನಲ್ಲಿ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಭಾಗವಹಿಸುವ ನಿರೀಕ್ಷೆಯಾಗಿದೆ, شبکه ಮಂಗಳವಾರ ಘೋಷಿಸಿದೆ",
+              "date": "ಜಾನವರಿ 11, 2024"
+            }
+          ],
+          "te": [
+            {
+              "heading": "తాజా వార్తలు",
+              "image": "/images/Tv/Candidate/latestNews.png",
+              "title": "డిసాంటిస్ మరియు హేలీ నేడు రాత్రి బ్యాక్-టు-బ్యాక్ టౌన్ హాల్స్‌లో కనిపిస్తారు",
+              "describtion": "డోనాల్డ్ ట్రంప్ ఫాక్స్ న్యూస్ టౌన్‌హాల్‌లో అదే రోజు పాల్గొనవచ్చని నెట్‌వర్క్ మంగళవారం ప్రకటించింది",
+              "date": "జనవరి 11, 2024"
+            }
+          ],
+          "ta": [
+            {
+              "heading": "சமீபத்திய செய்திகள்",
+              "image": "/images/Tv/Candidate/latestNews.png",
+              "title": "டிசான்டிஸ் மற்றும் ஹேலி இன்று இரவு பின்னர் நகர் மண்டபங்களில் தோன்றுவார்கள்",
+              "describtion": "அதே நாளில் பாக்ஸ் நியூஸ் டவுன்ஹாலில் டொனால்ட் டிரம்ப் பங்கேற்க உள்ளார் என்று நெட்வொர்க் செவ்வாயன்று அறிவித்தது",
+              "date": "ஜனவரி 11, 2024"
+            }
+          ],
+          "ml": [
+            {
+              "heading": "പുതിയ വാർത്ത",
+              "image": "/images/Tv/Candidate/latestNews.png",
+              "title": "ഡിസാന്റിസ്, ഹെയ്ലി ഇന്ന് രാത്രി ബാക്ക് ടു ബാക്ക് ടൗൺ ഹാളുകളിൽ പ്രത്യക്ഷപ്പെടും",
+              "describtion": "ഫോക്സ് ന്യൂസ് ടൗൺഹാളിൽ ഡോണാൾഡ് ട്രംപ് അതേ ദിവസം പങ്കെടുക്കുമെന്ന് നെറ്റ്വർക്കുകൾ ചൊവ്വാഴ്ച പ്രഖ്യാപിച്ചു",
+              "date": "ജനുവരി 11, 2024"
+            }
+          ]
+        },
+        "Global": {
+          "en": [
+            {
+              "Specify_he_nature_of_your_candidacy": "Specify the nature of your candidacy?",
+              "Show_next": "Show next",
+              "Candidates": "Candidates",
+              "Spotlight_on_Areas_of_Interest": "Spotlight on Areas of Interest",
+              "Do_you_trust_Joe_Biden_or_Donald_Trump_to_do_a_better_job_on": "Do you trust Joe Biden or Donald Trump to do a better job on …",
+              "Other_News": "Other News",
+              "Up_for_health_related_discussions": "Up for health related discussions",
+              "A_meld_of_Health_Care_and_Foreign_Policy": "A meld of Health Care & Foreign Policy",
+              "Public_and_Health_Care": "Public & Health Care",
+              "popular_Topics": "Popular Topics"
+            }
+          ],
+          "hi": [
+            {
+              "Specify_he_nature_of_your_candidacy": "अपने प्रत्यायन की प्रकृति निर्दिष्ट करें?",
+              "Show_next": "अगला दिखाएं",
+              "Candidates": "उम्मीदवार",
+              "Spotlight_on_Areas_of_Interest": "रुचि के क्षेत्रों पर प्रकाश",
+              "Do_you_trust_Joe_Biden_or_Donald_Trump_to_do_a_better_job_on": "क्या आप जो बिडेन या डोनाल्ड ट्रम्प को बेहतर काम करने के लिए भरोसा करते हैं ...",
+              "Other_News": "अन्य समाचार",
+              "Up_for_health_related_discussions": "स्वास्थ्य संबंधी चर्चाओं के लिए तैयार",
+              "A_meld_of_Health_Care_and_Foreign_Policy": "स्वास्थ्य देखभाल और विदेशी नीति का मिश्रण",
+              "Public_and_Health_Care": "सार्वजनिक और स्वास्थ्य देखभाल",
+              "popular_Topics": "लोकप्रिय विषय"
+            }
+          ],
+          "kn": [
+            {
+              "Specify_he_nature_of_your_candidacy": "ನಿಮ್ಮ ಅಭ್ಯರ್ಥಿತ್ವದ ಸ್ವಭಾವವನ್ನು ನಿರ್ದಿಷ್ಟಗೊಳಿಸಿ?",
+              "Show_next": "ಮುಂದಿನದು ತೋರಿಸಿ",
+              "Candidates": "ಅಭ್ಯರ್ಥಿಗಳು",
+              "Spotlight_on_Areas_of_Interest": "ಆಸಕ್ತಿ ವಲಯಗಳಲ್ಲಿ ಸ್ಪಾಟ್ಲೈಟ್",
+              "Do_you_trust_Joe_Biden_or_Donald_Trump_to_do_a_better_job_on": "ನೀವು ಜೋ ಬೈಡನ್ ಅಥವಾ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಮೇಲೆ ಹೆಚ್ಚು ಕೆಲಸ ಮಾಡಲು ನಂಬಲಿಕ್ಕಾಗುತ್ತದೆಯೇ ...",
+              "Other_News": "ಇತರ ಸುದ್ದಿ",
+              "Up_for_health_related_discussions": "ಆರೋಗ್ಯ ಸಂಬಂಧಿತ ಚರ್ಚೆಗಳಿಗೆ ಸಿದ್ಧ",
+              "A_meld_of_Health_Care_and_Foreign_Policy": "ಆರೋಗ್ಯ ಕಾಳಜಿ ಮತ್ತು ವಿದೇಶಾಂಗ ನೀತಿಯ ಮಿಶ್ರಣ",
+              "Public_and_Health_Care": "ಸಾರ್ವಜನಿಕ ಮತ್ತು ಆರೋಗ್ಯ ಕಾಳಜಿ",
+              "popular_Topics": "ಜನಪ್ರಿಯ ವಿಷಯಗಳು"
+            }
+          ],
+          "te": [
+            {
+              "Specify_he_nature_of_your_candidacy": "మీ అభ్యర్థిత్వ స్వభావాన్ని పేర్కొనండి?",
+              "Show_next": "తదుపరి చూపించు",
+              "Candidates": "అభ్యర్థులు",
+              "Spotlight_on_Areas_of_Interest": "ఆసక్తి ఉన్న ప్రాంతాలపై స్పాట్\u200cలైట్",
+              "Do_you_trust_Joe_Biden_or_Donald_Trump_to_do_a_better_job_on": "జో బిడెన్ లేదా డొనాల్డ్ ట్రంప్ మెరుగైన పనిని చేయడానికి మీకు విశ్వాసం ఉందా ...",
+              "Other_News": "ఇతర వార్తలు",
+              "Up_for_health_related_discussions": "ఆరోగ్య సంబంధిత చర్చలకు సిద్ధంగా",
+              "A_meld_of_Health_Care_and_Foreign_Policy": "ఆరోగ్య సంరక్షణ & విదేశాంగ విధానాల మేళవింపు",
+              "Public_and_Health_Care": "పబ్లిక్ & ఆరోగ్య సంరక్షణ",
+              "popular_Topics": "జనప్రియ విషయాలు"
+            }
+          ],
+          "ta": [
+            {
+              "Specify_he_nature_of_your_candidacy": "உங்கள் வேட்புமனுவின் தன்மையை குறிப்பிடவும்?",
+              "Show_next": "அடுத்தது காட்டு",
+              "Candidates": "வேட்பாளர்கள்",
+              "Spotlight_on_Areas_of_Interest": "ஆர்வமுள்ள பகுதிகளில் விளக்கப்படம்",
+              "Do_you_trust_Joe_Biden_or_Donald_Trump_to_do_a_better_job_on": "ஜோ பைடன் அல்லது டொனால்ட் டிரம்ப் மீது நம்பிக்கை உள்ளதா ...",
+              "Other_News": "மற்ற செய்திகள்",
+              "Up_for_health_related_discussions": "ஆரோக்கியம் தொடர்பான விவாதங்களுக்கு தயாராக",
+              "A_meld_of_Health_Care_and_Foreign_Policy": "ஆரோக்கிய பராமரிப்பு & வெளிநாட்டு கொள்கையின் கலவை",
+              "Public_and_Health_Care": "பொது & சுகாதார பராமரிப்பு",
+              "popular_Topics": "பிரபலமான தலைப்புகள்"
+            }
+          ],
+          "ml": [
+            {
+              "Specify_he_nature_of_your_candidacy?": "നിങ്ങളുടെ സ്ഥാനാർത്ഥിത്വത്തിന്റെ സ്വഭാവം വ്യക്തമാക്കുക?",
+              "Show_next": "അടുത്തത് കാണിക്കുക",
+              "Candidates": "ഉമ്ബീദ്വാർ",
+              "Spotlight_on_Areas_of_Interest": "ആവശ്യപ്പെടുന്ന മേഖലകളിൽ സ്പോട്ട്ലൈറ്റ്",
+              "Do_you_trust_Joe_Biden_or_Donald_Trump_to_do_a_better_job_on": "ജോ ബിഡൻ അല്ലെങ്കിൽ ഡൊണാൽഡ് ട്രംപ് മികച്ച ജോലിയാക്കുമെന്നാണ് നിങ്ങൾക്ക് വിശ്വാസം ...",
+              "Other_News": "മറ്റ് വാർത്തകൾ",
+              "Up_for_health_related_discussions": "ആരോഗ്യവുമായി ബന്ധപ്പെട്ട ചര്\u200dച്ചകള്\u200dക്കായി തയാറായി",
+              "A_meld_of_Health_Care_and_Foreign_Policy": "ആരോഗ്യ പരിപാലനവും വിദേശ നയവും സംയോജനം",
+              "Public_and_Health_Care": "പൊതുമേഖലയും ആരോഗ്യപരിപാലനവും",
+              "popular_Topics": "ജനപ്രിയ വിഷയങ്ങൾ"
+            }
+          ]
+        }
+      },
       "voter": {
         "electionType": {
           "en": [
@@ -58707,6 +60589,7 @@
               "votes": 2000,
               "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
             },
+
             {
               "name": "Donald Trump",
               "party": "Republican",
@@ -59752,6 +61635,7 @@
               "votes": 2000,
               "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
             },
+
             {
               "name": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್",
               "party": "Republican",
@@ -60797,6 +62681,7 @@
               "votes": 2000,
               "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
             },
+
             {
               "name": "డొనాల్డ్ ట్రంప్",
               "party": "Republican",
@@ -61842,6 +63727,7 @@
               "votes": 2000,
               "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
             },
+
             {
               "name": "டொனால்ட் ட்ரம்ப்",
               "party": "Republican",
@@ -62887,6 +64773,7 @@
               "votes": 2000,
               "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
             },
+
             {
               "name": "ഡൊണാള്‍ഡ് ട്രമ്പ്",
               "party": "Republican",
@@ -63932,6 +65819,7 @@
               "votes": 2000,
               "id": "b5728f63-2655-4df5-a0c8-b0d2fbec8c97"
             },
+
             {
               "name": " डोनाल्ड ट्रंप",
               "party": "Republican",

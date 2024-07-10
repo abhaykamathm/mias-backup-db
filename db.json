@@ -39652,6 +39652,7 @@
       }
     ]
   },
+
   "clink_citizenView": {
     "icons": [
       {
@@ -39844,21 +39845,21 @@
             "name": "Brooklyn Museum First Friday",
             "address": "200 Eastern Parkway, Brooklyn, NY 11238",
             "desc": "Brooklyn Museum First Fridays is a monthly event that transforms the museum into a vibrant hub of art, music, and community after dark.",
-            "date": "27 May Evening Event",
+            "date": "11 July Evening Event",
             "img": "/Images/Brooklyn.jpeg"
           },
           {
             "name": "Bryant Park Winter Village ",
             "address": "Bryant Park, 42nd Street, Sixth Avenues NY 10018",
             "desc": "Bryant Park Winter Village is a charming seasonal wonderland that transforms Bryant Park, in the heart of New York City. it offers a magical blend of activities and attractions to celebrate the winter season.",
-            "date": "10 June Morning Event ",
+            "date": "12 July Morning Event ",
             "img": "/Images/Bryant.jpeg"
           },
           {
-            "name": "Central Park Conservancy Orchid Show",
+            "name": "Central Park Orchid Show",
             "address": "105th Street, inside Central Park, Fifth Avenue, NY 10025",
             "desc": "The Central Park Conservancy Orchid Show is a breathtaking annual event that transforms the Enid A. Haupt Conservatory in Central Park into a vibrant oasis of exotic orchids.",
-            "date": "24 June Evening Event",
+            "date": "14 July Evening Event",
             "img": "/Images/orchid.jpg"
           }
         ],
@@ -39867,21 +39868,21 @@
             "name": "ब्रुकलिन संग्रहालय पहला शुक्रवार",
             "address": "200 ईस्टर्न पार्कवे, ब्रुकलिन, एनवाई 11238",
             "desc": "ब्रुकलिन संग्रहालय फर्स्ट फ्राइडेज़ एक मासिक कार्यक्रम है जो संग्रहालय को अंधेरे के बाद कला, संगीत और समुदाय के एक जीवंत केंद्र में बदल देता है।",
-            "date": "27 मई शाम की घटना",
+            "date": "11 जुलाई शाम का कार्यक्रम",
             "img": "/Images/Brooklyn.jpeg"
           },
           {
             "name": "ब्रायंट पार्क विंटर विलेज ",
             "address": "ब्रायंट पार्क, 42वीं स्ट्रीट, सिक्स्थ एवेन्यूज़ एनवाई 10018",
             "desc": "ब्रायंट पार्क विंटर विलेज एक आकर्षक मौसमी वंडरलैंड है जो न्यूयॉर्क शहर के केंद्र में ब्रायंट पार्क को बदल देता है। ",
-            "date": "10 जून सुबह की घटना ",
+            "date": "12 जुलाई सुबह का कार्यक्रम",
             "img": "/Images/Bryant.jpeg"
           },
           {
             "name": "सेंट्रल पार्क कंजरवेंसी ऑर्किड शो",
             "address": "105वीं स्ट्रीट, सेंट्रल पार्क के अंदर, फिफ्थ एवेन्यू, एनवाई 10025",
             "desc": "सेंट्रल पार्क कंजर्वेंसी ऑर्किड शो एक लुभावनी वार्षिक घटना है जो सेंट्रल पार्क में एनिड ए हाउप्ट कंजर्वेटरी को विदेशी ऑर्किड के जीवंत नखलिस्तान में बदल देती है।",
-            "date": "24 जून शाम की घटना",
+            "date": "14 जुलाई शाम का कार्यक्रम",
             "img": "/Images/orchid.jpg"
           }
         ],
@@ -39890,21 +39891,21 @@
             "name": "ಬ್ರೂಕ್ಲಿನ್ ಮ್ಯೂಸಿಯಂ ಮೊದಲ ಶುಕ್ರವಾರ",
             "address": "200 ಈಸ್ಟರ್ನ್ ಪಾರ್ಕ್‌ವೇ, ಬ್ರೂಕ್ಲಿನ್, NY 11238",
             "desc": "ಬ್ರೂಕ್ಲಿನ್ ಮ್ಯೂಸಿಯಂ ಮೊದಲ ಶುಕ್ರವಾರಗಳು ಮಾಸಿಕ ಈವೆಂಟ್ ಆಗಿದ್ದು ಅದು ಮ್ಯೂಸಿಯಂ ಅನ್ನು ಕತ್ತಲೆಯ ನಂತರ ಕಲೆ, ಸಂಗೀತ ಮತ್ತು ಸಮುದಾಯದ ರೋಮಾಂಚಕ ಕೇಂದ್ರವಾಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
-            "date": "27 ಮೇ ಸಂಜೆ ಕಾರ್ಯಕ್ರಮ",
+            "date": "11 ಜುಲೈ ಸಂಜೆ ಕಾರ್ಯಕ್ರಮ",
             "img": "/Images/Brooklyn.jpeg"
           },
           {
             "name": "ಬ್ರ್ಯಾಂಟ್ ಪಾರ್ಕ್ ವಿಂಟರ್ ವಿಲೇಜ್ ",
             "address": "ಬ್ರ್ಯಾಂಟ್ ಪಾರ್ಕ್, 42 ನೇ ಬೀದಿ, ಆರನೇ ಅವೆನ್ಯೂಸ್ NY 10018",
             "desc": "ಬ್ರ್ಯಾಂಟ್ ಪಾರ್ಕ್ ವಿಂಟರ್ ವಿಲೇಜ್ ನ್ಯೂಯಾರ್ಕ್ ನಗರದ ಹೃದಯಭಾಗದಲ್ಲಿರುವ ಬ್ರ್ಯಾಂಟ್ ಪಾರ್ಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸುವ ಆಕರ್ಷಕ ಕಾಲೋಚಿತ ವಂಡರ್ಲ್ಯಾಂಡ್ ಆಗಿದೆ. ",
-            "date": "10 ಜೂನ್ ಬೆಳಗಿನ ಕಾರ್ಯಕ್ರಮ ",
+            "date": "12 ಜುಲೈ ಬೆಳಿಗ್ಗೆ ಕಾರ್ಯಕ್ರಮ",
             "img": "/Images/Bryant.jpeg"
           },
           {
             "name": "ಸೆಂಟ್ರಲ್ ಪಾರ್ಕ್ ಕನ್ಸರ್ವೆನ್ಸಿ ಆರ್ಕಿಡ್ ಪ್ರದರ್ಶನ",
             "address": "105 ನೇ ಬೀದಿ, ಸೆಂಟ್ರಲ್ ಪಾರ್ಕ್ ಒಳಗೆ, ಫಿಫ್ತ್ ಅವೆನ್ಯೂ, NY 10025",
             "desc": "ಸೆಂಟ್ರಲ್ ಪಾರ್ಕ್ ಕನ್ಸರ್ವೆನ್ಸಿ ಆರ್ಕಿಡ್ ಶೋ ಒಂದು ಉಸಿರುಕಟ್ಟುವ ವಾರ್ಷಿಕ ಕಾರ್ಯಕ್ರಮವಾಗಿದ್ದು, ಸೆಂಟ್ರಲ್ ಪಾರ್ಕ್‌ನಲ್ಲಿರುವ ಎನಿಡ್ ಎ. ಹಾಪ್ಟ್ ಕನ್ಸರ್ವೇಟರಿಯನ್ನು ವಿಲಕ್ಷಣ ಆರ್ಕಿಡ್‌ಗಳ ರೋಮಾಂಚಕ ಓಯಸಿಸ್ ಆಗಿ ಪರಿವರ್ತಿಸುತ್ತದೆ.",
-            "date": "24 ಜೂನ್ ಸಂಜೆ ಕಾರ್ಯಕ್ರಮ",
+            "date": "14 ಜುಲೈ ಸಂಜೆ ಕಾರ್ಯಕ್ರಮ",
             "img": "/Images/orchid.jpg"
           }
         ],
@@ -39913,21 +39914,21 @@
             "name": "ആദ്യ വെള്ളിയാഴ്ച ബ്രൂക്ക്ലിൻ മ്യൂസിയം",
             "address": "200 ഈസ്റ്റേൺ പാർക്ക്വേ, ബ്രൂക്ക്ലിൻ, NY 11238",
             "desc": "ബ്രൂക്ക്ലിൻ മ്യൂസിയം ഫസ്റ്റ് ഫ്രൈഡേസ്, ഇരുട്ടിനുശേഷം മ്യൂസിയത്തെ കല, സംഗീതം, സമൂഹം എന്നിവയുടെ ഊർജ്ജസ്വലമായ കേന്ദ്രമാക്കി മാറ്റുന്ന ഒരു പ്രതിമാസ പരിപാടിയാണ്.",
-            "date": "മെയ് 27 വൈകുന്നേരം ഇവൻ്റ്",
+            "date": "11 ജൂലൈ വൈകുന്നേരം ഇവന്റ്",
             "img": "/Images/Brooklyn.jpeg"
           },
           {
             "name": "ബ്രയാൻ്റ് പാർക്ക് വിൻ്റർ വില്ലേജ് ",
             "address": "ബ്രയൻ്റ് പാർക്ക്, 42-ആം സ്ട്രീറ്റ്, ആറാം അവന്യൂസ് NY 10018",
             "desc": "ബ്രയാൻ്റ് പാർക്ക് വിൻ്റർ വില്ലേജ്, ന്യൂയോർക്ക് നഗരത്തിൻ്റെ ഹൃദയഭാഗത്തുള്ള ബ്രയാൻ്റ് പാർക്കിനെ രൂപാന്തരപ്പെടുത്തുന്ന, കാലാനുസൃതമായ ഒരു അത്ഭുതലോകമാണ്. ",
-            "date": "ജൂൺ 10 പ്രഭാത പരിപാടി ",
+            "date": "12 ജൂലൈ രാവിലെ ഇവന്റ് ",
             "img": "/Images/Bryant.jpeg"
           },
           {
             "name": "സെൻട്രൽ പാർക്ക് കൺസർവൻസി ഓർക്കിഡ് ഷോ",
             "address": "105-ാമത്തെ സ്ട്രീറ്റ്, സെൻട്രൽ പാർക്കിനുള്ളിൽ, ഫിഫ്ത്ത് അവന്യൂ, NY 10025",
             "desc": "സെൻട്രൽ പാർക്ക് കൺസർവൻസി ഓർക്കിഡ് ഷോ സെൻട്രൽ പാർക്കിലെ എനിഡ് എ ഹാപ്റ്റ് കൺസർവേറ്ററിയെ എക്സോട്ടിക് ഓർക്കിഡുകളുടെ ഊർജസ്വലമായ മരുപ്പച്ചയാക്കി മാറ്റുന്ന ഒരു വാർഷിക പരിപാടിയാണ്.",
-            "date": "ജൂൺ 24 സായാഹ്ന പരിപാടി",
+            "date": "14 ജൂലൈ വൈകുന്നേരം ഇവന്റ്",
             "img": "/Images/orchid.jpg"
           }
         ],
@@ -39936,21 +39937,21 @@
             "name": "புரூக்ளின் அருங்காட்சியகம் முதல் வெள்ளிக்கிழமை",
             "address": "200 ஈஸ்டர்ன் பார்க்வே, புரூக்ளின், NY 11238",
             "desc": "புரூக்ளின் அருங்காட்சியகம் முதல் வெள்ளிக்கிழமைகள் என்பது மாதாந்திர நிகழ்வாகும், இது அருங்காட்சியகத்தை இருட்டிற்குப் பிறகு கலை, இசை மற்றும் சமூகத்தின் துடிப்பான மையமாக மாற்றுகிறது.",
-            "date": "மே 27 மாலை நிகழ்வு",
+            "date": "11 ஜூலை மாலை நிகழ்வு",
             "img": "/Images/Brooklyn.jpeg"
           },
           {
             "name": "பிரையன்ட் பார்க் குளிர்கால கிராமம் ",
             "address": "பிரையன்ட் பார்க், 42வது தெரு, ஆறாவது அவென்யூஸ் NY 10018",
             "desc": "பிரையன்ட் பார்க் வின்டர் வில்லேஜ் என்பது நியூயார்க் நகரத்தின் மையத்தில் உள்ள பிரையன்ட் பூங்காவை மாற்றியமைக்கும் ஒரு அழகான பருவகால அதிசயமாகும். ",
-            "date": "ஜூன் 10 காலை நிகழ்வு ",
+            "date": "12 ஜூலை காலை நிகழ்வு",
             "img": "/Images/Bryant.jpeg"
           },
           {
             "name": "சென்ட்ரல் பார்க் கன்சர்வேன்சி ஆர்க்கிட் ஷோ",
             "address": "105வது தெரு, சென்ட்ரல் பார்க் உள்ளே, ஐந்தாவது அவென்யூ, NY 10025",
             "desc": "சென்ட்ரல் பார்க் கன்சர்வேன்சி ஆர்க்கிட் ஷோ, சென்ட்ரல் பூங்காவில் உள்ள எனிட் ஏ. ஹாப்ட் கன்சர்வேட்டரியை கவர்ச்சியான ஆர்க்கிட்களின் துடிப்பான சோலையாக மாற்றும் ஒரு மூச்சடைக்கக்கூடிய வருடாந்திர நிகழ்வாகும்.",
-            "date": "ஜூன் 24 மாலை நிகழ்வு",
+            "date": "14 ஜூலை மாலை நிகழ்வு",
             "img": "/Images/orchid.jpg"
           }
         ],
@@ -39959,25 +39960,26 @@
             "name": "బ్రూక్లిన్ మ్యూజియం మొదటి శుక్రవారం",
             "address": "200 ఈస్టర్న్ పార్క్‌వే, బ్రూక్లిన్, NY 11238",
             "desc": "బ్రూక్లిన్ మ్యూజియం ఫస్ట్ ఫ్రైడేస్ అనేది నెలవారీ కార్యక్రమం, ఇది చీకటి పడిన తర్వాత మ్యూజియంను కళ, సంగీతం మరియు కమ్యూనిటీ యొక్క శక్తివంతమైన కేంద్రంగా మారుస్తుంది.",
-            "date": "27 మే సాయంత్రం ఈవెంట్",
+            "date": "11 జూలై సాయంత్రం ఈవెంట్",
             "img": "/Images/Brooklyn.jpeg"
           },
           {
             "name": "బ్రయంట్ పార్క్ వింటర్ విలేజ్ ",
             "address": "బ్రయంట్ పార్క్, 42వ వీధి, సిక్స్త్ అవెన్యూస్ NY 10018",
             "desc": "బ్రయంట్ పార్క్ వింటర్ విలేజ్ అనేది న్యూయార్క్ నగరం నడిబొడ్డున ఉన్న బ్రయంట్ పార్క్‌ను మార్చే ఒక మనోహరమైన కాలానుగుణ వండర్‌ల్యాండ్. ",
-            "date": "జూన్ 10 ఉదయం ఈవెంట్ ",
+            "date": "12 జూలై ఉదయం ఈవెంట్",
             "img": "/Images/Bryant.jpeg"
           },
           {
             "name": "సెంట్రల్ పార్క్ కన్జర్వెన్సీ ఆర్చిడ్ షో",
             "address": "105వ వీధి, సెంట్రల్ పార్క్ లోపల, ఫిఫ్త్ అవెన్యూ, NY 10025",
             "desc": "సెంట్రల్ పార్క్ కన్జర్వెన్సీ ఆర్చిడ్ షో అనేది సెంట్రల్ పార్క్‌లోని ఎనిడ్ ఎ. హాప్ట్ కన్జర్వేటరీని అన్యదేశ ఆర్కిడ్‌ల యొక్క శక్తివంతమైన ఒయాసిస్‌గా మార్చే ఉత్కంఠభరితమైన వార్షిక కార్యక్రమం.",
-            "date": "జూన్ 24 సాయంత్రం ఈవెంట్",
+            "date": "14 జూలై సాయంత్రం ఈవెంట్",
             "img": "/Images/orchid.jpg"
           }
         ]
       },
+
       "jobList": {
         "en": [
           {
@@ -40352,6 +40354,7 @@
           "ఎన్నికలు మరియు రికార్డులు"
         ]
       },
+
       "myReports": {
         "en": [
           {
@@ -40643,7 +40646,7 @@
           "pendingIssues": "34",
           "days": "4 days",
           "timetaken": "Average time taken to resolve issues",
-          "min": "20 minutes",
+          "min": "20 Minutes",
           "delaytaken": "Average delay in resolving issues",
           "crews": "Total number of crews : 45",
           "crewstxt1": "Average number of crews deployed at any given time",
@@ -40803,6 +40806,7 @@
         }
       ]
     },
+
     "Government": {
       "localHero": {
         "en": [
@@ -40936,6 +40940,7 @@
       "img3": "/Images/cam3.png",
       "img4": "/Images/cam4.png"
     },
+
     "messages": {
       "en": [
         {
@@ -40980,6 +40985,7 @@
         }
       ]
     },
+
     "markers": [
       {
         "geocode": [40.7128, -74.006],
@@ -41054,11 +41060,12 @@
         "type": "resolved"
       }
     ],
+
     "Communitymarkers": [
       {
         "geocode": [40.72, -74.001],
         "icon": {
-          "iconUrl": "/Svg/Noise.svg",
+          "iconUrl": "/Svg/NoiseMap.svg",
           "iconSize": [80, 80],
           "iconName": "Noise"
         },
@@ -41068,7 +41075,7 @@
       {
         "geocode": [40.713, -74.008],
         "icon": {
-          "iconUrl": "/Images/parking.png",
+          "iconUrl": "/Svg/TrafficMap.svg",
           "iconSize": [80, 80],
           "iconName": "Parking"
         },
@@ -41078,7 +41085,7 @@
       {
         "geocode": [40.72, -73.98],
         "icon": {
-          "iconUrl": "/Images/Litter.png",
+          "iconUrl": "/Svg/LitterMap.svg",
           "iconSize": [80, 80],
           "iconName": "Litter"
         },
@@ -41088,7 +41095,7 @@
       {
         "geocode": [40.7278, -73.995956],
         "icon": {
-          "iconUrl": "/Svg/ourmayor.svg",
+          "iconUrl": "/Svg/TrafficMap.svg",
           "iconSize": [80, 80],
           "iconName": "OurMayor"
         },
@@ -41098,7 +41105,7 @@
       {
         "geocode": [40.718368, -73.994782],
         "icon": {
-          "iconUrl": "/Svg/ourmayor.svg",
+          "iconUrl": "/Svg/TrafficMap.svg",
           "iconSize": [80, 80],
           "iconName": "Hero"
         },
@@ -41106,40 +41113,44 @@
         "popUp": ""
       }
     ],
+
     "Litter": [
       {
-        "img": "/Images/Litter.png",
+        "img": "/Svg/Litter.svg",
         "tag": "Litter",
         "name": "Gary Thomas",
         "description": "The park near my house has turned into a dumping ground for litterbugs. There's graffiti on benches, empty beer cans in the bushes, and plastic bags caught in the trees. Our kids deserve a clean and safe space to play, not this mess!",
-        "issuetime": "Feb 21, 10:32 pm",
+        "issuetime": "June 21, 10:32 PM",
         "issue2": "Waiting for the crew to be assigned",
         "issuehours": "Usually takes up to 4 hours"
       }
     ],
+
     "Noise": [
       {
         "img": "/Images/Noise.png",
         "tag": "Noise-Residential",
         "name": "Gary Thomas",
         "description": "Loud music, constant construction sounds, and disruptive gatherings are robbing us of the peaceful atmosphere we once enjoyed. Our homes should be a haven of quietude, not a constant battleground of noise. It's time to address this issue and reclaim the serenity of our community.",
-        "issuetime": "Feb 21, 10:32 pm",
+        "issuetime": "July 8, 10:32 PM",
         "issue2": "Crew assigned",
         "issuehours": "Usually takes up to 4 hours"
       }
     ],
+
     "Illegal": [
       {
         "img": "/Images/parking.png",
         "tag": "Illegal parking",
         "name": "Andrea Simon",
         "description": "Illegally parked vehicles are hindering the flow of traffic and posing risks to pedestrians. Let's address this problem together to ensure our streets remain safe and accessible for everyone.",
-        "issuetime": "Feb 21, 10:32 pm",
+        "issuetime": "July 8, 10:32 PM",
         "issue2": "Waiting for the crew to be assigned",
         "issuehours": "Usually takes up to 4 hours"
       }
     ]
   },
+
   "clink_CityPlanner": {
     "Dispatch": [
       {
@@ -41152,7 +41163,7 @@
         "cardIssueVarient": "Reported at",
         "issuedTime": "22:08:23",
         "location": "56 Elm Avenue, Suite 7A, Brooklyn, NY 11234",
-        "name": "Chandini",
+        "name": "Johnson Gary",
         "noPlate": "NSW 123-123",
         "ReCurringProblem": "No",
         "Description": "Silver Mercedes Benz S550 continues to park illegally ",
@@ -41192,12 +41203,13 @@
         "address": "97 Elm Avenue, Suite 7A, Brooklyn, NY 11234"
       }
     ],
+
     "lawEnforcementData": [
       {
-        "type": "Department Of Police",
+        "type": "Department of Police",
         "officers": [
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. Braddy Sean",
             "id": "ID - NYPD 232",
             "awayDistance": "available in 30 min",
             "assets": {
@@ -41213,7 +41225,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. John Mathew",
             "id": "ID - NYPD 232",
             "awayDistance": "available in 45 min",
             "assets": {
@@ -41229,7 +41241,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. Mark Perkins",
             "id": "ID - NYPD 232",
             "awayDistance": "available in 60 min",
             "assets": {
@@ -41245,7 +41257,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. Scott Schonauer",
             "id": "ID - NYPD 232",
             "awayDistance": "available in 90 min",
             "assets": {
@@ -41261,7 +41273,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. Carey Arun",
             "id": "ID - NYPD 232",
             "awayDistance": "available in 120 min",
             "assets": {
@@ -41282,7 +41294,7 @@
         "type": "Department of Sanitation",
         "officers": [
           {
-            "officerName": "Off. Braddy ",
+            "officerName": "Off. Samantha Jackson ",
             "id": "ID - DSNY 232",
             "awayDistance": "available in 120 min",
             "assets": {
@@ -41298,7 +41310,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy ",
+            "officerName": "Off. Virsa Perkins ",
             "id": "ID - DSNY 232",
             "awayDistance": "available in 120 min",
             "assets": {
@@ -41314,7 +41326,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy ",
+            "officerName": "Off. Gwendolyn Llewellyn ",
             "id": "ID - DSNY 232",
             "awayDistance": "available in 120 min",
             "assets": {
@@ -41330,7 +41342,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. N. Bradley",
             "id": "ID - DSNY 232",
             "awayDistance": "available in 120 min",
             "assets": {
@@ -41346,7 +41358,7 @@
             }
           },
           {
-            "officerName": "Off. Braddy",
+            "officerName": "Off. C. Marshall",
             "id": "ID - DSNY 232",
             "awayDistance": "available in 120 min",
             "assets": {
@@ -41510,6 +41522,7 @@
       }
     ]
   },
+
   "clink_CommunityView": {
     "illegalItem": {
       "en": [
@@ -41518,7 +41531,7 @@
           "tag": "Illegal parking",
           "name": "Andrea Simon",
           "description": "Illegally parked vehicles are hindering the flow of traffic and posing risks to pedestrians. Let's address this problem together to ensure our streets remain safe and accessible for everyone.",
-          "issuetime": "Feb 21, 10:32 pm",
+          "issuetime": "June 8, 10:32 pm",
           "issue2": "Waiting for the crew to be assigned",
           "issuehours": "Usually takes up to 4 hours"
         }
@@ -41529,7 +41542,7 @@
           "tag": "अवैध पार्किंग",
           "name": "आंद्रिया साइमन",
           "description": "अवैध रूप से खड़ी गाड़ियाँ यातायात के प्रवाह में बाधा डाल रही हैं और पैदल यात्रियों के लिए जोखिम पैदा कर रही हैं। आइए इस समस्या का समाधान मिलकर करें ताकि हमारी सड़कों को सभी के लिए सुरक्षित और सुगम बनाया जा सके।",
-          "issuetime": "21 फरवरी, 10:32 रात",
+          "issuetime": "8 जून, रात 10:32 बजे",
           "issue2": "क्रू को असाइन किए जाने का इंतजार",
           "issuehours": "सामान्यत: 4 घंटे तक का समय लगता है"
         }
@@ -41540,7 +41553,7 @@
           "tag": "ಅನಧಿಕೃತ ಪಾರ್ಕಿಂಗ್",
           "name": "ಆಂಡ್ರಿಯಾ ಸೈಮನ್",
           "description": "ಅನಧಿಕೃತವಾಗಿ ಪಾರ್ಕ್ ಮಾಡಿರುವ ವಾಹನಗಳು ಸಂಚಾರದ ನಡವಳಿಕೆಯನ್ನು ಅಡ್ಡಿಪಡಿಸುತ್ತಿವೆ ಮತ್ತು ಪಾದಚಾರಿಗಳಿಗೆ ಅಪಾಯ ಉಂಟುಮಾಡುತ್ತಿವೆ. ನಮ್ಮ ಬೀದಿಗಳನ್ನು ಎಲ್ಲರಿಗೂ ಸುರಕ್ಷಿತ ಮತ್ತು ಪ್ರವೇಶಯೋಗ್ಯವಾಗಿಸಲು ಈ ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಾಣಿಕೆ ಮಾಡೋಣ.",
-          "issuetime": "ಫೆಬ್ರವರಿ 21, 10:32 ರಾತ್ರಿ",
+          "issuetime": "ಜೂನ್ 8, ರಾತ್ರಿ 10:32 ಗಂಟೆಗೆ",
           "issue2": "ತಂಡವನ್ನು ನಿಯೋಜಿಸಲು ಕಾಯಲಾಗುತ್ತಿದೆ",
           "issuehours": "ಸಾಮಾನ್ಯವಾಗಿ 4 ಗಂಟೆಗಳವರೆಗೆ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ"
         }
@@ -41551,7 +41564,7 @@
           "tag": "അനധികൃത പാർക്കിംഗ്",
           "name": "ആൻഡ്രിയ സൈമൺ",
           "description": "അനധികൃതമായി പാർക്ക് ചെയ്ത വാഹനങ്ങൾ ഗതാഗതം തടസ്സപ്പെടുത്തുകയും നടപ്പാതയിലൂടെ പോകുന്നവർക്ക് അപകടം സൃഷ്ടിക്കുകയും ചെയ്യുന്നു. നമ്മുടെ വഴികൾ എല്ലാവർക്കും സുരക്ഷിതവും ആക്സസിബിളുമായിരിക്കാനായി ഈ പ്രശ്നം ഒരുമിച്ച് പരിഹരിക്കാം.",
-          "issuetime": "ഫെബ്രുവരി 21, 10:32 രാത്രി",
+          "issuetime": "ജൂണ്‍ 8, രാത്രി 10:32",
           "issue2": "സൈനികരെ നിയോഗിക്കാനുള്ള കാത്തിരിപ്പ്",
           "issuehours": "സാധാരണ 4 മണിക്കൂർ വരെ സമയമെടുക്കും"
         }
@@ -41562,7 +41575,7 @@
           "tag": "சட்டவிரோதமாக நிறுத்தல்",
           "name": "ஆன்ட்ரியா சைமன்",
           "description": "சட்டவிரோதமாக நிறுத்திய வாகனங்கள் போக்குவரத்து நெரிசலைத் தடுத்து நிறுத்துகின்றன மற்றும் பாதசாரிகளுக்கு அபாயத்தை ஏற்படுத்துகின்றன. எங்களின் வீதிகளை அனைவருக்கும் பாதுகாப்பாகவும் அணுகக்கூடியதாகவும் வைத்திருக்க இந்த சிக்கலை ஒன்றாகச் சமாளிப்போம்.",
-          "issuetime": "பிப்ரவரி 21, 10:32 இரவு",
+          "issuetime": "ஜூன் 8, இரவு 10:32",
           "issue2": "படையை ஒதுக்க காத்திருக்கிறது",
           "issuehours": "சாதாரணமாக 4 மணி நேரம் வரை எடுத்துக்கொள்ளும்"
         }
@@ -41573,7 +41586,7 @@
           "tag": "అక్రమ పార్కింగ్",
           "name": "ఆండ్రియా సైమన్",
           "description": "అక్రమంగా పార్క్ చేసిన వాహనాలు ట్రాఫిక్ ప్రవాహాన్ని అడ్డుకుంటున్నాయి మరియు పాదచారులకు ప్రమాదం కలిగిస్తున్నాయి. మన రహదారులు అందరికీ సురక్షితంగా మరియు సులభంగా ఉండేందుకు ఈ సమస్యను కలిసి పరిష్కరిద్దాం.",
-          "issuetime": "ఫిబ్రవరి 21, 10:32 రాత్రి",
+          "issuetime": "జూన్ 8, రాత్రి 10:32",
           "issue2": "బృందం కేటాయించడానికి వేచి ఉంది",
           "issuehours": "సాధారణంగా 4 గంటల వరకు సమయం పడుతుంది"
         }
@@ -41586,7 +41599,7 @@
           "tag": "Litter",
           "name": "Gary Thomas",
           "description": "The park near my house has turned into a dumping ground for litterbugs. There's graffiti on benches, empty beer cans in the bushes, and plastic bags caught in the trees. Our kids deserve a clean and safe space to play, not this mess!\"",
-          "issuetime": "Feb 21, 10:32 pm ",
+          "issuetime": "June 8, 10:32 pm",
           "issue2": "Waiting for the crew to be assigned",
           "issuehours": "Usually takes upto 4 hours"
         }
@@ -41597,7 +41610,7 @@
           "tag": "कचरा",
           "name": "गैरी थॉमस",
           "description": "मेरे घर के पास का पार्क कूड़ादानों के लिए एक डंपिंग ग्राउंड बन गया है। बेंचों पर ग्रैफिटी है, झाड़ियों में खाली बीयर के कैन हैं, और पेड़ों में प्लास्टिक की थैलियाँ फंसी हुई हैं। हमारे बच्चों को खेलने के लिए एक साफ और सुरक्षित स्थान चाहिए, न कि यह गंदगी!",
-          "issuetime": "फरवरी 21, 10:32 बजे रात",
+          "issuetime": "8 जून, रात 10:32 बजे",
           "issue2": "क्रू को असाइन करने की प्रतीक्षा हो रही है",
           "issuehours": "आमतौर पर इसमें 4 घंटे लगते हैं"
         }
@@ -41608,7 +41621,7 @@
           "tag": "ಕಸ",
           "name": "ಗ್ಯಾರಿ ಥಾಮಸ್",
           "description": "ನನ್ನ ಮನೆಯ ಹತ್ತಿರದ ಉದ್ಯಾನವು ಕಸದ ಮರಿ ಹಾಕುವ ಸ್ಥಳವಾಗಿದೆ. ಪೀಠಗಳ ಮೇಲೆ ಗ್ರಾಫಿಟಿ, ಪೊದೆಯೊಳಗೆ ಖಾಲಿ ಬಿಯರ್ ಕ್ಯಾನ್ಗಳು ಮತ್ತು ಮರಗಳಲ್ಲಿ ಪ್ಲಾಸ್ಟಿಕ್ ಚೀಲಗಳು ಹಿಡಿದಿವೆ. ನಮ್ಮ ಮಕ್ಕಳಿಗೆ ಆಡುವ ಸ್ಥಳ ಶುದ್ಧವಾಗಿರಬೇಕು, ಈ ಕಸವಲ್ಲ!",
-          "issuetime": "ಫೆಬ್ರವರಿ 21, 10:32 ರಾತ್ರಿ",
+          "issuetime": "ಜೂನ್ 8, ರಾತ್ರಿ 10:32 ಗಂಟೆಗೆ",
           "issue2": "ತಂಡವನ್ನು ನಿಯೋಜಿಸಲು ಕಾಯುತ್ತಿದ್ದಾರೆ",
           "issuehours": "ಸಾಮಾನ್ಯವಾಗಿ 4 ಗಂಟೆಗಳು ತಗಲುತ್ತದೆ"
         }
@@ -41619,7 +41632,7 @@
           "tag": "കുഴപ്പം",
           "name": "ഗാരി തോമസ്",
           "description": "എന്റെ വീട്ടിനടുത്തുള്ള പാർക്ക് മാലിന്യങ്ങൾക്കായുള്ള ഡമ്പിംഗ് ഗ്രൗണ്ടായി മാറിയിരിക്കുന്നു. ബഞ്ചുകളിൽ ഗ്രാഫിറ്റി, കാട്ടുചെടികളിൽ ഒഴിഞ്ഞ ബിയർ കാനുകൾ, മരങ്ങളിൽ പിടിച്ച പ്ലാസ്റ്റിക് ബാഗുകൾ. നമ്മുടെ കുട്ടികൾക്ക് കളിക്കാൻ ശുദ്ധവും സുരക്ഷിതവുമായ ഇടം വേണം, ഈ മാലിന്യം അല്ല!",
-          "issuetime": "ഫെബ്രുവരി 21, 10:32 രാത്രി",
+          "issuetime": "ജൂണ്‍ 8, രാത്രി 10:32",
           "issue2": "ക്രൂവിനെ നിയോഗിക്കുന്നതിന് കാത്തിരിക്കുകയാണ്",
           "issuehours": "സാധാരണ 4 മണിക്കൂർ വരെ എടുക്കും"
         }
@@ -41630,7 +41643,7 @@
           "tag": "குப்பை",
           "name": "கேரி தாமஸ்",
           "description": "என் வீட்டருகிலுள்ள பூங்கா குப்பையை கொட்டும் இடமாக மாறியுள்ளது. அமர்ந்திருக்கும் பெஞ்சுகள் மீது கிராஃபிட்டி, புல்களில் காலியான பீர் டின்கள், மரங்களில் சிக்கியிருக்கும் பிளாஸ்டிக் பைகள். எங்கள் குழந்தைகள் விளையாட சுத்தமான மற்றும் பாதுகாப்பான இடம் வேண்டும், இந்த குப்பை அல்ல!",
-          "issuetime": "பிப்ரவரி 21, 10:32 இரவு",
+          "issuetime": "ஜூன் 8, இரவு 10:32",
           "issue2": "படையை நியமிக்க காத்திருக்கிறது",
           "issuehours": "சாதாரணமாக 4 மணிநேரம் ஆகும்"
         }
@@ -41641,7 +41654,7 @@
           "tag": "చెత్త",
           "name": "గ్యారీ థామస్",
           "description": "నా ఇంటి దగ్గర ఉన్న పార్క్ చెత్తకుప్పల స్థానంగా మారిపోయింది. బెంచ్‌లపై గ్రాఫిటి, పొదలలో ఖాళీ బీర్ కాన్లు మరియు చెట్లలో పట్టుకున్న ప్లాస్టిక్ బ్యాగులు. మా పిల్లలకు ఆడటానికి శుభ్రమైన మరియు సురక్షితమైన ప్రదేశం కావాలి, ఈ చెత్త కాదు!",
-          "issuetime": "ఫిబ్రవరి 21, 10:32 రాత్రి",
+          "issuetime": "జూన్ 8, రాత్రి 10:32",
           "issue2": "సిబ్బందిని కేటాయించడానికి వేచి ఉంది",
           "issuehours": "సాధారణంగా 4 గంటల వరకు పడుతుంది"
         }
@@ -41654,7 +41667,7 @@
           "tag": "Noise-Residential",
           "name": "Gary Thomas",
           "description": "Loud music, constant construction sounds, and disruptive gatherings are robbing us of the peaceful atmosphere we once enjoyed. Our homes should be a haven of quietude, not a constant battleground of noise. It's time to address this issue and reclaim the serenity of our community.",
-          "issuetime": "Feb 21, 10:32 pm",
+          "issuetime": "June 8, 10:32 pm",
           "issue2": "Crew assigned",
           "issuehours": "Usually takes up to 4 hours"
         }
@@ -41665,7 +41678,7 @@
           "tag": "शोर-आवासीय",
           "name": "गैरी थॉमस",
           "description": "जोर से संगीत, लगातार निर्माण की आवाजें, और विघटनकारी सभाएँ हमारे शांतिपूर्ण वातावरण को लूट रही हैं। हमारे घर एक शांति की जगह होनी चाहिए, न कि लगातार शोरगुल का मैदान। इस मुद्दे को संबोधित करने और हमारे समुदाय की शांति को पुनः प्राप्त करने का समय आ गया है।",
-          "issuetime": "फरवरी 21, 10:32 बजे",
+          "issuetime": "8 जून, रात 10:32 बजे",
           "issue2": "दल सौंपा गया",
           "issuehours": "आमतौर पर 4 घंटे तक का समय लगता है"
         }
@@ -41676,7 +41689,7 @@
           "tag": "ಶಬ್ದ-ವಾಸಸ್ಥಳ",
           "name": "ಗ್ಯಾರಿ ಥಾಮಸ್",
           "description": "ಜೋರಾಗಿ ಸಂಗೀತ, ನಿರಂತರ ನಿರ್ಮಾಣ ಧ್ವನಿಗಳು, ಮತ್ತು ಖಂಡಿತ ಗೂಡಾಟಗಳು ನಾವು ಅನುಭವಿಸುತ್ತಿದ್ದ ಶಾಂತ ಪರಿಸರವನ್ನು ಕಸಿದುಕೊಳ್ಳುತ್ತಿವೆ. ನಮ್ಮ ಮನೆಗಳು ಶಾಂತಿಯ ಆಸರೆಯಾಗಿರಬೇಕು, ಶಬ್ದದ ಯುದ್ಧಭೂಮಿಯಲ್ಲ. ಈ ಸಮಸ್ಯೆಯನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ನಮ್ಮ ಸಮುದಾಯದ ಶಾಂತಿಯನ್ನು ಮರಳಿ ಪಡೆಯಲು ಸಮಯವಾಗಿದೆ.",
-          "issuetime": "ಫೆಬ್ರವರಿ 21, 10:32 ಸಂಜೆ",
+          "issuetime": "ಜೂನ್ 8, ರಾತ್ರಿ 10:32 ಗಂಟೆಗೆ",
           "issue2": "ತಂಡವನ್ನು ನಿಯೋಜಿಸಲಾಗಿದೆ",
           "issuehours": "ಸಾಮಾನ್ಯವಾಗಿ 4 ಗಂಟೆಗಳ ಕಾಲ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ"
         }
@@ -41687,7 +41700,7 @@
           "tag": "ശബ്ദം-നിവാസകേന്ദ്രം",
           "name": "ഗാരി തോമസ്",
           "description": "ഉച്ചത്തിലുള്ള സംഗീതം, നിരന്തരമായ നിർമ്മാണ ശബ്ദങ്ങൾ, പെട്ടെന്ന് കൂടുന്ന കൂട്ടങ്ങൾ എന്നിവ നമ്മളിൽ അനുഭവിച്ചിരുന്ന ശാന്തമായ അന്തരീക്ഷം നശിപ്പിക്കുന്നു. നമ്മുടെ വീടുകൾ ഒരു സമാധാനത്തിന്റെയും വിശ്രാമത്തിന്റെയും സ്ഥലം ആയിരിക്കണം, എല്ലാ സമയത്തും ശബ്ദത്തിന്റെ യുദ്ധഭൂമിയല്ല. ഈ പ്രശ്നം പരിഹരിക്കാനും നമ്മുടെ സമുദായത്തിന്റെ സമാധാനവും ശാന്തിയും വീണ്ടെടുക്കാനും സമയം എത്തി.",
-          "issuetime": "ഫെബ്രുവരി 21, 10:32 pm",
+          "issuetime": "ജൂണ്‍ 8, രാത്രി 10:32",
           "issue2": "കൂട്ട് നിയോഗിച്ചു",
           "issuehours": "സാധാരണയായി 4 മണിക്കൂർ വരെ സമയം എടുക്കുന്നു"
         }
@@ -41698,7 +41711,7 @@
           "tag": "சத்தம்-வசதி",
           "name": "கேரி தோமஸ்",
           "description": "மேலும், பரபரப்பான கட்டுமான சத்தங்கள் மற்றும் குழப்பமான கூடங்கள் ஆகியவை, நாம் அனுபவித்த அமைதியான சூழலை நம்மிடமிருந்து பறித்து வருகின்றன. எங்கள் வீடுகள் அமைதியான இடமாக இருக்க வேண்டும், நிலையான சத்தத்தின் போர் நிலமாக இல்லை. இந்த பிரச்சினையை தீர்த்து, எங்கள் சமூகத்தின் அமைதியை மீட்க வேண்டிய நேரம் வந்துவிட்டது.",
-          "issuetime": "பிப்ரவரி 21, 10:32 pm",
+          "issuetime": "ஜூன் 8, இரவு 10:32",
           "issue2": "அணி ஒதுக்கப்பட்டது",
           "issuehours": "சாதாரணமாக 4 மணிநேரம் வரை எடுக்கும்"
         }
@@ -41709,7 +41722,7 @@
           "tag": "శబ్దం-వాస",
           "name": "గ్యారి థామస్",
           "description": "పెద్ద సౌండ్, నిరంతర నిర్మాణ శబ్దాలు, మరియు అశాంతి కలిగించే సమావేశాలు మనం అనుభవించిన ప్రశాంత వాతావరణాన్ని లాక్కుంటున్నాయి. మన ఇళ్లు ప్రశాంతతకు నిలయంగా ఉండాలి, శబ్దంతో నిండిన యుద్ధభూమిగా కాదు. ఈ సమస్యను పరిష్కరించడానికి మరియు మన సమాజంలో ప్రశాంతతను తిరిగి పొందడానికి సమయం వచ్చింది.",
-          "issuetime": "ఫిబ్రవరి 21, 10:32 pm",
+          "issuetime": "జూన్ 8, రాత్రి 10:32",
           "issue2": "సిబ్బంది నియమించారు",
           "issuehours": "సాధారణంగా 4 గంటల వరకు పడుతుంది"
         }
@@ -41876,7 +41889,7 @@
         "cardIssueVarient": "Reported at",
         "issuedTime": "22:08:23",
         "location": "56 Elm Avenue, Suite 7A, Brooklyn, NY 11234",
-        "name": "Chandini",
+        "name": "Johnson Gary",
         "noPlate": "NSW 123-123",
         "ReCurringProblem": "No",
         "Description": "Silver Mercedes Benz S550 continues to park illegally ",
@@ -41921,11 +41934,11 @@
         "img": "/svgs1/illegalParkingLogo.svg",
         "title": "Illegal parking",
         "issuetype": "Reported by",
-        "reporterName": "Chandini",
+        "reporterName": "Johnson Gary",
         "description": "The park near my house has turned into a dumping ground for litterbugs. There's graffiti on benches, empty beer cans in the bushes, and plastic bags caught in the trees. Our kids deserve a clean and safe space to play, not this mess!",
-        "issueReportedTime": "Feb 21, 10:32 pm ",
-        "crewassignedTime": "Feb 21, 10:33 pm ",
-        "inprogressTime": "Feb 21, 10:33 pm "
+        "issueReportedTime": "June 9, 10:32 pm",
+        "crewassignedTime": "June 10, 10:42 pm",
+        "inprogressTime": "June 10, 10:45 pm"
       }
     ]
   },

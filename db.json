@@ -57896,34 +57896,19 @@
               "img": "/images/CalendarEvents/emma-county.png"
             },
             {
-              "date": "2024-07-27",
+              "date": "2024-07-20",
               "time": "6PM - 8PM",
-              "title": "Volunteering at Miller Meeks",
+              "title": "Emma County Meet and Greet",
               "location": "125 W Washington St.Washington, IA 52353 United States",
-              "type": "gray",
-              "img": "/images/CalendarEvents/flowers.png"
+              "type": "red",
+              "img": "/images/CalendarEvents/emma-county.png"
             },
             {
-              "date": "2024-07-28",
-              "time": "6PM - 8PM",
-              "title": "Volunteering at Miller Meeks",
-              "location": "125 W Washington St.Washington, IA 52353 United States",
-              "type": "gray",
-              "img": "/images/CalendarEvents/townhall.png"
-            },
-            {
-              "date": "2024-07-29",
+              "date": "2024-07-14",
               "time": "6PM - 8PM",
               "title": "Volunteering at Miller Meeks",
               "location": "125 W Washington St.Washington, IA 52353 United States",
               "type": "gray"
-            },
-            {
-              "date": "2024-07-30",
-              "time": "6PM - 8PM",
-              "title": "Volunteering at Miller Meeks",
-              "location": "125 W Washington St.Washington, IA 52353 United States",
-              "type": "blue"
             }
           ],
           "hi": [
@@ -57971,6 +57956,37 @@
               "title": "मिलर मीक्स में स्वयंसेवा",
               "location": "125 W वाशिंगटन स्ट्रीट, वाशिंगटन, IA 52353, संयुक्त राज्य",
               "type": "blue"
+            },
+            {
+              "date": "2024-08-11",
+              "time": "6PM - 8PM",
+              "title": "एमा काउंटी संवाद और मिलन",
+              "location": "125 W वाशिंगटन स्ट्रीट, वाशिंगटन, IA 52353, संयुक्त राज्य",
+              "type": "red",
+              "img": "/images/CalendarEvents/emma-county.png"
+            },
+            {
+              "date": "2024-08-15",
+              "time": "6PM - 8PM",
+              "title": "मिलर मीक्स में स्वयंसेवा",
+              "location": "125 W वाशिंगटन स्ट्रीट, वाशिंगटन, IA 52353, संयुक्त राज्य",
+              "type": "gray",
+              "img": "/images/CalendarEvents/flowers.png"
+            },
+            {
+              "date": "2024-08-17",
+              "time": "6PM - 8PM",
+              "title": "मिलर मीक्स में स्वयंसेवा",
+              "location": "125 W वाशिंगटन स्ट्रीट, वाशिंगटन, IA 52353, संयुक्त राज्य",
+              "type": "gray",
+              "img": "/images/CalendarEvents/townhall.png"
+            },
+            {
+              "date": "2024-08-18",
+              "time": "6PM - 8PM",
+              "title": "मिलर मीक्स में स्वयंसेवा",
+              "location": "125 W वाशिंगटन स्ट्रीट, वाशिंगटन, IA 52353, संयुक्त राज्य",
+              "type": "gray"
             }
           ],
           "ml": [
@@ -58018,6 +58034,37 @@
               "title": "മില്ലർ മീക്സിൽ സന്നദ്ധപ്രവർത്തനം",
               "location": "125 W വാഷിംഗ്ടൺ St.Washington, IA 52353 യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്",
               "type": "blue"
+            },
+            {
+              "date": "2024-08-11",
+              "time": "6PM - 8PM",
+              "title": "എമ്മ കൗണ്ടി മീറ്റും ആശംസയും",
+              "location": "125 W വാഷിംഗ്ടൺ St.Washington, IA 52353 യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്",
+              "type": "red",
+              "img": "/images/CalendarEvents/emma-county.png"
+            },
+            {
+              "date": "2024-08-15",
+              "time": "6PM - 8PM",
+              "title": "മില്ലർ മീക്സിൽ സന്നദ്ധപ്രവർത്തനം",
+              "location": "125 W വാഷിംഗ്ടൺ St.Washington, IA 52353 യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്",
+              "type": "gray",
+              "img": "/images/CalendarEvents/flowers.png"
+            },
+            {
+              "date": "2024-08-17",
+              "time": "6PM - 8PM",
+              "title": "മില്ലർ മീക്സിൽ സന്നദ്ധപ്രവർത്തനം",
+              "location": "125 W വാഷിംഗ്ടൺ St.Washington, IA 52353 യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്",
+              "type": "gray",
+              "img": "/images/CalendarEvents/townhall.png"
+            },
+            {
+              "date": "2024-08-18",
+              "time": "6PM - 8PM",
+              "title": "മില്ലർ മീക്സിൽ സന്നദ്ധപ്രവർത്തനം",
+              "location": "125 W വാഷിംഗ്ടൺ St.Washington, IA 52353 യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്",
+              "type": "gray"
             }
           ],
           "kn": [
@@ -58065,6 +58112,37 @@
               "title": "ಮಿಲ್ಲರ್ ಮೀಕ್ಸ್‌ನಲ್ಲಿ ಸೇವೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
               "location": "125 W ವಾಶಿಂಗ್ಟನ್ ರಸ್ತೆ, ವಾಶಿಂಗ್ಟನ್, IA 52353 ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
               "type": "blue"
+            },
+            {
+              "date": "2024-08-11",
+              "time": "6PM - 8PM",
+              "title": "ಎಮ್ಮಾ ಕೌಂಟಿ ಭೇಟಿ ಮತ್ತು ಸಂದರ್ಶನ",
+              "location": "125 W ವಾಶಿಂಗ್ಟನ್ ರಸ್ತೆ, ವಾಶಿಂಗ್ಟನ್, IA 52353 ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+              "type": "red",
+              "img": "/images/CalendarEvents/emma-county.png"
+            },
+            {
+              "date": "2024-08-15",
+              "time": "6PM - 8PM",
+              "title": "ಮಿಲ್ಲರ್ ಮೀಕ್ಸ್‌ನಲ್ಲಿ ಸೇವೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+              "location": "125 W ವಾಶಿಂಗ್ಟನ್ ರಸ್ತೆ, ವಾಶಿಂಗ್ಟನ್, IA 52353 ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+              "type": "gray",
+              "img": "/images/CalendarEvents/flowers.png"
+            },
+            {
+              "date": "2024-08-17",
+              "time": "6PM - 8PM",
+              "title": "ಮಿಲ್ಲರ್ ಮೀಕ್ಸ್‌ನಲ್ಲಿ ಸೇವೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+              "location": "125 W ವಾಶಿಂಗ್ಟನ್ ರಸ್ತೆ, ವಾಶಿಂಗ್ಟನ್, IA 52353 ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+              "type": "gray",
+              "img": "/images/CalendarEvents/townhall.png"
+            },
+            {
+              "date": "2024-08-18",
+              "time": "6PM - 8PM",
+              "title": "ಮಿಲ್ಲರ್ ಮೀಕ್ಸ್‌ನಲ್ಲಿ ಸೇವೆ ಮಾಡುತ್ತಿದ್ದೇವೆ",
+              "location": "125 W ವಾಶಿಂಗ್ಟನ್ ರಸ್ತೆ, ವಾಶಿಂಗ್ಟನ್, IA 52353 ಅಮೇರಿಕಾ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ",
+              "type": "gray"
             }
           ],
           "te": [
@@ -58120,6 +58198,29 @@
               "location": "125 W వాషింగ్టన్ స్ట్‌రీట్, వాషింగ్టన్, IA 52353, యునైటెడ్ స్టేట్స్",
               "type": "red",
               "img": "/images/CalendarEvents/emma-county.png"
+            },
+            {
+              "date": "2024-08-15",
+              "time": "6PM - 8PM",
+              "title": "మిల్లర్ మీక్స్‌లో స్వయంప్రేరణ",
+              "location": "125 W వాషింగ్టన్ స్ట్‌రీట్, వాషింగ్టన్, IA 52353, యునైటెడ్ స్టేట్స్",
+              "type": "gray",
+              "img": "/images/CalendarEvents/flowers.png"
+            },
+            {
+              "date": "2024-08-17",
+              "time": "6PM - 8PM",
+              "title": "మిల్లర్ మీక్స్‌లో స్వయంప్రేరణ",
+              "location": "125 W వాషింగ్టన్ స్ట్‌రీట్, వాషింగ్టన్, IA 52353, యునైటెడ్ స్టేట్స్",
+              "type": "gray",
+              "img": "/images/CalendarEvents/townhall.png"
+            },
+            {
+              "date": "2024-08-18",
+              "time": "6PM - 8PM",
+              "title": "మిల్లర్ మీక్స్‌లో స్వయంప్రేరణ",
+              "location": "125 W వాషింగ్టన్ స్ట్‌రీట్, వాషింగ్టన్, IA 52353, యునైటెడ్ స్టేట్స్",
+              "type": "gray"
             }
           ],
           "ta": [
@@ -58167,6 +58268,37 @@
               "title": "மில்லர் மீக்ஸ் செய்திகளுக்கு பங்காளர்",
               "location": "125 W வாஷிங்டன் ஸ்ட்ரீட். வாஷிங்டன், IA 52353 ஐக்கிய அமெரிக்க நாடு",
               "type": "blue"
+            },
+            {
+              "date": "2024-08-11",
+              "time": "6 மணி - 8 மணி",
+              "title": "எம்மா கவண் சந்திப்பு மற்றும் சந்தேகிப்பு",
+              "location": "125 W வாஷிங்டன் ஸ்ட்ரீட். வாஷிங்டன், IA 52353 ஐக்கிய அமெரிக்க நாடு",
+              "type": "red",
+              "img": "/images/CalendarEvents/emma-county.png"
+            },
+            {
+              "date": "2024-08-15",
+              "time": "6 மணி - 8 மணி",
+              "title": "மில்லர் மீக்ஸ் செய்திகளுக்கு பங்காளர்",
+              "location": "125 W வாஷிங்டன் ஸ்ட்ரீட். வாஷிங்டன், IA 52353 ஐக்கிய அமெரிக்க நாடு",
+              "type": "gray",
+              "img": "/images/CalendarEvents/flowers.png"
+            },
+            {
+              "date": "2024-08-17",
+              "time": "6 மணி - 8 மணி",
+              "title": "மில்லர் மீக்ஸ் செய்திகளுக்கு பங்காளர்",
+              "location": "125 W வாஷிங்டன் ஸ்ட்ரீட். வாஷிங்டன், IA 52353 ஐக்கிய அமெரிக்க நாடு",
+              "type": "gray",
+              "img": "/images/CalendarEvents/townhall.png"
+            },
+            {
+              "date": "2024-08-18",
+              "time": "6 மணி - 8 மணி",
+              "title": "மில்லர் மீக்ஸ் செய்திகளுக்கு பங்காளர்",
+              "location": "125 W வாஷிங்டன் ஸ்ட்ரீட். வாஷிங்டன், IA 52353 ஐக்கிய அமெரிக்க நாடு",
+              "type": "gray"
             }
           ]
         }

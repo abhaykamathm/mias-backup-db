@@ -56447,6 +56447,26 @@
               "img": "/images/Discussion/populartopic4.jpg",
               "title": "Inflation",
               "topic": "inflation"
+            },
+            {
+              "img": "/images/Discussion/populartopic5.jpg",
+              "title": "Education",
+              "topic": "education"
+            },
+            {
+              "img": "/images/Discussion/populartopic6.png",
+              "title": "Gun Regulation",
+              "topic": "gunregulation"
+            },
+            {
+              "img": "/images/Discussion/populartopic7.png",
+              "title": "Immigration",
+              "topic": "immigration"
+            },
+            {
+              "img": "/images/Discussion/populartopic8.png",
+              "title": "Abortion",
+              "topic": "abortion"
             }
           ],
           "hi": [
@@ -56469,7 +56489,28 @@
               "img": "/images/Discussion/populartopic4.jpg",
               "title": "मुद्रास्फीति",
               "topic": "inflation"
+            },
+            {
+              "img": "/images/Discussion/populartopic5.jpg",
+              "title": "शिक्षा",
+              "topic": "education"
+            },
+            {
+              "img": "/images/Discussion/populartopic6.png",
+              "title": "बंदूक विनियमन",
+              "topic": "gunregulation"
+            },
+            {
+              "img": "/images/Discussion/populartopic7.png",
+              "title": "आव्रजन",
+              "topic": "immigration"
+            },
+            {
+              "img": "/images/Discussion/populartopic8.png",
+              "title": "गर्भपात",
+              "topic": "abortion"
             }
+            
           ],
           "ml": [
             {
@@ -56491,7 +56532,27 @@
               "img": "/images/Discussion/populartopic4.jpg",
               "title": "ദ്രവ്യഫlation ഷീതി",
               "topic": "inflation"
-            }
+            },
+            {
+              "img": "/images/Discussion/populartopic5.jpg",
+              "title": "വിദ്യാഭ്യാസം",
+              "topic": "education"
+            },
+            {
+              "img": "/images/Discussion/populartopic6.png",
+              "title": "ഗൺ നിയമനം",
+              "topic": "gunregulation"
+            },
+            {
+              "img": "/images/Discussion/populartopic7.png",
+              "title": "ഇമിഗ്രേഷൻ",
+              "topic": "immigration"
+            },
+            {
+              "img": "/images/Discussion/populartopic8.png",
+              "title": "ഗർഭച്ഛിദ്രം",
+              "topic": "abortion"
+            }            
           ],
           "ta": [
             {
@@ -56513,7 +56574,27 @@
               "img": "/images/Discussion/populartopic4.jpg",
               "title": "விலைநேரம்",
               "topic": "inflation"
-            }
+            },
+            {
+              "img": "/images/Discussion/populartopic5.jpg",
+              "title": "கல்வி",
+              "topic": "education"
+            },
+            {
+              "img": "/images/Discussion/populartopic6.png",
+              "title": "துப்பாக்கி ஒழுங்குமுறை",
+              "topic": "gunregulation"
+            },
+            {
+              "img": "/images/Discussion/populartopic7.png",
+              "title": "வலிமுறை",
+              "topic": "immigration"
+            },
+            {
+              "img": "/images/Discussion/populartopic8.png",
+              "title": "கருக்கலைப்பு",
+              "topic": "abortion"
+            }            
           ],
           "kn": [
             {
@@ -56535,7 +56616,27 @@
               "img": "/images/Discussion/populartopic4.jpg",
               "title": "ದುಬಾರಿ",
               "topic": "inflation"
-            }
+            },
+            {
+              "img": "/images/Discussion/populartopic5.jpg",
+              "title": "ಶಿಕ್ಷಣ",
+              "topic": "education"
+            },
+            {
+              "img": "/images/Discussion/populartopic6.png",
+              "title": "ಗನ್ ನಿಯಂತ್ರಣ",
+              "topic": "gunregulation"
+            },
+            {
+              "img": "/images/Discussion/populartopic7.png",
+              "title": "ವಲಸೆ",
+              "topic": "immigration"
+            },
+            {
+              "img": "/images/Discussion/populartopic8.png",
+              "title": "ಗರ್ಭಪಾತ",
+              "topic": "abortion"
+            }            
           ],
           "te": [
             {
@@ -56557,7 +56658,27 @@
               "img": "/images/Discussion/populartopic4.jpg",
               "title": "ద్రవ్యోల్బణం",
               "topic": "inflation"
-            }
+            },
+            {
+              "img": "/images/Discussion/populartopic5.jpg",
+              "title": "విద్య",
+              "topic": "education"
+            },
+            {
+              "img": "/images/Discussion/populartopic6.png",
+              "title": "తుపాకీ నియంత్రణ",
+              "topic": "gunregulation"
+            },
+            {
+              "img": "/images/Discussion/populartopic7.png",
+              "title": "వలస",
+              "topic": "immigration"
+            },
+            {
+              "img": "/images/Discussion/populartopic8.png",
+              "title": "గర్భస్రావం",
+              "topic": "abortion"
+            }            
           ]
         },
         "topics": {
